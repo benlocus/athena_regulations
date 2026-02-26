@@ -1,11 +1,20 @@
 <script lang="ts">
-	import favicon from '$lib/assets/favicon.svg';
+	import '../app.css';
+	import AppHeader from '$lib/components/layout/AppHeader.svelte';
+	import AppFooter from '$lib/components/layout/AppFooter.svelte';
 
 	let { children } = $props();
 </script>
 
 <svelte:head>
-	<link rel="icon" href={favicon} />
+	<title>MA Regulations Browser</title>
+	<meta name="description" content="Browse Massachusetts Code of Regulations" />
 </svelte:head>
 
-{@render children()}
+<div class="flex min-h-screen flex-col">
+	<AppHeader />
+	<main class="flex-1">
+		{@render children()}
+	</main>
+	<AppFooter />
+</div>

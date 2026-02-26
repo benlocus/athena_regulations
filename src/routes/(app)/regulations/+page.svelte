@@ -1,23 +1,23 @@
 <script lang="ts">
+	import Breadcrumbs from '$lib/components/layout/Breadcrumbs.svelte';
+
 	let { data } = $props();
 </script>
 
 <svelte:head>
-	<title>Massachusetts Regulations Browser</title>
+	<title>All Regulations - MA Regulations Browser</title>
 </svelte:head>
 
-<div class="mx-auto max-w-5xl px-4 py-12 sm:px-6 lg:px-8">
-	<!-- Hero section -->
-	<div class="mb-12 text-center">
-		<h1 class="font-serif text-4xl font-bold text-primary lg:text-5xl">
-			Massachusetts Code of Regulations
-		</h1>
-		<p class="mx-auto mt-4 max-w-2xl text-lg text-text-muted">
-			Browse and search the official administrative regulations of the Commonwealth of Massachusetts.
-		</p>
-	</div>
+<div class="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
+	<Breadcrumbs
+		items={[
+			{ label: 'Home', href: '/' },
+			{ label: 'Regulations' }
+		]}
+	/>
 
-	<!-- Title listing -->
+	<h1 class="mb-6 font-serif text-3xl font-bold text-primary">All Regulations</h1>
+
 	<div class="space-y-4">
 		{#each data.titles as title}
 			<a
@@ -46,11 +46,5 @@
 				</div>
 			</a>
 		{/each}
-
-		{#if data.titles.length === 0}
-			<div class="rounded-lg border border-border bg-surface py-16 text-center">
-				<p class="text-text-muted">No regulations available yet.</p>
-			</div>
-		{/if}
 	</div>
 </div>
