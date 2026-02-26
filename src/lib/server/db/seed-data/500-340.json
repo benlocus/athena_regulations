@@ -1,0 +1,100 @@
+{
+  "sectionNumber": "500.340",
+  "heading": "Quarantine Order",
+  "slug": "500-340",
+  "contentTree": [
+    {
+      "id": "500.340",
+      "type": "section",
+      "number": null,
+      "heading": "Quarantine Order",
+      "content": "",
+      "children": [
+        {
+          "id": "500.340(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Pursuant to its authority under {{extref:M.G.L. c. 94G, § 4(a)}}(xix) and (a½)(xxxi), a Quarantine\nOrder may be imposed by the Commission or a Commission Delegee to immediately quarantine\nor otherwise restrict the sale or use of Marijuana or Marijuana Products by a Licensee or\nRegistrant to protect the public health, safety or welfare.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.340(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "If, based on complaint(s), inspection(s), affidavit",
+          "children": [
+            {
+              "id": "500.340(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "If, based on complaint(s), inspection(s), affidavit(s) or other credible evidence, the\nCommission or a Commission Delegee determines that a Licensee or Registrant, or the\nMarijuana or Marijuana Products cultivated, produced or sold by a Licensee or Registrant pose\nan immediate or serious threat to the public health, safety or welfare, the Commission or a\nCommission Delegee may issue an order to the Licensee that:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.340(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "quarantines or otherwise restricts the sale or use of Marijuana or Marijuana Products\nprepared by or in the possession of the Licensee; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.340(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "quarantines or otherwise restricts the sales or use of Marijuana or Marijuana Products\nto the extent necessary to avert a threat, pending final investigation results.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.340(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "On receipt of the order, the Licensee and its associated agents will immediately comply with\nthe requirements of the order and, if requested by the Commission, post notice at public\nentrances to the establishment or other notice in a form and manner determined by the\nCommission or a Commission Delegee.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.340(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "The Commission or a Commission Delegee may modify, amend or rescind the order at any\ntime after its issuance on condition(s) to all the parties.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.340(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "To the extent that the issuance of a Quarantine Order is to investigate a substantial risk to\npublic safety, health and welfare, a Licensee may not have a right to a hearing, unless and until\nthe order remains in effect beyond 21 calendar days without any further action by the\nCommission or a Commission Delegee.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.340(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "The failure to cooperate with provisions of {{ref:500.340}} may result in administrative\nor disciplinary action against the Licensees or Registrants.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 40
+}

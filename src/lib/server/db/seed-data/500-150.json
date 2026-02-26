@@ -1,0 +1,183 @@
+{
+  "sectionNumber": "500.150",
+  "heading": "Edibles",
+  "slug": "500-150",
+  "contentTree": [
+    {
+      "id": "500.150",
+      "type": "section",
+      "number": null,
+      "heading": "Edibles",
+      "content": "",
+      "children": [
+        {
+          "id": "500.150(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Production of Edibles. Edibles shall be produced in compliance with the following:",
+          "children": [
+            {
+              "id": "500.150(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Production of Edibles. Edibles shall be produced in compliance with the following:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Any Edible that is made to resemble a typical food or drink product shall be packaged\nand labeled as required by {{extref:M.G.L. c. 94G, § 4}}(a½)(xxiv) and (xxvi), and {{ref:500.105(5)}} and (6).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Manufacture or sale of Edibles in the following shapes and types is prohibited:\n1. The distinct shape of a human, animal, fruit, or sporting-equipment item; or\n2. A shape that bears the likeness or contains characteristics of a realistic or fictional\nhuman, animal, fruit, or sporting-equipment item including artistic, caricature, or cartoon\nrenderings.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Edibles that are geometric shapes and simply fruit flavored are not considered fruit and\nare permissible.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.150(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Sanitary Requirements. All Edibles shall be prepared, handled, and stored in compliance\nwith the requirements in {{ref:500.105(3)}} and {{ref:500.105(11)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.150(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Additional Labeling and Packaging Requirements for Edibles.",
+          "children": [
+            {
+              "id": "500.150(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Additional Labeling and Packaging Requirements for Edibles.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "In addition to the requirements set forth in {{extref:M.G.L. c. 94G, § 4}}(a½)(xxiv) and (xxvi), and\n{{ref:500.105(5)}} and (6), every Marijuana Retailer shall ensure that the following\ninformation or statement is Affixed to every container holding an Edible:\n1. If the retail Edible is perishable or time and temperature controlled, a statement that\nthe Edible shall be refrigerated.\n2. The date on which the Edible was produced.\n3. A nutritional fact panel that shall be based on the number of THC servings within the\ncontainer.\n4. Information regarding the size of each serving for the product by milligrams, the total\nnumber of servings of Marijuana in the product, and the total amount of active THC in\nthe product by milligrams (mg). For example: \"The serving size of active THC in this\nproduct is X mg, this product contains Y servings of Marijuana, and the total amount of\nactive THC in this product is (X*Y) mg.\"\n5. A warning that the impairment effects of Edibles may be delayed by two hours or\nmore.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Once a label with a use-by date has been Affixed to a container holding an Edible, a\nLicensee may not alter that date or affix a new label with a later use-by date.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Each serving of an Edible within a multi-serving package of Edibles shall be easily\nseparable in order to allow an average person 21 years of age or older to physically separate,\nwith minimal effort, individual servings of the product.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(3)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Each single serving of an Edible contained in a multi-serving package of Edibles shall\nbe marked, stamped, or otherwise imprinted with the symbol or easily recognizable mark\nissued by the Commission that indicates the package contains Marijuana consistent with\n{{ref:500.105(5)(b)}}15. Alternatively, a Licensee may ensure that each single serving\nof an Edible is individually wrapped and shall mark, stamp, or otherwise imprint each\nindividual wrapper with the symbol or easily recognizable mark issued by the Commission\nthat indicates the serving contains Marijuana consistent with {{ref:500.105(5)(b)}}15.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(3)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Each single serving of an Edible contained in a packaged unit of multiple Edible may\nbe marked, stamped, or otherwise imprinted with a symbol or easily recognizable mark\nissued by the Commission that indicates the package contains Marijuana.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.150(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Dosing Limitations. A Marijuana Product Manufacturer may not prepare, and a Marijuana\nRetailer, Social Consumption Establishment, or Delivery Operator may not deliver, sell, serve\nor otherwise distribute an Edible with potency levels exceeding the following limits, which\nincludes the 10% variance allowed by {{ref:500.160(12)}}, exceeding the following, as tested\nby an independent Marijuana testing facility licensed in accordance with {{extref:M.G.L. c. 94G, § 15}}:",
+          "children": [
+            {
+              "id": "500.150(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Dosing Limitations. A Marijuana Product Manufacturer may not prepare, and a Marijuana\nRetailer, Social Consumption Establishment, or Delivery Operator may not deliver, sell, serve\nor otherwise distribute an Edible with potency levels exceeding the following limits, which\nincludes the 10% variance allowed by {{ref:500.160(12)}}, exceeding the following, as tested\nby an independent Marijuana testing facility licensed in accordance with {{extref:M.G.L. c. 94G, § 15}}:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "For a single serving of an Edible, 5.5 milligrams (5.50 mg) of active\ntetrahydrocannabinol (THC);",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "In a single package of multiple Edible to be eaten, swallowed, or otherwise ingested, not\nmore than 20 servings or 110 milligrams (110.00mg) of active THC; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.150(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The THC content shall be homogenous, or evenly distributed throughout the Edible. A\nRetail Marijuana Product shall be considered to not be homogenous if 10% of the infused\nportion of the Marijuana Product contains more than 20% of the total THC contained within\nentire Marijuana Product.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 25
+}

@@ -1,0 +1,91 @@
+{
+  "sectionNumber": "500.200",
+  "heading": "Counties of Dukes County and Nantucket",
+  "slug": "500-200",
+  "contentTree": [
+    {
+      "id": "500.200",
+      "type": "section",
+      "number": null,
+      "heading": "Counties of Dukes County and Nantucket",
+      "content": "",
+      "children": [
+        {
+          "id": "500.200(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "To the extent permitted by law, Marijuana Establishments operating from locations in the\nCounties of Dukes County and Nantucket (the \"island counties\") may operate in full compliance\nwith {{ref:500.000}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.200(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "If Marijuana Establishments operating from locations in the island counties are prevented\nfrom operating in full compliance with 935 CMR 500.00 by operation of law, they are not\nrequired to utilize Independent Testing Laboratories until such time as a laboratory is located on\nthe island where the Marijuana Establishment is located or the establishment can transport\nMarijuana Products to the mainland of Massachusetts.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.200(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "If Marijuana Establishments operating from locations in the island counties are prevented\nfrom utilizing Independent Testing Laboratories by operation of law, they are required to test\nMarijuana Products in a manner that is not Unreasonably Impracticable, but also adequately\nprotects the public health in the opinion of the Commission. Such testing may include:",
+          "children": [
+            {
+              "id": "500.200(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "If Marijuana Establishments operating from locations in the island counties are prevented\nfrom utilizing Independent Testing Laboratories by operation of law, they are required to test\nMarijuana Products in a manner that is not Unreasonably Impracticable, but also adequately\nprotects the public health in the opinion of the Commission. Such testing may include:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.200(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "a modified on-Premises testing system approved by the Commission if the label on any\nMarijuana or Marijuana Product so tested discloses in capital letters: \"WARNING:\nLIMITED TESTING FOR CONTAMINANTS AND PESTICIDES.\";",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.200(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "a testing facility in the island counties that does not meet the criteria for an Independent\nTesting Laboratory, but is approved by the Commission for testing by Marijuana\nEstablishments located in the island counties; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.200(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "such other testing system approved by the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.200(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "A Delivery Licensee or a Marijuana Establishment with a Delivery Endorsement operating\nin a location in the island counties may only perform deliveries to Residences located in the same\ncounty as the Marijuana Establishment which the delivery order originates from until such time\nas it permitted to deliver to other locations by law.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 30
+}

@@ -1,0 +1,17 @@
+{
+  "sectionNumber": "500.900",
+  "heading": "Severability",
+  "slug": "500-900",
+  "contentTree": [
+    {
+      "id": "500.900",
+      "type": "section",
+      "number": null,
+      "heading": "Severability",
+      "content": "The provisions of {{ref:500.000}} are severable. If a court of competent jurisdiction\ndeclares any section, subsection, paragraph, or provision unconstitutional or invalid, the validity\nof the remaining provisions shall not be affected.\n\nREGULATORY AUTHORITY\n{{ref:500.000}}: {{extref:M.G.L. c. 10, § 76}}, {{extref:M.G.L. c. 94G}}, {{extref:M.G.L. c. 94I}}, St. 2012, c. 369, St.\n2016, c. 334, St. 2017, c. 55, and St. 2022, c. 180.",
+      "children": [],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 57
+}

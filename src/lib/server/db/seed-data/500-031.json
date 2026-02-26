@@ -1,0 +1,109 @@
+{
+  "sectionNumber": "500.031",
+  "heading": "Denial of a Marijuana Establishment Agent Registration Card",
+  "slug": "500-031",
+  "contentTree": [
+    {
+      "id": "500.031",
+      "type": "section",
+      "number": null,
+      "heading": "Denial of a Marijuana Establishment Agent Registration Card",
+      "content": "",
+      "children": [
+        {
+          "id": "500.031_preamble",
+          "type": "text",
+          "number": null,
+          "heading": null,
+          "content": "Each of the following, in and of itself, constitutes full and adequate grounds for denial of an\nagent Registration Card for a Marijuana Establishment Agent, including Laboratory Agents:",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.031(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Failure to provide the information required in {{ref:500.029}} or {{ref:500.030}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.031(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Provision of information on the application that is deceptive, misleading, false or fraudulent,\nor that tends to deceive or create a misleading impression, whether directly, or by omission or\nambiguity, including lack of disclosure or insufficient disclosure;",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.031(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Failure to meet the requirements set forth in {{ref:500.029}} or {{ref:500.030}};",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.031(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Revocation or suspension of an agent Registration Card in the previous six months;",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.031(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Failure by the Marijuana Establishment to pay all applicable fees; or",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.031(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "Other grounds, as the Commission may determine in the exercise of its discretion, that are\ndirectly related to the applicant's ability to serve as a Marijuana Establishment Agent, or that\nmake the applicant unsuitable for registration; however, the Commission will provide notice to\nthe applicant of the grounds prior to the denial of the agent Registration Card and a reasonable\nopportunity to correct these grounds.",
+          "children": [
+            {
+              "id": "500.031(6)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Other grounds, as the Commission may determine in the exercise of its discretion, that are\ndirectly related to the applicant's ability to serve as a Marijuana Establishment Agent, or that\nmake the applicant unsuitable for registration; however, the Commission will provide notice to\nthe applicant of the grounds prior to the denial of the agent Registration Card and a reasonable\nopportunity to correct these grounds.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.031(6)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Commission may delegate Registrants' suitability determinations to the Executive\nDirector, who may appoint a Suitability Review Committee, in accordance with {{ref:500.800}}. Suitability determinations shall be based on credible and reliable information.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.031(6)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Executive Director may institute a suitability review based on a recommendation\nfrom Enforcement staff that background check information would result in or could support\nan adverse suitability determination. All suitability determinations will be made in\naccordance with the procedures set forth in {{ref:500.800}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 6
+}

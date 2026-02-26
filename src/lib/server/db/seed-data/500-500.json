@@ -1,0 +1,467 @@
+{
+  "sectionNumber": "500.500",
+  "heading": "Hearings and Appeals of Actions on Licenses",
+  "slug": "500-500",
+  "contentTree": [
+    {
+      "id": "500.500",
+      "type": "section",
+      "number": null,
+      "heading": "Hearings and Appeals of Actions on Licenses",
+      "content": "",
+      "children": [
+        {
+          "id": "500.500(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "The Commission has the authority to administer the administrative hearing process under\n{{extref:M.G.L. c. 94G, § 4(a)}}(xxiv) and (g).",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.500(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "A Licensee or Host Community shall be afforded a hearing on any adverse action taken\npursuant to:",
+          "children": [
+            {
+              "id": "500.500(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "A Licensee or Host Community shall be afforded a hearing on any adverse action taken\npursuant to:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "{{ref:500.360}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "{{ref:500.370}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "{{ref:500.450}}; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Any other notice of the Commission that specifies that the Licensee, Registrant, or Host\nCommunity has a right to challenge the findings of fact and conclusions of law set forth in\nthe Commission's notice using the process set forth in {{ref:500.500}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.500(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Notice(s).",
+          "children": [
+            {
+              "id": "500.500(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Notice(s).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Notice of Violation(s) includes a notice issued in accordance with {{ref:500.360}}\nand {{ref:500.370}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Notice of Other Action(s). The Commission or a Commission Delegee shall send\nwritten notice of the action including, but not limited to, a denial of a renewal License, taken\nagainst a Licensee, Registrant, or Host Community and the basis(es) for that action which\nshall include, but not be limited to, the following information:\n1. The Commission's statutory and regulatory authority, including its jurisdiction over\nthe subject matter and its authority to take action with regards to the License, registration,\nor HCA;\n2. The factual basis(es) for that action;\n3. The alleged violation(s) of law, including its jurisdiction over the subject matter and\nits authority to issue the order with regards to the License or registration;\n4. The current restriction(s) on the Licensee's operations or the sale or use of Marijuana\nor Marijuana Products, if any;\n5. The potential for further disciplinary action(s), sanction(s) or fine(s); and\n6. The Licensee, Registrant, or Host Community's right to a hearing, if any.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The Commission or a Commission Delegee may modify, amend or rescind a notice\nissued under {{ref:500.500(3)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.500(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Hearing Request. The hearing request shall be submitted in a form and a manner\ndetermined by the Commission or a Commission Delegee including, but not limited to, the\nrequest shall be made no later than 30 days after the effective date of the notice. A request for\na hearing is filed on the date the request is received by the Commission.",
+          "children": [
+            {
+              "id": "500.500(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Hearing Request. The hearing request shall be submitted in a form and a manner\ndetermined by the Commission or a Commission Delegee including, but not limited to, the\nrequest shall be made no later than 30 days after the effective date of the notice. A request for\na hearing is filed on the date the request is received by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A timely request for a hearing shall specifically identify each issue and fact in dispute\nand state the position of the Licensee, Registrant, or Host Community, the pertinent facts to\nbe adduced at the hearing, and the reasons supporting that position.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The failure to timely file a request for a hearing or to state the basis of the hearing\nrequest will result in dismissal of the challenge to the findings set forth in the notice of\nviolation(s) or action(s).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "If a timely request for an hearing is made, the Licensee, Registrant, or Host Community\nmay also seek to stay any action until there has been a final agency action pursuant to\n{{ref:500.500(7)}} or (12); provided, however, that if the Commission issues an order or\nnotice on the basis of information that ongoing operations pose an immediate or serious\nthreat to the public health, safety or welfare, and that operations without restrictions during\nthe pendency of the administrative appeal could reasonably be expected to endanger the\nhealth, safety or welfare of the public, there will be no stay.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(4)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Nothing in {{ref:500.500}} shall preclude the Commission or a Commission Delegee\nfrom issuing a stay.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.500(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Hearing Officer. The Commission shall designate a Hearing Officer or delegate this\ndesignation to the Executive Director.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.500(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "Hearing Officer's Authority to Take Action in the Event of Waiver, Default or Summary\nDecision.",
+          "children": [
+            {
+              "id": "500.500(6)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Hearing Officer's Authority to Take Action in the Event of Waiver, Default or Summary\nDecision.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(6)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Waiver. If a Licensee, Registrant, or Host Community fails to request a hearing in a\ntimely manner or otherwise waives their right to a hearing, the Hearing Officer may assume\nthe truth of the allegations set forth in the notice and recommend to the Commission\ndisciplinary action(s), sanction(s) or fine(s) or an informal disposition of the matter.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(6)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Default. If a Licensee, Registrant, or Host Community defaults, the Hearing Officer or\nother Commission Delegee may assume the truth of the allegations set forth in the notice and\nrecommend to the Commission appropriate disciplinary action(s), sanction(s) or fine(s) or\nan informal disposition of the matter.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(6)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Summary Decision. If there is no genuine issue of fact to be determined by a hearing,\nthe Hearing Officer may assume the truth of the allegations set forth in the notice and\nrecommend to the Commission disciplinary action(s), sanction(s) or fine(s) or an informal\ndisposition of the matter.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(6)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "For actions without a hearing under {{ref:500.500(6)(a)}} through (c), the Hearing\nOfficer may conduct an evidentiary hearing on the appropriateness of disciplinary action(s),\nsanction(s) or fine(s).",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.500(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "Commission's Authority to Review, Approve or Reject Informal Dispositions. At any time,\nthe Commission or a Commission Delegee may, in its discretion, review, approve or reject an\ninformal disposition, but only on a showing that the alleged violations have been corrected, and\na submission of a written waiver of its right to judicial review.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.500(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "Hearing Notice. If a hearing is requested in a timely manner under {{ref:500.500(4)}}\nthe Hearing Officer shall provide notice and a hearing within a reasonable time after that request,\nor as soon as is practicable, or at a time mutually agreed by the parties.",
+          "children": [
+            {
+              "id": "500.500(8)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Hearing Notice. If a hearing is requested in a timely manner under {{ref:500.500(4)}}\nthe Hearing Officer shall provide notice and a hearing within a reasonable time after that request,\nor as soon as is practicable, or at a time mutually agreed by the parties.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(8)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The hearing notice should comply with {{extref:M.G.L. c. 30A, § 11(1)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(8)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Prior to the commencement of a proceeding, a Hearing Officer may conduct\nconference(s) and refer or require the parties to participate in settlement negotiations. If the\nparties reach a settlement, the Hearing Officer shall suspend the proceedings pending\nCommission consideration of the matter under {{ref:500.500(7)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.500(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "Conduct of the Hearing",
+          "children": [
+            {
+              "id": "500.500(9)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Conduct of the Hearing",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(9)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "To the extent that a Hearing Officer conducts a proceeding, it shall be conducted\npursuant to {{extref:M.G.L. c. 30A}} and the Standard Adjudicatory Rules of Practice and Procedure,\nwhich includes 801 CMR 1.01: Formal Rules, 801 CMR 1.02: Informal/Fair Hearing\nRules, and/or 801 CMR 1.03: Miscellaneous Provisions Applicable to All Administrative\nProceedings.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(9)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "In the case of an Order to Show Cause why a License should not be suspended or\nrevoked, the hearing shall be conducted pursuant to {{extref:M.G.L. c. 30A}}, §§ 10, 11 and 12.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(9)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "If after the commencement of the hearing, the parties reach a settlement, the Hearing\nOfficer shall suspend the proceedings pending Commission consideration of the matter under\n{{ref:500.500(7)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.500(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "Reopening of Hearings. At any time before the Commission's Final Decision is issued, on\nthe motion of any party or on their own initiative, the Commission by a majority vote or the\nHearing Officer may on good cause shown reopen the hearing for the purpose of receiving new\nevidence.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.500(11)",
+          "type": "subsection",
+          "number": "(11)",
+          "heading": null,
+          "content": "Hearing Officer's Recommended Decision.",
+          "children": [
+            {
+              "id": "500.500(11)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Hearing Officer's Recommended Decision.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(11)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Burden of Proof.\n1. For a notice of violation(s), the Commission or a Commission Delegee bears the\nburden of proving the violation(s) of law.\n2. For a notice of action(s) including, but not limited to, the denial of a renewal\nLicense, the Licensee bears the burden of proving the qualifications for licensure.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(11)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Hearing Officer will make a recommended decision to the Commission.\n1. The recommended decision may affirm, modify, or overturn the actions proposed in\nthe notice of violation(s) or action(s).\n2.\nThe recommended decision shall be in writing to the Commission for its\nconsideration which shall include, but not be limited to, a statement of reasons, including\na determination of each issue of fact or law necessary to the decision.\n3. The Hearing Officer may recommend disciplinary action(s), sanction(s) or fine(s) or\nan informal disposition of the matter and provide reasons for the recommendation,\nincluding whether the recommendation is consistent with the notice of violation(s) or\naction(s) and the Commission's prior disciplinary action(s), sanction(s) or fine(s).\n4. The Hearing Officer shall electronically mail a copy of the recommended decision\nto each party or their attorney(s) of record and on request, mail a copy of the\nrecommended decision to each party or their attorney(s) of record.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(11)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Within 21 calendar days of the issuance of the recommended decision, the parties may\nsubmit to the Commission written objections and arguments regarding the Hearing Officer's\nrecommended decision.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.500(12)",
+          "type": "subsection",
+          "number": "(12)",
+          "heading": null,
+          "content": "Commission's Final Decision.",
+          "children": [
+            {
+              "id": "500.500(12)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Commission's Final Decision.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(12)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Commission may affirm, adopt, modify, amend, or reverse the recommended\ndecision of the Hearing Officer or remand the matter for further consideration.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(12)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Commission's decision shall be considered the Final Decision, unless its authority\nto render a Final Decision is delegated.\n1. The Final Decision shall be in writing. The drafting of the decision may be delegated\nto the General Counsel so long as the Commission votes on the substance of the Final\nDecision.\n2. The Final Decision may incorporate by reference the Hearing Officer's recommended\ndecision in whole or in part. The Commission shall consider the parties' written\nobjections and arguments regarding the Hearing Officer's recommended decision under\n{{ref:500.500(11)(c)}}, but is not required to respond to these submissions.\n3. The Final Decision shall include, but not be limited to, the following:\na. A statement of reasons including determination of each issue of fact or law\nnecessary to the decision; and\nb. Any disciplinary action(s), sanction(s) or fine(s) or an informal disposition of the\nmatter.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(12)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The vote on the Final Decision shall be supported and signed by at least three\nCommissioners. As part of its vote, the Commission may delegate to the General Counsel\naction(s) needed to finalize the decision including, but not limited to, the stamping of\nCommissioners' signatures.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(12)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "The Commission's Final Decision is a final agency action reviewable under {{extref:M.G.L.\nc. 30A, § 14}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.500(12)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "The Commission or a Commission Delegee shall electronically mail a copy of the\nrecommended decision to each Licensee, Registrant, Host Community or their attorney(s)\nof record and on request, mail a copy of the recommended decision to each Licensee,\nRegistrant, Host Community or their attorney(s) of record.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.500(13)",
+          "type": "subsection",
+          "number": "(13)",
+          "heading": null,
+          "content": "Appeals. Any Person aggrieved by a Final Decision may appeal that decision to the\nSuperior Court in accordance with {{extref:M.G.L. c. 30A, § 14}}. The filing of an appeal shall not operate\nas a stay of enforcement of the Commission's decision, but the Commission may, in its\ndiscretion, stay enforcement.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 47
+}

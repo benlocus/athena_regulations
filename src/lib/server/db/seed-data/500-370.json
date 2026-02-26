@@ -1,0 +1,109 @@
+{
+  "sectionNumber": "500.370",
+  "heading": "Order to Show Cause",
+  "slug": "500-370",
+  "contentTree": [
+    {
+      "id": "500.370",
+      "type": "section",
+      "number": null,
+      "heading": "Order to Show Cause",
+      "content": "",
+      "children": [
+        {
+          "id": "500.370(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "If, after investigation, the Commission or a Commission Delegee determines that there are\ngrounds to suspend or revoke a License or registration, it may also issue an Order to Show Cause\nwhy the Licensee or registration should not be suspended or revoked.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.370(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Notice of Violations. The Commission or a Commission Delegee shall send written notice\nof the action taken against a Licensee or Registrant and the basis for that action which shall\ninclude, but not be limited to, the following information:",
+          "children": [
+            {
+              "id": "500.370(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Notice of Violations. The Commission or a Commission Delegee shall send written notice\nof the action taken against a Licensee or Registrant and the basis for that action which shall\ninclude, but not be limited to, the following information:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.370(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Commission's statutory and regulatory authority, including its jurisdiction over the\nsubject matter and its authority to issue the order with regards to the License or registration;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.370(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The factual basis(es) of the order;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.370(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The alleged violation(s) of law, including the alleged noncompliance with law,\nregulation, guideline or other applicable requirement;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.370(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "The restriction(s) on the Licensee's or Registrant's operations or the sale or use of\nMarijuana or Marijuana Products, if any;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.370(2)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "The potential for further disciplinary action(s), sanction(s) or fine(s); and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.370(2)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "The right to a hearing, if any.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.370(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "The Commission or a Commission Delegee may modify, amend or rescind an order issued\npursuant to {{ref:500.370}} on condition(s) to all the parties.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 43
+}

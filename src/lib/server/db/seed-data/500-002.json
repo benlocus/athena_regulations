@@ -1,0 +1,2457 @@
+{
+  "sectionNumber": "500.002",
+  "heading": "Definitions",
+  "slug": "500-002",
+  "contentTree": [
+    {
+      "id": "500.002",
+      "type": "section",
+      "number": null,
+      "heading": "Definitions",
+      "content": "For the purposes of 935 CMR 500.000, the following terms shall have the following meanings:",
+      "children": [
+        {
+          "id": "500.002_def_0",
+          "type": "definition",
+          "number": null,
+          "heading": "Administrative Hold",
+          "content": "Administrative Hold means a hold requiring temporary isolation of Marijuana or Marijuana\nProducts by a Licensee or Registrant pending further investigation.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_1",
+          "type": "definition",
+          "number": null,
+          "heading": "Adult-use Cannabis or Marijuana",
+          "content": "Adult-use Cannabis or Marijuana means Marijuana that is cultivated, Processed, Transferred,\ntested or sold to adults 21 years of age or older pursuant to {{extref:M.G.L. c. 94G}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_2",
+          "type": "definition",
+          "number": null,
+          "heading": "Adult-use Cannabis or Marijuana Products",
+          "content": "Adult-use Cannabis or Marijuana Products means Marijuana Products that are Processed,\nManufactured, Transferred, tested or sold to adults 21 years of age or older pursuant to {{extref:M.G.L.\nc. 94G}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_3",
+          "type": "definition",
+          "number": null,
+          "heading": "Advanced Core Curriculum",
+          "content": "Advanced Core Curriculum means the advanced training curriculum taught by a Responsible\nVendor Trainer that may be taken by Marijuana Establishment Agents after completing the Basic\nCore Curriculum under {{ref:500.105(2)(b)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_4",
+          "type": "definition",
+          "number": null,
+          "heading": "Advertising",
+          "content": "Advertising means a form of marketing communication that employs a sponsored, non-personal\nmessage to sell or promote a Marijuana Establishment's Brand Name, Marijuana Establishment\nBranded Good, service, product or idea.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_5",
+          "type": "definition",
+          "number": null,
+          "heading": "Affixed",
+          "content": "Affixed means the attachment of a label or other packaging material so that it is not easily\nremoved or lost.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_6",
+          "type": "definition",
+          "number": null,
+          "heading": "Agent Registration Card",
+          "content": "Agent Registration Card means an identification card currently and validly issued by the\nCommission to a Marijuana Establishment, MTC or Laboratory Agent. The Agent Registration\nCard allows access into Commission supported databases. The card facilitates verification of\nan individual Registrant's status including, but not limited to, identification by the Commission\nand Law Enforcement Authorities of those individuals exempt from Massachusetts criminal and\ncivil penalties under {{extref:M.G.L. c. 94G}} and 94I, and {{ref:500.000}} and 501.000: Medical Use\nof Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_7",
+          "type": "definition",
+          "number": null,
+          "heading": "Area of Disproportionate Impact",
+          "content": "Area of Disproportionate Impact means a geographic area identified by the Commission for the\npurposes identified in {{extref:M.G.L. c. 94G, § 4}}(a½)(iv), and which has had historically high rates of\narrest, conviction, and incarceration related to Marijuana crimes.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_8",
+          "type": "definition",
+          "number": null,
+          "heading": "Arming Station",
+          "content": "Arming Station means a device that allows control of a security alarm system.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_9",
+          "type": "definition",
+          "number": null,
+          "heading": "Assignment for the Benefit of Creditors",
+          "content": "Assignment for the Benefit of Creditors means a contractual agreement with a third-party by\nwhich the Licensee assigns all of its assets and liabilities to such third-party in order to satisfy\nthe Licensee's obligations to its creditors by liquidating the assets.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_10",
+          "type": "definition",
+          "number": null,
+          "heading": "Automatic Identification Technology or AIT",
+          "content": "Automatic Identification Technology or AIT means technology that enables a Consumer to\naccess information without manual data entry by scanning, tapping, or interacting with a code,\ntag, or similar marker, including but not limited to QR codes and RFID tags.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_11",
+          "type": "definition",
+          "number": null,
+          "heading": "Basic Core Curriculum",
+          "content": "Basic Core Curriculum means the foundational training curriculum required of all Marijuana\nEstablishment Agents taught by a Responsible Vendor Trainer under {{ref:500.105(2)(b)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_12",
+          "type": "definition",
+          "number": null,
+          "heading": "Beverage",
+          "content": "Beverage means a non-alcoholic Marijuana-infused Product intended for drinking, which is\nmanufactured, tested, packaged and labeled as a Marijuana Product prior to sale or service to a\nConsumer.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_13",
+          "type": "definition",
+          "number": null,
+          "heading": "Bona Fide Healthcare Provider Patient Relationship",
+          "content": "Bona Fide Healthcare Provider Patient Relationship means a relationship between a Certifying\nHealthcare Provider, acting in the usual course of their professional practice, and a Patient in\nwhich the healthcare provider has conducted a Clinical Visit, completed and documented a full\nassessment of the Patient's medical history and current medical condition, has explained the\npotential benefits and risks of Marijuana use, and has a role in the ongoing care and treatment\nof the Patient.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_14",
+          "type": "definition",
+          "number": null,
+          "heading": "Brand Name",
+          "content": "Brand Name means a brand name (alone or in conjunction with any other word), registered\ntrademark, logo, symbol, motto, selling message, recognizable pattern of colors, or any other\nidentifiable marker associated with a Marijuana Establishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_15",
+          "type": "definition",
+          "number": null,
+          "heading": "Brand Name Sponsorship",
+          "content": "Brand Name Sponsorship means the payment by a Marijuana Establishment in exchange for use\nof a Brand Name:\n(a) to sponsor an athletic, musical, artistic, or other social or cultural event; or\n(b) to identify, advertise, or promote such event, or an entrant, or participant of such an\nevent.",
+          "children": [
+            {
+              "id": "500.002_def_15_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Brand Name Sponsorship means the payment by a Marijuana Establishment in exchange for use\nof a Brand Name:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_15(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "to sponsor an athletic, musical, artistic, or other social or cultural event; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_15(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "to identify, advertise, or promote such event, or an entrant, or participant of such an\nevent.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_16",
+          "type": "definition",
+          "number": null,
+          "heading": "Cannabinoid",
+          "content": "Cannabinoid means any of several compounds produced by Marijuana plants that have medical\nand psychotropic effects.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_17",
+          "type": "definition",
+          "number": null,
+          "heading": "Cannabinoid Profile",
+          "content": "Cannabinoid Profile means the amounts, expressed as the dry-weight percentages, of\ndelta-nine-tetrahydrocannabinol, cannabidiol, tetrahydrocannabinolic acid and cannabidiolic acid\nin a Marijuana Product. Amounts of other Cannabinoids may be required by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_18",
+          "type": "definition",
+          "number": null,
+          "heading": "Cannabis",
+          "content": "Cannabis means Marijuana as defined herein.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_19",
+          "type": "definition",
+          "number": null,
+          "heading": "Canopy",
+          "content": "Canopy means an area to be calculated in square feet and measured using clearly identifiable\nboundaries of all areas(s) that will contain Flowering and/or Vegetative plants larger than eight\ninches tall and eight inches wide at any point in time, including all of the space(s) within the\nboundaries. Canopy may be noncontiguous, but each unique area included in the total Canopy\ncalculations shall be separated by an identifiable boundary which includes, but is not limited to:\ninterior walls, shelves, Greenhouse walls, hoop house walls, garden benches, hedge rows,\nfencing, garden beds, or garden plots. If Flowering and/or Vegetative plants larger than eight\ninches tall and eight inches wide are being cultivated using a shelving system, the surface area\nof each level shall be included in the total Canopy calculation.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_20",
+          "type": "definition",
+          "number": null,
+          "heading": "Card Holder",
+          "content": "Card Holder means a Registered Qualifying Patient, Personal Caregiver, Marijuana\nEstablishment Agent, Medical Marijuana Treatment Center (MTC) Agent, or Laboratory Agent\nwho holds a valid Patient or Agent Registration Card.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_21",
+          "type": "definition",
+          "number": null,
+          "heading": "Caregiver",
+          "content": "Caregiver means a Personal Caregiver or Institutional Caregiver.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_22",
+          "type": "definition",
+          "number": null,
+          "heading": "Caregiving Institution",
+          "content": "Caregiving Institution means a hospice program, long-term care facility, or hospital duly\nregistered currently and validly by the Commission, providing care to a Registered Qualifying\nPatient on the premises of the facility or through a hospice program.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_23",
+          "type": "definition",
+          "number": null,
+          "heading": "Cease and Desist Order",
+          "content": "Cease and Desist Order means an order to stop or restrict operations including, but not limited\nto, cultivation, product manufacturing, Transfer, sale, delivery, or testing, of Marijuana,\nMarijuana Products or Marijuana-infused Products (MIPs) by a Licensee or Registrant to protect\nthe public health, safety or welfare.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_24",
+          "type": "definition",
+          "number": null,
+          "heading": "Ceases to Operate",
+          "content": "Ceases to Operate means a Marijuana Establishment, Medical Marijuana Treatment Center\n(MTC) or Independent Testing Laboratory that closes and does not transact business for a period\ngreater than 60 days with no substantial action taken to reopen. The Commission may determine\nthat a Marijuana Establishment has Ceased to Operate based on its actual or apparent termination\nof operations.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_25",
+          "type": "definition",
+          "number": null,
+          "heading": "Certificate of Licensure",
+          "content": "Certificate of Licensure means the certificate issued by the Commission that confirms that an\nMTC or Independent Testing Laboratory has met all applicable requirements pursuant to {{extref:M.G.L.\nc. 94I}}, and 935 CMR 501.000, and is currently and validly licensed by the Commission. An\nMTC or Independent Testing Laboratory may be eligible for a provisional or final Certificate of\nLicensure.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_26",
+          "type": "definition",
+          "number": null,
+          "heading": "Certificate of Registration",
+          "content": "Certificate of Registration means a certificate currently and validly issued by the Commission,\nthat confirms an individual or entity has met all applicable requirements pursuant to {{extref:M.G.L. c.\n94I}}, and 935 CMR 501.000 and is registered by the Commission.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_27",
+          "type": "definition",
+          "number": null,
+          "heading": "Certifying Certified Nurse Practitioner (CNP)",
+          "content": "Certifying Certified Nurse Practitioner (CNP) means a Massachusetts licensed certified nurse\npractitioner licensed pursuant to 244 CMR 4.00: Advanced Practice Registered Nursing, who\ncertifies that in their professional opinion, the potential benefits of the medical use of Marijuana\nwould likely outweigh the health risks for a Qualifying Patient.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_28",
+          "type": "definition",
+          "number": null,
+          "heading": "Certifying Healthcare Provider",
+          "content": "Certifying Healthcare Provider means a Certifying CNP, a Certifying Physician or a Certifying\nPhysician Assistant.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_29",
+          "type": "definition",
+          "number": null,
+          "heading": "Certifying Physician",
+          "content": "Certifying Physician means a Massachusetts licensed physician (Medical Doctor or Doctor of\nOsteopathy) who certifies that in their professional opinion, the potential benefits of the medical\nuse of Marijuana would likely outweigh the health risks for a Qualifying Patient.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_30",
+          "type": "definition",
+          "number": null,
+          "heading": "Certifying Physician Assistant",
+          "content": "Certifying Physician Assistant means a Massachusetts physician assistant licensed pursuant to\n263 CMR 3.00: Licensure of Individual Physician Assistants, who certifies that in their\nprofessional opinion, the potential benefits of the medical use of Marijuana would likely\noutweigh the health risks for a Qualifying Patient.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_31",
+          "type": "definition",
+          "number": null,
+          "heading": "Clinical Visit",
+          "content": "Clinical Visit means an in-person or telehealth visit during which a Certifying Healthcare\nProvider establishes a Bona Fide Healthcare Provider Patient Relationship and conducts a full\nassessment of the Patient's medical history and current medical condition, including the\nDebilitating Medical Condition, and explains the potential benefits and risks of Marijuana use.\nA Clinical Visit for an initial Certificate of Registration shall be performed in-person or upon\nrequest of the patient, via a telehealth visit that includes a synchronous face-to-face encounter\nbetween the Certifying Healthcare Provider and patient. Synchronous telehealth happens in live,\nreal-time settings where the patient interacts with a provider, usually via phone or video.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_32",
+          "type": "definition",
+          "number": null,
+          "heading": "Clone",
+          "content": "Clone means a clipping from a Cannabis or Marijuana plant that can be rooted and grown.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_33",
+          "type": "definition",
+          "number": null,
+          "heading": "Close Associate",
+          "content": "Close Associate means a Person who holds a relevant managerial, operational or financial\ninterest in the business of an applicant or Licensee and, by virtue of that interest or power, is able\nto exercise a significant influence over the corporate governance of a Marijuana Establishment,\nan MTC or Independent Testing Laboratory licensed under {{ref:500.000}} or 935 CMR\n501.000. A Close Associate is deemed to be a Person or Entity Having Direct or Indirect\nControl. A Hospitality On-site Consumption Licensee may contract with a Non-Cannabis Entity\nto operate within the Non-Cannabis Entity's physical space and the Non-Cannabis Entity shall\nnot be considered a Close Associate by virtue of this relationship alone. A Marijuana Event\nOrganizer Licensee may contract with a Non-Cannabis Entity to operate within the\nNon-Cannabis Entity's physical space and the Non-Cannabis Entity shall not be considered a\nClose Associate by virtue of this relationship alone.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_34",
+          "type": "definition",
+          "number": null,
+          "heading": "Colocated Marijuana Operations (CMO)",
+          "content": "Colocated Marijuana Operations (CMO) means an MTC operating under a License pursuant to\n935 CMR 501.000: Medical Use of Marijuana and a Marijuana Establishment operating under\nat least one License pursuant to {{ref:500.000}} on the same Premises. Colocated Marijuana\nOperations pertain to cultivation, product manufacturing, and retail licenses, but not any other\nadult-use License.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_35",
+          "type": "definition",
+          "number": null,
+          "heading": "Commission",
+          "content": "Commission means the Massachusetts Cannabis Control Commission as established by {{extref:M.G.L.\nc. 10, § 76}}, or its representatives. The Commission has authority to implement the state\nMarijuana laws which include, but are not limited to, St. 2016, c. 334, The Regulation and\nTaxation of Marijuana Act, as amended by St. 2017, c. 55, An Act to Ensure Safe Access to\nMarijuana; M.G.L. 10, § 76, {{extref:M.G.L. c. 94G}}; {{extref:M.G.L. c. 94I}}; {{ref:500.000}} and 935 CMR\n501.000: Medical Use of Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_36",
+          "type": "definition",
+          "number": null,
+          "heading": "Commission Delegee(s)",
+          "content": "Commission Delegee(s) means other state or local officials or agencies working in cooperation\nwith the Commission by agreement, to carry out the Commission's responsibilities and to ensure\ncompliance with the adult-use and medical-use, laws, and any other applicable federal or state\nlaws.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_37",
+          "type": "definition",
+          "number": null,
+          "heading": "Community Impact Fee (CIF)",
+          "content": "Community Impact Fee (CIF) means impact fee(s) claimed by a Host Community in relation to\nthe operations of a particular Marijuana Establishment or MTC which have been certified by the\nCommission or ruled upon by a court of competent jurisdiction as being Reasonably Related to\nthe actual costs imposed on a Host Community by a Marijuana Establishment or MTC's\noperations.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_38",
+          "type": "definition",
+          "number": null,
+          "heading": "Confidential Application Materials",
+          "content": "Confidential Application Materials means any electronic or written document, communication\nor other record pertaining to an application for licensure or registration that is required to be\nconfidential or protected from disclosure by law which includes, but is not limited to, personally\nidentifiable information concerning an applicant, Registrant, or Licensee; background check\ninformation or Criminal Offender Record Information (CORI) as defined by 803 CMR 2.02:\nDefinitions, or Criminal History Record Information (CHRI) as defined by 803 CMR 7.02; and\ninformation that implicates security concerns.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_39",
+          "type": "definition",
+          "number": null,
+          "heading": "Confidential Database",
+          "content": "Confidential Database means the Commission database that holds data concerning:\n(a) Qualifying Patients issued a Registration Card for medical use of Marijuana;\n(b) Healthcare professionals registered to issue Written Certifications;\n(c) MTCs;\n(d) Quantity of medical-use Marijuana dispensed to a Card Holder; and\n(e) Any other pertinent information.",
+          "children": [
+            {
+              "id": "500.002_def_39_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Confidential Database means the Commission database that holds data concerning:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_39(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Qualifying Patients issued a Registration Card for medical use of Marijuana;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_39(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Healthcare professionals registered to issue Written Certifications;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_39(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "MTCs;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_39(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Quantity of medical-use Marijuana dispensed to a Card Holder; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_39(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Any other pertinent information.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_40",
+          "type": "definition",
+          "number": null,
+          "heading": "Confidential Information",
+          "content": "Confidential Information means information that is legally required to be kept confidential, or\nthat is protected from disclosure by a legally recognized privilege. This includes, but is not\nlimited to, {{extref:M.G.L. c. 4, § 7}}, cl. 26 and {{extref:M.G.L. c. 94I}}, §§ 2(e) and 3.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_41",
+          "type": "definition",
+          "number": null,
+          "heading": "Confidential Investigatory Materials",
+          "content": "Confidential Investigatory Materials means any electronic or written document, communication\nor other record pertaining to an investigation, which concerns:\n(a) A possible violation of a statute, regulation, rule, practice or procedure, or professional\nor industry standard, administered or enforced by the Commission;\n(b) An ongoing investigation that could alert subjects to the activities of an investigation;\n(c) Any details in witness statements, which if released create a grave risk of directly or\nindirectly identifying a private citizen who volunteers as a witness;\n(d) Investigative techniques the disclosure of which would prejudice the Commission's\nfuture investigative efforts or pose a risk to the public health, safety or welfare; or\n(e) The background of any person the disclosure of which would constitute an unwarranted\ninvasion of personal privacy.",
+          "children": [
+            {
+              "id": "500.002_def_41_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Confidential Investigatory Materials means any electronic or written document, communication\nor other record pertaining to an investigation, which concerns:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_41(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A possible violation of a statute, regulation, rule, practice or procedure, or professional\nor industry standard, administered or enforced by the Commission;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_41(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "An ongoing investigation that could alert subjects to the activities of an investigation;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_41(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Any details in witness statements, which if released create a grave risk of directly or\nindirectly identifying a private citizen who volunteers as a witness;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_41(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Investigative techniques the disclosure of which would prejudice the Commission's\nfuture investigative efforts or pose a risk to the public health, safety or welfare; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_41(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "The background of any person the disclosure of which would constitute an unwarranted\ninvasion of personal privacy.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_42",
+          "type": "definition",
+          "number": null,
+          "heading": "Confidential Records",
+          "content": "Confidential Records means any electronic or written record required to be kept confidential or\nprotected from disclosure by law, which includes, but is not limited to, Confidential Application\nMaterials, Confidential Social Equity Application Materials, Confidential Investigatory\nMaterials, and Protected Patient Records (as defined in 935 CMR 501.002: Protected Patient\nRecords).",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_43",
+          "type": "definition",
+          "number": null,
+          "heading": "Confidential Social Equity Application Materials",
+          "content": "Confidential Social Equity Application Materials means any electronic or written document,\ncommunication or other record pertaining to an application for the Social Equity Program that\nis required to be confidential or protected from disclosure by law which includes, but is not\nlimited to, CORI as defined by 803 CMR 2.02: Definitions, or CHRI as defined in 803 CMR\n7.02: Definitions.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_44",
+          "type": "definition",
+          "number": null,
+          "heading": "Consumer",
+          "content": "Consumer means a person who is 21 years of age or older.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_45",
+          "type": "definition",
+          "number": null,
+          "heading": "Consumption Area",
+          "content": "Consumption Area means a designated space approved by the Commission within a Social\nConsumption Establishment's Premises where Consumers may purchase and consume Marijuana\nor Marijuana Products. Consumption Areas may be considered an Indoor Smoking Consumption\nArea, an Indoor Non-Smoking Consumption Area, an Outdoor Smoking Consumption Area or\nan Outdoor Non-Smoking Consumption Area; provided however, that sales and service shall not\noccur in Indoor Smoking Consumption Areas or Outdoor Smoking Consumption Areas.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_46",
+          "type": "definition",
+          "number": null,
+          "heading": "Court Appointee",
+          "content": "Court Appointee shall mean a person or entity appointed by a court of competent jurisdiction to\nexercise court oversight with respect to the property, assets, management, or operations of a\nLicensee or Person or Entity Having Direct or Indirect Control over a Licensee including,\nwithout limitation, a receiver, custodian, guardian, trustee, and executor or administrator of\nestate. This could include a person or entity preapproved or recommended by the Commission\nor its delegee appointed by the court.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_47",
+          "type": "definition",
+          "number": null,
+          "heading": "Court Supervised Proceeding",
+          "content": "Court Supervised Proceeding shall mean a proceeding where a court of competent jurisdiction\nsupervises the property, assets, management, or operations of a Licensee or Person or Entity\nHaving Direct or Indirect Control over a Licensee through a Court Appointee.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_48",
+          "type": "definition",
+          "number": null,
+          "heading": "Craft Marijuana Cooperative",
+          "content": "Craft Marijuana Cooperative means a Marijuana Cultivator comprised of residents of the\nCommonwealth and organized as a limited liability company, limited liability partnership, or\ncooperative corporation under the laws of the Commonwealth. A cooperative is licensed to\ncultivate, obtain, Manufacture, Process, package, brand and Transfer Marijuana or Marijuana\nProducts to Marijuana Establishments, but not to Consumers.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_49",
+          "type": "definition",
+          "number": null,
+          "heading": "Criminal Offender Record Information (CORI)",
+          "content": "Criminal Offender Record Information (CORI) shall have the same meaning as defined by\n803 CMR 2.02: Definitions.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_50",
+          "type": "definition",
+          "number": null,
+          "heading": "Cultivation Batch",
+          "content": "Cultivation Batch means a collection of Cannabis or Marijuana plants from the same seed or\nplant stock that are cultivated and harvested together, and receive an identical Propagation and\ncultivation treatment including, but not limited to: growing media, ambient conditions, watering\nand light regimes and agricultural or hydroponic inputs. Clones that come from the same plant\nare one batch. The Licensee shall assign and record a unique, sequential alphanumeric identifier\nto each Cultivation Batch for the purposes of production tracking, product labeling and product\nrecalls.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_51",
+          "type": "definition",
+          "number": null,
+          "heading": "Debilitating",
+          "content": "Debilitating means causing weakness, cachexia, wasting syndrome, intractable pain, or nausea,\nor impairing strength or ability, and progressing to such an extent that one or more of a patient's\nmajor life activities is substantially limited.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_52",
+          "type": "definition",
+          "number": null,
+          "heading": "Debilitating Medical Condition",
+          "content": "Debilitating Medical Condition means cancer, glaucoma, positive status for human\nimmunodeficiency virus (HIV), acquired immune deficiency syndrome (AIDS), hepatitis C,\namyotrophic lateral sclerosis (ALS), Crohn's disease, Parkinson's disease, and multiple sclerosis\n(MS), when such diseases are debilitating, and other Debilitating conditions as determined in\nwriting by a Qualifying Patient's healthcare provider.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_53",
+          "type": "definition",
+          "number": null,
+          "heading": "Delivery Agreement",
+          "content": "Delivery Agreement means a contract between a licensed Marijuana Establishment and a\nDelivery Licensee or Marijuana Establishment with a Delivery Endorsement to deliver Marijuana\nor Marijuana Products from the Marijuana Establishment directly to Consumers and as\npermitted, Marijuana Couriers to Patients and Caregivers, under the provisions of a Delivery\nLicense.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_54",
+          "type": "definition",
+          "number": null,
+          "heading": "Delivery Endorsement",
+          "content": "Delivery Endorsement means authorization granted to Licensees in categories of Marijuana\nEstablishments identified by the Commission to perform deliveries directly from the\nestablishment to Consumers.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_55",
+          "type": "definition",
+          "number": null,
+          "heading": "Delivery Items",
+          "content": "Delivery Items means Finished Marijuana Products, Marijuana Accessories, and Marijuana\nEstablishment Branded Goods.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_56",
+          "type": "definition",
+          "number": null,
+          "heading": "Delivery License",
+          "content": "Delivery License means either a Marijuana Courier License or a Marijuana Delivery Operator\nLicense.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_57",
+          "type": "definition",
+          "number": null,
+          "heading": "Delivery Licensee",
+          "content": "Delivery Licensee means either a Marijuana Courier or a Marijuana Delivery Operator\nauthorized to deliver Marijuana and Marijuana Products directly to Consumers and as permitted,\nMarijuana Couriers to Patients and Caregivers.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_58",
+          "type": "definition",
+          "number": null,
+          "heading": "Department of Agricultural Resources (MDAR)",
+          "content": "Department of Agricultural Resources (MDAR) means the Massachusetts Department of\nAgricultural Resources, unless otherwise specified. MDAR has jurisdiction over Hemp and\nPesticides.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_59",
+          "type": "definition",
+          "number": null,
+          "heading": "Department of Criminal Justice Information Services (DCJIS)",
+          "content": "Department of Criminal Justice Information Services (DCJIS) means the Massachusetts\nDepartment of Criminal Justice Information Services, unless otherwise specified. DCJIS shall\nhave the same meaning as defined in 803 CMR 2.02: Definitions.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_60",
+          "type": "definition",
+          "number": null,
+          "heading": "Department of Public Health (DPH)",
+          "content": "Department of Public Health (DPH) means the Massachusetts Department of Public Health,\nunless otherwise specified. DPH is the agency that administered the Medical Use of Marijuana\nProgram prior to 2019.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_61",
+          "type": "definition",
+          "number": null,
+          "heading": "Department of Revenue (DOR)",
+          "content": "Department of Revenue (DOR) means the Massachusetts Department of Revenue, unless\notherwise specified.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_62",
+          "type": "definition",
+          "number": null,
+          "heading": "Department of Unemployment Assistance (DUA)",
+          "content": "Department of Unemployment Assistance (DUA) means the Massachusetts Department of\nUnemployment Assistance, unless otherwise specified.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_63",
+          "type": "definition",
+          "number": null,
+          "heading": "Diversion",
+          "content": "Diversion means the unauthorized or intentional removal of Marijuana or Marijuana Products\nfrom the Cannabis Control Commission's regulated market.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_64",
+          "type": "definition",
+          "number": null,
+          "heading": "Duress Alarm",
+          "content": "Duress Alarm means a silent security alarm signal generated by the entry of a designated code\ninto an Arming Station that signals an alarm user is under duress and turns off the system.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_65",
+          "type": "definition",
+          "number": null,
+          "heading": "Economic Empowerment Priority Applicant",
+          "content": "Economic Empowerment Priority Applicant means an applicant who, as an entity or through an\nindividual certified by the Commission in 2018, meets and continues to meet three or more of\nthe following six criteria, at least one of which shall be a majority-equity-ownership criterion:\n(a) Majority-equity-ownership Criteria:\n1. A majority (more than 50%) of ownership belongs to people who have lived for five\nof the preceding ten years in an Area of Disproportionate Impact, as determined by the\nCommission.\n2. A majority (more than 50%) of ownership has held one or more previous positions\nwhere the primary population served were disproportionately impacted, or where primary\nresponsibilities included economic education, resource provision or empowerment to\ndisproportionately impacted individuals or communities.\n3. A majority (more than 50%) of the ownership is made up of individuals from Black,\nAfrican American, Hispanic or Latino descent.\n(b) Additional Criteria:\n1.\nAt least 51% of current employees or subcontractors reside in Areas of\nDisproportionate Impact and by the first day of business, the ratio will meet or exceed\n75%.\n2. At least 51% of employees or subcontractors have drug-related CORI and are\notherwise legally employable in Cannabis enterprises.\n3. Other significant articulable demonstration of past experience in or business practices\nthat promote economic empowerment in Areas of Disproportionate Impact. This\napplicant has priority for the purposes of the review of its license application.",
+          "children": [
+            {
+              "id": "500.002_def_65_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Economic Empowerment Priority Applicant means an applicant who, as an entity or through an\nindividual certified by the Commission in 2018, meets and continues to meet three or more of\nthe following six criteria, at least one of which shall be a majority-equity-ownership criterion:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_65(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Majority-equity-ownership Criteria:\n1. A majority (more than 50%) of ownership belongs to people who have lived for five\nof the preceding ten years in an Area of Disproportionate Impact, as determined by the\nCommission.\n2. A majority (more than 50%) of ownership has held one or more previous positions\nwhere the primary population served were disproportionately impacted, or where primary\nresponsibilities included economic education, resource provision or empowerment to\ndisproportionately impacted individuals or communities.\n3. A majority (more than 50%) of the ownership is made up of individuals from Black,\nAfrican American, Hispanic or Latino descent.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_65(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Additional Criteria:\n1.\nAt least 51% of current employees or subcontractors reside in Areas of\nDisproportionate Impact and by the first day of business, the ratio will meet or exceed\n75%.\n2. At least 51% of employees or subcontractors have drug-related CORI and are\notherwise legally employable in Cannabis enterprises.\n3. Other significant articulable demonstration of past experience in or business practices\nthat promote economic empowerment in Areas of Disproportionate Impact. This\napplicant has priority for the purposes of the review of its license application.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_66",
+          "type": "definition",
+          "number": null,
+          "heading": "Edibles",
+          "content": "Edibles means a Marijuana Product that is to be consumed by humans by eating or drinking.\nThese products, when created or sold by a Marijuana Establishment or an MTC, shall not be\nconsidered a food or a drug as defined in {{extref:M.G.L. c. 94, § 1}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_67",
+          "type": "definition",
+          "number": null,
+          "heading": "Electronic Certification",
+          "content": "Electronic Certification means a document signed or executed electronically by a Certifying\nHealthcare Provider, stating that in the healthcare professional's professional opinion, the\npotential benefits of the medical use of Marijuana would likely outweigh the health risks for the\nQualifying Patient. Such certification shall be made only in the course of a Bona Fide Healthcare\nProvider-patient Relationship and shall specify the Qualifying Patient's Debilitating Medical\nCondition. Electronic Certifications, on submission by a Certifying Healthcare Provider to the\nCommission, shall automatically generate a temporary registration.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_68",
+          "type": "definition",
+          "number": null,
+          "heading": "Enclosed Area",
+          "content": "Enclosed Area means an indoor or outdoor area equipped with locks or other security devices,\nwhich is accessible only to Consumers, Marijuana Establishment Agents, Registered Qualifying\nPatients, or Caregivers.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_69",
+          "type": "definition",
+          "number": null,
+          "heading": "Enclosed Space",
+          "content": "Enclosed Space means an area possessing walls, ceilings, or other barriers on all sides sufficient\nto prevent the free undirected flow of air, smoke, vapor, or particulate matter, except for that\nwhich occurs when entering or exiting the space. Such barriers may be removable, but the\ndesignated area shall not be considered an Enclosed Space when barriers are removed.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_70",
+          "type": "definition",
+          "number": null,
+          "heading": "Equity Holder",
+          "content": "Equity Holder means a person or entity that holds, or may hold as a result of one or more of the\nfollowing including, without limitation, vesting, conversion, exercising an option, a right of first\nrefusal, or any agreement that would trigger an automatic transfer of or conversion to equity, any\namount of equity in a Marijuana Establishment or an MTC.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_71",
+          "type": "definition",
+          "number": null,
+          "heading": "Event Plan",
+          "content": "Event Plan means a document, or series of documents, submitted by a Marijuana Event\nOrganizer in accordance with {{ref:500.050(6)(f)}}3.g.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_72",
+          "type": "definition",
+          "number": null,
+          "heading": "Executive",
+          "content": "Executive means members of the board of directors, executive officers, executive director,\nmanager, or their equivalent, of a Marijuana Establishment, MTC, or Independent Testing\nLaboratory.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_73",
+          "type": "definition",
+          "number": null,
+          "heading": "Executive Office of Energy and Environmental Affairs (EOEEA)",
+          "content": "Executive Office of Energy and Environmental Affairs (EOEEA) means the Massachusetts\nExecutive Office of Energy and Environmental Affairs, unless otherwise specified.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_74",
+          "type": "definition",
+          "number": null,
+          "heading": "Existing Licensee Transporter",
+          "content": "Existing Licensee Transporter means an entity that is otherwise licensed by the Commission and\nalso licensed to purchase, obtain, and possess Marijuana or Marijuana Products solely for the\npurpose of transporting, temporary storage, sale and distribution on behalf of other Marijuana\nEstablishments or MTCs to other establishments, but not to Consumers.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_75",
+          "type": "definition",
+          "number": null,
+          "heading": "Expedited Applicant",
+          "content": "Expedited Applicant means an applicant for a Marijuana Microbusiness, Marijuana Craft\nCooperative, Independent Testing Laboratory, or Outdoor Marijuana Cultivator license; a Social\nEquity Participant; a minority, woman, and/or veteran-owned business; eligible for expedited\nreview prior to other General Applicants.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_76",
+          "type": "definition",
+          "number": null,
+          "heading": "Fingerprint-based Background Check Trust Fund",
+          "content": "Fingerprint-based Background Check Trust Fund means a fund established under {{extref:M.G.L. c. 29,\n§ 2}}HHHH, in which fees for fingerprint background checks are deposited.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_77",
+          "type": "definition",
+          "number": null,
+          "heading": "Finished Marijuana",
+          "content": "Finished Marijuana means Usable Marijuana, Cannabis resin or Cannabis concentrate.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_78",
+          "type": "definition",
+          "number": null,
+          "heading": "Finished Marijuana Product",
+          "content": "Finished Marijuana Product means a Marijuana Product that is completely manufactured and\nready for retail sale and shall include Finished Marijuana that has been separated into individual\npackages or containers for sale.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_79",
+          "type": "definition",
+          "number": null,
+          "heading": "Flowering",
+          "content": "Flowering means the gametophytic or reproductive state of Cannabis or Marijuana in which the\nplant produces flowers, trichomes, and Cannabinoids characteristic of Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_80",
+          "type": "definition",
+          "number": null,
+          "heading": "Food and Drug Administration (FDA)",
+          "content": "Food and Drug Administration (FDA) means the United States Food and Drug Administration.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_81",
+          "type": "definition",
+          "number": null,
+          "heading": "General Applicant",
+          "content": "General Applicant means an applicant that has not been certified as an Economic Empowerment\nPriority Applicant or an MTC Priority Applicant; and is not eligible to be an Expedited\nApplicant.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_82",
+          "type": "definition",
+          "number": null,
+          "heading": "Greenhouse",
+          "content": "Greenhouse means a structure or thermally isolated Enclosed Area of a building that maintains\na specialized sunlit environment used for and essential to the cultivation, protection or\nmaintenance of plants.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_83",
+          "type": "definition",
+          "number": null,
+          "heading": "Gross Annual Sales",
+          "content": "Gross Annual Sales means the total revenue generated by an ME or MTC under an individual\nlicense pertaining to the sale of Marijuana, Marijuana Products, Marijuana Accessories and\nMarijuana Establishment or MTC Branded Goods or the provision of services used by the\nCommission to calculate limits under {{extref:M.G.L. c. 94G, § 3(d)}}(2)(i) regarding the Community\nImpact Fee amount properly due and payable to a Host Community.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_84",
+          "type": "definition",
+          "number": null,
+          "heading": "Hardship Cultivation Registration",
+          "content": "Hardship Cultivation Registration means a registration issued to a Registered Qualifying Patient\nunder the requirements of 935 CMR 501.027: Hardship Cultivation Registration.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_85",
+          "type": "definition",
+          "number": null,
+          "heading": "Healthcare Clinician or Provider",
+          "content": "Healthcare Clinician or Provider means a Certifying Physician, Certifying Certified Nurse\nPractitioner or Certifying Physician Assistant qualified under 935 CMR 501.000: Medical Use\nof Marijuana, to issue Written Certifications for the medical use of Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_86",
+          "type": "definition",
+          "number": null,
+          "heading": "Hemp",
+          "content": "Hemp means the plant of the genus Cannabis or any part of the plant, whether growing or not,\nwith a delta-9-tetrahydrocannabinol concentration that does not exceed 0.3% on a dry weight\nbasis of any part of the plant of the genus Cannabis, or per volume or weight of Marijuana\nProduct, or the combined percent of delta-9-tetrahydrocannabinol and tetrahydrocannabinolic\nacid in any part of the plant of the genus Cannabis, regardless of moisture content. MDAR has\njurisdiction over Hemp.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_87",
+          "type": "definition",
+          "number": null,
+          "heading": "Holdup Alarm",
+          "content": "Holdup Alarm means a silent alarm signal generated by the manual activation of a device that\nsignals a robbery in progress.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_88",
+          "type": "definition",
+          "number": null,
+          "heading": "Horticultural Lighting Equipment (HLE)",
+          "content": "Horticultural Lighting Equipment (HLE) means any lighting equipment (e.g., fixtures, bulbs,\nballasts, controls, etc.) that uses energy for the cultivation of plants, at any stage of growth (e.g.,\ngermination, cloning/Mother Plants, Propagation, Vegetation, Flowering, and harvest).",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_89",
+          "type": "definition",
+          "number": null,
+          "heading": "Horticulture Lighting Square Footage (HLSF)",
+          "content": "Horticulture Lighting Square Footage (HLSF) means an area to be calculated in square feet and\nmeasured using clearly identifiable boundaries of all areas(s) that will contain plants at any point\nin time, at any stage of growth, including all of the space(s) within the boundaries. HLSF may\nbe noncontiguous, but each unique area included in the total HLSF calculations shall be\nseparated by an identifiable boundary which includes, but is not limited to: interior walls,\nshelves, Greenhouse walls, hoop house walls, garden benches, hedge rows, fencing, garden beds,\nor garden plots. If plants are being cultivated using a shelving system, the surface area of each\nlevel shall be included in the total HLSF calculation.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_90",
+          "type": "definition",
+          "number": null,
+          "heading": "Hospitality On-site Consumption",
+          "content": "Hospitality On-site Consumption means a type of license within the Social Consumption\nEstablishment license classes where an eligible applicant or licensee may establish a new\nbusiness or operate within a Non-Cannabis Entity to sell Marijuana or Marijuana Products to\nConsumers for consumption within the Social Consumption Establishment's Premises and in\ndesignated Consumption Areas.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_91",
+          "type": "definition",
+          "number": null,
+          "heading": "Host Community",
+          "content": "Host Community means a municipality in which a Marijuana Establishment or Independent\nTesting Laboratory is located or in which a License Applicant has proposed locating an\nestablishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_92",
+          "type": "definition",
+          "number": null,
+          "heading": "Host Community Agreement (HCA)",
+          "content": "Host Community Agreement (HCA) means an agreement entered into and executed between a\nHost Community and a License Applicant or between a Host Community and a Marijuana\nEstablishment or MTC pursuant to {{extref:M.G.L. c. 94G, § 3(d)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_93",
+          "type": "definition",
+          "number": null,
+          "heading": "Host Community Agreement (HCA) Waiver",
+          "content": "Host Community Agreement (HCA) Waiver means a written statement executed by a Host\nCommunity and a License Applicant, or by a Host Community and a Marijuana Establishment\nor MTC, which expresses the parties' mutual intent to waive the regulatory requirement to have\na Host Community Agreement.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_94",
+          "type": "definition",
+          "number": null,
+          "heading": "Immature Plant",
+          "content": "Immature Plant means a rooted plant in the Vegetation stage of development that is no taller than\neight inches, no wider than eight inches, and is in a growing/cultivating container.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_95",
+          "type": "definition",
+          "number": null,
+          "heading": "Immediate Family Member",
+          "content": "Immediate Family Member means a spouse, parent, child, grandparent, grandchild, or sibling,\nincluding in-laws.\nImpassible Barrier means, for the purposes of determining the 500 feet buffer zone, a highway,\npublic or private way or path, inaccessible structure, body of water, or other obstruction that\nrenders any part of the 500-foot straight-line distance between a Marijuana Establishment\nEntrance and a School Entrance inaccessible by a pedestrian or automobile.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_96",
+          "type": "definition",
+          "number": null,
+          "heading": "Independent Testing Laboratory",
+          "content": "Independent Testing Laboratory means a laboratory that is licensed or registered by the\nCommission and is:\n(a) Currently and validly licensed under {{ref:500.101}}, or formerly and validly\nregistered by the Commission;\n(b) Accredited to ISO 17025: 2017 or the International Organization for Standardization\n17025 by a third-party accrediting body that is a signatory to the International Laboratory\nAccreditation Accrediting Cooperation mutual recognition arrangement or that is otherwise\napproved by the Commission;\n(c) Independent financially from any MTC Marijuana Establishment or Licensee; and\n(d) Qualified to test Marijuana and Marijuana Products, including MIPs, in compliance with\n{{extref:M.G.L. c. 94C, § 34}}; M.G.L c. 94G, § 15; {{ref:500.000}}; 935 CMR 501.000: Medical\nUse of Marijuana; and Commission protocol(s).",
+          "children": [
+            {
+              "id": "500.002_def_96_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Independent Testing Laboratory means a laboratory that is licensed or registered by the\nCommission and is:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_96(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Currently and validly licensed under {{ref:500.101}}, or formerly and validly\nregistered by the Commission;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_96(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Accredited to ISO 17025: 2017 or the International Organization for Standardization\n17025 by a third-party accrediting body that is a signatory to the International Laboratory\nAccreditation Accrediting Cooperation mutual recognition arrangement or that is otherwise\napproved by the Commission;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_96(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Independent financially from any MTC Marijuana Establishment or Licensee; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_96(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Qualified to test Marijuana and Marijuana Products, including MIPs, in compliance with\n{{extref:M.G.L. c. 94C, § 34}}; M.G.L c. 94G, § 15; {{ref:500.000}}; 935 CMR 501.000: Medical\nUse of Marijuana; and Commission protocol(s).",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_97",
+          "type": "definition",
+          "number": null,
+          "heading": "Individual Order",
+          "content": "Individual Order means a delineated amount of Finished Marijuana Products to be delivered by\na Delivery Licensee or a Marijuana Establishment with a Delivery Endorsement to an individual\nConsumer and as permitted, a Marijuana Courier to a Patient or Caregiver, and not to exceed the\nindividual possession amount limits as determined by statute.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_98",
+          "type": "definition",
+          "number": null,
+          "heading": "Indoor Non-Smoking Consumption Area",
+          "content": "Indoor Non-Smoking Consumption Area means an Enclosed Space on the Premises of a Social\nConsumption Establishment where Consumers may consume Marijuana or Marijuana Products\nin the form of Edibles, MIPs, and Beverages; provided however, Consumers may not consume\nMarijuana or Marijuana Products through combustion, heat, vaporization, or aerosolization.\nTobacco shall not be sold or consumed in any Indoor Non-Smoking Consumption Area.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_99",
+          "type": "definition",
+          "number": null,
+          "heading": "Indoor Smoking Consumption Area",
+          "content": "Indoor Smoking Consumption Area means an Enclosed Space on the Premises of a Social\nConsumption Establishment where Consumers may consume Marijuana or Marijuana Products\nthrough combustion, heat, vaporization, or aerosolization, in addition to Edibles, MIPs, and\nBeverages. Tobacco shall not be sold or consumed in any Indoor Non-Smoking Consumption\nArea.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_100",
+          "type": "definition",
+          "number": null,
+          "heading": "Inducement",
+          "content": "Inducement means money or any other thing of substantial value intended to persuade or\ninfluence a person or entity to take an action or refrain from taking an action.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_101",
+          "type": "definition",
+          "number": null,
+          "heading": "Informed Consent",
+          "content": "Informed Consent means the consent obtained by a Research Licensee from potential participants\nin a research project that explains to potential participants the risks and potential benefits of a\nstudy, and the rights and responsibilities of the parties involved.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_102",
+          "type": "definition",
+          "number": null,
+          "heading": "Informed Consent Form",
+          "content": "Informed Consent Form means the document provided to potential participants in a research\nproject that explains to potential participants the risks and potential benefits of a study, and the\nrights and responsibilities of the parties involved.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_103",
+          "type": "definition",
+          "number": null,
+          "heading": "Institutional Caregiver",
+          "content": "Institutional Caregiver means an employee of a hospice program, long-term care facility, or\nhospital providing care to a Registered Qualifying Patient on the Premises of a long-term care\nfacility, hospital or through a hospice program.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_104",
+          "type": "definition",
+          "number": null,
+          "heading": "Institutional Review Board",
+          "content": "Institutional Review Board means a specifically constituted administrative body established or\ndesignated by a Marijuana Research Facility Licensee to review and oversee the design and\nmethods of a research project and, where human or animal subject are a component of the\nresearch, to protect the rights and welfare of persons recruited to participate in research.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_105",
+          "type": "definition",
+          "number": null,
+          "heading": "Inversion",
+          "content": "Inversion means the unauthorized insertion of Marijuana or Marijuana Products cultivated or\nproduced by an individual or entity not licensed by the Cannabis Control Commission into the\nregulated market.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_106",
+          "type": "definition",
+          "number": null,
+          "heading": "Known Allergen",
+          "content": "Known Allergen means milk, egg, fish, crustacean shellfish, tree nuts, wheat, peanuts, and\nsoybeans, or such other allergen identified by the U.S. Food and Drug Administration (FDA).",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_107",
+          "type": "definition",
+          "number": null,
+          "heading": "Laboratory Agent",
+          "content": "Laboratory Agent means an employee of an Independent Testing Laboratory registered in\naccordance with {{ref:500.029}}, who transports, possesses or tests Cannabis or Marijuana\nin compliance with {{ref:500.000}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_108",
+          "type": "definition",
+          "number": null,
+          "heading": "Law Enforcement Authorities",
+          "content": "Law Enforcement Authorities means local law enforcement including, but not limited to, the\nlocal police and fire departments within the municipality where the Licensee is sited, unless\notherwise indicated.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_109",
+          "type": "definition",
+          "number": null,
+          "heading": "License",
+          "content": "License means the certificate issued by the Commission that confirms that a Marijuana\nEstablishment or an Independent Testing Laboratory has met all applicable requirements\npursuant to St. 2016, c. 334, as amended by St. 2017, c. 55, {{extref:M.G.L. c. 94G}}, and {{ref:500.000}}. A Marijuana Establishment or Independent Testing Laboratory may hold a provisional\nor final License.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_110",
+          "type": "definition",
+          "number": null,
+          "heading": "License Applicant",
+          "content": "License Applicant means a person or entity pursuing a license to operate a Marijuana\nEstablishment or MTC who has submitted or intends to submit a license application to the\nCommission. A License Applicant may also be considered a prospective Marijuana\nEstablishment.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_111",
+          "type": "definition",
+          "number": null,
+          "heading": "Licensee",
+          "content": "Licensee means a person or entity on the application and licensed by the Commission to operate\na Marijuana Establishment or Independent Testing Laboratory under St. 2016, c. 334, as\namended by St. 2017, c. 55, {{extref:M.G.L. c. 94G}}, and {{ref:500.000}}. Any person or entity that\nsolely provides initial capital to establish or operate the establishment and to whom, in return for\nthe initial capital, requires only repayment of the loan and does not have any ownership or direct\nor indirect authority to control the Marijuana Establishment or Independent Testing Laboratory,\nwill not be a Licensee.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_112",
+          "type": "definition",
+          "number": null,
+          "heading": "Life-limiting Illness",
+          "content": "Life-limiting Illness means a Debilitating Medical Condition that does not respond to curative\ntreatments, where reasonable estimates of prognosis suggest death may occur within two years.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_113",
+          "type": "definition",
+          "number": null,
+          "heading": "Lighting Power Density (HLPD)",
+          "content": "Lighting Power Density (HLPD) means a measure of total watts of Horticultural Lighting\nEquipment per total Horticulture Lighting Square Footage, (HLE / HLSF = HLPD) expressed\nas number of watts per square foot.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_114",
+          "type": "definition",
+          "number": null,
+          "heading": "Limitation on Sales",
+          "content": "Limitation on Sales means a limitation on the sales of Marijuana or Marijuana Products by a\nMarijuana Establishment Licensee or Registrant arising from the regulations and until substantial\ncompliance by a Licensee or Registrant with a law, regulation, guidance or other requirement for\nlicensure or registration.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_115",
+          "type": "definition",
+          "number": null,
+          "heading": "Limited Access Area",
+          "content": "Limited Access Area means an indoor or outdoor area on the Premises of a Marijuana\nEstablishment where Marijuana or Marijuana Products, or their byproducts are cultivated, stored,\nweighed, packaged, Processed, or disposed, under the control of a Marijuana Establishment, with\naccess limited to only those Marijuana Establishment or Laboratory Agents designated by the\nEstablishment after receipt of a Final License.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_116",
+          "type": "definition",
+          "number": null,
+          "heading": "Local Approval Process",
+          "content": "Local Approval Process means the steps required by a Host Community in order for a License\nApplicant to operate as an ME or MTC in the Host Community, including, but not limited to,\nzoning, all associated fees, deadlines, and meeting schedules for local bodies involved in such\nprocesses.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_117",
+          "type": "definition",
+          "number": null,
+          "heading": "Local Authorities",
+          "content": "Local Authorities means local municipal authorities, unless otherwise indicated.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_118",
+          "type": "definition",
+          "number": null,
+          "heading": "Manufacture",
+          "content": "Manufacture means to compound, blend, extract, infuse or otherwise make or prepare a\nMarijuana Product.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_119",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana (or Cannabis)",
+          "content": "Marijuana (or Cannabis) means all parts of any plant of the genus Cannabis, not excepted in\n{{ref:500.002(a)}} through (c) and whether growing or not; the seeds thereof; and resin\nextracted from any part of the plant; Clones of the plant; and every compound, manufacture, salt,\nderivative, mixture or preparation of the plant, its seeds or resin, including tetrahydrocannabinol\nas defined in {{extref:M.G.L. c. 94G, § 1}}; provided that Cannabis shall not include:\n(a) The mature stalks of the plant, fiber produced from the stalks, oil, or cake made from\nthe seeds of the plant, any other compound, manufacture, salt, derivative, mixture or\npreparation of the mature stalks, fiber, oil, or cake made from the seeds of the plant or the\nsterilized seed of the plant that is incapable of germination;\n(b) Hemp; or\n(c) The weight of any other ingredient combined with Cannabis or Marijuana to prepare\ntopical or oral administrations, food, drink or other products.",
+          "children": [
+            {
+              "id": "500.002_def_119_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Marijuana (or Cannabis) means all parts of any plant of the genus Cannabis, not excepted in\n{{ref:500.002(a)}} through (c) and whether growing or not; the seeds thereof; and resin\nextracted from any part of the plant; Clones of the plant; and every compound, manufacture, salt,\nderivative, mixture or preparation of the plant, its seeds or resin, including tetrahydrocannabinol\nas defined in {{extref:M.G.L. c. 94G, § 1}}; provided that Cannabis shall not include:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_119(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The mature stalks of the plant, fiber produced from the stalks, oil, or cake made from\nthe seeds of the plant, any other compound, manufacture, salt, derivative, mixture or\npreparation of the mature stalks, fiber, oil, or cake made from the seeds of the plant or the\nsterilized seed of the plant that is incapable of germination;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_119(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Hemp; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_119(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The weight of any other ingredient combined with Cannabis or Marijuana to prepare\ntopical or oral administrations, food, drink or other products.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_120",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Accessories (or Cannabis Accessories)",
+          "content": "Marijuana Accessories (or Cannabis Accessories) means equipment, products, devices or\nmaterials of any kind that are intended or designed for use in planting, Propagating, cultivating,\ngrowing, harvesting, Manufacturing, compounding, converting, producing, Processing,\npreparing, testing, analyzing, packaging, Repackaging, storing, containing, ingesting, inhaling\nor otherwise introducing Cannabis or Marijuana into the human body.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_121",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Courier",
+          "content": "Marijuana Courier means an entity licensed to deliver Finished Marijuana Products, Marijuana\nAccessories and Branded Goods directly to Consumers from a Marijuana Retailer, or directly to\nRegistered Qualifying Patients or Caregivers from an MTC, but is not authorized to sell\nMarijuana or Marijuana Products directly to Consumers, Registered Qualifying Patients or\nCaregivers and is not authorized to Wholesale, Warehouse, Process, Repackage, or White Label.\nA Marijuana Courier is an additional license type under {{extref:M.G.L. c. 94G, § 4(b)}}(1) that allows for\nlimited delivery of Marijuana or Marijuana Products to Consumers; and shall not be considered\nto be a Marijuana Retailer under {{ref:500.002}} or {{ref:500.050}} and shall be subject to {{ref:500.050(1)(b)}}.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_122",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Cultivator",
+          "content": "Marijuana Cultivator means an entity licensed to cultivate, Process and package Marijuana, and\nto Transfer Marijuana to other Marijuana Establishments, but not to Consumers. A Craft\nMarijuana Cooperative is a type of Marijuana Cultivator.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_123",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Delivery Operator or Delivery Operator",
+          "content": "Marijuana Delivery Operator or Delivery Operator means an entity licensed to purchase at\nWholesale and Warehouse Finished Marijuana Products acquired from a Marijuana Cultivator,\nLabel, Repackage, sell and deliver Finished Marijuana Products, Marijuana Accessories and\nMarijuana Branded Goods directly to Consumers. A Delivery Operator is an additional license\ntype under {{extref:M.G.L. c. 94G, § 4(b)}}(1) that allows for limited delivery of Marijuana or Marijuana\nProducts to Consumers; and shall not be considered to be a Marijuana Retailer under {{ref:500.002}} or {{ref:500.050}} and shall be subject to {{ref:500.050(1)(b)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_124",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Establishment (ME)",
+          "content": "Marijuana Establishment (ME) means a Marijuana Cultivator (Indoor or Outdoor), Craft\nMarijuana Cooperative, Marijuana Product Manufacturer, Marijuana Microbusiness, Independent\nTesting Laboratory, Standards Laboratory, Marijuana Retailer, Marijuana Transporter, Delivery\nLicensee, Marijuana Research Facility Licensee (as defined in {{ref:500.002}}: Marijuana\nResearch Facility Licensee) Social Consumption Establishment (as defined in {{ref:500.002}}: Social Consumption Establishment) or any other type of licensed Marijuana-related\nbusiness, except a Medical Marijuana Treatment Center (MTC).",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_125",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Establishment Agent",
+          "content": "Marijuana Establishment Agent means any Owner, employee, Executive, or volunteer of a\nMarijuana Establishment, who shall be 21 years of age or older. Employee includes a consultant\nor contractor who provides on-site services to a Marijuana Establishment related to the\ncultivation, harvesting, preparation, packaging, storage, testing, or dispensing of Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_126",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Establishment Branded Good or Branded Good",
+          "content": "Marijuana Establishment Branded Good or Branded Good means a merchandise item offered for\nsale by a Marijuana Establishment, and identifiable as being of a particular Marijuana\nEstablishment, distinct from those of other entities, by having the Marijuana Establishment's\nBrand Name. A Marijuana Establishment Branded Good does not include Marijuana, Marijuana\nProducts, or Marijuana Accessories. It may include apparel, water bottles or other similar\nnon-edible merchandise.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_127",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Establishment Entrance",
+          "content": "Marijuana Establishment Entrance means the entrance or entrances that provides ingress and\negress to Consumers, Registered Qualifying Patients and Caregivers to the Marijuana\nEstablishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_128",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Event Organizer",
+          "content": "Marijuana Event Organizer means a type of license within the Social Consumption\nEstablishment license classes where an eligible applicant or Licensee may coordinate Temporary\nConsumption Events by submitting an Event Plan for approval by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_129",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana-infused Product (MIP)",
+          "content": "Marijuana-infused Product (MIP) means a Marijuana Product infused with Marijuana that is\nintended for use or consumption including, but not limited to, Edibles, ointments, aerosols, oils,\nand Tinctures. A Marijuana-infused Product (MIP), when created or sold by a Marijuana\nEstablishment or an MTC, shall not be considered a food or a drug as defined in {{extref:M.G.L. c. 94,\n§ 1}}. MIPs are a type of Marijuana Product.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_130",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Products (or Cannabis Products)",
+          "content": "Marijuana Products (or Cannabis Products) means Marijuana and its products, unless otherwise\nindicated. Marijuana Products includes products that have been Manufactured and contain\nCannabis, Marijuana, or an extract from Cannabis or Marijuana, including concentrated forms\nof Marijuana and products composed of Marijuana and other ingredients that are intended for\nuse or consumption, including Edibles, Beverages, topical products, ointments, oils and\nTinctures. Marijuana Products include Marijuana-infused Products (MIPs) defined in {{ref:500.002}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_131",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Product Manufacturer",
+          "content": "Marijuana Product Manufacturer means an entity licensed to obtain, Manufacture, Process and\npackage Marijuana or Marijuana Products and to Transfer these products to other Marijuana\nEstablishments, but not to Consumers.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_132",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Regulation Fund",
+          "content": "Marijuana Regulation Fund means the fund established under {{extref:M.G.L. c. 94G, § 14}}, in which\nfees, fines, and other monies collected by the Commission are deposited, except for fees\ncollected by the Commission on behalf of other state agencies.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_133",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Research Facility",
+          "content": "Marijuana Research Facility means the Premises at which a Marijuana Research Facility\nLicensee is approved to conduct research.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_134",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Research Facility Licensee or Research Licensee",
+          "content": "Marijuana Research Facility Licensee or Research Licensee means an academic institution,\nnonprofit corporation or domestic corporation or entity authorized to do business in the\nCommonwealth, including a licensed Marijuana Establishment or MTC, that is licensed to\nconduct research.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_135",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Retailer",
+          "content": "Marijuana Retailer means an entity licensed to purchase, Repackage, White Label, and transport\nand Transfer Marijuana or Marijuana Products to and from Marijuana Establishments and to sell\nto Consumers. Unless licensed, retailers are prohibited from offering Marijuana or Marijuana\nProducts for the purposes of on-site social consumption on the Premises of a Marijuana\nEstablishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_136",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Transporter",
+          "content": "Marijuana Transporter means an entity that is licensed to possess Marijuana Products solely for\nthe purpose of transporting, temporary storage, sale and distribution to Marijuana Establishments\nor MTCs, but not to Consumers. Marijuana Transporters may be an Existing Licensee\nTransporter or Third-party Transporter.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_137",
+          "type": "definition",
+          "number": null,
+          "heading": "Marijuana Vaporizer Device",
+          "content": "Marijuana Vaporizer Device means a product containing concentrated marijuana oil that is\nconverted into inhalable marijuana aerosolized vapors.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_138",
+          "type": "definition",
+          "number": null,
+          "heading": "Massachusetts Resident",
+          "content": "Massachusetts Resident means a person whose primary Residence is in Massachusetts.\nMedical Marijuana Treatment Center (MTC), (formerly known as a Registered Marijuana\nDispensary (RMD)), means an entity licensed under 935 CMR 501.101: Application\nRequirements that acquires, cultivates, possesses, Processes (including development of related\nproducts such as Edibles, MIPs, Tinctures, aerosols, oils, or ointments), Repackages, transports,\nsells, distributes, delivers, dispenses, or administers Marijuana, products containing Marijuana,\nrelated supplies, or educational materials to Registered Qualifying Patients or their Personal\nCaregivers for medical use. Unless otherwise specified, MTC refers to the site(s) of dispensing,\ncultivation, and preparation of Marijuana for medical use.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_139",
+          "type": "definition",
+          "number": null,
+          "heading": "Medical-use Marijuana (or Medical-use Cannabis)",
+          "content": "Medical-use Marijuana (or Medical-use Cannabis) means Marijuana that is cultivated, Processed,\nTransferred, tested or sold in compliance with {{extref:M.G.L. c. 94I}}, and 935 CMR 501.000: Medical\nUse of Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_140",
+          "type": "definition",
+          "number": null,
+          "heading": "Medical-use Marijuana or Marijuana Products",
+          "content": "Medical-use Marijuana or Marijuana Products means Marijuana Products that are Manufactured,\nTransferred, tested or sold in compliance with {{extref:M.G.L. c. 94I}}, and 935 CMR 501.000: Medical\nUse of Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_141",
+          "type": "definition",
+          "number": null,
+          "heading": "Member",
+          "content": "Member means a member of a nonprofit entity incorporated pursuant to {{extref:M.G.L. c. 180}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_142",
+          "type": "definition",
+          "number": null,
+          "heading": "Microbusiness",
+          "content": "Microbusiness means an entity that can be either a Tier 1 Marijuana Cultivator or Marijuana\nProduct Manufacturer or both, in compliance with the operating procedures for each License type\nas applicable and, if in receipt of a Delivery Endorsement issued by the Commission, may deliver\nMarijuana or Marijuana Products produced at the licensed location directly to Consumers in\ncompliance with established regulatory requirements for retail sale as it relates to delivery.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_143",
+          "type": "definition",
+          "number": null,
+          "heading": "Model Host Community Agreement",
+          "content": "Model Host Community Agreement means a template published by the Commission to illustrate\na compliant Host Community Agreement. Host Community Agreements that conform to the\nmodel Host Community Agreement are presumed compliant and must be executed by the parties.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_144",
+          "type": "definition",
+          "number": null,
+          "heading": "Mother Plant",
+          "content": "Mother Plant means a marijuana plant that is grown or maintained for the purpose of generating\nClones, and that will not be used to produce plant material for sale to another Marijuana\nEstablishment or Medical Marijuana Treatment Center.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_145",
+          "type": "definition",
+          "number": null,
+          "heading": "MTC Agent",
+          "content": "MTC Agent means any Owner, employee, Executive, or volunteer of an MTC, who shall be 21\nyears of age or older. Employee includes a consultant or contractor who provides on-site\nservices to an MTC related to the cultivation, harvesting, preparation, packaging, storage, testing,\nor dispensing of Marijuana or Marijuana Products for medical purposes.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_146",
+          "type": "definition",
+          "number": null,
+          "heading": "MTC Priority Applicant",
+          "content": "MTC Priority Applicant means a Medical Marijuana Treatment Center (MTC) (previously,\nRegistered Marijuana Dispensary (RMD)) certified by the Commission as an MTC Priority\nApplicant in 2018 upon demonstrating that it had at least a provisional Certification of\nRegistration prior to April 1, 2018. This applicant has priority for the purposes of the review of\nits license application.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_147",
+          "type": "definition",
+          "number": null,
+          "heading": "Mycotoxin",
+          "content": "Mycotoxin means a secondary metabolite of a microfungus that is capable of causing death or\nillness in humans and other animals. For purposes of {{ref:500.000}}, and 501.000: Medical\nUse of Marijuana, Mycotoxin shall include aflatoxin B1, aflatoxin B2, aflatoxin G1, aflatoxin",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_148",
+          "type": "definition",
+          "number": null,
+          "heading": "Non-Cannabis Entity",
+          "content": "Non-Cannabis Entity means an entity not licensed by the Commission who may house a\nHospitality On-site Consumption Licensee, or host a Temporary Consumption Event for a\nMarijuana Event Organizer Licensee.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_149",
+          "type": "definition",
+          "number": null,
+          "heading": "Open Bill",
+          "content": "Open Bill means an arrangement in which a Consumer maintains a single ongoing account for\nthe sale of Marijuana, Marijuana Products, Marijuana Accessories, or other items permitted by\nthe Commission while patronizing a Social Consumption Establishment, regardless of whether\npayment is tendered at the time of each Point-of-Service or upon conclusion of patronage.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_150",
+          "type": "definition",
+          "number": null,
+          "heading": "Order to Show Cause",
+          "content": "Order to Show Cause means an order issued by the Commission or Commission Delegee on a\ndetermination that there are grounds to suspend or revoke a License or registration.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_151",
+          "type": "definition",
+          "number": null,
+          "heading": "Other Jurisdiction",
+          "content": "Other Jurisdiction means the United States, another state, or foreign jurisdiction, or a military,\nterritorial or Native American tribal authority.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_152",
+          "type": "definition",
+          "number": null,
+          "heading": "Outdoor Cultivation",
+          "content": "Outdoor Cultivation means the cultivation of mature Cannabis without the use of artificial\nlighting in the Canopy area at any point in time. Artificial lighting is permissible only to\nmaintain Immature or Vegetative Mother Plants.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_153",
+          "type": "definition",
+          "number": null,
+          "heading": "Outdoor Non-Smoking Consumption Area",
+          "content": "Outdoor Non-Smoking Consumption Area means an outdoor space on the Premises of a Social\nConsumption Establishment where Consumers may consume Marijuana or Marijuana Products\nin the form of Edibles, MIPs, and Beverages; provided however, Consumers may not consume\nMarijuana or Marijuana Products through combustion, heat, vaporization, or aerosolization.\nTobacco shall not be sold or consumed in any Outdoor Non-Smoking Consumption Area.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_154",
+          "type": "definition",
+          "number": null,
+          "heading": "Outdoor Smoking Consumption Area",
+          "content": "Outdoor Smoking Consumption Area means an outdoor space on the Premises of a Social\nConsumption Establishment where Customers may consume Marijuana or Marijuana Products\nthrough combustion smoke, heat, vaporization, or aerosolization, in addition to Edibles, MIPs,\nand Beverages. Tobacco shall not be sold or consumed in any Outdoor Smoking Consumption\nArea.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_155",
+          "type": "definition",
+          "number": null,
+          "heading": "Owner",
+          "content": "Owner means any Equity Holder that possesses 10% equity or more in a Marijuana\nEstablishment, MTC or Independent Testing Laboratory.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_156",
+          "type": "definition",
+          "number": null,
+          "heading": "Panic Alarm",
+          "content": "Panic Alarm means an audible security alarm signal generated by the manual activation of a\ndevice that signals a life threatening or emergency situation and calls for a law enforcement\nresponse.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_157",
+          "type": "definition",
+          "number": null,
+          "heading": "Paraphernalia",
+          "content": "Paraphernalia means \"drug paraphernalia\" as defined in {{extref:M.G.L. c. 94C, § 1}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_158",
+          "type": "definition",
+          "number": null,
+          "heading": "Patient Registration Card",
+          "content": "Patient Registration Card means a temporary or an annual Registration Card currently and validly\nissued by the Commission to a Registered Qualifying Patient. The Patient Registration Card\nfacilitates verification of an individual Registrant's status including, but not limited to,\nidentification by the Commission and Law Enforcement Authorities, of those individuals who\nare exempt from Massachusetts criminal and civil penalties under {{extref:M.G.L. c. 94I}}, and 935 CMR\n501.000: Medical Use of Marijuana through Commission-supported databases. A Temporary\nPatient Registration issued to a Qualifying Patient shall be deemed a Registration Card.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_159",
+          "type": "definition",
+          "number": null,
+          "heading": "Person",
+          "content": "Person means an individual or entity under the laws of the Commonwealth.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_160",
+          "type": "definition",
+          "number": null,
+          "heading": "Personal Caregiver",
+          "content": "Personal Caregiver means a person, registered by the Commission, who shall be 21 years of age\nor older, who has agreed to assist with a Registered Qualifying Patient's medical use of\nMarijuana, and is not the Registered Qualifying Patient's Certifying Healthcare Provider. A\nvisiting nurse, personal care attendant, or home health aide providing care to a Registered\nQualifying Patient may serve as a Personal Caregiver, including as a second Personal Caregiver\nto patients younger than 18 years old.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_161",
+          "type": "definition",
+          "number": null,
+          "heading": "Personal Caregiver Registration Card",
+          "content": "Personal Caregiver Registration Card means a temporary or an annual Registration Card\ncurrently and validly issued by the Commission to a Personal Caregiver. The Registration Card\nallows access into Commission supported databases. The Registration Card facilitates\nverification of an individual Registrant's status including, but not limited to, identification by the\nCommission and Law Enforcement Authorities of those individuals who are exempt from\nMassachusetts criminal and civil penalties under {{extref:M.G.L. c. 94I}}, and 935 CMR 501.000: Medical\nUse of Marijuana. A temporary registration issued to a Personal Caregiver shall be deemed a\nRegistration Card.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_162",
+          "type": "definition",
+          "number": null,
+          "heading": "Person or Entity Having Direct Control",
+          "content": "Person or Entity Having Direct Control means any person or entity having direct control over the\noperations of a Marijuana Establishment, which satisfies one or more of the following criteria:\n(a) An Owner that possesses a financial interest in the form of equity of 10% or greater in\na Marijuana Establishment;\n(b) A Person or Entity that possesses a voting interest of 10% or greater in a Marijuana\nEstablishment or a right to veto significant events;\n(c) A Close Associate;\n(d) A Person or Entity that has the right to control or authority, through contract or\notherwise including, but not limited to:\n1. To make decisions regarding operations and strategic planning, capital allocations,\nacquisitions and divestments;\n2. To appoint more than 50% of the directors or their equivalent;\n3. To appoint or remove Corporate-level officers or their equivalent;\n4. To make major marketing, production, and financial decisions;\n5. To execute significant (in aggregate of $10,000 or greater) or exclusive contracts; or\n6. To earn 10% or more of the profits or collect more than 10% of the dividends.\n(e) A Court Appointee or assignee pursuant to an agreement for a general assignment or\nAssignment for the Benefit of Creditors; or\n(f) A Third-party Technology Platform Provider that possesses any financial interest in a\nDelivery Licensee including, but not limited to, a Delivery Agreement or other agreement for\nservices.",
+          "children": [
+            {
+              "id": "500.002_def_162_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Person or Entity Having Direct Control means any person or entity having direct control over the\noperations of a Marijuana Establishment, which satisfies one or more of the following criteria:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_162(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "An Owner that possesses a financial interest in the form of equity of 10% or greater in\na Marijuana Establishment;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_162(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Person or Entity that possesses a voting interest of 10% or greater in a Marijuana\nEstablishment or a right to veto significant events;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_162(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Close Associate;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_162(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Person or Entity that has the right to control or authority, through contract or\notherwise including, but not limited to:\n1. To make decisions regarding operations and strategic planning, capital allocations,\nacquisitions and divestments;\n2. To appoint more than 50% of the directors or their equivalent;\n3. To appoint or remove Corporate-level officers or their equivalent;\n4. To make major marketing, production, and financial decisions;\n5. To execute significant (in aggregate of $10,000 or greater) or exclusive contracts; or\n6. To earn 10% or more of the profits or collect more than 10% of the dividends.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_162(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Court Appointee or assignee pursuant to an agreement for a general assignment or\nAssignment for the Benefit of Creditors; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_162(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A Third-party Technology Platform Provider that possesses any financial interest in a\nDelivery Licensee including, but not limited to, a Delivery Agreement or other agreement for\nservices.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_163",
+          "type": "definition",
+          "number": null,
+          "heading": "Person or Entity Having Indirect Control",
+          "content": "Person or Entity Having Indirect Control means any person or entity having indirect control over\noperations of a Marijuana Establishment. It specifically includes any Person or Entity Having\nDirect Control over a holding or parent company of the applicant, the chief executive officer and\nexecutive director of those companies, or any person or entity in a position to control the\ndecision-making of a Marijuana Establishment indirectly. A Hospitality On-site Consumption\nLicensee may contract with a Non-Cannabis Entity to operate within the Non-Cannabis Entity\nand the Non-Cannabis Entity shall not be considered a Person or Entity Having Indirect Control\nby virtue of this relationship alone. A Marijuana Event Organizer Licensee may contract with\na Non-Cannabis Entity to operate within the Non-Cannabis Entity's physical space and the\nNon-Cannabis Entity shall not be considered a Person or Entity Having Indirect Control by virtue\nof this relationship alone.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_164",
+          "type": "definition",
+          "number": null,
+          "heading": "Pesticide",
+          "content": "Pesticide means a substance or mixture of substances intended for preventing, destroying,\nrepelling, or mitigating any pest, and any substance or mixture of substances intended for use as\na plant regulator, defoliant, or desiccant; provided that Pesticide shall not include any article that\nis a \"new animal drug\" within the meaning of § 201(v) of the Federal Food, Drug and Cosmetic\nAct (21 U.S.C. § 321(v)), or that has been determined by the Secretary of the United States\nDepartment of Health and Human Services not to be a new animal drug by a regulation\nestablishing conditions of use for the article, or that is an animal feed within the meaning of\n§ 201(w) of such act (21 U.S.C. § 321(w)).",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_165",
+          "type": "definition",
+          "number": null,
+          "heading": "Point-of-Service",
+          "content": "Point-of-Service means the act of a Marijuana Establishment Agent serving Marijuana or\nMarijuana Products to a Consumer at a bar, table, counter, or other service location within a\nSocial Consumption Establishment, regardless of whether payment occurs at that time or through\nan Open Bill.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_166",
+          "type": "definition",
+          "number": null,
+          "heading": "Preapproved Court Appointee",
+          "content": "Preapproved Court Appointee means a person or entity preapproved by the Commission pursuant\nto {{ref:500.104(3)(c)}} to serve as a Court Appointee over a Licensee or its delegee which\nmay be recommended to a court of competent jurisdiction.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_167",
+          "type": "definition",
+          "number": null,
+          "heading": "Pre-certification Application",
+          "content": "Pre-certification Application means an application reviewed by the Commission for\npre-certification prior to provisional licensure. The Pre-certification Application may be\navailable in a form and manner determined by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_168",
+          "type": "definition",
+          "number": null,
+          "heading": "Pre-verification",
+          "content": "Pre-verification means the process of a Marijuana Establishment examining the identification\npresented by an individual Consumer to confirm that the identification is valid and matches the\nindividual presenting it and collecting the information required by {{ref:500.000}} prior to\nthat Consumer being able to receive deliveries of Marijuana or Marijuana Products to the\nConsumer's Residence. A Marijuana Establishment may not acquire or record personal\ninformation about Consumers other than information typically required in a retail transaction.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_169",
+          "type": "definition",
+          "number": null,
+          "heading": "Pre-verification or Verification of Eligibility as a Social Equity Business",
+          "content": "Pre-verification or Verification of Eligibility as a Social Equity Business means the process\nthrough which the Commission confirms whether an applicant is a Social Equity Business.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_170",
+          "type": "definition",
+          "number": null,
+          "heading": "Premises",
+          "content": "Premises means any indoor or outdoor location over which a Marijuana Establishment or\nIndependent Testing Laboratory or its agents may lawfully exert substantial supervision or\ncontrol over entry or access to the property or the conduct of persons.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_171",
+          "type": "definition",
+          "number": null,
+          "heading": "Principal Place of Business",
+          "content": "Principal Place of Business means the primary location where a Licensee manages its licensed\noperations.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_172",
+          "type": "definition",
+          "number": null,
+          "heading": "Priority Applicant",
+          "content": "Priority Applicant means an MTC Priority Applicant (formerly a Registered Marijuana\nDispensary or RMD Priority Applicant) or an Economic Empowerment Priority Applicant.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_173",
+          "type": "definition",
+          "number": null,
+          "heading": "Process or Processing",
+          "content": "Process or Processing means to harvest, dry, cure, trim and separate parts of the Cannabis or\nMarijuana plant by manual or mechanical means, except it shall not include Manufacture as\ndefined in {{ref:500.002}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_174",
+          "type": "definition",
+          "number": null,
+          "heading": "Product Database",
+          "content": "Product Database means a Commission-operated technology platform displaying information\nabout Marijuana Products produced by licensed Marijuana Product Manufacturers and sold by\na licensed Marijuana Retailer or Delivery Operator pursuant to {{ref:500.000}} or an MTC\npursuant to 935 CMR 501.000: Medical Use of Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_175",
+          "type": "definition",
+          "number": null,
+          "heading": "Production Area",
+          "content": "Production Area means a Limited Access Area within the Marijuana Establishment where\nCannabis or Marijuana is handled or produced in preparation for sale.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_176",
+          "type": "definition",
+          "number": null,
+          "heading": "Production Batch",
+          "content": "Production Batch means a batch of finished plant material, Cannabis resin, Cannabis concentrate,\nor Marijuana-infused Product made at the same time, using the same methods, equipment and\ningredients. The Licensee shall assign and record a unique, sequential alphanumeric identifier\nto each Production Batch for the purposes of production tracking, product labeling and product\nrecalls. All Production Batches shall be traceable to one or more Cannabis or Marijuana\nCultivation Batches.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_177",
+          "type": "definition",
+          "number": null,
+          "heading": "Program Transfer",
+          "content": "Program Transfer means the transfer of the medical use of Marijuana program pursuant to St.\n2017, c. 55, §§ 64 through 71, and 82, and {{extref:M.G.L. c. 94I}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_178",
+          "type": "definition",
+          "number": null,
+          "heading": "Propagation",
+          "content": "Propagation means the reproduction of Cannabis or Marijuana plants by seeds, cuttings, or\ngrafting.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_179",
+          "type": "definition",
+          "number": null,
+          "heading": "Protected Patient Records",
+          "content": "Protected Patient Records means any document, record or electronic or written communication\nrelated to their care provided by a medical-use Marijuana Licensee or establishment or by a\nCertifying Healthcare Provider that is required to be confidential or protected from disclosure\nby law.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_180",
+          "type": "definition",
+          "number": null,
+          "heading": "Provisional Marijuana Establishment License",
+          "content": "Provisional Marijuana Establishment License means a License issued by the Commission\nconfirming that a Marijuana Establishment has completed the application process and satisfied\nthe qualifications for initial licensure.\n\n\f{{ref:500.002}}: continued\nQualifying Patient means:\n(a) a Massachusetts Resident or a non-Massachusetts Resident receiving end-of-life or\npalliative care or cancer treatment in Massachusetts as determined by a Certifying Healthcare\nProvider, who is 18 years of age or older who has been diagnosed by a Certifying Healthcare\nProvider as having a Debilitating Medical Condition; or\n(b) a Massachusetts Resident, or a non-Massachusetts Resident receiving end-of-life or\npalliative care or cancer treatment in Massachusetts as determined by a Certifying Healthcare\nProvider, who is younger than 18 years old who has been diagnosed by two Massachusetts\nlicensed Certifying Physicians, at least one of whom is a board-certified pediatrician,\npediatric subspecialist, oncologist, neurologist, or family physician as having a Debilitating\nMedical Condition that is also a Life-limiting Illness, subject to 935 CMR 501.010(11).",
+          "children": [
+            {
+              "id": "500.002_def_180_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Provisional Marijuana Establishment License means a License issued by the Commission\nconfirming that a Marijuana Establishment has completed the application process and satisfied\nthe qualifications for initial licensure.\n\n\f{{ref:500.002}}: continued\nQualifying Patient means:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_180(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "a Massachusetts Resident or a non-Massachusetts Resident receiving end-of-life or\npalliative care or cancer treatment in Massachusetts as determined by a Certifying Healthcare\nProvider, who is 18 years of age or older who has been diagnosed by a Certifying Healthcare\nProvider as having a Debilitating Medical Condition; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_180(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "a Massachusetts Resident, or a non-Massachusetts Resident receiving end-of-life or\npalliative care or cancer treatment in Massachusetts as determined by a Certifying Healthcare\nProvider, who is younger than 18 years old who has been diagnosed by two Massachusetts\nlicensed Certifying Physicians, at least one of whom is a board-certified pediatrician,\npediatric subspecialist, oncologist, neurologist, or family physician as having a Debilitating\nMedical Condition that is also a Life-limiting Illness, subject to 935 CMR 501.010(11).",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_181",
+          "type": "definition",
+          "number": null,
+          "heading": "Quality Control Sample",
+          "content": "Quality Control Sample means a sample of Marijuana or Marijuana Product developed by a\nMarijuana Cultivator, a Marijuana Product Manufacturer, a Microbusiness, or a Craft Marijuana\nCooperative that is provided internally to employees for purposes of ensuring product quality and\nmaking determinations about whether to sell the Marijuana or Marijuana Product.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_182",
+          "type": "definition",
+          "number": null,
+          "heading": "Quarantine Order",
+          "content": "Quarantine Order means an order to quarantine or otherwise restrict the sales or use of\nMarijuana, Marijuana Products, or MIPs by a Licensee or Registrant to protect the public health,\nsafety, or welfare.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_183",
+          "type": "definition",
+          "number": null,
+          "heading": "Reasonably Related",
+          "content": "Reasonably Related means a demonstrable nexus between the actual operations of a Marijuana\nEstablishment or MTC and an enhanced need for a Host Community's goods or services in order\nto offset the impact of operations. Fees customarily imposed on other non-marijuana businesses\noperating in a Host Community shall not be considered Reasonably Related.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_184",
+          "type": "definition",
+          "number": null,
+          "heading": "Registered Qualifying Patient or Patient",
+          "content": "Registered Qualifying Patient or Patient means a Qualifying Patient who is currently and validly\nissued a temporary or an annual Registration Card by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_185",
+          "type": "definition",
+          "number": null,
+          "heading": "Registrant",
+          "content": "Registrant means the holder of a Registration Card currently and validly registered with the\nCommission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_186",
+          "type": "definition",
+          "number": null,
+          "heading": "Registration Card",
+          "content": "Registration Card means an identification card currently and validly issued by the Commission,\nto a Registered Qualifying Patient, Personal Caregiver, Institutional Caregiver, Marijuana\nEstablishment or Laboratory Agent. The Registration Card allows access into Commission\nsupported databases. The Registration Card facilitates verification of an individual Registrant's\nstatus including, but not limited to, the identification by the Commission and Law Enforcement\nAuthorities of those individuals who are exempt from Massachusetts criminal and civil penalties\nunder St. 2016, c. 334, as amended by St. 2017, c. 55, {{extref:M.G.L. c. 94I}}, and 935 CMR 501.000:\nMedical Use of Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_187",
+          "type": "definition",
+          "number": null,
+          "heading": "Removal of Product",
+          "content": "Removal of Product means an order issued against a Marijuana Establishment to remove and\nprohibit sales of categories of products, product types, specific product types or specific brands\nof products after notice and on a determination that the Marijuana or Marijuana Product poses\na substantial risk to the public health, safety or welfare including, but not limited to, when the\nproduct is especially appealing to persons younger than 21 years old.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_188",
+          "type": "definition",
+          "number": null,
+          "heading": "Repackage",
+          "content": "Repackage means to uniformly wrap or seal Marijuana that has already been wrapped or sealed,\ninto a ready-made product for retail sale, without combining, infusing, or changing the chemical\ncomposition of the Marijuana.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_189",
+          "type": "definition",
+          "number": null,
+          "heading": "Research Permit",
+          "content": "Research Permit means a certificate indicating Commission approval to conduct a specified\nresearch project over a specified and finite period. To the extent that a Research Licensee is\nsubject to other IRB, institutional, industry, or professional standards, they shall demonstrate\ncompliance with those standards.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_190",
+          "type": "definition",
+          "number": null,
+          "heading": "Residence",
+          "content": "Residence means a house, condominium or apartment, and excludes, unless otherwise authorized\nby law, dormitories or other on-campus college or university housing; bed-and-breakfast\nestablishments, hotels, motels or other commercial hospitality operations; and federal public\nhousing identified at https://resources.hud.gov/, shelters or residential programs.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_191",
+          "type": "definition",
+          "number": null,
+          "heading": "Residual Solvent",
+          "content": "Residual Solvent means a volatile organic chemical used in the Manufacture of a Marijuana\nProduct that is not completely removed by practical manufacturing techniques.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_192",
+          "type": "definition",
+          "number": null,
+          "heading": "Responsible Vendor",
+          "content": "Responsible Vendor means a Marijuana Establishment that the Commission has determined to\nhave completed the initial training requirements and has maintained its training requirement\nunder {{ref:500.105(2)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_193",
+          "type": "definition",
+          "number": null,
+          "heading": "Responsible Vendor Trainer",
+          "content": "Responsible Vendor Trainer means an independent business entity certified by the Commission\nto provide Responsible Vendor Training Program courses. No owner, manager, or employee of\na Responsible Vendor Trainer may be a Person or Entity Having Direct or Indirect Control of\na Marijuana Establishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_194",
+          "type": "definition",
+          "number": null,
+          "heading": "Responsible Vendor Training (RVT) Program",
+          "content": "Responsible Vendor Training (RVT) Program means a mandatory program that provides training\ncourses taught by a Responsible Vendor Trainer for Marijuana Establishment Agents in order\nto satisfy the minimum training hours required under {{ref:500.105(2)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_195",
+          "type": "definition",
+          "number": null,
+          "heading": "School Entrance",
+          "content": "School Entrance means the entrance(s) that provide ingress and egress to students of the\npreexisting public or private or private school providing education in kindergarten or any grades\n1 through 12 at the time of the newspaper publication of the proposed Marijuana Establishment's\ncommunity outreach meeting under {{ref:500.101(1)(a)}}9.a.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_196",
+          "type": "definition",
+          "number": null,
+          "heading": "SDO",
+          "content": "SDO means the Supplier Diversity Office of the Massachusetts Operational Services Division\n(OSD).",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_197",
+          "type": "definition",
+          "number": null,
+          "heading": "Second Confirmatory Test",
+          "content": "Second Confirmatory Test means a second full panel of tests performed for reanalysis of a\nsample of Marijuana or Marijuana Products that failed an initial test for contaminants.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_198",
+          "type": "definition",
+          "number": null,
+          "heading": "Seed-to-sale Electronic Tracking System",
+          "content": "Seed-to-sale Electronic Tracking System means a system designated by the Commission as the\nsystem of record (Seed-to-sale SOR) or a secondary electronic tracking system used by a\nMarijuana Establishment or an MTC or an Independent Testing Laboratory. This system shall\ncapture everything that happens to an individual Marijuana plant, from seed and cultivation,\nthrough growth, harvest and Manufacture of Marijuana Products and MIPs, including\ntransportation, if any, to final sale of finished products. Seed-to-sale Electronic Tracking System\nshall utilize a unique-plant identification and unique-batch identification. It will also be able to\ntrack agents' and Registrants' involvement with the Marijuana Product. Any secondary system\nused by the Marijuana Establishment or an MTC or an Independent Testing Laboratory shall\nintegrate with the SOR in a form and manner determined by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_199",
+          "type": "definition",
+          "number": null,
+          "heading": "Seed-to-sale System of Record (Seed-to-sale SOR)",
+          "content": "Seed-to-sale System of Record (Seed-to-sale SOR) means the electronic tracking system\ndesignated and required by the Commission to perform a process.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_200",
+          "type": "definition",
+          "number": null,
+          "heading": "Shelf-stable",
+          "content": "Shelf-stable means able to be safely stored at room temperature in a sealed container.\nShelf-stable does not include food that must have certain Time/Temperature Control for Safety\nin accordance with 105 CMR 590.000.\nSmall Business means, for the purposes of {{ref:500.005(1)(b)}}, an applicant or Licensee that\n(a) currently employs a combined total of 50 or fewer full-time equivalent employees in all\nlocations or employees work less than a combined total of 2,600 hours per quarter; and\n(b) has gross revenues of $5 million or less, as reported to the Massachusetts Department\nof Revenue the year prior to the date of the Licensee's renewal application or as otherwise\ndemonstrated in a form and manner determined by the Commission.",
+          "children": [
+            {
+              "id": "500.002_def_200_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Shelf-stable means able to be safely stored at room temperature in a sealed container.\nShelf-stable does not include food that must have certain Time/Temperature Control for Safety\nin accordance with 105 CMR 590.000.\nSmall Business means, for the purposes of {{ref:500.005(1)(b)}}, an applicant or Licensee that",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_200(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "currently employs a combined total of 50 or fewer full-time equivalent employees in all\nlocations or employees work less than a combined total of 2,600 hours per quarter; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.002_def_200(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "has gross revenues of $5 million or less, as reported to the Massachusetts Department\nof Revenue the year prior to the date of the Licensee's renewal application or as otherwise\ndemonstrated in a form and manner determined by the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_201",
+          "type": "definition",
+          "number": null,
+          "heading": "Social Consumption Establishment",
+          "content": "Social Consumption Establishment means an entity licensed to sell Marijuana or Marijuana\nProducts to Consumers for consumption on its Premises and in a Consumption Area approved\nby the Commission. A Social Consumption Establishment may be either a Supplemental On-site\nConsumption, a Hospitality On-site Consumption, or a Marijuana Event Organizer Licensee.\nSocial Consumption Establishments may allow Consumption Areas to be Indoor Non-Smoking,\nIndoor Smoking, Outdoor Non-Smoking or Outdoor Smoking.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_202",
+          "type": "definition",
+          "number": null,
+          "heading": "Social Equity Business (SEB)",
+          "content": "Social Equity Business (SEB) means a Marijuana Establishment comprised of at least 51%\n(majority) ownership of individuals who are Social Equity Program Participants, or who have\nbeen certified as meeting the Commission's criteria for designation as an Economic\nEmpowerment Priority Applicant, or both.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_203",
+          "type": "definition",
+          "number": null,
+          "heading": "Social Equity Program Participant",
+          "content": "Social Equity Program Participant means an individual who qualified to participate in the Social\nEquity Program and is designated as a program participant by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_204",
+          "type": "definition",
+          "number": null,
+          "heading": "Substantial Modification",
+          "content": "Substantial Modification means a material change to a term of a contract that a reasonable person\nwould understand alters the relationship between the parties. A Substantial Modification shall\ninclude, but is not limited to, shifting responsibility for the performance of a contract term or\nincreasing or decreasing the amount of consideration being paid for performance of the contract\nabove an amount that is de minimis.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_205",
+          "type": "definition",
+          "number": null,
+          "heading": "Summary Suspension",
+          "content": "Summary Suspension means the suspension of any License or registration issued under\n{{ref:500.000}}, and the cessation of all operations in order to protect the public health, safety\nand welfare.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_206",
+          "type": "definition",
+          "number": null,
+          "heading": "Supplemental On-site Consumption",
+          "content": "Supplemental On-site Consumption means a type of license within the Social Consumption\nEstablishment license classes where an eligible Retailer, Cultivator, Product Manufacturer,\nMicrobusiness, Craft Marijuana Cooperative, Third-party Transporter, Delivery Operator or\nCourier may sell Marijuana or Marijuana Products to Consumers to consume in a designated\nConsumption Area within the Marijuana Establishment's Premises.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_207",
+          "type": "definition",
+          "number": null,
+          "heading": "Temporary Consumption Event",
+          "content": "Temporary Consumption Event means an event that a Marijuana Event Organizer facilitates after\nobtaining approval from the Commission and the municipality where the Temporary\nConsumption Event is to be located.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_208",
+          "type": "definition",
+          "number": null,
+          "heading": "Temporary Patient Registration",
+          "content": "Temporary Patient Registration means an interim registration document for patients and their\nPersonal Caregivers generated automatically upon the Commission's receipt of a Certifying\nHealthcare Provider's Electronic Certification. The temporary registration document shall\nconstitute a Registration Card for patients and their Personal Caregivers to access an MTC.\nTemporary registration shall expire 14 days after the Commission issues the Registration Card\nor on the issuance and receipt of an annual Registration Card, whichever occurs first.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_209",
+          "type": "definition",
+          "number": null,
+          "heading": "Third-party Technology Platform Provider",
+          "content": "Third-party Technology Platform Provider means an individual or entity that provides or hosts\nan internet-based application or group of applications developed for the facilitation of ordering\nand delivering Finished Marijuana Products, Marijuana Accessories and Branded Goods for sale\nor delivery by a Marijuana Retailer, Delivery Licensee or a Marijuana Establishment with a\nDelivery Endorsement to a Consumer. A proprietary application developed by a Licensee\nexclusively for that Licensee's use shall not be considered to be a Third-party Technology\nPlatform Provider. A Third-party Technology Platform Provider may not be an investor in a\nDelivery Licensee.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_210",
+          "type": "definition",
+          "number": null,
+          "heading": "Tincture",
+          "content": "Tincture means a Cannabis-infused alcohol or oils concentrate administered orally in small\namounts using a dropper or measuring spoon. Tinctures are not considered an Edibles under\n{{ref:500.000}} and are not subject to the dosing limitations applicable to Edibles.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_211",
+          "type": "definition",
+          "number": null,
+          "heading": "Tobacco",
+          "content": "Tobacco means a product containing, made or derived from tobacco or nicotine that is intended\nfor human consumption, whether smoked, chewed, absorbed, dissolved, inhaled, snorted, sniffed\nor ingested by any other means including, but not limited to, cigarettes, cigars, little cigars,\nchewing tobacco, pipe tobacco, snuff, electronic cigarettes, electronic cigars, electronic pipes,\nelectronic nicotine delivery systems or any other similar products that rely on vaporization or\naerosolization; provided however, that \"tobacco product'\" shall also include any component, part\nor accessory of a tobacco product; and provided further, that \"'tobacco product'\" shall not include\na product that has been approved by the United States Food and Drug Administration for the sale\nof or use as a tobacco cessation product and is marketed and sold exclusively for the approved\npurpose.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_212",
+          "type": "definition",
+          "number": null,
+          "heading": "Transfer",
+          "content": "Transfer means the sale of Marijuana or Marijuana Products from a Marijuana Establishment to\na separate Marijuana Establishment, Independent Testing Laboratory or MTC (but not to\nConsumers) subject to entry of the transaction in the Commission's Seed-to-sale SOR.\nUnited States (U.S.) means the United States of America.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_213",
+          "type": "definition",
+          "number": null,
+          "heading": "Unreasonably Impracticable",
+          "content": "Unreasonably Impracticable means that the measures necessary to comply with the regulations,\nordinances or bylaws adopted pursuant to St. 2016, c. 334, as amended by St. 2017, c. 55,\n{{extref:M.G.L. c. 94G}}, {{extref:M.G.L. c. 94I}}, {{ref:500.000}}, or 501.000: Medical Use of Marijuana\nsubject Licensees to unreasonable risk or require such a high investment of risk, money, time or\nany other resource or asset that a reasonably prudent businessperson would not operate a\nMarijuana Establishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_214",
+          "type": "definition",
+          "number": null,
+          "heading": "Usable Marijuana",
+          "content": "Usable Marijuana means the fresh or dried leaves and flowers of the female Marijuana plant and\nany mixture or preparation thereof, including Marijuana, Marijuana Products or MIPs, but does\nnot include the seedlings, seeds, stalks, roots of the plant, or Marijuana rendered unusable in\naccordance with {{ref:500.105(12)(c)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_215",
+          "type": "definition",
+          "number": null,
+          "heading": "Vault",
+          "content": "Vault means a secured, limited access storage room within a Marijuana Establishment that is\noutfitted with adequate security features for the purposes of storing Marijuana or Marijuana\nProducts or cash. A vault must be adequately sized to store inventory that is not being actively\nhandled for purposes of dispensing, packaging, processing or transportation.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_216",
+          "type": "definition",
+          "number": null,
+          "heading": "Vegetation",
+          "content": "Vegetation means the sporophytic state of the Cannabis or Marijuana plant, which is a form of\nasexual reproduction in plants during which plants do not produce resin or flowers and are\nbulking up to a desired production size for Flowering.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_217",
+          "type": "definition",
+          "number": null,
+          "heading": "Vegetative Plant",
+          "content": "Vegetative Plant means a plant in a stage of Vegetation.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_218",
+          "type": "definition",
+          "number": null,
+          "heading": "Vendor Sample",
+          "content": "Vendor Sample means a sample of Marijuana or Marijuana Product developed by a Marijuana\nCultivator or a Marijuana Product Manufacturer licensed under the provisions of\n935 CMR{{ref:500.000}} that is provided to a Marijuana Product Manufacturer, a Marijuana Retailer\nor a Delivery Operator to promote product awareness.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_219",
+          "type": "definition",
+          "number": null,
+          "heading": "Verified Financial Hardship",
+          "content": "Verified Financial Hardship means that an individual is a recipient of MassHealth, or\nSupplemental Security Income, or the individual's income does not exceed 300% of the federal\npoverty level, adjusted for family size.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_220",
+          "type": "definition",
+          "number": null,
+          "heading": "Veteran",
+          "content": "Veteran means a person who served in the active military, naval air, or space service of the\nUnited States and who was discharged or released under conditions other than dishonorable.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_221",
+          "type": "definition",
+          "number": null,
+          "heading": "Visitor",
+          "content": "Visitor means an individual, other than a Marijuana Establishment Agent or Laboratory Agent,\nauthorized by the Marijuana Establishment or Independent Testing Laboratory to be on the\nPremises of an Establishment for a purpose related to its operations and consistent with the\nobjectives of St. 2016, c. 334, as amended by St. 2017, c. 55, {{extref:M.G.L. c. 94G}}, and {{ref:500.000}}; provided, however, that no such individual shall be younger than 21 years old.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_222",
+          "type": "definition",
+          "number": null,
+          "heading": "Visitor Identification Badge",
+          "content": "Visitor Identification Badge means a badge issued by an MTC, Marijuana Establishment or the\nCommission to be used at all times while on the Premises of a Marijuana Establishment or an\nMTC or Independent Testing Laboratory. These identification badges shall be issued in a form\nand manner determined by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_223",
+          "type": "definition",
+          "number": null,
+          "heading": "Waiver of Consent",
+          "content": "Waiver of Consent means the document signed by potential participants or the legal guardians\nof potential participants that waives one or more elements of consent.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_224",
+          "type": "definition",
+          "number": null,
+          "heading": "Warehouse",
+          "content": "Warehouse means an indoor structure or a portion of the structure on the Licensee's Premises\nused by a Marijuana Establishment for the on-site storage of Marijuana and Marijuana Products\nin compliance with the regulatory requirements of {{ref:500.000}}, including the requirements\nfor security, storage and disposal. For Delivery Operators and Marijuana Event Organizers, the\nlocation of the Warehouse shall be the Licensee's Principal Place of Business in the Host\nCommunity.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_225",
+          "type": "definition",
+          "number": null,
+          "heading": "Warehousing",
+          "content": "Warehousing means the on-site storage of Marijuana and Marijuana Products that have been\npurchased at wholesale for eventual resale.\n\n\f{{ref:500.002}}: continued",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_226",
+          "type": "definition",
+          "number": null,
+          "heading": "White Labeling",
+          "content": "White Labeling means to affix a product label that includes the branding, including the name and\nlogo, of a specific Marijuana Establishment Licensee to a Finished Marijuana Product that was\npreviously produced and packaged by a licensed Product Manufacturer, Cultivator,\nMicrobusiness or Craft Marijuana Cooperative for sale to Consumers. Vaporizer Devices shall\nnot be white labeled. White labeled products shall be required to comply with {{ref:500.105(5)}}, and (6), {{ref:500.130(6)}} and {{ref:500.146(7)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_227",
+          "type": "definition",
+          "number": null,
+          "heading": "Wholesale",
+          "content": "Wholesale means the Transfer of Marijuana or Marijuana Product between Marijuana\nEstablishments.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_228",
+          "type": "definition",
+          "number": null,
+          "heading": "Wholesale Agreement",
+          "content": "Wholesale Agreement means a contract between Marijuana Establishments defining the terms\nof Transfer of Marijuana or Marijuana Products between the Marijuana Establishments.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.002_def_229",
+          "type": "definition",
+          "number": null,
+          "heading": "Written Certification",
+          "content": "Written Certification means a form submitted to the Commission by a Massachusetts licensed\nCertifying Healthcare Provider describing the Qualifying Patient's pertinent symptoms,\nspecifying the patient's Debilitating Medical Condition, and stating that in the physician's\nprofessional opinion the potential benefits of the medical use of Marijuana would likely\noutweigh the health risks for the patient.\n14-day Supply means that amount of Marijuana, or equivalent amount of Marijuana in MIPs, that\na Registered Qualifying Patient would reasonably be expected to need over a period of 14\ncalendar days for the Patient's personal medical use, which is 2.5 ounces, subject to 935 CMR\n501.010(10), unless otherwise determined by a Certifying Healthcare Provider.\n60-day Supply means that amount of Marijuana, or equivalent amount of Marijuana in MIPs, that\na Registered Qualifying Patient would reasonably be expected to need over a period of 60\ncalendar days for his or her personal medical use, which is ten ounces, subject to 935 CMR\n501.010(10), unless otherwise determined by a Certifying Healthcare Provider.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 1
+}

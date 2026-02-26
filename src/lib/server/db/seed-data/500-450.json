@@ -1,0 +1,244 @@
+{
+  "sectionNumber": "500.450",
+  "heading": "Marijuana Establishment License: Grounds for Suspension, Revocation and Denial of Renewal Applications",
+  "slug": "500-450",
+  "contentTree": [
+    {
+      "id": "500.450",
+      "type": "section",
+      "number": null,
+      "heading": "Marijuana Establishment License: Grounds for Suspension, Revocation and Denial of Renewal Applications",
+      "content": "",
+      "children": [
+        {
+          "id": "500.450_preamble",
+          "type": "text",
+          "number": null,
+          "heading": null,
+          "content": "Applications\nEach of the following, in and of itself, constitutes full and adequate grounds for suspending\nor revoking a Marijuana Establishment's License or denying a renewal application for a\nMarijuana Establishment License.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "The Marijuana Establishment is not operational within the time projected in the License\napplication or the time otherwise approved by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Information provided by the Marijuana Establishment was deceptive, misleading, false or\nfraudulent, or that tends to deceive or create a misleading impression, whether directly, or by\nomission or ambiguity, including lack of disclosure or insufficient disclosure.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "The Marijuana Establishment has failed to comply with any requirement of St. 2016, c. 334,\nas amended by St. 2017, c. 55, {{extref:M.G.L. c. 94G}}, or {{ref:500.000}}, or any applicable law or\nregulation including, but not limited to, the laws and regulations of the Commonwealth relating\nto taxes, child support, workers' compensation, and professional and commercial insurance\ncoverage.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "The Marijuana Establishment has failed to submit a plan of correction as required or to\nimplement the plan as submitted pursuant to {{ref:500.320}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "The Marijuana Establishment has assigned or attempted to change ownership or assign its\nLicense to another entity without prior approval of the Commission under {{ref:500.104}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "The Licensee failed to comply with the control limitations listed in {{ref:500.050(1)(b)}}\nor would likely fail to comply with such limitations if a renewal License were granted.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "There has been a lack of responsible operation of the Marijuana Establishment, as shown\nby, but not limited to, one or more of the following:",
+          "children": [
+            {
+              "id": "500.450(7)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "There has been a lack of responsible operation of the Marijuana Establishment, as shown\nby, but not limited to, one or more of the following:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.450(7)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Failure to maintain the Marijuana Establishment in a clean, orderly, and sanitary fashion;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.450(7)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Permitting a Marijuana Establishment Agent to use a Registration Card belonging to a\ndifferent person;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.450(7)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Failure to make substantial progress toward the Marijuana Establishment's submitted\ndiversity plan or positive impact plan;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.450(7)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Repeated sales of Marijuana Products to individuals younger than 21 years old, unless,\nin each instance, the Marijuana Establishment Agent reasonably relied on validly issued\ngovernment-issued identification card in compliance with {{extref:M.G.L. c. 94G, § 9(b)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.450(7)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Repeated failure to verify the age of an individual prior to permitting that individual on\nthe Premises of a Marijuana Establishment or making sales of Marijuana Products to that\nindividual; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.450(7)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Other incompetent or negligent operation.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.450(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "The financial management of the Marijuana Establishment has resulted in the filing of a\npetition for a Court Appointee related to the financial solvency of the Marijuana Establishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "A Licensee fails to satisfy the requirements of {{ref:500.104(3)}} or (4), as applicable.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "A person on a Marijuana Establishment License has maintained a substandard level of\ncompliance with the statutory and regulatory requirements for the operation of a Marijuana\nEstablishment in an Other Jurisdiction including, but not limited to: a failure to correct\ndeficiencies, a limitation on, or a suspension, revocation or refusal to grant or renew a\nregistration or License to operate.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(11)",
+          "type": "subsection",
+          "number": "(11)",
+          "heading": null,
+          "content": "The conduct or practices of the Marijuana Establishment demonstrate a lack of suitability\nas specified in {{ref:500.800}} and {{ref:500.801}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(12)",
+          "type": "subsection",
+          "number": "(12)",
+          "heading": null,
+          "content": "An individual or entity on a Marijuana Establishment License or Marijuana Establishment\nAgent has a history of criminal conduct as evidenced by any criminal proceedings that resulted\nin conviction, guilty plea, plea of nolo contendere, or admission to sufficient facts in the\nCommonwealth or Other Jurisdictions.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(13)",
+          "type": "subsection",
+          "number": "(13)",
+          "heading": null,
+          "content": "An individual or entity listed on a Marijuana Establishment License has committed,\npermitted, aided or abetted, or conspired to commit any illegal practice(s) in the operation of any\nMarijuana Establishment including, but not limited to, engaging in the Diversion or Inversion\nof Marijuana or Marijuana Products.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(14)",
+          "type": "subsection",
+          "number": "(14)",
+          "heading": null,
+          "content": "The Marijuana Establishment has failed to cooperate or give information to a law\nenforcement official acting within his or her lawful jurisdiction related to any matter arising out\nof conduct at any Marijuana Establishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(15)",
+          "type": "subsection",
+          "number": "(15)",
+          "heading": null,
+          "content": "The conduct or practices of the Marijuana Establishment have been detrimental to the\nsafety, health, or welfare of the public.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(16)",
+          "type": "subsection",
+          "number": "(16)",
+          "heading": null,
+          "content": "The conduct or practices of the Marijuana Establishment violate {{ref:500.145(1)(g)}}(3) or {{ref:500.146(12)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.450(17)",
+          "type": "subsection",
+          "number": "(17)",
+          "heading": null,
+          "content": "Any other ground that serves the purposes of St. 2016, c. 334, as amended by St. 2017,\nc. 55, or {{ref:500.000}}.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 46
+}

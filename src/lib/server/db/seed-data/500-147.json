@@ -1,0 +1,402 @@
+{
+  "sectionNumber": "500.147",
+  "heading": "Operational Requirements for Marijuana Research Facility Licensees and Research Permits",
+  "slug": "500-147",
+  "contentTree": [
+    {
+      "id": "500.147",
+      "type": "section",
+      "number": null,
+      "heading": "Operational Requirements for Marijuana Research Facility Licensees and Research Permits",
+      "content": "",
+      "children": [
+        {
+          "id": "500.147(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "In addition to the security requirements provided in {{ref:500.110}}, Marijuana Research\nFacility Licensees shall comply with the operational requirements required under {{ref:500.147}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.147(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "General Requirements",
+          "children": [
+            {
+              "id": "500.147(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "General Requirements",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "For each research project to be conducted on the Premises, a Marijuana Research\nFacility Licensee shall have a valid Research Permit issued by the Commission pursuant to\n{{ref:500.147(4)}} prior to beginning a research project. The Research Permit shall be\nrenewed at least annually, or sooner depending on the nature and duration of the approved\nresearch project.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All individuals engaging in research at the Marijuana Research Facility shall be\nregistered with the Commission as Marijuana Establishment Agents under {{ref:500.030}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Marijuana Research Facility Licensee may submit an application for a Research\nPermit to conduct research in areas including, but not limited to, the following:\n1. Chemical potency and composition levels of Marijuana and Marijuana Products;\n2. Clinical investigations of Marijuana Products, including dosage forms;\n3. Efficacy and safety of administering Marijuana or Marijuana Products as a component\nof medical treatment under the supervision of a Certifying Healthcare Provider;\n4. Genomic research on Marijuana;\n5. Horticultural research on Marijuana;\n6. Agricultural research on Marijuana; and\n7. Other research topics upon the approval of the Commission, provided however that\nresearch conducted under the Marijuana Research Facility License may not be a\nsubstitute for processes for drug approval established by the U.S. Food and Drug\nAdministration (FDA) pursuant to 21 CFR 312; and the Commission may impose\nadditional standards necessary to ensure the safety and efficacy of Marijuana and\nMarijuana-derived compounds for their intended research application.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Marijuana or Marijuana Products used in research conducted under a Marijuana\nResearch Facility License shall be cultivated by, produced by or acquired from a licensed\nMTC or Marijuana Establishment authorized to cultivate, produce or sell Marijuana or\nMarijuana Products, which includes a Marijuana Cultivator, Marijuana Product\nManufacturer, Marijuana Retailer, a Microbusiness or a Craft Marijuana Cooperative. A\nMarijuana Research Facility Licensee not authorized to cultivate its own Marijuana may\nenter into an agreement with a licensed MTC or Marijuana Cultivator, Microbusiness or\nCraft Marijuana Cooperative to grow Marijuana specifically for research.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Any Marijuana or Marijuana Product cultivated, produced or acquired for use in a\nCommission-approved research project shall be entered by the Marijuana Establishment\nproviding it to the Marijuana Research Facility Licensee into the Seed-to-sale SOR in a form\nand manner to be determined by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "All Marijuana or Marijuana Products used in research and consumed by human or\nanimal subjects shall comply with the following\n1. Be adequately described in the Informed Consent Form.\n2. Tested in accordance with {{ref:500.160}} prior to consumption by human or\nanimal subjects.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Any research project where human research subjects are participants shall include one\nor more licensed physicians in good standing to monitor the participants.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "For any research project other than a survey-only research project, human participants\nin research conducted by a Marijuana Research Facility Licensee where consumption of\nMarijuana or Marijuana Products is a component of the research project design shall reside\nin the Commonwealth.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "Any research project where animal research subjects are participants shall include one\nor more licensed veterinary doctors in good standing to monitor the participants.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "For any research project other than a survey-only research project, research conducted\npursuant to a license granted by the Commission shall be conducted solely within the\nboundaries of the Commonwealth.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(2)(k)",
+              "type": "paragraph",
+              "number": "(k)",
+              "heading": null,
+              "content": "A Marijuana Research Facility Licensee shall supply the Commission with copies of all\nfinal reports, findings or documentation regarding the outcomes of approved research\nprojects receiving a Research Permit. Any records received by the Commission may be\nsubject to release pursuant to the Public Records Law, {{extref:M.G.L. c. 66, § 10}} and {{extref:M.G.L. c. 4,\n§ 7}}, cl. 26, or other compulsory legal process, or at the Commission's discretion.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.147(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Marijuana Research Facility Licensee Activities and Premises.",
+          "children": [
+            {
+              "id": "500.147(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Marijuana Research Facility Licensee Activities and Premises.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Research Facility Licensee may conduct research at one or more than one\nMarijuana Research Facility so long as the facility is approved by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Marijuana Research Facility may be colocated with another Marijuana Establishment\nprovided that the Marijuana Research Facility and other, colocated Marijuana\nEstablishment(s) are commonly owned and physically separated. Physical separation shall\ninclude, but may not be limited to, separation by a permanent wall with a secure, locked\nentrance.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Marijuana Research Facility Licensee shall only possess for research the amount of\nMarijuana or Marijuana Products approved by the Commission to be used in each research\nproject receiving a Research Permit.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(3)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Marijuana Research Facility Licensee with more than one Research Permit shall\nphysically separate all Marijuana or Marijuana Products used in the Licensee's approved\nresearch projects according to Research Permit and in such a way that it is objectively clear\nwhat Marijuana or Marijuana Products are being used for each approved project.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(3)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "One or more Marijuana Research Facility Licensees may enter into agreements to\nconduct research jointly on an identified research project, provided that research activities\nauthorized under the Research Permit shall be conducted at one identified, licensed\nMarijuana Research Facility. The Marijuana Research Facility Licensee shall disclose to the\nCommission all contracts or agreements entered into with other Marijuana Research Facility\nLicensees in furtherance of a research project.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(3)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A Marijuana Research Facility Licensee may not permit the consumption of Marijuana\nor Marijuana Products on its licensed Premises, unless consumption of Marijuana is part of\nan approved research project holding a valid Research Permit and the Marijuana Research\nFacility is not co-located with another Marijuana Establishment.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.147(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Research Permits",
+          "children": [
+            {
+              "id": "500.147(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Research Permits",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "To qualify for a Research Permit to conduct human based research, the research project\nshall have an Institutional Review Board (\"IRB\") which shall approve the proposed research\nproject.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Applicants for a Research Permit to conduct research at a Marijuana Research Facility\nLicensee shall submit for each project the following information to the Commission in a\nform and manner determined by the Commission:\n1. The name and curriculum vitae (CV) of each investigator, including the Principal\nInvestigator who leads the research project and each sub-investigator;\n2. The name of each licensed physician in good standing that will lead the project as\nPrincipal Investigator, be a sub-investigator, or monitor the participation by human\nsubjects, if any, in the research project;\n3. The name of each licensed veterinary doctor in good standing that will lead the\nproject as Principal Investigator, be a sub-investigator, or monitor the participation by\nanimal subjects, if any, in the research project;\n4. The IRB Institution, if applicable;\n5. A publication-ready summary of the research project to be conducted;\n6. A detailed research protocol, including safety protocols;\n7. Articulated goals of the research project;\n8. Start and end dates of the research project;\n9. A description of the project funding or resources, an attestation that the project is\nadequately funded or resourced, and the sources of funding or resources;\n10. Information about the human subject participants, if any, which shall include but not\nbe limited to:\n\na. The number of participants;\nb. The number of Registered Qualifying Patients, if any;\nc. Demographic information about the participants;\nd. The ages of the participants;\ne. Any cohort deemed \"vulnerable\" and applicable safety precautions (e.g.\npregnant/breastfeeding women, minors, disable veterans, etc.);\nf. A copy of the Informed Consent Form or Waiver of Consent, if applicable; and\ng. Documentation that the process of obtaining Informed Consent complied with the\nResearch Licensee's other IRB, institutional, industry, or professional standards.\n11. The quantity of Marijuana or Marijuana Products anticipated to be needed over the\nduration of the research project;\n12. The Independent Testing Laboratory where the Marijuana or Marijuana Products\nwill be tested;\n13. The name and license number of the Marijuana Research Facility Licensee or\nfacilities where the research project will take place, provided that if a license has not yet\nbeen granted to the Marijuana Research Facility, the Research Permit applicant will still\nidentify the facility and provide its application number;\n14. The disposal protocol for Marijuana or Marijuana Products that are unused;\n15. Disclosures of any actual or apparent conflicts of interest between any Marijuana\nResearch Facility Licensee or Agent and any member of the IRB required by {{ref:500.147(4)(b)}}iv; and\n16. Application Fee.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The information required in {{ref:500.147(4)(b)}} to qualify for a Research Permit\nmay, but is not required to, be submitted with an application for licensure as a Marijuana\nResearch Facility.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(4)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Prior to receiving a Research Permit for a research project that includes human or\nanimal participants as subjects, the applicant shall submit evidence of approval of the project\nby the identified IRB. Evidence of IRB approval or exemption may be submitted separately\nfrom the information required in {{ref:500.147(4)(b)}}, but shall be submitted to receive\na Research Permit.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(4)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Materials submitted in support of an application for a permit that are received by the\nCommission may be subject to release pursuant to the Public Records Law, {{extref:M.G.L.\nc. 66,§ 10}} and {{extref:M.G.L. c. 4, § 7}}, cl. 26, or other compulsory legal process, or at the\nCommission's discretion.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.147(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Research Permit Approval.",
+          "children": [
+            {
+              "id": "500.147(5)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Research Permit Approval.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(5)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "When evaluating an application for a Research Permit to conduct a research project at\na licensed Marijuana Research Facility the Commission or its delegee(s) shall consider:\n1. Whether the research project is allowed under {{ref:500.147(2)(c)}};\n2. The adequacy of safety protocols detailed in {{ref:500.147(4)(b)}}6.\n3. The research project design;\n4. Whether the research project is adequately funded or resourced and the sources of the\nfunding or resources;\n5. Whether the amount of Marijuana or Marijuana Products anticipated to for growth\nor use during the duration of the research project is consistent with the proposed research\nproject's scope, goals, aims and the protocols for tracking the amount used;\n6. Disclosures of agreements between Marijuana Research Facility Licensees and the\nnature of those agreements; and\n7. Whether a required IRB is affiliated with an accredited academic institution, licensed\nhealthcare institution or other licensed research institution and, if not, may require\nadditional information regarding the sufficiency of the IRB as it relates to the proposed\nresearch project.\n8. Whether sufficient evidence of approval of the research project by the identified IRB\nhas been provided.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(5)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Research Permits shall be approved by the Executive Director and shall not require a\nvote of the Commission prior to issuance.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(5)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "As set forth in {{ref:500.840}}, the issuance of a Research Permit may not give\nimmunity under federal law or poses an obstacle to federal enforcement of federal law.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.147(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "Denial of Research Permits.",
+          "children": [
+            {
+              "id": "500.147(6)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Denial of Research Permits.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(6)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Commission or its delegee may deny an application for a Research Permit for any\nof the following reasons, provided that a written denial including the reason for the denial\nshall be issued to the applicant(s):\n1. No IRB approval;\n2. Failure to provide adequate information regarding the IRB;\n3. Proposed research poses a danger to public health or safety;\n4. Proposed research lacks scientific value or validity;\n5. The applicant for the Research Permit is not qualified to do the research;\n6. The Research Permit applicant's protocols or funding or other resources are\ninsufficient to perform the research; or\n7. Proposed research is otherwise in consistent with the Commission's governing laws.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(6)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The applicant shall not be entitled to an administrative hearing under {{ref:500.500}}\nfor the denial of a research permit.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.147(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "Inspections and Audits.",
+          "children": [
+            {
+              "id": "500.147(7)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Inspections and Audits.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(7)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Commission or its delegee(s) may at its discretion inspect a Marijuana Research\nFacility.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.147(7)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Commission or its delegee may at its discretion require an audit of a research\nproject granted a Research Permit. Reasons for an audit shall include, but are not limited to:\n1. The Commission has reasonable grounds to believe that the Marijuana Research\nFacility Licensee is in violation of one or more of the requirements set forth in these\nregulations or present a danger to the public health, safety or welfare;\n2. The Commission has reasonable grounds to believe that the activities of the\nMarijuana Research Facility Licensee or a Marijuana Establishment Agent present a\ndanger to the public health, safety or welfare; or\n3. The Commission has reasonable grounds to believe that the Marijuana Research\nFacility Licensee has been or is engaged in research activities that have not been\napproved or permitted by the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 24
+}

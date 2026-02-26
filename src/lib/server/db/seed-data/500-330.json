@@ -1,0 +1,45 @@
+{
+  "sectionNumber": "500.330",
+  "heading": "Limitation of Sales",
+  "slug": "500-330",
+  "contentTree": [
+    {
+      "id": "500.330",
+      "type": "section",
+      "number": null,
+      "heading": "Limitation of Sales",
+      "content": "",
+      "children": [
+        {
+          "id": "500.330(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "If the Commission or a Commission Delegee determines that a Marijuana Establishment\ndoes not substantially comply with applicable provisions of St. 2016, c. 334, as amended by\nSt. 2017, c. 55, {{extref:M.G.L. c. 94G}}, or {{ref:500.000}}, the Commission or a Commission Delegee\nmay order that the Marijuana Establishment dispose of and may not sell Marijuana or Marijuana\nProducts, after a date specified.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.330(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "The Commission or a Commission Delegee may not make such a determination until\na Marijuana Establishment has been notified that the establishment does not substantially\ncomply with applicable provisions of St. 2016, c. 334, as amended by St. 2017, c. 55, {{extref:M.G.L.\nc. 94G}}, or {{ref:500.000}}, that an order to dispose of or limit sales is contemplated, and\nthat the establishment has a reasonable opportunity to correct the deficiencies.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.330(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "An order that a Marijuana Establishment dispose of and may not sell Marijuana or\nMarijuana Products pursuant to {{ref:500.330(1)}} may be rescinded when the Commission\nor a Commission Delegee finds that the establishment is in substantial compliance with the\napplicable provisions of St. 2016, c. 334, as amended by St. 2017, c. 55, {{extref:M.G.L. c. 94G}}, or\n{{ref:500.000}}.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 38
+}

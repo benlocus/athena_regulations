@@ -1,0 +1,366 @@
+{
+  "sectionNumber": "500.800",
+  "heading": "Suitability Standard for Licensure and Registration",
+  "slug": "500-800",
+  "contentTree": [
+    {
+      "id": "500.800",
+      "type": "section",
+      "number": null,
+      "heading": "Suitability Standard for Licensure and Registration",
+      "content": "",
+      "children": [
+        {
+          "id": "500.800(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Pursuant to {{extref:M.G.L. c. 94G}}, §§ 4(a)(xii), (xiv), and 21(a), the Commission may make, in an\nexercise of its discretion, a suitability or cure determination based on a factual basis.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.800(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "The Commission may also delegate suitability determinations to the Executive Director,\nwho may appoint a Suitability Review Committee (Committee) to advise the Executive Director.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.800(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "All suitability determinations will be made in accordance with the procedures set forth in\n{{ref:500.800}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.800(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Suitability Review Process.",
+          "children": [
+            {
+              "id": "500.800(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Suitability Review Process.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Designated Enforcement staff (staff) shall conduct background checks and gather\ninformation and evidence applicable to a subject's suitability and make a recommendation\nas to suitability and, as appropriate, a cure. Staff may make an adverse suitability\nrecommendation on finding information and evidence that would result in a Mandatory\nDisqualification, Presumptive Negative Suitability Determination or that would support a\nNegative Suitability Recommendation.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Before making an adverse suitability recommendation, staff shall consult with the\nExecutive Director or the Executive Director's delegee(s). The Executive Director may\ndispose of the matter or direct the Committee to institute a review of suitability or take any\naction consistent with {{extref:M.G.L. c. 94G}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "If the Executive Director institutes a suitability review, the staff shall send the written\nnotice of an adverse suitability recommendation that identifies the Person or entity subject\nto suitability review, the particular offenses or conduct relied on and whether that the\noffenses or conduct results in a Mandatory Disqualification or Presumptive Negative\nSuitability Determination, or supports a Negative Suitability Recommendation, and reasons\nfor that determination.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(4)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "The notice of an adverse suitability recommendation shall provide an opportunity to cure\nthe suitability issue by removing the subject from its application. To the extent that an\napplicant can propose a cure, for example, by removing a subject from an application, the\ncure shall be done in a manner determined by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(4)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "The notice of an adverse suitability recommendation shall provide the subject with the\nopportunity to request an informal proceeding before the Suitability Review Committee.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(4)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A request for an informal proceeding shall be submitted in a form and manner\ndetermined by the Commission and no later than 14 business days following the effective\ndate of the adverse suitability recommendation. Requests received after 14 business days\nmay be considered at the discretion of the Executive Director or the Committee.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(4)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "On notification of an adverse suitability recommendation and receipt of an informal\nproceeding request, the Committee shall initiate a proceeding, make a recommendation\nand/or take other action(s) after consultation with the Executive Director.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(4)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "If an applicant or a subject does not make a timely request for an informal proceeding\nbefore the Committee, the Executive Director may forward the adverse suitability\nrecommendation to the Committee for a review, make a suitability determination, or take any\naction consistent with {{extref:M.G.L. c. 94G}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.800(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "The Committee shall:",
+          "children": [
+            {
+              "id": "500.800(5)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "The Committee shall:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(5)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Consider and review whether offense(s) or information resulting in a Mandatory\nDisqualification or a Presumptive Negative Suitability Determination under {{ref:500.801}}: Table A and {{ref:500.802}}: Tables B through D and {{ref:500.803}}:\nTable E, as applied to the subject, renders the subject unsuitable for licensure or registration;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(5)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Consider and review whether offense(s) or information not otherwise set forth in\n{{ref:500.801}}: Table A and {{ref:500.802}}: Tables B through D and {{ref:500.803}}: Table E would result in a Negative Suitability Recommendation and renders the\nsubject unsuitable for licensure or registration; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(5)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Subsequent to its review of a suitability matter, make recommendations to the Executive\nDirector, or the Commission, or a Commission Delegee(s).",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.800(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "When reviewing an adverse suitability recommendation by staff that there is an offense\nresulting in a Mandatory Disqualification, the Commission shall consider credible and reliable\ninformation demonstrating that:",
+          "children": [
+            {
+              "id": "500.800(6)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "When reviewing an adverse suitability recommendation by staff that there is an offense\nresulting in a Mandatory Disqualification, the Commission shall consider credible and reliable\ninformation demonstrating that:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(6)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The disqualifying event was based on erroneous information or evidence; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(6)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The subject can demonstrate that prior to the informal proceeding, the adverse suitability\nrecommendation can no longer be supported because the error was corrected.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.800(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "When reviewing an offense resulting in a Presumptive Negative Suitability Determination,\nthe committee shall take into consideration the following factors:",
+          "children": [
+            {
+              "id": "500.800(7)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "When reviewing an offense resulting in a Presumptive Negative Suitability Determination,\nthe committee shall take into consideration the following factors:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(7)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Nature and Specific Circumstances of the Offense or Incident:\n1. Time since the offense or incident;\n2. Number of offenses or incidents;\n3. If criminal, sentence imposed and length, if any, of incarceration;\n4. If criminal, sentence imposed and length, if any, of parole or probation; and\n5. Relationship of offense or incident to nature of work to be performed.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(7)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Mitigating Factors:\n1. Age of the subject at the time of the offense or incident; and\n2. Whether offenses or incidents were committed in association with dependence on\ndrugs or alcohol from which the subject has since recovered.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(7)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Conduct Since Time of the Offense or Incident:\n1.\nIf criminal, any relevant evidence of rehabilitation or lack thereof, such as\ninformation about compliance with conditions of parole or probation, including orders\nof no contact with victims and witnesses;\n2. The subject's conduct and experience since the time of the offense including, but not\nlimited to, professional or educational certifications obtained; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(7)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Any other relevant information, including information submitted by the subject to the\nCommittee or requested by the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.800(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "The Committee may make a Negative Suitability Determination in the following\ncircumstances:",
+          "children": [
+            {
+              "id": "500.800(8)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "The Committee may make a Negative Suitability Determination in the following\ncircumstances:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(8)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "On the receipt of the staff's Negative Suitability Recommendation that there is credible\nand reliable information:\n1. The applicant's or Licensee's prior actions posed or would likely pose a risk to the\npublic health, safety, or welfare if a License or registration is granted or renewed; and\n2. The risk posed by the applicant's or Licensee's actions relates or would likely relate\nto the operation of a Marijuana Establishment.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(8)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "On review of this recommendation, the Committee shall consider whether the staff has\ncarried its burden of demonstrating:\n1. The applicant's or Licensee's prior actions posed or would likely pose a risk to the\npublic health, safety, or welfare if a License or registration is granted or renewed; and\n2. The risk posed by the applicant's or Licensee's actions relates or would likely relate\nto the operation of a Marijuana Establishment.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.800(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "Where a Marijuana Establishment Agent listed on the application for licensure in\naccordance with {{ref:500.101(1)}}, is found to have no suitability issue under {{ref:500.801}}: Table A, or to have overcome any suitability issue, the agent shall not be subject to a\nsubsequent suitability review under {{ref:500.802}}: Tables B through D and {{ref:500.803}}: Table E.",
+          "children": [
+            {
+              "id": "500.800(9)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Where a Marijuana Establishment Agent listed on the application for licensure in\naccordance with {{ref:500.101(1)}}, is found to have no suitability issue under {{ref:500.801}}: Table A, or to have overcome any suitability issue, the agent shall not be subject to a\nsubsequent suitability review under {{ref:500.802}}: Tables B through D and {{ref:500.803}}: Table E.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(9)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Nothing in {{ref:500.800(9)}} relieves the requirement that the applicant or Licensee\nconduct background checks on its agents and disclose to the Commission's staff any\nsuitability issue(s) that arise as a result of those checks.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(9)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Any subsequent disclosure of background check information for a Marijuana\nEstablishment Agent required to be listed and evaluated pursuant to {{ref:500.101(1)}},\nwill be assessed pursuant to {{ref:500.801}}: Table A, or on other grounds for a Negative\nSuitability Determination only.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.800(9)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Nothing in {{ref:500.800(9)}} precludes the Commission from initiating a suitability\nreview based on background information received after the Commission's initial suitability\nreview.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.800(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "The Executive Director in consultation with the Committee may determine that a subject's\nsuitability warrants the Commission's consideration. The Executive Director may also remand\na matter to staff for further investigation prior to making a determination. The Commission may\nconsider the determination when acting on the application or renewal.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 48
+}

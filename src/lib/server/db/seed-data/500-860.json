@@ -1,0 +1,82 @@
+{
+  "sectionNumber": "500.860",
+  "heading": "Notice",
+  "slug": "500-860",
+  "contentTree": [
+    {
+      "id": "500.860",
+      "type": "section",
+      "number": null,
+      "heading": "Notice",
+      "content": "",
+      "children": [
+        {
+          "id": "500.860(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "The Commission shall maintain a list of individuals or entities that request notice.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.860(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Notice shall be provided, in a time and manner to be determined by the Commission, to\nthose individuals or entities on the list in advance for:",
+          "children": [
+            {
+              "id": "500.860(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Notice shall be provided, in a time and manner to be determined by the Commission, to\nthose individuals or entities on the list in advance for:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.860(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Meetings of the Cannabis Control Commission;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.860(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Meetings of the Cannabis Advisory Board; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.860(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Other events determined by the Commission, in its discretion.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.860(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "The individual or entity is responsible for ensuring that the information provided to the\nCommission for the purpose of receiving notice remains current.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 56
+}

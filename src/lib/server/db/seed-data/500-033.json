@@ -1,0 +1,73 @@
+{
+  "sectionNumber": "500.033",
+  "heading": "Void Registration Cards",
+  "slug": "500-033",
+  "contentTree": [
+    {
+      "id": "500.033",
+      "type": "section",
+      "number": null,
+      "heading": "Void Registration Cards",
+      "content": "",
+      "children": [
+        {
+          "id": "500.033(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "An agent Registration Card issued to a Marijuana Establishment Agent, including a\nLaboratory Agent, shall be void when:",
+          "children": [
+            {
+              "id": "500.033(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "An agent Registration Card issued to a Marijuana Establishment Agent, including a\nLaboratory Agent, shall be void when:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.033(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The agent has ceased to be associated with the Marijuana Establishment or Independent\nTesting Laboratory that applied for and received the agent's Registration Card;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.033(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The card has not been surrendered on the issuance of a new agent Registration Card\nbased on new information; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.033(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The agent is deceased.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.033(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "A void agent Registration Card is inactive and invalid.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 8
+}

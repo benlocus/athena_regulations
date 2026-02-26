@@ -1,0 +1,118 @@
+{
+  "sectionNumber": "500.803",
+  "heading": "Suitability Standard for Registration as a Laboratory Agent",
+  "slug": "500-803",
+  "contentTree": [
+    {
+      "id": "500.803",
+      "type": "section",
+      "number": null,
+      "heading": "Suitability Standard for Registration as a Laboratory Agent",
+      "content": "",
+      "children": [
+        {
+          "id": "500.803(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "{{ref:500.803}} shall apply to Laboratory Agents in their capacity as employees or\nvolunteers for an Independent Testing Laboratory licensed pursuant to {{ref:500.029}} and\nshall be used by the Independent Testing Laboratory Executive registered with the DCJIS\npursuant to 803 CMR 2.04: iCORI Registration and the Commission for purposes of\ndetermining suitability for registration as a Laboratory Agent with the Licensee.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.803(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "For purposes of determining suitability based on background checks performed in\naccordance with {{ref:500.803}}:",
+          "children": [
+            {
+              "id": "500.803(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "For purposes of determining suitability based on background checks performed in\naccordance with {{ref:500.803}}:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.803(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "All conditions, offenses, and violations are construed to include Massachusetts law or\nsimilar law(s) of Other Jurisdictions.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.803(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All criminal disqualifying conditions, offenses, and violations include the crimes of\nattempt, accessory, conspiracy, and solicitation.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.803(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Juvenile dispositions shall not be considered as a factor for determining suitability.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.803(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Where applicable, all look back periods for criminal conditions, offenses, and violations\nincluded in {{ref:500.803}}: Table E commence on the date of disposition; provided\nhowever, that if disposition results in incarceration in any institution, the look back period\nshall commence on release from incarceration.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.803(2)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Unless otherwise specified in {{ref:500.803}}: Table E, a criminal condition, offense\nor violation shall include both convictions, which include guilty pleas and pleas of nolo\ncontendere, and dispositions resulting in continuances without a finding or other disposition\nconstituting an admission to sufficient facts, but shall exclude other non-conviction\ndispositions.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.803(2)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "All suitability determinations will be made in accordance with the procedures set forth\nin {{ref:500.800}}. In addition to the requirements established in {{ref:500.800}}:\nshall:\n1. Consider whether offense(s) or information that would result in a Presumptive\nNegative Suitability Determination under {{ref:500.803}}: Table E renders the\nsubject unsuitable for registration, regardless of the determination of the Licensee; and\n2. Consider appeals of determinations of unsuitability based on claims of erroneous\ninformation received as part of the background check during the application process in\naccordance with 803 CMR 2.17: Requirement to Maintain a Secondary Dissemination\nLog and 803 CMR 2.18: Adverse Employment Decision Based on CORI or Other Types\nof Criminal History Information Received from a Source Other than the DCJIS.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.803(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Laboratory Agents shall remain suitable at all times a License or registration remains in\neffect. An individual subject to this section shall notify the Commission in writing of any charge\nor conviction of an offense that would result in a presumptive negative suitability determination\nor mandatory disqualification under {{ref:500.803}}: Table E within ten days of such\nindividual's arrest or summons, and within ten days of the disposition on the merits of the\nunderlying charge. Failure to make proper notification to the Commission may be grounds for\ndisciplinary action. If the Commission lawfully finds a disqualifying event and the individual\nasserts that the record was sealed, the Commission may require the individual to provide proof\nfrom a court evidencing the sealing of the case.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.803(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "In accordance with {{extref:M.G.L. c. 94G, § 15(b)}}(5), the Commission is prohibited from issuing\na registration to a Laboratory Agent who has been convicted of a felony drug offense in the\nCommonwealth or Other Jurisdictions that would be a felony drug offense in the\nCommonwealth.\nTable E: Registration as a Laboratory Agent. Applies solely to applicants for registration as\na Laboratory Agent in accordance with {{ref:500.803}} at Marijuana Establishment licensed\npursuant to {{ref:500.050}}.\nTime Period\n\nPrecipitating Issue\n\nResult\n\nOpen/Unresolved Criminal Proceedings:\nPresent (during\ntime from start of\napplication\nprocess through\naction on\napplication or\nrenewal).\n\nAny outstanding or unresolved criminal proceeding,\nthe disposition of which may result in a felony\nconviction under the laws of the Commonwealth or a\nsimilar law in Other Jurisdictions.\n\nMandatory\nDisqualification\n\nTime Period\nPresent\n\nPrecipitating Issue\n\nResult\n\nOpen/Unresolved Marijuana Business-Related\nLicense Violations (Massachusetts or Other\nJurisdictions):\nAn outstanding or unresolved violation of the\nregulations as included in {{ref:500.000}} or a\nsimilar statute or regulations in Other Jurisdictions that\nhas either (a) remained unresolved for a period of six\nmonths or more; or (b) the nature of which would\nresult in a determination of unsuitability for\nregistration.\nSubmission of Untruthful Information to the\nCommission Including, but Not Limited to:\n\nPresent\n\nSubmission of information in connection with an agent\napplication, waiver request or other Commission action\nthat is deceptive, misleading, false or fraudulent, or\nthat tends to deceive or create a misleading impression,\nwhether directly, or by omission or ambiguity,\nincluding lack of disclosure or insufficient disclosure;\nor\n\nPresumptive\nNegative\nSuitability\nDetermination\n\nmaking statements during or in connection with a\nCommission inspection or investigation that are\ndeceptive, misleading, false or fraudulent, or that tend\nto deceive or create a misleading impression, whether\ndirectly, or by omission or ambiguity, including lack of\ndisclosure or insufficient disclosure; or\nPresent\n\nOpen Professional or Occupational License Cases\n\nMandatory\nDisqualification\n\nFelony Convictions in Massachusetts or Other\nJurisdictions:\nIndefinite\n\nFor drug offenses or trafficking crimes under\n{{extref:M.G.L. c. 94C, § 32}}E, or like crimes in Other\nJurisdictions.\n\nMandatory\nDisqualification\n\nFelony Convictions or CWOF in Massachusetts or\nOther Jurisdictions:\nPreceding Five\nYears\n\nFor crimes of violence against a person, \"violent\ncrime\" to be defined the same way as under\n{{extref:M.G.L. c. 140, § 121}} and {{extref:M.G.L. c. 127, § 133}}E.\nFelony Convictions or CWOF in Massachusetts or\nOther Jurisdictions:\n\nPreceding Seven\nYears\nPreceding Five\nYears\n\nFor crimes of dishonesty or fraud.\nThe applicant's or Licensee's prior actions posed or\nwould likely pose a risk to the public health, safety, or\nwelfare; and\nthe risk posed by the applicant's or Licensee's actions\nrelates or would likely relate to the operation of a\nMarijuana Establishment.\n\nPresumptive\nNegative\nSuitability\nDetermination\nPresumptive Negative\nSuitability\nDetermination\nMay make a Negative\nSuitability\nDetermination in\naccordance with\n{{ref:500.800(8)}}",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 51
+}

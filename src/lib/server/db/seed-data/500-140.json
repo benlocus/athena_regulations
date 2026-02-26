@@ -1,0 +1,877 @@
+{
+  "sectionNumber": "500.140",
+  "heading": "Additional Operational Requirements for Retail Sale",
+  "slug": "500-140",
+  "contentTree": [
+    {
+      "id": "500.140",
+      "type": "section",
+      "number": null,
+      "heading": "Additional Operational Requirements for Retail Sale",
+      "content": "",
+      "children": [
+        {
+          "id": "500.140(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "In addition to the general operational requirements for Marijuana Establishments required\nunder {{ref:500.105}} and security requirements provided in {{ref:500.110}}, Licensees\nengaged in retail sales shall comply with {{ref:500.140}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.140(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "On-premises Verification of Identification.",
+          "children": [
+            {
+              "id": "500.140(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "On-premises Verification of Identification.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "On entry into the Premises of a Marijuana Retailer by an individual, a Marijuana\nEstablishment Agent shall immediately inspect the individual's proof of identification and\ndetermine the individual's age. An individual shall not be admitted to the Premises, unless\nthe Marijuana Retailer has verified that the individual is 21 years of age or older by an\nindividual's proof of identification.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "On point-of-sale by an individual, a Marijuana Establishment Agent shall inspect the\nindividual's proof of identification and determine the individual's age.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "In accordance with {{extref:M.G.L. c. 94G, § 4(c)}}(3), a Marijuana Retailer may not acquire or\nrecord Consumer personal information other than information typically required in a retail\ntransaction, which can include information to determine the Consumer's age. A Marijuana\nRetailer may not record or retain any additional personal information from Consumer without\nthe Consumer's voluntary written permission, except as provided in {{ref:500.140(2)(d)}} and\n(e).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Marijuana Retailer that has entered into Delivery Agreements with Delivery Licensees\nfor the purpose of transacting home deliveries to Consumers shall establish a Pre-verification\nprocess for Consumers who intend to place orders for delivery with the Marijuana\nEstablishment. A Marijuana Retailer that holds more than one Marijuana Retailer license\nmay establish a process to share Pre-verification information about Consumers among their\nmultiple locations for the purpose of enabling deliveries from any licensed location operated\nby the Marijuana Retailer; provided, however that information shall only be shared among\nlocations upon the affirmative election by a Consumer. To comply with the requirements of\nPre-verification, the Marijuana Establishment shall:\n1. Require the Consumer to pre-verify with the Marijuana Establishment either in\nperson or through a Commission-approved electronic means by presenting or submitting\nthe Consumer's valid, unexpired government-issued photo identification; and\n2. Examine the government-issued identification card and verify that the individual\nConsumer presenting or submitting the government-issued identification card is the\nindividual Consumer that matches the government-issued identification card and that the\nindividual Consumer is 21 years of age or older.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(2)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Marijuana Retailer shall collect and maintain relevant information about the\nindividual Consumer, for the purpose of transacting a delivery and ensuring that the recipient\nof a delivery under {{ref:500.145}} is legally allowed to receive Marijuana and Marijuana\nProducts, which shall be limited to:\n1. The individual's name;\n2. The individual's date of birth;\n3. The individual's address;\n4. The individual's primary telephone number; and\n5. The individual's email address.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(2)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Any such information collected by the Marijuana Establishment shall be used solely for\nthe purpose of transacting a delivery under {{ref:500.145}} and shall be otherwise\nmaintained confidentially.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Limitation on Sales.",
+          "children": [
+            {
+              "id": "500.140(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Limitation on Sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "In accordance with {{extref:M.G.L. c. 94G, § 7}}, a Marijuana Retailer may not knowingly sell\nmore than one ounce of Marijuana or its combined dry weight equivalent in Marijuana\nconcentrate or Edibles to a retail customer per day.\n1. One ounce of Marijuana flower shall be equivalent to five grams of active\ntetrahydrocannabinol (THC) in Marijuana concentrate including, but not limited to,\nTinctures.\n2. One ounce of Marijuana flower shall be equivalent to five hundred milligrams of\nactive tetrahydrocannabinol (THC) in Edibles.\n3. Topicals and ointments shall not be subject to a limitation on daily sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Marijuana Retailer may not sell Marijuana or Marijuana Products in excess of the\npotency levels established by {{ref:500.150(4)}}; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Marijuana Retailer shall demonstrate that it has a point-of-sale system that does not\nallow for a transaction in excess of the limit established in {{ref:500.140(3)(a)}} or the\npotency levels established in {{ref:500.140(3)(b)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(3)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Unless authorized by the Commission, a Marijuana Establishment may not sell any\nservice or product other than Marijuana Products, Marijuana Accessories, and Branded\nGoods.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(3)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Marijuana Establishment may sell non-infused food, water, and drink items that are\npre-packaged prior to arrival on the Premises and are Shelf-stable. Such sales of Shelf-Stable\nProducts shall be limited to products sold in a manner that does not cause the Marijuana\nEstablishment to be considered a Food Establishment under 105 CMR 590.001. The\nMarijuana Establishment shall obtain all licenses and permits, as necessary, prior to the sale\nof Shelf-stable products.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(3)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A Marijuana Retailer shall not sell alcohol or Tobacco.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Unauthorized Sales and Right to Refuse Sales.",
+          "children": [
+            {
+              "id": "500.140(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Unauthorized Sales and Right to Refuse Sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Retailer shall refuse to sell Marijuana to any Consumer who is unable to\nproduce valid proof of government-issued identification.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A retailer shall refuse to sell Marijuana Products to a Consumer if, in the opinion of the\nMarijuana Establishment Agent based on the information available to the agent at that time,\nthe Consumer or the public would be placed at risk. This includes, but is not limited to, the\nConsumer engaging in daily transactions that exceed the legal possession limits or that create\na risk of Diversion or Inversion.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A retailer may not sell to an individual more than one ounce of Marijuana or its dry\nweight equivalent in Marijuana concentrate or Edibles per transaction. A retailer may not\nknowingly sell to an individual more than one ounce of Marijuana or its dry weight\nequivalency per day.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(4)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A retailer is prohibited from selling Marijuana Products containing nicotine.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(4)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A retailer is prohibited from selling Marijuana Products containing alcohol, if sales of\nsuch alcohol would require licensure pursuant to {{extref:M.G.L. c. 138}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Recording Sales.",
+          "children": [
+            {
+              "id": "500.140(5)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Recording Sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Retailer shall only utilize a point-of-sale system approved by the\nCommission, in consultation with the DOR.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A retailer may utilize a sales recording module approved by the DOR.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A retailer is prohibited from utilizing software or other methods to manipulate or alter\nsales data.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A retailer shall conduct a monthly analysis of its equipment and sales data to determine\nthat no software has been installed that could be utilized to manipulate or alter sales data and\nthat no other methodology has been employed to manipulate or alter sales data.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Marijuana Retailer shall maintain records that it has performed the monthly analysis\nand produce it on request to the Commission. If a retailer determines that software has been\ninstalled for the purpose of manipulation or alteration of sales data or other methods have\nbeen utilized to manipulate or alter sales data:",
+              "children": [
+                {
+                  "id": "500.140(5)(e)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "A Marijuana Retailer shall maintain records that it has performed the monthly analysis\nand produce it on request to the Commission. If a retailer determines that software has been\ninstalled for the purpose of manipulation or alteration of sales data or other methods have\nbeen utilized to manipulate or alter sales data:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.140(5)(e)1.",
+                  "type": "paragraph",
+                  "number": "1.",
+                  "heading": null,
+                  "content": "It shall immediately disclose the information to the Commission;\n2. It shall cooperate with the Commission in any investigation regarding manipulation\nor alteration of sales data; and\n3. Take such other action directed by the Commission to comply with {{ref:500.105}}.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A retailer shall comply with 830 CMR 62C.25.1: Record Retention and DOR Directive\n16-1 regarding recordkeeping requirements.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "A retailer shall adopt separate accounting practices at the point of sale for Marijuana and\nMarijuana Product sales, and non-Marijuana sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "The Commission and the DOR may audit and examine the point-of-sale system used by\na retailer in order to ensure compliance with Massachusetts tax laws and {{ref:500.140(5)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(5)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "A Marijuana Retailer who operates a Supplemental On-site Consumption License in the\nPremises shall distinguish sales for retail only and sales for consumption through the\nSeed-to-sale SOR. After the point of sale, there shall be a reconciliation of that inventory in\nthe Seed-to-sale SOR.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "Consumer Education. A Marijuana Retailer shall make available educational materials\nabout Marijuana Products to Consumers. A retailer shall have an adequate supply of current\neducational material available for distribution. Educational materials shall be available in\ncommonly spoken languages designated by the Commission, which will include, but not be\nlimited to, appropriate materials for the visually- and hearing-impaired. Such materials shall be\nmade available for inspection by the Commission on request. The educational material shall\ninclude at least the following:",
+          "children": [
+            {
+              "id": "500.140(6)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Consumer Education. A Marijuana Retailer shall make available educational materials\nabout Marijuana Products to Consumers. A retailer shall have an adequate supply of current\neducational material available for distribution. Educational materials shall be available in\ncommonly spoken languages designated by the Commission, which will include, but not be\nlimited to, appropriate materials for the visually- and hearing-impaired. Such materials shall be\nmade available for inspection by the Commission on request. The educational material shall\ninclude at least the following:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A warning that Marijuana has not been analyzed or approved by the FDA, that there is\nlimited information on side effects, that there may be health risks associated with using\nMarijuana, and that it should be kept away from children;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A warning that when under the influence of Marijuana, driving is prohibited by\n{{extref:M.G.L. c. 90, § 24}}, and machinery should not be operated;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Information to assist in the selection of Marijuana, describing the potential differing\neffects of various strains of Marijuana, as well as various forms and routes of administration;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Materials offered to Consumers to enable them to track the strains used and their\nassociated effects;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Information describing proper dosage and titration for different routes of administration.\nEmphasis shall be on using the smallest amount possible to achieve the desired effect. The\nimpact of potency shall also be explained;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A discussion of tolerance, dependence, and withdrawal;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Facts regarding substance use disorder signs and symptoms, as well as referral\ninformation for substance use disorder treatment programs, and the telephone number for the\nMassachusetts Substance Use Helpline;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "A statement that Consumers may not sell Marijuana to any other individual;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "Information regarding penalties for possession or distribution of Marijuana in violation\nof Massachusetts law; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(6)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "Any other information required by the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "Testing. No Marijuana Product, including Marijuana, may be sold or otherwise marketed\nfor adult use that has not first been tested by Independent Testing Laboratories, except as allowed\nunder {{ref:500.000}}. The product shall be deemed to comply with the standards required\nunder {{ref:500.160}}. Potency levels derived from the Cannabinoid Profile, including\nthe amount of delta-nine-tetrahydrocannabinol (Δ9-THC) and other Cannabinoids, contained\nwithin Finished Marijuana or Marijuana Product to be sold or otherwise marketed, shall be\nrecorded in the Seed-to-sale SOR.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.140(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "Repackaging. Repackaged Marijuana shall comply with the labeling and packaging\nrequirements under {{ref:500.105(5)}} and {{ref:500.105(6)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.140(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "Advance Contactless Order Fulfillment.",
+          "children": [
+            {
+              "id": "500.140(9)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Advance Contactless Order Fulfillment.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(9)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Retailer may allow for advance contactless ordering of Marijuana and\nMarijuana Products by telephone, website or third-party platform, which shall be available\nfor inspection prior to commencing operations and on request.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(9)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Marijuana Retailer may fulfill advance orders through contactless means by not\nrequiring contact between a Consumer and Registered Marijuana Agent.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(9)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Any physical unit used for the purpose of the fulfillment of an advance contactless order\n(order) shall ensure that access to orders of Marijuana or Marijuana Products is limited to the\nConsumer who placed the order.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(9)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Any physical unit used for the purpose of order fulfillment shall be located within the\nMarijuana Retailer's building and be bolted or otherwise permanently affixed to the\nMarijuana Establishment Premises.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(9)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Marijuana Retailer that adopts a contactless means of fulfilling orders shall have a\nwritten operations plan which shall be submitted to the Commission prior to commencing\nthese operations and on request. The plan shall include a detailed description of how the\nMarijuana Retailer will ensure that advance contactless order fulfillment complies with the\nrequirements of:\n1. {{ref:500.105(3)(b)}} and (c) for the safe storage of Marijuana and Marijuana\nProducts;\n2. {{ref:500.110(1)(a)}} and {{extref:M.G.L. c. 94G, § 4(c)}}(3) for the positive identification\nof individuals seeking access to the Premises of the Marijuana Establishment for the\npurpose of obtaining an order placed in advance to limit access solely to individuals 21\nyears of age or older;\n3. {{ref:500.110(5)(a)}}(4) for the video surveillance of the advance contactless\norder; and\n4. {{ref:500.140(8)(c)}} and (d).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(9)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Orders placed in advance may not be retained in a physical unit used for the purpose of\ncontactless order fulfillment overnight or outside of business hours.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "Product Database. A Marijuana Retailer that purchases wholesale Marijuana Products\nfrom a licensed Marijuana Product Manufacturer for the purpose of Repackaging Marijuana\nProducts for sale to Consumers shall provide the Commission with the following information.\nThis information may be used by the Commission for its Product Database.",
+          "children": [
+            {
+              "id": "500.140(10)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Product Database. A Marijuana Retailer that purchases wholesale Marijuana Products\nfrom a licensed Marijuana Product Manufacturer for the purpose of Repackaging Marijuana\nProducts for sale to Consumers shall provide the Commission with the following information.\nThis information may be used by the Commission for its Product Database.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(10)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Marijuana Retailer shall provide the following:\n1. A photograph of a Finished Marijuana Product outside of, but next to, the Marijuana\nProduct's packaging; provided, however that where single servings of a multi-serving\nproduct are unable to be easily identified because of its form, a description of what\nconstitutes a single-serving shall be provided (e.g. a single-serving is a 1\" x 1\" square);\n2. A photograph of the Marijuana Product inside packaging; and\n3. The name of the Product Manufacturer that produced the Marijuana Product.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(10)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Photographs submitted shall be electronic files in a JPEG format with a minimum photo\nresolution of 640 x 480 and print resolution of 300 DPI. Photographs shall be against a white\nbackground.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(10)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Marijuana Retailers shall provide the information required under {{ref:500.140(8)(a)}} for each Marijuana Product it Repackages for sale prior to the product being\nmade available for sale and shall update the information whenever a substantial change to\npackaging or label of the Marijuana Product occurs. For purposes of {{ref:500.140(10)}},\na substantial change shall be a change to the physical attributes or content of the package or\nlabel.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(11)",
+          "type": "subsection",
+          "number": "(11)",
+          "heading": null,
+          "content": "In addition to the written operating policies required under {{ref:500.105(1)}}, a\nMarijuana Retailer shall maintain written policies and procedures which shall include:",
+          "children": [
+            {
+              "id": "500.140(11)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "In addition to the written operating policies required under {{ref:500.105(1)}}, a\nMarijuana Retailer shall maintain written policies and procedures which shall include:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(11)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Policies and procedures for adequately tracking, recording, and documenting all Vendor\nSamples that the Marijuana Retailer receives from a Marijuana Cultivator or a Marijuana\nProduct Manufacturer; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(11)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Policies and procedures for adequately tracking, recording, and documenting all Vendor\nSamples that the Marijuana Retailer provides to employees for the purpose of assessing\nproduct quality and determining whether to make the product available to sell, in compliance\nwith {{ref:500.140(15)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(12)",
+          "type": "subsection",
+          "number": "(12)",
+          "heading": null,
+          "content": "Vendor Samples.",
+          "children": [
+            {
+              "id": "500.140(12)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Vendor Samples.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(12)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Retailer may receive a Vendor Sample of Marijuana flower from a\nMarijuana Cultivator pursuant to {{ref:500.120(13)}}. A Marijuana Retailer may also\nreceive a Vendor Sample of Marijuana Product from a Marijuana Product Manufacturer\npursuant to {{ref:500.130(7)}}. Receipt of a Vendor Sample under {{ref:500.140(12)}}\nshall not be considered a prohibited practice under {{ref:500.105(4)(b)}}20.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(12)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Vendor Samples may not be sold to another licensee or Consumer.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(12)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Marijuana Retailer may provide the Vendor Samples it receives from a Marijuana\nCultivator or a Marijuana Product Manufacturer to its Employees for the purpose of\nassessing product quality and determining whether to make the product available to sell the\nproduct. Vendor Samples may not be consumed on any licensed Premises.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(12)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Vendor Sample limits. A Marijuana Retailer is limited to providing the following\naggregate amounts of Vendor Samples to all Employees in a calendar month period:\n1. Four grams per strain of Marijuana flower and no more than seven strains of\nMarijuana flower;\n2. Five grams of Marijuana concentrate or extract including, but not limited to,\nTinctures;\n3. Five hundred milligrams of Edibles whereby the serving size of each individual\nsample does not exceed five milligrams and otherwise satisfies the potency levels set\nforth in {{ref:500.150(4)}}; and\n4. Five units of sale per Cannabis product line and no more than six individual Cannabis\nproduct lines. For purposes of {{ref:500.140(15)}}, a Cannabis product line shall\nmean items bearing the same Stock Keeping Unit Number.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(12)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Upon providing a Vendor Sample to an employee, the Marijuana Retailer shall record:\n1. The reduction in quantity of the total weight or item count under the unique\nalphanumeric identifier associated with the Vendor Sample;\n2. The date and time the Vendor Sample was provided to the Employee;\n3. The agent registration number of the employee receiving the Vendor Sample; and\n4. The name of the Employee as it appears on their agent registration card.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(12)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "All Vendor Samples provided by a Marijuana Retailer to its employees shall also be\nentered into the point-of-sale system and shall count against the individual employee's daily\npurchase limit, if applicable, consistent with {{ref:500.140(3)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(13)",
+          "type": "subsection",
+          "number": "(13)",
+          "heading": null,
+          "content": "Sale of Marijuana Vaporizer Devices.",
+          "children": [
+            {
+              "id": "500.140(13)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Sale of Marijuana Vaporizer Devices.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(13)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Marijuana Retailers offering Marijuana Vaporizer Devices for sale to Consumers shall\ninclude signage at the point of sale, that is legible and enlarged and contains the following\nstatements:\n1. \"Marijuana Vaporizer Devices have been tested for Vitamin E Acetate and other\ncontaminants, with no adverse findings. WARNING: Vaporizer Devices may contain\ningredients harmful to health when inhaled.\"\n2. \"Consumers shall have access to the test results of Marijuana Vaporizer Devices\nincluding copies of any Certificates of Analysis provided by the device's manufacturer.\"",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(13)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Marijuana Retailers shall provide a physical insert to Consumers that accompanies all\npurchased Marijuana Vaporizer Devices that states, including capitalization and emphasis,\nthe following: \"Marijuana Vaporizer Devices have been tested for Vitamin E Acetate and\nother contaminants, with no adverse findings. WARNING: Vaporizer Devices may contain\ningredients harmful to health when inhaled.\"",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(13)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The sale of disposable and reusable vaporizer pens and devices shall be accompanied\nby a product insert identifying the materials used in the vaporizer device's atomizer coil (e.g.,\ntitanium, titanium alloy, quartz, copper, nichrome, kanthal, or other specified material), and\nmanufacturer identification of the device hardware, cartridge, battery and other components;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(13)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Marijuana Retailer shall make available the information contained in {{ref:500.105(5)(c)}}6. in the product description at the point of sale and as part of any product list\nposted on the Marijuana Retailer's website or Third-party Technology Platforms or\napplications employed for preordering or delivery.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(13)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Marijuana Retailer shall retain all records of purchases from any Product\nManufacturer or supplier of any ingredient, additive, device, component part or other\nmaterials provided to the Marijuana Retailer about Marijuana Vaporizer Devices sold at\nretailers. Such records shall be made available to the Commission upon request.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(14)",
+          "type": "subsection",
+          "number": "(14)",
+          "heading": null,
+          "content": "Physical Separation of Marijuana and MIPs or Marijuana Products for Medical- or Adultuse. A CMO shall provide for physical separation between medical and adult use sales areas.\nSeparation may be provided by a temporary or semipermanent physical barrier, such as a\nstanchion, that, in the opinion of the Commission, adequately separates sales areas of MIPs for\nmedical-use from sales areas of Marijuana products for adult use for the purpose of Patient\nConfidentiality.",
+          "children": [
+            {
+              "id": "500.140(14)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Physical Separation of Marijuana and MIPs or Marijuana Products for Medical- or Adultuse. A CMO shall provide for physical separation between medical and adult use sales areas.\nSeparation may be provided by a temporary or semipermanent physical barrier, such as a\nstanchion, that, in the opinion of the Commission, adequately separates sales areas of MIPs for\nmedical-use from sales areas of Marijuana products for adult use for the purpose of Patient\nConfidentiality.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(14)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A CMO shall provide for separate lines for sales of Marijuana or MIPs for medical-use\nfrom Marijuana Products for adult use within the sales area, provided that the holder of a\npatient registration card may use either line and may not be limited only to the medical use\nline, so long as the CMO can record the patient's transaction in accordance with 935 CMR\n501.140(5).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(14)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A CMO shall additionally provide a patient consultation area, an area that is separate\nfrom the sales floor that is enclosed to allow privacy and for confidential visual and auditory\nconsultation with Qualifying Patients.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(14)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A CMO's patient consultation area shall have signage stating, \"Consultation Area\". The\nprivate consultation area shall be separate from the sales area. It shall be accessible by a\nQualifying Patient or Caregiver without having to traverse a Limited Access Area.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(14)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A CMO shall use best efforts to prioritize Patient and Caregiver identification\nverification and physical entry into its retail area.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.140(15)",
+          "type": "subsection",
+          "number": "(15)",
+          "heading": null,
+          "content": "Patient Supply.",
+          "children": [
+            {
+              "id": "500.140(15)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Patient Supply.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(15)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A CMO shall ensure access to a sufficient quantity and variety of marijuana products,\nincluding marijuana, for patients registered under 935 CMR 501.000: Medical Use of\nMarijuana.\n1. Where the CMO has been open and dispensing for a period of less than six months,\nthe license shall reserve 35% of the MTC's marijuana products.\n2. Where the CMO has been open and dispensing for a period of six months or longer,\nthe licensee shall maintain a quantity and variety of marijuana products for patients\nregistered under 935 CMR 501.000: Medical Use of Marijuana, sufficient to meet the\ndemand indicated by an analysis of sales data collected by the licensee during the\npreceding six months in accordance with {{ref:500.140(5)}}, and 935 CMR\n501.140(5): Recording Sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(15)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Marijuana products reserved for patient supply shall, unless unreasonably impracticable,\nreflect the actual types and strains of marijuana products documented during the previous six\nmonths. If a substitution must be made, the substitution shall reflect as closely as possible\nthe type and strain no longer available.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.140(15)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "On a biannual basis, the CMO shall submit to the Commission an inventory plan to\nreserve a sufficient quantity and variety of medical use Marijuana Products for Registered\nQualifying Patients, based on reasonably anticipated patient needs as documented by sales\nrecords over the preceding six months. On each occasion that the supply of any product\nwithin the reserved patient supply is exhausted and a reasonable substitution cannot be made,\nthe CMO shall submit a report to the Commission in a form determined by the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 20
+}

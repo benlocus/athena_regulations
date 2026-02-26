@@ -1,0 +1,63 @@
+{
+  "sectionNumber": "500.302",
+  "heading": "Compliance Examination",
+  "slug": "500-302",
+  "contentTree": [
+    {
+      "id": "500.302",
+      "type": "section",
+      "number": null,
+      "heading": "Compliance Examination",
+      "content": "",
+      "children": [
+        {
+          "id": "500.302(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "After a Marijuana Establishment has been licensed, the Commission or a Commission\nDelegee, pursuant to {{extref:M.G.L. c. 94G, § 4(a)}}(xx), has the authority to demand access to a\nMarijuana Establishment's papers, books, documents, records, correspondence, electronic\ncommunications, and other tangible things to examine and inspect. Such examination and\ninspection may include interrogatories to parties or subpoenas to compel the production of\npapers, books, documents, records, correspondence, electronic communications, and other\ntangible things. The examination and inspection of a Marijuana Establishment may also include\nthe interview of material witnesses, registered agents or Close Associates whom the Commission\nhas determined is involved in the financing, management or operation of an establishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.302(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Administrative Subpoenas. The Commission or a Commission Delegee may, during a\npreliminary investigation prior to a hearing, issue, modify, amend or rescind subpoenas. Material\nwitnesses, registered agents, or other Persons whom the Commission has determined are\ninvolved in the financing, management or operation of an establishment may petition the\nCommission to modify, amend or rescind subpoenas.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.302(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "General Provisions. Administrative subpoenas for compliance examination and inspection\nshall be issued in the name of the Commission by the Commission or a Commission Delegee.\nService may be made in a form and manner determined by the Commission including, but not\nlimited to, by the consent of the parties.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.302(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Enforcement of Subpoenas. On the failure of a Person to comply with a subpoena, and not\nsubsequently vacated or modified by the Commission or a Commission Delegee, the\nCommission or a Commission Delegee may apply to the Superior Court for an order to compel\ncompliance with the subpoena; an order for costs and fees associated with the issuance and\nenforcement of the subpoena; or an order of contempt for any failure by a party to comply with\na court order.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.302(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "The failure to cooperate with provisions of {{ref:500.302}} may result in administrative\nor disciplinary action against the Licensee.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 33
+}

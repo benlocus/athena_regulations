@@ -1,0 +1,137 @@
+{
+  "sectionNumber": "500.102",
+  "heading": "Action on Applications",
+  "slug": "500-102",
+  "contentTree": [
+    {
+      "id": "500.102",
+      "type": "section",
+      "number": null,
+      "heading": "Action on Applications",
+      "content": "",
+      "children": [
+        {
+          "id": "500.102(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Action on Each Application. The Commission shall grant licenses with the goal of ensuring\nthat the needs of the Commonwealth are met regarding access, quality, and community safety.",
+          "children": [
+            {
+              "id": "500.102(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Action on Each Application. The Commission shall grant licenses with the goal of ensuring\nthat the needs of the Commonwealth are met regarding access, quality, and community safety.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "License applications shall be evaluated based on the applicant's:\n1. Demonstrated compliance with the laws and regulations of the Commonwealth;\n2. Suitability for licensure based on the provisions of {{ref:500.101(1)}}, {{ref:500.800}}\nand {{ref:500.801}}; and\n3. Evaluation of the thoroughness of the applicant's responses to the required criteria.\nThe Commission shall consider each license application submitted by an applicant on a\nrolling basis.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Commission shall notify each applicant in writing that:\n1. The application has been deemed complete. Once deemed complete, the Commission\nreserves the right to approve or deny the license application;\n2. The application has been deemed incomplete, and include the grounds for which it\nhas been deemed incomplete; or\n3. The Commission requires further information within a specified period of time before\nthe packet is determined to be complete.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Failure of the applicant to adequately address all required items in its application in the\ntime required under {{ref:500.102}} will result in evaluation of the application as\nsubmitted. Nothing in {{ref:500.101}} is intended to confer a property or other right or\ninterest entitling an applicant to a meeting before an application may be denied.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(1)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "On determination that the application is complete, a copy of the completed application,\nto the extent permitted by law, will be forwarded to the municipality in which the Marijuana\nEstablishment will be located.\n1. For all License Applicants not subject to {{ref:500.102(1)(d)}}2., the Commission\nshall request that the municipality respond within 60 days of the date of the\ncorrespondence that the applicant's proposed Marijuana Establishment complies with\nmunicipal bylaws or ordinances.\n2. On determination that the application submitted by a Social Equity Business or a\nbusiness controlled by and with majority ownership comprised of Economic\nEmpowerment Priority Applicants or Social Equity Program Participants is complete, a\ncopy of the completed application, to the extent permitted by law, will be forwarded to\nthe Host Community. The Host Community shall respond within 30 days of the date of\nthe correspondence that the applicant's proposed Marijuana Establishment complies or\ndoes not comply with municipal bylaws or ordinances. If a Host Community does not\nrespond to the Commission's correspondence within 30 days, the Commission will\nconsider the requirement to be satisfied without any further action by the Host\nCommunity or applicant.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(1)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "The applicant shall keep current all information required by {{ref:500.000}}, or\notherwise required by the Commission. The applicant shall report any changes in or\nadditions to the content of the information contained in the application to the Commission\nwithin five business days after such change or addition. If a material change occurs to an\napplication deemed complete, the Commission may deem the application incomplete pending\nfurther review. If an application is initially deemed complete, and later deemed incomplete,\na notice will be provided to the applicant. An incomplete application must be fully evaluated\npursuant to {{ref:500.102(1)(a)}} prior to being deemed complete again and submitted to\nthe Commission pursuant to {{extref:M.G.L. c. 94G, § 5(a)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.102(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Action on Completed Applications.",
+          "children": [
+            {
+              "id": "500.102(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Action on Completed Applications.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Priority application review will be granted to existing MTC Priority Applicants and\nEconomic Empowerment Priority Applicants.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Commission shall review applications from Priority Applicants on an alternating\nbasis, beginning with the first-in-time-application received from either an MTC Priority\nApplicant or Economic Empowerment Priority Applicant as recorded by the Commission's\nelectronic license application tracking system. Where no completed application is available\nfor review by the Commission from either of the priority groups defined in {{ref:500.102(2)(a)}}, the Commission shall review the next complete application from either group.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The Commission shall grant or deny a provisional license not later than 90 days\nfollowing notification to the applicant that all required packets are considered complete.\nApplicants shall be notified in writing that:\n1. The applicant shall receive a provisional license which may be subject to further\nconditions as determined by the Commission; or\n2. The applicant has been denied a license. Denial shall include a statement of the\nreasons for the denial.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.102(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Failure of the applicant to complete the application process within the time specified by\nthe Commission in the application instructions shall be grounds for denial of a license.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 13
+}

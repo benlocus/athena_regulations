@@ -1,0 +1,72 @@
+{
+  "sectionNumber": "500.320",
+  "heading": "Plans of Correction",
+  "slug": "500-320",
+  "contentTree": [
+    {
+      "id": "500.320",
+      "type": "section",
+      "number": null,
+      "heading": "Plans of Correction",
+      "content": "",
+      "children": [
+        {
+          "id": "500.320(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "A Marijuana Establishment or Host Community shall submit to the Commission a written\nplan of correction for any violations cited in the deficiency statement issued pursuant to\n{{ref:500.310}}, within ten business days after receipt of the statement.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.320(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "A plan shall state, with respect to each deficiency, the specific corrective step(s) to be taken,\na timetable for such steps, and the date by which compliance will be achieved. The timetable\nand the compliance dates shall be consistent with achievement of compliance in the most\nexpeditious manner possible.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.320(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "The Commission shall review the plan of correction and shall notify the Marijuana\nEstablishment or Host Community of either the acceptance or rejection of the plan or any\ncomponent of the plan.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.320(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "An unacceptable plan shall be amended and resubmitted within five business days after\nreceipt of such notice.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.320(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "The approval of a plan of correction shall not preclude the Commission from issuing an\norder for further corrective action fixing a reasonable time for correction of the violation,\nassessing an administrative fine, or taking any other administrative action authorized under the\nCommission's regulations.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.320(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "A Marijuana Establishment or Host Community shall notify the Commission once the plan\nof correction has been fully implemented and completed.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 36
+}

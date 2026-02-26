@@ -1,0 +1,81 @@
+{
+  "sectionNumber": "500.301",
+  "heading": "Inspections and Compliance",
+  "slug": "500-301",
+  "contentTree": [
+    {
+      "id": "500.301",
+      "type": "section",
+      "number": null,
+      "heading": "Inspections and Compliance",
+      "content": "",
+      "children": [
+        {
+          "id": "500.301(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Pursuant to {{extref:M.G.L. c. 94G}}, §§ 4(a)(xvii) through (xx), the Commission or a Commission\nDelegee may inspect a Marijuana Establishment and affiliated vehicles at any time without prior\nnotice to determine the Marijuana Establishment's compliance with {{extref:M.G.L. c. 94G}}, and\n{{ref:500.000}}. All areas, activities and records of a Marijuana Establishment and activities\nand records of Marijuana Establishment Agents are subject to such inspection. Submission of\nan application by or issuance of a License to a Marijuana Establishment constitutes consent for\nsuch inspection.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.301(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "A Marijuana Establishment shall allow immediate access to the facility on being presented\nwith photo identification documenting the Commission representative's affiliation with the\nCommission or a Commission Delegee's affiliation with a state agency with lawful jurisdiction\nover the operations of a Marijuana Establishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.301(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "A Marijuana Establishment or Host Community shall immediately on request make\navailable to the Commission or a Commission Delegee all information that may be relevant to\nan inspection or investigation of an incident or a complaint.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.301(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "A Marijuana Establishment or Host Community shall make all reasonable efforts to\nfacilitate the inspection or investigation of an incident or a complaint, including the taking of\nsamples, photographs, video or other evidence or recordings, and complying with demands for\nexamination and inspection in accordance with {{ref:500.302}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.301(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "During an inspection, the Commission or a Commission Delegee may direct a Marijuana\nEstablishment to test Marijuana for contaminants including, but not limited to, mold, mildew,\nheavy metals, plant-growth regulators, and the presence of Pesticides not approved for use on\nMarijuana pursuant to {{ref:500.120(5)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.301(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "An inspection or other investigation may be made prior to the issuance of a License or the\nrenewal of a License. Additional inspections may be made whenever the Commission or a\nCommission Delegee deems it necessary for the enforcement of {{extref:M.G.L. c. 94G}}, and {{ref:500.000}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.301(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "The failure to cooperate with an inspection or investigation or otherwise comply with\n{{ref:500.301}} may result in administrative or disciplinary action against the Licensee or\nHost Community.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 32
+}

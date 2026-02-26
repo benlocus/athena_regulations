@@ -1,0 +1,209 @@
+{
+  "sectionNumber": "500.160",
+  "heading": "Testing of Marijuana and Marijuana Products",
+  "slug": "500-160",
+  "contentTree": [
+    {
+      "id": "500.160",
+      "type": "section",
+      "number": null,
+      "heading": "Testing of Marijuana and Marijuana Products",
+      "content": "",
+      "children": [
+        {
+          "id": "500.160(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "No Marijuana Product, including Marijuana, may be sold or otherwise marketed for adult\nuse that is not capable of being tested by Independent Testing Laboratories, except as allowed\nunder {{ref:500.000}}. Testing of Marijuana Products shall be performed by an Independent\nTesting Laboratory in compliance with a protocol(s) established in accordance with {{extref:M.G.L. c.\n94G, § 15}} and in a form and manner determined by the Commission including, but not limited\nto, the Protocol for Sampling and Analysis of Finished Marijuana and Marijuana Products for\nMarijuana Establishments, Medical Marijuana Treatment Centers and Colocated Marijuana\nOperations. Testing of environmental media (e.g., soils, solid growing media, and water) shall\nbe performed in compliance with the Protocol for Sampling and Analysis of Environmental\nMedia for Massachusetts Registered Medical Marijuana Dispensaries published by the\nCommission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Marijuana shall be tested for the Cannabinoid Profile and for contaminants as specified by\nthe Commission including, but not limited to, mold, mildew, heavy metals, plant growth\nregulators, and the presence of Pesticides. In addition to these contaminant tests, final\nready-to-sell Marijuana Vaporizer Products shall be screened for heavy metals and Vitamin E\nAcetate (VEA) in accordance with the relevant provisions of the Protocol for Sampling and\nAnalysis of Finished Marijuana and Marijuana Products for Marijuana Establishments, Medical\nMarijuana Treatment Centers and Colocated Marijuana Operations.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "The Commission may, at its discretion, require additional testing where necessitated to\nsafeguard the public health or public safety and so identified by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "A Marijuana Establishment shall have a written policy for responding to laboratory results\nthat indicate contaminant levels are above acceptable limits established in the protocols\nidentified in {{ref:500.160(1)}}.",
+          "children": [
+            {
+              "id": "500.160(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "A Marijuana Establishment shall have a written policy for responding to laboratory results\nthat indicate contaminant levels are above acceptable limits established in the protocols\nidentified in {{ref:500.160(1)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.160(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Any such policy shall include:\n1. notifying the Commission within 72 hours of any laboratory testing results indicating\nthat the contamination cannot be remediated and disposing of the Production Batch.\n2. notifying the Commission of any information regarding contamination as specified\nby the Commission or immediately upon request by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.160(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The notification shall be from both the Marijuana Establishment and the Independent\nTesting Laboratory, separately and directly.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.160(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The notification from the Marijuana Establishment shall describe a proposed plan of\naction for both the destruction of the contaminated product and the assessment of the source\nof contamination.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.160(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "A Marijuana Establishment shall maintain the results of all testing for no less than one year.\nTesting results shall be valid for a period of one year. Marijuana or Marijuana Products with\ntesting dates in excess of one year shall be deemed expired and may not be dispensed, sold,\nTransferred or otherwise conveyed until retested.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "The sale of seeds is not subject to these testing provisions.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "Clones are subject to these testing provisions, but are exempt from testing for metals.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "All transportation of Marijuana to and from Independent Testing Laboratories providing\nMarijuana testing services shall comply with {{ref:500.105(13)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "All storage of Marijuana at a laboratory providing Marijuana testing services shall comply\nwith {{ref:500.105(11)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "All excess Marijuana shall be disposed of in compliance with {{ref:500.105(12)}},\neither by the Independent Testing Laboratory returning excess Marijuana to the source Marijuana\nEstablishment for disposal or by the Independent Testing Laboratory disposing of it directly.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(11)",
+          "type": "subsection",
+          "number": "(11)",
+          "heading": null,
+          "content": "No Marijuana Product shall be sold or otherwise marketed for adult use that has not first\nbeen tested by an Independent Testing Laboratory and deemed to comply with the standards\nrequired under {{ref:500.160}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(12)",
+          "type": "subsection",
+          "number": "(12)",
+          "heading": null,
+          "content": "Single-servings of Marijuana Products tested for potency in accordance with {{ref:500.150(4)(a)}} shall be subject to a potency variance of no greater than +/- 10%.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.160(13)",
+          "type": "subsection",
+          "number": "(13)",
+          "heading": null,
+          "content": "A Licensee that receives notice that Marijuana or a Marijuana Product it has submitted for\ntesting has failed any test for contaminants shall either reanalyze the Marijuana or Marijuana\nProduct without remediation, take steps to remediate the identified contaminants, or dispose of\nthe Marijuana or Marijuana Product.",
+          "children": [
+            {
+              "id": "500.160(13)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "A Licensee that receives notice that Marijuana or a Marijuana Product it has submitted for\ntesting has failed any test for contaminants shall either reanalyze the Marijuana or Marijuana\nProduct without remediation, take steps to remediate the identified contaminants, or dispose of\nthe Marijuana or Marijuana Product.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.160(13)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Reanalysis by a Second ITL. If the Licensee chooses to reanalyze the sample, a sample\nfrom the same batch shall be submitted for reanalysis at the ITL that provided the original\nfailed result. If the sample passes all previously failed tests at the initial ITL, a sample from\nthe same batch previously tested shall be submitted to a second ITL other than the initial ITL\nfor a Second Confirmatory Test. To be considered passing and therefore safe for sale, the\nsample shall have passed the Second Confirmatory Test at a second ITL. Any Marijuana or\nMarijuana Product that fails the Second Confirmatory Test may not be sold, transferred or\notherwise dispensed to Consumers, Patients or Licensees without first being remediated.\nOtherwise, the Marijuana Establishment shall dispose of any such product.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.160(13)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Remediation. If the Licensee chooses to remediate, a new test sample shall be submitted\nto a licensed ITL, which may include the initial ITL, for a full-panel test. Any failing\nMarijuana or Marijuana Product may be remediated a maximum of two times. Any\nMarijuana or Marijuana Product that fails any test after the second remediation attempt may\nnot be sold, transferred or otherwise dispensed to Consumers, Patients or Licensees. The\nMarijuana Establishment shall dispose of any such product.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.160(13)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "If the Licensee chooses to dispose of the Marijuana or Marijuana Products, it shall do\nso in compliance with {{ref:500.105(12)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 26
+}

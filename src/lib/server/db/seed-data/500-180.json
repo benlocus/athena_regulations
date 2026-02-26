@@ -1,0 +1,468 @@
+{
+  "sectionNumber": "500.180",
+  "heading": "Host Community Agreement Requirements for License Applicants, Marijuana Establishments, Host Communities",
+  "slug": "500-180",
+  "contentTree": [
+    {
+      "id": "500.180",
+      "type": "section",
+      "number": null,
+      "heading": "Host Community Agreement Requirements for License Applicants, Marijuana Establishments, Host Communities",
+      "content": "",
+      "children": [
+        {
+          "id": "500.180_preamble",
+          "type": "text",
+          "number": null,
+          "heading": null,
+          "content": "Host Communities",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.180(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "{{ref:500.180}} is governed by {{extref:M.G.L. c. 94G}} § 3 (d)(1)-(5), as amended by St. 2022,\nc. 180 which went into effect on November 9, 2022. Pursuant to {{extref:M.G.L. c. 94G}} § 4(a), the\nCommission is authorized to review, regulate, enforce, and approve HCAs and to develop a\nModel Host Community Agreement.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.180(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "General Requirements for Host Community Agreements. The Commission shall review and\napprove each HCA as part of a completed License application and at each License renewal. The\nparties to an HCA relative to an application for licensure are a License Applicant and a Host\nCommunity. The parties to an HCA relative to an application for renewal of licensure are a Host\nCommunity and a Marijuana Establishment.",
+          "children": [
+            {
+              "id": "500.180(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "General Requirements for Host Community Agreements. The Commission shall review and\napprove each HCA as part of a completed License application and at each License renewal. The\nparties to an HCA relative to an application for licensure are a License Applicant and a Host\nCommunity. The parties to an HCA relative to an application for renewal of licensure are a Host\nCommunity and a Marijuana Establishment.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A License Applicant seeking a new License to operate a Marijuana Establishment or\nMTC shall negotiate and execute a compliant HCA with a Host Community, unless a\ncompliant HCA Waiver has been submitted pursuant to {{ref:500.180(5)}}. A compliant\nHCA or compliant HCA Waiver must be submitted in order for a License application to be\ndeemed complete pursuant to {{ref:500.102}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Marijuana Establishment seeking renewal of a License to continue to operate in a\nHost Community shall have an HCA that complies with {{ref:500.180}} unless a\ncompliant HCA Waiver has been submitted pursuant to {{ref:500.180(5)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "An HCA submitted by a License Applicant or Marijuana Establishment which is\ndetermined to conform with the Model Host Community Agreement will be presumed\ncompliant for purposes of this section.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Host Community shall negotiate the terms of an HCA in good faith.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Each of the parties shall ensure that HCAs satisfy the following minimum acceptable\nrequirements:",
+              "children": [
+                {
+                  "id": "500.180(2)(e)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Each of the parties shall ensure that HCAs satisfy the following minimum acceptable\nrequirements:\n1. The parties shall ensure that references in an HCA to a License Applicant or\nMarijuana Establishment are consistent with both the business entity name certified and\nrecorded with the Secretary of the Commonwealth and the business entity name stated\neither in a License Applicant's license application or on a Marijuana Establishment's\nlicense record as maintained by the Commission.\n2. The parties shall ensure that HCAs set forth all of a Host Community's conditions for\nallowing a Marijuana Establishment or a License Applicant to operate in the community. A\nHost Community may not contract for any purpose, on any terms, or under any conditions\ninconsistent with any applicable provision of Massachusetts General Laws. No Host\nCommunity may impose an unreasonable condition or a term that is Unreasonably\nImpracticable in an HCA. A condition may be presumed reasonable if:\na. The condition is required under a Host Community's local rules, regulations,\nordinances, or bylaws;\nb. The condition has been deemed necessary to ensure public safety and proposed by\nthe chief law enforcement authority and/or fire protection chief in a Host Community\nwith explanation and detail why the condition is necessary for public safety.\nc. The condition has been deemed necessary to ensure public health and proposed by\nthe chief public health authority in a Host Community with explanation and detail why\nthe condition is necessary for public health.\nd. The condition is a local requirement customarily imposed by a Host Community on\nother, non-cannabis businesses operating in the community;\ne. The condition is required by law;\nf. The condition does not conflict with other laws; or\ng. The condition is otherwise deemed reasonable by the Commission based on particular\ncircumstances presented by an HCA or contracting parties.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.180(2)(e)3.",
+                  "type": "paragraph",
+                  "number": "3.",
+                  "heading": null,
+                  "content": "The parties shall ensure that HCAs include a statement of all stipulated responsibilities\nbetween a Host Community and a License Applicant or between a Host Community and a\nMarijuana Establishment including, but not limited to, the following:\na. A provision requiring a Host Community to annually transmit its invoice of claimed\nimpact fees to a Marijuana Establishment within one month of the anniversary of the date\na Marijuana Establishment received final licensure;\nb. A provision explicitly identifying any generally occurring fees to be charged by a\nHost Community. Generally occurring fees are customarily imposed on other\nnon-cannabis businesses operating in a Host Community and shall not be considered a\nCIF (e.g., routine water, property tax, sewer, trash pickup etc.).\n4. The parties shall ensure that HCAs include the following information:\na. The specific Marijuana Establishment license operations permitted under the terms\nof the HCA;\nb. The name, signature, and title of the individual(s) authorized to enter into HCAs on\nbehalf of a Host Community as a contracting authority;\nc. The name, signature, and title of the individual(s) authorized to enter into HCAs on\nbehalf of a License Applicant or a Marijuana Establishment as an authorized\nrepresentative;\nd. The date(s) of execution by both parties;\ne. The effective date of an HCA; and\nf. The duration of an HCA.\n5. The parties shall ensure that HCAs provide clear, specific terms regarding a Host\nCommunity's assessment of a CIF if applicable, including, but not limited to, a provision\nrequiring a Host Community to transmit its invoice of claimed impact fees to a Marijuana\nEstablishment within one month of the anniversary of a Marijuana Establishment's final\nlicense date.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "The parties may include a clause in an HCA whereby the parties voluntarily agree to\nbring HCA disputes before a private mediator retained by the parties. Neither party may\nunilaterally compel private mediation.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Approval of HCAs may be conditioned on a Host Community being in good compliance\nstanding with the Commission relative to any HCA to which the Host Community is a\ncontracting party.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "The Commission may deem a provision of an HCA invalid, and therefore\nunenforceable, based on a finding that the provision violates {{extref:M.G.L. c. 94G}}, {{ref:500.000}} or 935 CMR 501.000: Medical Use of Marijuana. The Commission may also\ndeclare an HCA or a provision of an HCA voidable upon deeming the HCA as a contract of\nadhesion.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "The Commission may decline to approve an HCA on the basis of any other ground that\nserves the purposes of {{extref:M.G.L. c. 94G}}, {{ref:500.000}}, or 935 CMR 501.000: Medical\nUse of Marijuana.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "A Marijuana Establishment that seeks a name change pursuant to {{ref:500.104(1)}}\nafter execution of an HCA must provide notice of the change to the Host Community in a\nform and manner determined by the Commission. A Marijuana Establishment that seeks a\nlocation change to another Host Community shall submit a new HCA to the Commission.\nA Marijuana Establishment that seeks a location change within the same Host Community\nafter execution of an HCA may be required to provide an amended HCA to the Commission.\nA Marijuana Establishment that submits a Change of Ownership request for the transfer of\na license may be required to submit a new or amended HCA to the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(k)",
+              "type": "paragraph",
+              "number": "(k)",
+              "heading": null,
+              "content": "Prohibitions.\n1. No License Applicant, Marijuana Establishment, or Host Community shall enter into\nan HCA that includes a promise to make a future monetary payment, in-kind\ncontribution, or charitable contribution. A License Applicant or Marijuana\nEstablishment may voluntarily provide organizations with monetary payments, in-kind\ncontributions and charitable contributions after executing an HCA, as long as a License\nApplicant or Marijuana Establishment's actions are not performed because of a condition\nimposed by a Host Community, whether explicitly or implicitly.\n2. A contractual financial obligation, other than a CIF, that is explicitly or implicitly a\nfactor considered in or included as a condition of an HCA is unenforceable, subject to\nthe following exceptions:\n\na. References in an HCA to a Marijuana Establishment's obligations to pay any fees\nassociated with sales tax, excise tax on Marijuana and Marijuana Products, optional\nlocal tax, or as otherwise provided in {{extref:M.G.L. c. 94G}}, {{extref:M.G.L. c. 64H}}, and {{extref:M.G.L. c.\n64N}}.\nb. References in an HCA to a Marijuana Establishment's obligations to pay a Host\nCommunity for generally occurring fees associated with operating in a Host\nCommunity (e.g., water, sewer, property tax, etc.).\n3. No Host Community may mandate or otherwise require that the CIF be a certain\npercentage of a Marijuana Establishment's total or gross sales as a term or condition of\nan HCA.\n4. A Host Community shall not demand a CIF exceeding 3% of the gross sales of a\nMarijuana Establishment as a term or condition of an HCA.\n5. No License Applicant, Marijuana Establishment, or Host Community will use\nInducements to negotiate or execute an HCA. No municipality or Host Community shall\nnegotiate or renegotiate an HCA through the use of undue influence, duress, coercion,\nintimidation, threats, or any strong-arm tactics including by threat of dissolution of the\nHCA.\n6. No Host Community may rely on other written instruments, contracts, or agreements\nto impose terms or conditions on a License Applicant, Marijuana Establishment, or\nMedical Marijuana Treatment Center outside of an HCA.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(2)(l)",
+              "type": "paragraph",
+              "number": "(l)",
+              "heading": null,
+              "content": "The following terms, conditions, or clauses are prohibited in an HCA:\n1. A provision that discourages any party from bringing a civil cause of action or other\nlegal challenge relative to an HCA or to an individual term or provision of an HCA;\n2. A provision that requires a License Applicant or Marijuana Establishment to make\nupfront payments as a condition for operating in the Host Community;\n3. A provision that affords a Host Community sole and absolute discretion on how a\nHost Community will spend a CIF;\n4. A provision waiving a Marijuana Establishment's ability to dispute whether impact\nfees claimed by a Host Community are Reasonably Related and properly due and payable\nas a CIF;\n5. A provision that categorically deems a Host Community's claimed impact fees to be\nreasonably related or that otherwise excuse a Host Community from calculating impact\nfees based on the actual operations of a Marijuana Establishment;\n6. A provision that imposes legal, overtime, or administrative costs or any costs other\nthan a CIF on a Marijuana Establishment with the exception of a Marijuana\nEstablishment's tax obligations or its responsibility for paying routine, generally\noccurring municipal fees;\n7. A provision that obligates a Marijuana Establishment to set aside money in an\nescrow, bond, or other similar account for a Host Community's use or purposes;\n8. A provision that requires a Marijuana Establishment to make any additional payments\nor obligations including but not limited to monetary payments, in-kind contributions,\nproviding staffing, advance payments, or charitable contributions by a Marijuana\nEstablishment to a Host Community or any other organization.\n9. A provision including or otherwise deeming good faith estimates, unquantifiable\ncosts, generalized expenses, or pro-rated expenses as a CIF.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.180(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Review and Certification of Host Community Agreements. The Commission, through its\nExecutive Director or the director's delegee, shall review an HCA submitted by a License\nApplicant or a Marijuana Establishment and make a determination certifying whether the HCA,\nin whole or in part, satisfies Commission requirements.",
+          "children": [
+            {
+              "id": "500.180(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Review and Certification of Host Community Agreements. The Commission, through its\nExecutive Director or the director's delegee, shall review an HCA submitted by a License\nApplicant or a Marijuana Establishment and make a determination certifying whether the HCA,\nin whole or in part, satisfies Commission requirements.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Commission shall complete its review of an HCA within 90 days of receiving an\nHCA from a Marijuana Establishment. The Commission may request additional information\nor send a determination notice identifying deficiencies in an HCA. Submission of an\namended HCA resets the 90-day period of Commission review.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Review of HCAs Submitted by License Applicants.",
+              "children": [
+                {
+                  "id": "500.180(3)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Review of HCAs Submitted by License Applicants.\n1. All applications for initial licensure submitted on or after March 1, 2024, must\ninclude an HCA that complies with {{ref:500.000}} or a compliant HCA Waiver.\n2. The Commission may request additional information from a License Applicant or a\nHost Community in connection with its review.\n3. The Commission shall send a notice of its HCA determination to both a License\nApplicant and a Host Community within 90 days of receipt of an HCA.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.180(3)(b)4.",
+                  "type": "paragraph",
+                  "number": "4.",
+                  "heading": null,
+                  "content": "If the Commission determines that a License Applicant's HCA does not comply with\n{{ref:500.180}}, then the HCA determination notice shall state the following:\na. The factual basis for the Commission's finding of noncompliance, including\nidentification of the noncompliant term(s), condition(s), or provision(s) of the HCA,\nif applicable;\nb. The parties' option to correct the noncompliance and submit an amended HCA;\nand\nc. The parties' option to submit an HCA Waiver that complies with {{ref:500.180(5)}}; and\n5. Failure to submit a compliant HCA or a compliant HCA Waiver with an application for\nlicensure may result in an application remaining incomplete pursuant to {{ref:500.102}}.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.180(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Review of HCAs submitted by a Marijuana Establishment",
+              "children": [
+                {
+                  "id": "500.180(3)(c)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Review of HCAs submitted by a Marijuana Establishment\n1. All renewal applications submitted on or after March 1, 2024, must include an HCA\nthat complies with {{ref:500.000}} or a compliant HCA Waiver.\n2. The Commission may request additional information from a Marijuana Establishment\nor a Host Community in connection with its review.\n3. The Commission shall send a notice of its HCA determination to both a Marijuana\nEstablishment and a Host Community within 90 days of receipt of the HCA. The\ndetermination notice shall identify whether the HCA, in whole or in part, complies with\n{{ref:500.180}}.\n4. If the Commission determines that a Marijuana Establishment's HCA does not\ncomply with {{ref:500.180}}, then the HCA determination notice shall provide the\nfollowing:\na. The factual basis for the Commission's finding of noncompliance, including\nidentification of the noncompliant term(s), condition(s), or provision(s) of the HCA,\nif applicable;\nb. The parties' option to correct the noncompliance and submit an amended HCA;\nc. The parties' option to submit an HCA Waiver that complies with {{ref:500.180(5)}}; and\nd. The parties' option to proceed under an executed HCA that conforms with the\nCommission's Model Host Community Agreement, to be relied on in the interim until\nthe parties come to an agreement;\n5. A Host Community shall notify a Marijuana Establishment if it no longer intends to\ncontinue as a Host Community for a Marijuana Establishment. A Host Community shall\nnot discontinue relations with a Marijuana Establishment in bad faith. On receipt of a\nnotice of discontinuance from a Host Community, the Marijuana Establishment shall\nnotify the Commission. On receipt of a notice of discontinuance, an ME may submit a\nrequest for equitable relief to the Commission consistent with {{ref:500.180(3)(c)}}6.\n6. If a Host Community discontinues relations with an ME, or on submission of a\nmutual abrogation agreement executed by both a Host Community and an ME, an ME\nmay submit a request for equitable relief to the Commission.\na. A Marijuana Establishment's request for equitable relief must identify facts,\ninformation, and any documentation to support why a Marijuana Establishment\nshould be considered for equitable remedies. A Marijuana Establishment shall\nensure that the request for equitable relief includes a Host Community's notice under\n{{ref:500.180(3)(c)}}5.\nb. Commission Staff will conduct a paper review of the petition and make a\nrecommendation to the Commission.\nc. The Commission may exercise its discretion whether to grant one or more of the\nfollowing equitable remedies to a Marijuana Establishment:\ni. Extension of a License expiration date without incurring additional prorated\nfees;\nii. Waiver of a Change of Location fee;\niii. Institution of procedures for winding down an ME's operations at the\nlicensed Premises;\niv. Other equitable relief as determined by the Commission.\nd. If the Commission grants or denies equitable relief to a Marijuana Establishment,\nthe agency will provide notice of its decision to a Marijuana Establishment and a\nHost Community. A Host Community or a Marijuana Establishment may seek relief\nfrom a court of competent jurisdiction.\n7. Failure to submit a compliant HCA or compliant HCA Waiver may constitute\ngrounds for denial of a renewal application.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.180(3)(c)8.",
+                  "type": "paragraph",
+                  "number": "8.",
+                  "heading": null,
+                  "content": "Any action subsequently taken to deny a Marijuana Establishment's renewal\napplication due to failure to produce a compliant HCA or a compliant HCA Waiver shall\nafford Marijuana Establishments a right to hearing pursuant to {{ref:500.500}}.\na. If a Marijuana Establishment elects a hearing pursuant to {{ref:500.500}}, the\nadministrative proceeding must be conducted pursuant to 801 CMR 1.01, Formal\nRules.\nb. A Host Community may seek intervention as a party to the hearing.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.180(3)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Complaints Alleging Noncompliance with {{ref:500.180}}.\n1. Consistent with its power to enforce HCAs, the Commission may, at its discretion,\ninvestigate any complaint alleging noncompliance with the requirements in {{ref:500.180(3)(d)}} and take enforcement action as provided in {{ref:500.000}}.\n2. An interested person may file a complaint with the Commission alleging\nnoncompliance with an HCA requirement under {{ref:500.180}}. Nothing in\n{{ref:500.180(3)(d)}}2. shall be construed to prevent a Marijuana Establishment or\na Host Community from bringing a private breach of contract action in a court of\ncompetent jurisdiction regarding an alleged breach of specific promises mutually agreed\nto in the parties' HCA.\n3. If the Commission substantiates an allegation of noncompliance with HCA regulatory\nrequirements, then the Commission may take administrative or enforcement action\nagainst a Licensee or a Host Community including sending a notice of deficiency,\nrequesting additional information, or otherwise taking action as provided under\n{{ref:500.000}}.\n4. Failure by a Host Community to correct the noncompliant conduct may result in one\nor more of the following:\na. Issuance of sanctions pursuant to {{ref:500.360}};\nb. Loss of a Host Community's good compliance standing for purposes of {{ref:500.180(2)(e)}};\nc. Identification of a Host Community lack of good compliance standing in a form\nand manner determined by the Commission; or\nd. Abstaining from consideration of any new license applications affiliated with a\nHost Community until a Host Community's good compliance standing is restored.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.180(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Community Impact Fees.",
+          "children": [
+            {
+              "id": "500.180(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Community Impact Fees.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "General Requirements. Pursuant to {{extref:M.G.L. c. 94G, § 4}}(a½), the Commission is charged\nwith establishing criteria for reviewing, certifying, and approving CIFs.\n1. To qualify as a CIF, an impact fee claimed by a Host Community must be Reasonably\nRelated.\n2. On certification by the Commission, a CIF becomes properly due and payable unless\ndisputed by a Marijuana Establishment consistent with {{ref:500.180(4)(c)}}4.a.\n3. A Host Community may assess a CIF as a condition of allowing a License Applicant\nor a Marijuana Establishment to operate or continue to operate in its community. A Host\nCommunity may also opt not to assess a CIF.\n4. A Host Community may also opt not to assess a CIF.\n5. A Host Community shall ensure that the initial invoice period of claimed impact fees\ncovers a one-year period that starts from the date the Commission grants a Marijuana\nEstablishment a final license. A Host Community shall further ensure that all\nsubsequent, one-year invoice periods are consistent with the anniversary of a Marijuana\nEstablishment's final license date. The Commission will not certify any impact fees\nattributable to dates outside of the applicable invoice period.\n6. A Host Community seeking to assess a CIF shall transmit an itemized invoice to a\nMarijuana Establishment in a form and manner determined by the Commission\ndocumenting claimed impact fees arising from the preceding year of a Marijuana\nEstablishment's operations.\na. Sunshine Requirement: A Host Community shall ensure that impact fee invoices\ninclude a specific description of how the claimed impact fees were spent, including\neach line item for each good or service charged stating its cost, purpose, and relation\nto a Marijuana Establishment's operations.\nb. A Host Community shall transmit its impact fee invoice to a Marijuana\nEstablishment no later than one month after the anniversary of the date the Marijuana\nEstablishment received a final license from the Commission. A Host Community's\nfailure to transmit the impact fee invoice to a Marijuana Establishment within the\nprescribed time shall result in a forfeiture of any CIF for the applicable year of\noperations.\n\nc. A Host Community shall ensure that the impact fee invoice is restricted to the\nlicense number(s) operating from the licensed Premises alleged to have impacted the\ncommunity. For CMOs, a Host Community shall transmit an impact fee invoice to\na Marijuana Establishment and an MTC.\n7. Within 30 calendar days of receiving a Host Community's invoice of claimed impact\nfees, a Marijuana Establishment shall submit the invoice and any supporting\ndocumentation, if applicable, to the Commission in a form and manner determined by the\nCommission.\n8. A Marijuana Establishment that has agreed to pay a CIF under its HCA shall annually\npay any undisputed CIF no later than the end of the current fiscal year or within 90 days\nof the date of the Commission's CIF certification, whichever is later. This subdivision\nshall not be construed to require a Marijuana Establishment to pay a CIF if a Marijuana\nEstablishment's payment obligation is the subject of a nonfrivolous legal dispute either\nthrough the Commission's administrative hearing process or before a court of competent\njurisdiction.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Prohibited Practices.\n1. A Host Community shall not attempt to collect impact fees relating to any operations\noccurring prior to the date a Marijuana Establishment is granted a final license by the\nCommission.\n2. A Host Community shall not attempt to collect impact fees from any Marijuana\nEstablishment that has held a final license for more than nine years.\n3. In circumstances where the licensed Premises is the site of multiple final licenses, no\nHost Community may amplify its assessment of claimed impact fee(s) by assigning the\nsame impact fee(s) to each final license operating from the licensed Premises without\nregard to the distinct operations of each licensed entity.\n4. No Host Community may rely on other written instruments, contracts, or agreements\nto assess Community Impact Fees. No Host Community may include additional\npayments or obligations in its invoice of claimed impact fees, including but not limited\nto monetary payments, in-kind contributions and charitable contributions by a Marijuana\nEstablishment to a Host Community or any other organization.\n5. A Host Community shall not include any legal costs incurred by a Host Community\nto defend against a lawsuit brought by a Marijuana Establishment in its invoice of\nclaimed impact fees.\n6. No Host Community may modify the effective date of a preexisting CIF for any final\nlicense that becomes subject to an ownership or control change under {{ref:500.104(1)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Commission Review and Certification of CIFs. The Commission, through its Executive\nDirector or Executive Director's delegee(s) shall review a Host Community's invoice of\nclaimed impact fees and make a determination certifying, in whole or in part, the CIF that\nmay be assessed for the preceding year of a Marijuana Establishment's operations based on\na finding that an impact fee(s) is Reasonably Related to a Marijuana Establishment's\noperations.",
+              "children": [
+                {
+                  "id": "500.180(4)(c)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Commission Review and Certification of CIFs. The Commission, through its Executive\nDirector or Executive Director's delegee(s) shall review a Host Community's invoice of\nclaimed impact fees and make a determination certifying, in whole or in part, the CIF that\nmay be assessed for the preceding year of a Marijuana Establishment's operations based on\na finding that an impact fee(s) is Reasonably Related to a Marijuana Establishment's\noperations.\n1. A Marijuana Establishment shall provide verification of its Gross Annual Sales,\nincluding wholesale revenue generated by Marijuana Cultivators and Marijuana Product\nManufacturers, to the Commission with its transmission of a Host Community's invoice\nof claimed impact fees.\na. A Marijuana Establishment shall submit a summary of all sales of Marijuana,\nMarijuana Products, Marijuana Accessories and Marijuana Establishment Branded\nGoods for that license to consumers and other Licensees, as applicable.\nb. If product was wholesaled or otherwise sold or transferred to other Licensees at\nno cost or reduced cost, a Marijuana Establishment shall apply the average cost per\ngram or milligram to the amount sold or transferred to establish and report the fair\nmarket value of the product, and include that amount in its summary submission.\n2. The Commission may make a final determination on Gross Annual Sales relying on\nthe factors in {{ref:500.180(4)(c)}}3., and any additional information gathered. The\nGross Annual Sales determined by the Commission, pursuant to {{ref:500.180(4)(c)}}3., shall be used for purposes of the CIF in circumstances where product\nwas wholesaled or otherwise sold or transferred to other Licensees at no cost or reduced\ncost, and shall not be used for any other purposes related to other obligations, including\ntax filings, for a Marijuana Establishment.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.180(4)(c)3.",
+                  "type": "paragraph",
+                  "number": "3.",
+                  "heading": null,
+                  "content": "The Commission may determine the Gross Annual Sales of a Marijuana\nEstablishment using the following factors:\na. Consumer Sales as represented by a Marijuana Establishment;\nb. Consumer Sales as represented by the Commission Seed-to-sale System of\nRecord;\nc. Fair Market Value of wholesaled or transferred Marijuana, Marijuana Products,\nMarijuana Accessories and Marijuana Establishment Branded Goods;\nd. Any wholesaled or transferred Marijuana, Marijuana Products, Marijuana\nAccessories and Marijuana Establishment Branded Goods that has been refunded or\nis otherwise the subject of a voided sale;\ne. Value of services rendered, wholesaled or transferred Marijuana, Marijuana\nProducts, Marijuana Accessories and Marijuana Establishment Branded Goods as\nrepresented by the Commission Seed-to-sale System of Record; and\nf. Other factors as determined necessary by the Commission to calculate the Gross\nAnnual Sales by the licensee in the absence of available information as listed in\n{{ref:500.180(4)(c)}}.\n4. The Commission shall provide notice of its CIF determination to a Marijuana\nEstablishment and a Host Community. The Commission's notice will provide a\nMarijuana Establishment with the following options:\na. A Marijuana Establishment may request an administrative hearing before an\nindependent Hearing Officer of the Commission pursuant to {{ref:500.500}} to\nchallenge the findings of fact and conclusions of law. Any administrative proceeding\nelected by a Marijuana Establishment must be conducted pursuant to 801 CMR 1.01:\nFormal Rules. The Host Community may seek intervention as a party to the hearing;\nor\nb. A Licensee may seek court intervention to independently review a Host\nCommunity's claimed impact fees by bringing a breach of contract action against a\nHost Community in a court of competent jurisdiction.\n5. The parties may elect to bring a dispute between the parties before a private mediator\nretained by the parties at any time if such mediation is a term of the HCA or is\nvoluntarily elected by the parties. Neither party may unilaterally compel private\nmediation.\n6. After a CIF dispute has resolved, a Marijuana Establishment must provide proof of\npayment of the certified CIF with its renewal application. If an ME prevails in a CIF\ndispute, an ME must also provide proof that its CIF payment obligation has been\neliminated.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.180(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Waiver of Host Community Agreements.",
+          "children": [
+            {
+              "id": "500.180(5)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Waiver of Host Community Agreements.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Host Community may waive the regulatory requirement to have a compliant HCA by\nsubmitting an HCA Waiver to the Commission that complies with {{ref:500.180(5)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "An HCA Waiver constitutes a total relinquishment of the requirement that an applicant\nor Marijuana Establishment enter into an HCA with a Host Community. No party to an HCA\nmay use an HCA Waiver to waive individual provisions of an HCA.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "An HCA Waiver may be submitted relative to an application for licensure or an\napplication for renewal of licensure. A Host Community and an applicant or Marijuana\nEstablishment may also submit an HCA Waiver after both parties have executed an HCA.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Acceptance of an HCA Waiver is limited to the specific application or license number(s)\nstated in the HCA Waiver request.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "The Commission shall determine whether an HCA Waiver complies with {{ref:500.180(5)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "An HCA Waiver that sets an expiration date or any conditions is deemed noncompliant.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "An HCA Waiver determined to be the result of an Inducement is deemed noncompliant.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "If a Host Community elects to submit an HCA Waiver, a Host Community's submission\nshall be in a form and manner determined by the Commission and include, at minimum, the\nfollowing information:",
+              "children": [
+                {
+                  "id": "500.180(5)(h)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "If a Host Community elects to submit an HCA Waiver, a Host Community's submission\nshall be in a form and manner determined by the Commission and include, at minimum, the\nfollowing information:\n1. Identification of the specific application or license number intended to be exempt\nfrom the requirement to have a compliant HCA;\n2. Identification of a License Applicant or Marijuana Establishment in a manner\nconsistent with both the business entity name certified and recorded with the Secretary\nof the Commonwealth of Massachusetts and the business entity name stated either in a\nLicense Applicant's license application or on a Marijuana Establishment's license record\nas maintained by the Commission.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.180(5)(h)3.",
+                  "type": "paragraph",
+                  "number": "3.",
+                  "heading": null,
+                  "content": "Printed name and signature of the individual(s) authorized to represent and act on\nbehalf of a Host Community;\n4. Printed name and signature of the individual(s) authorized to represent and act on\nbehalf of an applicant or Marijuana Establishment;\n5. The date of each parties' signature; and\n6. An attestation that the HCA Waiver was mutually agreed upon by both parties and\nexecuted in good faith.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "An HCA Waiver that is executed and recorded with the Commission remains in full\nforce and effect until such time as it is rescinded. An HCA Waiver may only be rescinded\non Commission approval of an HCA subsequently executed and submitted by the parties.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.180(5)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "An HCA waiver is not subject to review under the criteria in {{ref:500.850}}\nregarding general waivers.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 28
+}

@@ -1,0 +1,36 @@
+{
+  "sectionNumber": "500.300",
+  "heading": "Complaints Process",
+  "slug": "500-300",
+  "contentTree": [
+    {
+      "id": "500.300",
+      "type": "section",
+      "number": null,
+      "heading": "Complaints Process",
+      "content": "",
+      "children": [
+        {
+          "id": "500.300(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "In a time and manner determined by the Commission, a dedicated telephone number, email\naddress or other means shall be provided for members of the public or Consumers to notify the\nCommission of complaints regarding Marijuana Establishments, Marijuana Establishment\nAgents, or Host Communities.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.300(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "The Commission may, at its discretion, investigate or decline to investigate any complaint\nor refer a complaint to another law enforcement or regulatory authority",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 31
+}

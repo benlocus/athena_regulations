@@ -1,0 +1,1515 @@
+{
+  "sectionNumber": "500.105",
+  "heading": "General Operational Requirements for Marijuana Establishments",
+  "slug": "500-105",
+  "contentTree": [
+    {
+      "id": "500.105",
+      "type": "section",
+      "number": null,
+      "heading": "General Operational Requirements for Marijuana Establishments",
+      "content": "",
+      "children": [
+        {
+          "id": "500.105(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Written Operating Procedures. Every Marijuana Establishment shall have and follow a set\nof detailed written operating procedures. If the Marijuana Establishment has an additional\nlocation, it shall develop and follow a set of such operating procedures for that facility. A CMO\nshall have written operating procedures that comply with both {{ref:500.105(1)}} and\n501.105(1): Written Operating Procedures, and may do so by having two sets of written\noperating procedures applicable to each medical-use and adult-use operations or having one set\nof written operating procedures, provided it complies with both medical-use and adult-use\nrequirements. Operating procedures shall include, but need not be limited to, the following:",
+          "children": [
+            {
+              "id": "500.105(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Written Operating Procedures. Every Marijuana Establishment shall have and follow a set\nof detailed written operating procedures. If the Marijuana Establishment has an additional\nlocation, it shall develop and follow a set of such operating procedures for that facility. A CMO\nshall have written operating procedures that comply with both {{ref:500.105(1)}} and\n501.105(1): Written Operating Procedures, and may do so by having two sets of written\noperating procedures applicable to each medical-use and adult-use operations or having one set\nof written operating procedures, provided it complies with both medical-use and adult-use\nrequirements. Operating procedures shall include, but need not be limited to, the following:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Security measures in compliance with {{ref:500.110}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Employee security policies, including personal safety and crime prevention techniques;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A description of the Marijuana Establishment's hours of operation and after-hours\ncontact information, which shall be provided to the Commission, made available to Law\nEnforcement Authorities on request, and updated pursuant to {{ref:500.000}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Storage and waste disposal of Marijuana in compliance with {{ref:500.105(11)}} and\n(12);",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Description of the various strains of Marijuana to be cultivated, Processed or sold, as\napplicable, and the form(s) in which Marijuana will be sold;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Price list for Marijuana and Marijuana Products and any other available products, and\nalternate price lists for patients with documented Verified Financial Hardship, as defined in\n935 CMR 501.002: Verified Financial Hardship, as required by 935 CMR 501.105(1)(f);",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Procedures to ensure accurate recordkeeping, including inventory protocols for Transfer\nand inventory in compliance with {{ref:500.105(8)}} and (9);",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "Plans for quality control, including product testing for contaminants in compliance with\n{{ref:500.160}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "A staffing plan and staffing records in compliance with {{ref:500.105(9)(d)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "Emergency procedures, including a disaster plan with procedures to be followed in case\nof fire or other emergencies;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(k)",
+              "type": "paragraph",
+              "number": "(k)",
+              "heading": null,
+              "content": "Alcohol, smoke, and drug-free workplace policies;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(l)",
+              "type": "paragraph",
+              "number": "(l)",
+              "heading": null,
+              "content": "A plan describing how Confidential Information and other records required to be\nmaintained confidentially will be maintained;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(m)",
+              "type": "paragraph",
+              "number": "(m)",
+              "heading": null,
+              "content": "A policy for the immediate dismissal of any Marijuana Establishment Agent who has:",
+              "children": [
+                {
+                  "id": "500.105(1)(m)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "A policy for the immediate dismissal of any Marijuana Establishment Agent who has:\n1. Diverted Marijuana, which shall be reported to Law Enforcement Authorities and to\nthe Commission;\n2. Engaged in unsafe practices with regard to operation of the Marijuana Establishment,\nwhich shall be reported to the Commission; or",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(1)(m)3.",
+                  "type": "paragraph",
+                  "number": "3.",
+                  "heading": null,
+                  "content": "Been convicted or entered a guilty plea, plea of nolo contendere, or admission to\nsufficient facts of a drug offense involving distribution to a minor in the Commonwealth,\nor a like violation of the laws of any Other Jurisdiction.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(n)",
+              "type": "paragraph",
+              "number": "(n)",
+              "heading": null,
+              "content": "A list of all board of directors, members and Executives of a Marijuana Establishment,\nand Members, if any, of the Licensee shall be made available on request by any individual.\nThis requirement may be fulfilled by placing this required information on the Marijuana\nEstablishment's website;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(o)",
+              "type": "paragraph",
+              "number": "(o)",
+              "heading": null,
+              "content": "Policies and procedure for the handling of cash on Marijuana Establishment Premises\nincluding, but not limited to, storage, collection frequency, and transport to financial\ninstitution(s), to be available on inspection.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(p)",
+              "type": "paragraph",
+              "number": "(p)",
+              "heading": null,
+              "content": "Policies and procedures to prevent the Diversion of Marijuana to individuals younger\nthan 21 years old;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(q)",
+              "type": "paragraph",
+              "number": "(q)",
+              "heading": null,
+              "content": "Policies and procedures for energy efficiency and conservation that shall include:\n1. Identification of potential energy use reduction opportunities (including, but not\nlimited to, natural lighting, heat recovery ventilation and energy efficiency measures),\nand a plan for implementation of such opportunities;\n2. Consideration of opportunities for renewable energy generation including, where\napplicable, submission of building plans showing where energy generators could be\nplaced on the site, and an explanation of why the identified opportunities were not\npursued, if applicable;\n3. Strategies to reduce electric demand (such as lighting schedules, active load\nmanagement and energy storage); and\n4. Engagement with energy efficiency programs offered pursuant to {{extref:M.G.L. c. 25, § 21}},\nor through municipal lighting plants.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(1)(r)",
+              "type": "paragraph",
+              "number": "(r)",
+              "heading": null,
+              "content": "Policies and procedures to promote workplace safety consistent with the standards set\nforth under the Occupational Safety and Health Act of 1970, 29 U.S.C. § 651, et seq.,\nincluding the general duty clause under 29 U.S.C. § 654, whereby each employer:\n1. shall furnish to each of its employees employment and a place of employment which\nare free from recognized hazards that are causing or are likely to cause death or serious\nphysical harm to its employees;\n2. shall comply with occupational safety and health standards promulgated under this\nact. Each employee shall comply with occupational safety and health standards and all\nrules, regulations, and orders issued pursuant to 29 U.S.C. § 651, et seq., which are\napplicable to the employee's own actions and conduct. All current and updated\nregulations and references at 29 CFR Parts 1903, 1904, 1910, 1915, 1917, 1918, 1926,\n1928 and 1977 are incorporated by reference, and applicable to all places of employment\ncovered by {{ref:500.000}}.\nAll current and updated regulations and references at 29 CFR Parts 1903, 1904, 1910,\n1915, 1917, 1918, 1926, 1928, and 1977 are incorporated by reference, and applicable\nto all places of employment covered by {{ref:500.000}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Marijuana Establishment Agent Training.",
+          "children": [
+            {
+              "id": "500.105(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Marijuana Establishment Agent Training.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Marijuana Establishments, including Independent Testing Laboratories, shall ensure that\nall Marijuana Establishment Agents complete minimum training requirements prior to\nperforming job functions.",
+              "children": [
+                {
+                  "id": "500.105(2)(a)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Marijuana Establishments, including Independent Testing Laboratories, shall ensure that\nall Marijuana Establishment Agents complete minimum training requirements prior to\nperforming job functions.\n1. At a minimum, Marijuana Establishment Agents shall receive a total of eight hours\nof training annually. The eight-hour total training requirement shall be tailored to the\nroles and responsibilities of the job function of each Marijuana Establishment Agent.\n2. A minimum of four hours of training shall be from Responsible Vendor Training\nProgram courses established under {{ref:500.105(2)(b)}}. Any additional RVT hours\nover the four-hour RVT requirement may count toward the eight-hour total training\nrequirement.\n3. Non-RVT training may be conducted in-house by the Marijuana Establishment or by\na third-party vendor engaged by the Marijuana Establishment. Basic on-the-job training\nMarijuana Establishments provide in the ordinary course of business may be counted\ntoward the eight-hour total training requirement.\n4. Agents responsible for tracking and entering product into the Seed-to-sale SOR shall\nreceive training in a form and manner determined by the Commission. At a minimum,\nstaff shall receive eight hours of on-going training annually.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(2)(a)5.",
+                  "type": "paragraph",
+                  "number": "5.",
+                  "heading": null,
+                  "content": "Marijuana Establishments shall maintain records of compliance with all training\nrequirements noted above. Such records shall be maintained for four years and\nMarijuana Establishments shall make such records available for inspection on request.\n6. An individual who is both a Marijuana Establishment Agent and MTC Agent at a\nCMO location shall receive the training required for each license under which the agent\nis registered including, without limitation, with respect to patient privacy and\nconfidentiality requirements, which may result in instances that would require such an\nagent to participate in more than eight hours of training.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Responsible Vendor Training.\n1. All current Marijuana Establishment Agents, including Laboratory Agents, involved\nin the handling or sale of Marijuana for adult use at the time of licensure or renewal of\nlicensure, as applicable, shall have attended and successfully completed a Responsible\nVendor Training Program to be designated a \"Responsible Vendor\".\na. Marijuana Establishment Agents shall first take the Basic Core Curriculum.\nb. On completing the Basic Core Curriculum, a Marijuana Establishment Agent is\neligible to take the Advanced Core Curriculum.\nc. Exception for Administrative Employees. Marijuana Establishment Agents who\nserve as administrative employees and do not handle or sell Marijuana are exempt\nfrom the four-hour RVT requirement, but may take a Responsible Vendor Training\nProgram course on a voluntary basis as part of fulfilling the eight-hour total training\nrequirement.\n2. Once a Marijuana Establishment is designated a Responsible Vendor, all Marijuana\nEstablishment Agents employed by the Marijuana Establishment that are involved in the\nhandling or sale of Marijuana for adult use shall successfully complete the Basic Core\nCurriculum within 90 days of hire.\n3.\nAfter successful completion of the Basic Core Curriculum, each Marijuana\nEstablishment Agent involved in the handling or sale of Marijuana for adult use shall\nfulfill the four-hour RVT requirement every year thereafter for the Marijuana\nEstablishment to maintain designation as a Responsible Vendor. Failure to maintain\nResponsible Vendor status is grounds for action by the Commission.\n4. Responsible Vendor Trainer Certification.\na. No owner, manager or employee of a Responsible Vendor Trainer may be a\nPerson Or Entity Having Direct Or Indirect Ownership or Control of a Marijuana\nEstablishment.\nb. Responsible Vendor Trainers shall submit their program materials to the\nCommission prior to offering courses, every two years following for Commission\ncertification of the Responsible Vendor Trainer and Responsible Vendor Training\nProgram curriculum, and on request. The process for certification will be in a form\nand manner determined by the Commission.\nc. Responsible Vendor Training Program courses shall consist of at least two hours\nof instruction time.\nd. Except as provided in {{ref:500.105(2)(b)}}4.e., Responsible Vendor Training\nProgram courses shall be taught in a real-time, interactive, virtual or in-person\nclassroom setting in which the instructor is able to verify the identification of each\nindividual attending the program and certify completion of the program by the\nindividual.\ne. Responsible Vendor Training Program courses may be presented in a virtual\nformat that is not taught in a real-time, provided that the Responsible Vendor Trainer,\nas part of its application for certification, can demonstrate means:\ni. To verify the identification of each trainee participating in the program course\nand certify completion by the individual;\nii. To track trainees' time needed to complete the course training;\niii. To allow for the trainees to ask questions of the Responsible Vendor Trainer,\nfor example, by email, virtual discussion board, or group/class discussion; and\niv. To evaluate each trainee's proficiency with course material.\nf. Responsible Vendor Trainers shall seek certification for each Basic Core\nCurriculum and Advanced Core Curriculum. Applications for Advanced Core\nCurriculum certification will be open on or before July 1, 2022.\ng. Responsible Vendor Trainers shall maintain its training records at its Principal\nPlace of Business for four years.\nh. Responsible Vendor Trainers shall make the records available for inspection by\nthe Commission and any other applicable licensing authority on request during\nnormal business hours.\n\ni.\nResponsible Vendor Trainers shall provide to the appropriate Marijuana\nEstablishment and Marijuana Establishment Agent written documentation of\nattendance and successful evaluation of proficiency, such as passage of a test on the\nknowledge of the required curriculum for each attendee.\nj. Trainees who can speak and write English fluently shall successfully demonstrate\nproficiency, such as passing a written test with a score of 70% or better.\nk. Marijuana Establishment Agents who cannot speak or write English may be\noffered a verbal evaluation or test, provided that the same questions are given as are\non the written test and the results of the verbal test are documented with a passing\nscore of 70% or better.\nl.\nResponsible Vendor Trainers shall solicit effectiveness evaluations from\nMarijuana Establishment Agents who have completed their program(s).\n5. Basic Core Curriculum. The Basic Core Curriculum shall cover the following subject\nmatter:\na. Marijuana's effect on the human body, including:\ni. Scientifically based evidence on the physical and mental health effects based\non the type of Marijuana Product;\nii. The amount of time to feel impairment;\niii. Visible signs of impairment; and\niv. Recognizing the signs of impairment.\nb. Diversion and Inversion prevention and prevention of sales to minors, including\nbest practices.\nc. Compliance with all tracking requirements.\nd. Acceptable forms of identification. Training shall include:\ni. How to check identification;\nii. Spotting and confiscating fraudulent identification;\niii. Patient registration cards currently and validly issued by the Commission;\niv. Common mistakes made in identification verification.\nv. Prohibited purchases and practices, including purchases by persons younger\nthan 21 years old in violation of {{extref:M.G.L. c. 94G, § 13}}.\ne. Other key state laws and rules affecting Marijuana Establishment Agents, which\nshall include:\ni. Conduct of Marijuana Establishment Agents;\nii.\nPermitting inspections by state and local licensing and enforcement\nauthorities;\niii. Local and state licensing and enforcement, including registration and license\nsanctions;\niv. Incident and notification requirements;\nv. Administrative, civil, and criminal liability;\nvi. Health and safety standards, including waste disposal;\nvii. Patrons prohibited from bringing Marijuana and Marijuana Products onto\nlicensed premises;\nviii. Permitted hours of sale;\nix.\nLicensee responsibilities for activities occurring within licensed\npremises;\nx. Maintenance of records, including confidentiality and privacy; and\nf. Such other areas of training determined by the Commission to be included in a\nResponsible Vendor Training Program.\n6. Advanced Core Curriculum.\na. Each Advanced Core Curriculum class shall be approved by the Commission\nprior to being offered. The curriculum shall build on the knowledge, skills, and\npractices covered in the Basic Core Curriculum.\nb. An Advanced Core Curriculum class shall include standard and best practices in\none or more of the following areas\ni. Cultivation;\nii. Product Manufacturing;\niii. Retail;\niv. Transportation;\nv. Laboratory Science;\nvi. Energy and Environmental Best Practices;\nvii. Social Justice and Economically Reparative Practices;\nviii. Implicit Bias and Diversity Training;\n\nix. Worker Safety;\nx. Food Safety and Sanitation;\nxi. Confidentiality and Privacy;\nxii. In depth coverage of any topic(s) taught in the Basic Core Curriculum; or\nxiii. Such other topic as the Commission may approve in its sole discretion.\n7. Delivery Core Curriculum. In addition to the Basic Core Curriculum, all Marijuana\nEstablishment Agents acting as delivery employees of a Delivery Licensee or a Marijuana\nEstablishment with a Delivery Endorsement shall have attended and successfully\ncompleted Delivery Core Curriculum prior to making a delivery, which shall, to the\nextent not covered in Basic Core Training include, without limitation, training on:\na. Safely conducting deliveries;\nb. Safe cash handling practices;\nc. Strategies for de-escalating potentially dangerous situations;\nd. Securing product following any instance of Diversion or Inversion, theft or loss\nof Finished Marijuana Products pursuant to {{ref:500.110(1)(m)}};\ne. Collecting and communicating information to assist in investigations;\nf. Procedures for checking identification;\ng. Indications of impairment;\nh. Notification to Consumers of use of mandatory recording devices; and\ni. Such other areas of training determined by the Commission to be included in a\nResponsible Vendor Training Program.\n8. Social Consumption Core Curriculum. In addition to the Basic Core Curriculum, all\nMarijuana Establishment Agents acting as employees of a Social Consumption\nEstablishment Licensee shall attend and successfully complete Social Consumption Core\nCurriculum prior to performing job functions in a Social Consumption Establishment,\nwhich shall, to the extent not covered in Basic Core Curriculum include, without\nlimitation, training on:\na. Strategies for de-escalating potentially dangerous situations;\nb. Procedures for addressing medical or public safety emergencies;\nc. Collecting and communicating information to assist in investigations;\nd. Procedures for checking identification;\ne. Recognizing signs of impairment from alcohol or cannabis use;\nf.\nRegulation requirements for licensed Social Consumption Establishment\nlicensees; and\ng. Such other areas of training determined by the Commission to be included in a\nResponsible Vendor Training Program.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Requirements for the Handling of Marijuana.",
+          "children": [
+            {
+              "id": "500.105(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Requirements for the Handling of Marijuana.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Establishment authorized to Process Marijuana shall do so in a safe and\nsanitary manner. A Marijuana Establishment shall Process the leaves and flowers of the\nfemale Marijuana plant only, which shall be:\n1. Well cured and free of seeds and stems;\n2. Free of dirt, sand, debris, and other foreign matter;\n3. Free of contamination by mold, rot, other fungus, pests and bacterial diseases and\nsatisfying the sanitation requirements in 105 CMR {{ref:500.000}}, and if applicable, 105 CMR\n590.000: State Sanitary Code Chapter X – Minimum Sanitation Standards for Food\nEstablishments;\n4. Prepared and handled on food-grade stainless steel tables with no contact with\nLicensees' or Marijuana Establishment Agents' bare hands; and\n5. Packaged in a secure area.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All Marijuana Establishments, including those that develop, Repackage, or Process nonEdible Marijuana Products, shall comply with the following sanitary requirements:",
+              "children": [
+                {
+                  "id": "500.105(3)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "All Marijuana Establishments, including those that develop, Repackage, or Process nonEdible Marijuana Products, shall comply with the following sanitary requirements:\n1. Any Marijuana Establishment Agent whose job includes contact with Marijuana or\nnon-Edible Marijuana Products, including cultivation, production, or packaging, is\nsubject to the requirements for food handlers specified in 105 CMR 300.000: Reportable\nDiseases, Surveillance, and Isolation and Quarantine Requirements;\n2. Any Marijuana Establishment Agent working in direct contact with preparation of\nMarijuana or non-Edible Marijuana Products shall conform to sanitary practices while\non duty, including:\na. Maintaining adequate personal cleanliness; and\nb. Washing hands thoroughly in an adequate hand-washing area before starting\nwork, and at any other time when hands may have become soiled or contaminated.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(3)(b)3.",
+                  "type": "paragraph",
+                  "number": "3.",
+                  "heading": null,
+                  "content": "Hand-washing facilities shall be adequate and convenient and shall be furnished with\nrunning water at a suitable temperature. Hand-washing facilities shall be located in the\nMarijuana Establishment in Production Areas and where good sanitary practices require\nEmployees to wash and sanitize their hands, and shall provide effective hand-cleaning\nand sanitizing preparations and sanitary towel service or suitable drying devices;\n4. There shall be sufficient space for placement of equipment and storage of materials\nas is necessary for the maintenance of sanitary operations;\n5. Litter and waste shall be properly removed, disposed of so as to minimize the\ndevelopment of odor and minimize the potential for the waste attracting and harboring\npests. The operating systems for waste disposal shall be maintained in an adequate\nmanner pursuant to {{ref:500.105(12)}};\n6. Floors, walls, and ceilings shall be constructed in such a manner that they may be\nadequately kept clean and in good repair;\n7. There shall be adequate safety lighting in all Processing and storage areas, as well as\nareas where equipment or utensils are cleaned;\n8. Buildings, fixtures, and other physical facilities shall be maintained in a sanitary\ncondition;\n9. All contact surfaces, including utensils and equipment, shall be maintained in a clean\nand sanitary condition. Such surfaces shall be cleaned and sanitized as frequently as\nnecessary to protect against contamination, using a sanitizing agent registered by the U.S.\nEnvironmental Protection Agency (EPA), in accordance with labeled instructions.\nEquipment and utensils shall be so designed and of such material and workmanship as\nto be adequately cleanable;\n10. All toxic items shall be identified, held, and stored in a manner that protects against\ncontamination of Marijuana Products. Toxic items may not be stored in an area\ncontaining products used in the cultivation of Marijuana. The Commission may require\na Marijuana Establishment to demonstrate the intended and actual use of any toxic items\nfound on the Premises;\n11. A Marijuana Establishment's water supply shall be sufficient for necessary\noperations. Any private water source shall be capable of providing a safe, potable, and\nadequate supply of water to meet the Marijuana Establishment's needs;\n12. Plumbing shall be of adequate size and design, and adequately installed and\nmaintained to carry sufficient quantities of water to required locations throughout the\nMarijuana Establishment. Plumbing shall properly convey sewage and liquid disposable\nwaste from the Marijuana Establishment. There shall be no cross-connections between\nthe potable and wastewater lines;\n13. A Marijuana Establishment shall provide its employees with adequate, readily\naccessible toilet facilities that are maintained in a sanitary condition and in good repair;\n14. Products that can support the rapid growth of undesirable microorganisms shall be\nheld in a manner that prevents the growth of these microorganisms;\n15. Storage and transportation of finished products shall be under conditions that will\nprotect them against physical, chemical, and microbial contamination as well as against\ndeterioration of finished products or their containers; and\n16. All vehicles and transportation equipment used in the transportation of Marijuana\nProducts or Edibles requiring temperature control for safety shall be designed,\nmaintained, and equipped as necessary to provide adequate temperature control to\nprevent the Marijuana Products or Edibles from becoming unsafe during transportation,\nconsistent with applicable requirements pursuant to 21 CFR 1.908(c).",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "All Marijuana Establishments, including those that develop or Process Edibles, shall\ncomply with sanitary requirements. All Edibles shall be prepared, handled, and stored in\ncompliance with the sanitation requirements in 105 CMR 590.000: State Sanitary Code\nChapter X: Minimum Sanitation Standards for Food Establishments.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(3)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Unless otherwise authorized by the Commission, a CMO shall comply with {{ref:500.105(3)}} and 501.105(3): Handling of Marijuana.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(3)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Marijuana Establishments shall report any occurrence or suspected occurrence of illness\nbelieved to have been due to the consumption of Marijuana, Marijuana Products, or\nnon-infused food or drink to the Commission as required by {{ref:500.110(9)(a)}}10., and\nto the Department of Public Health as required by 105 CMR 300.131: Illnesses Believed to\nBe Due to Food Consumption. Marijuana Establishment Agents shall cooperate with any\ndisease investigation activities being performed by the Department of Public Health, and the\napplicable Board of Health or Local Board of Health as defined by 105 CMR 300.020.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Advertising Requirements.",
+          "children": [
+            {
+              "id": "500.105(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Advertising Requirements.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Permitted Practices. The following Advertising activities are permitted:",
+              "children": [
+                {
+                  "id": "500.105(4)(a)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Permitted Practices. The following Advertising activities are permitted:\n1. A Marijuana Establishment may develop a Brand Name to be used in labeling,\nsignage, and other materials; provided however, that use of medical symbols, images of\nMarijuana or Marijuana Products or related Paraphernalia images that are appealing to\npersons younger than 21 years old, and colloquial references to Marijuana and Cannabis\nare prohibited from use in the Brand Name\n2. Brand Name Sponsorship of a charitable, sporting or similar event, so long as the\nfollowing conditions are met.\na. Sponsorship of the event is limited to the Brand Name.\nb. Any Advertising at or in connection with such an event is prohibited, unless such\nAdvertising is targeted to entrants or participants reasonably expected to be 21 years\nof age or older, as determined by reliable, current audience composition data, and\nreasonable safeguards have been employed to prohibit Advertising from targeting or\notherwise reaching entrants or participants reasonably expected to be younger than\n21 years old, as determined by reliable, current audience composition data;\n3. Brand Name Sponsorship of a charitable, cultural or similar event both held and\norganized by the city or town in which the sponsoring Marijuana Establishment or CMO\nis licensed to conduct business, so long as the following conditions are met:\na. Sponsorship of said event shall be included in its Positive Impact Plan submitted\nin accordance with {{ref:500.101(1)(a)}}11;\nb. Sponsorship of the event is limited to the Brand Name;\nc. Any Advertising at or in connection with such an event is prohibited, unless such\nAdvertising is targeted to entrants or participants reasonably expected to be 21 years\nof age or older, as determined by reliable, current audience composition data, and\nreasonable safeguards have been employed to prohibit Advertising from targeting or\notherwise reaching entrants or participants reasonably expected to be younger than\n21 years old, as determined by reliable, current audience composition data;\n4. A Marijuana Establishment engaging in Brand Name Sponsorship under {{ref:500.105(4)(a)}}2. and 3. shall retain documentation of reliable, reasonable audience\ncomposition data that is the basis for allowing any such Advertising or branding for a\nperiod of one year, or longer if otherwise required by the Commission, or a court or\nagency with jurisdiction.\n5. A Marijuana Establishment may display, in secure, locked cases, samples of each\nproduct offered for sale and subject to the requirements of {{ref:500.110}}. These\ndisplay cases may be transparent. An authorized Marijuana Establishment Agent may\nremove a sample of Marijuana from the case and provide it to the Consumer for\ninspection, provided the Consumer may not consume or otherwise use the sample, unless\notherwise authorized herein;\n6. The Marijuana Establishment may post prices in the store and may respond to\nquestions about pricing. The Marijuana Establishment shall provide a catalogue or a\nprinted list of the prices and strains of Marijuana available at the Marijuana\nEstablishment to Consumers and may post the same catalogue or printed list on its\nwebsite and in the retail store;\n7. A Marijuana Establishment may engage in reasonable Advertising practices that are\nnot otherwise prohibited in {{ref:500.105(4)(b)}} that do not jeopardize the public\nhealth, welfare or safety of the general public or promote the Diversion or Inversion of\nMarijuana or Marijuana use in individuals younger than 21 years old or otherwise\npromote practices inconsistent with the purposes of {{extref:M.G.L. c. 94G}} or 94I. Any such\nAdvertising created for viewing by the public shall include the statement \"Please\nConsume Responsibly\", in a conspicuous manner on the face of the advertisement and\nshall include a minimum of two of the following warnings in their entirety in a\nconspicuous manner on the face of the advertisement:\na. \"This product may cause impairment and may be habit forming.\";\nb. \"Marijuana can impair concentration, coordination and judgment. Do not operate\na vehicle or machinery under the influence of this drug.\";\nc. \"There may be health risks associated with consumption of this product.\";\nd. \"For use only by adults 21 years of age or older. Keep out of the reach of\nchildren.\"; or\ne. \"Marijuana should not be used by women who are pregnant or breastfeeding.\"",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(4)(a)8.",
+                  "type": "paragraph",
+                  "number": "8.",
+                  "heading": null,
+                  "content": "All Advertising produced by or on behalf of a Marijuana Establishment for Marijuana\nor Marijuana Products shall include the following warning, including capitalization, in\naccordance with {{extref:M.G.L. c. 94G, § 4}}(a½)(xxvi):\n\"This product has not been analyzed or approved by the Food and Drug Administration\n(FDA). There is limited information on the side effects of using this product, and there\nmay be associated health risks. Marijuana use during pregnancy and breast-feeding may\npose potential harms. It is against the law to drive or operate machinery when under the\ninfluence of this product. KEEP THIS PRODUCT AWAY FROM CHILDREN. There\nmay be health risks associated with consumption of this product. Marijuana can impair\nconcentration, coordination, and judgment. The impairment effects of Edibles may be\ndelayed by two hours or more. In case of accidental ingestion, contact poison control\nhotline 1-800-222-1222 or 9-1-1. This product may be illegal outside of MA.\"\n9. A Licensee may utilize employee discounts as part of the Marijuana Establishment's\noperating policy and procedure for prevention of Diversion of Inversionpursuant to\n{{ref:500.101(1)(c)}}8.b. Institution of an employee discount program under\n{{ref:500.101(1)(c)}}8.b. shall not be considered a prohibited practice under {{ref:500.105(4)(b)}}.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Prohibited Practices. The following Advertising activities are prohibited:",
+              "children": [
+                {
+                  "id": "500.105(4)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Prohibited Practices. The following Advertising activities are prohibited:\n1. Advertising in such a manner that is deemed to be is deceptive, misleading, false or\nfraudulent, or that tends to deceive or create a misleading impression, whether directly\nor by omission or ambiguity;\n2. Advertising by means of television, radio, internet, mobile applications, social media,\nor other electronic communication, billboard or other outdoor Advertising, or print\npublication, unless at least 85% of the audience is reasonably expected to be 21 years of\nage or older as determined by reliable and current audience composition data;\n3. Advertising that utilizes statements, designs, representations, pictures or illustrations\nthat portray anyone younger than 21 years old;\n4. Advertising including, but not limited to, mascots, cartoons, and celebrity\nendorsements, that is deemed to appeal to a person younger than 21 years old;\n5. Brand sponsorship including, but not limited to, mascots, cartoons, and celebrity\nendorsements, that is deemed to appeal to a person younger than 21 years old;\n6. Advertising, including statements by a Licensee, that makes any false or statements\nconcerning other Licensees and the conduct and products of such other Licensees that is\ndeceptive, misleading, false or fraudulent, or that tends to deceive or create a misleading\nimpression, whether directly or by omission or ambiguity;\n7. Advertising by a Licensee that asserts that its products are safe, or represent that its\nproducts have curative or therapeutic effects, other than labeling required pursuant to\n{{extref:M.G.L. c. 94G, § 4}}(a½)(xxvi), unless supported by substantial evidence or substantial\nclinical data with reasonable scientific rigor as determined by the Commission;\n8. Advertising on any billboards, or any other public signage, which fails to comply\nwith all state and local ordinances and requirements;\n9. Use of any illuminated or external signage beyond the period of 30 minutes before\nsundown until closing; provided, however, that the Commission may further specify\nminimum signage requirements;\n10. The use of vehicles equipped with radio or loudspeakers for the Advertising of\nMarijuana or Marijuana Products;\n11. The use of radio or loudspeaker equipment in any Marijuana Establishment for the\npurpose of Advertising the sale of Marijuana or Marijuana Products;\n12. Brand Name Sponsorship of a charitable, sporting or similar event, unless such\nAdvertising is targeted to entrants or participants reasonably expected to be 21 years of\nage or older, as determined by reliable, current audience composition data, and\nreasonable safeguards have been employed to prohibit Advertising from targeting or\notherwise reaching entrants or participants reasonably expected to be under 21 years old,\nas determined by reliable, current audience composition data;\n13. Operation of any website of a Marijuana Establishment that fails to verify that the\nentrant is 21 years of age or older;\n14.\nAny Advertising, including the use of Brand Names, of an improper or\nobjectionable nature including, but not limited to, the use of language or images\noffensive or disparaging to certain groups;",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(4)(b)15.",
+                  "type": "paragraph",
+                  "number": "15.",
+                  "heading": null,
+                  "content": "Any Advertising, solely for the promotion of Marijuana or Marijuana Products on\nMarijuana Establishment Branded Goods including, but not limited to, clothing, cups,\ndrink holders, apparel accessories, electronic equipment or accessories, sporting\nequipment, novelty items and similar portable promotional items;\n16. Advertising on or in public or private vehicles and at bus stops, taxi stands,\ntransportation waiting areas, train stations, airports, or other similar transportation venues\nincluding, but not limited to, vinyl-wrapped vehicles or signs or logos on transportation\nvehicles not owned by the Marijuana Establishment;\n17. The display of signs or other printed material Advertising any brand or any kind of\nMarijuana or Marijuana Products that are displayed on the exterior of any licensed\nPremises;\n18. Advertising of the price of Marijuana or Marijuana Products, except as permitted\nabove pursuant to {{ref:500.105(4)(a)}}6.;\n19. Display of Marijuana or Marijuana Products so as to be clearly visible to a person\nfrom the exterior of a Marijuana Establishment; and\n20. Advertising through the marketing of free promotional items including, but not\nlimited to, gifts, giveaways, discounts, points-based reward systems, customer loyalty\nprograms, coupons, and \"free\" or \"donated\" Marijuana, except as otherwise permitted by\n{{ref:500.105(4)(a)}}9. and except for the provision of Brand Name take-away bags\nby a Marijuana Establishment for the benefit of customers after a retail purchase is\ncompleted.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Nothing in {{ref:500.105(4)}} prohibits a Marijuana Establishment from using a mark\nprovided by the Commission which uses images of Marijuana or Marijuana Products. CMOs\nshall comply with the requirements of each {{ref:500.105(4)}} and 501.105(4) with\nrespect to the applicable license. A CMO may develop a single marketing campaign;\nprovided, however, it shall apply the most restrictive requirements applicable under either\nlicense.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Labeling of Marijuana and Marijuana Products.",
+          "children": [
+            {
+              "id": "500.105(5)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Labeling of Marijuana and Marijuana Products.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(5)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Labeling of Marijuana Not Sold as a Marijuana Product. Prior to Marijuana being sold\nor Transferred, a Marijuana Establishment shall ensure the placement of a legible, firmly\nAffixed label on which the wording is no less than 1/16 inch in size on each package of\nMarijuana that it makes available for retail sale containing at a minimum the following\ninformation:",
+              "children": [
+                {
+                  "id": "500.105(5)(a)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Labeling of Marijuana Not Sold as a Marijuana Product. Prior to Marijuana being sold\nor Transferred, a Marijuana Establishment shall ensure the placement of a legible, firmly\nAffixed label on which the wording is no less than 1/16 inch in size on each package of\nMarijuana that it makes available for retail sale containing at a minimum the following\ninformation:\n1. The name and registration number, telephone number and email address of the\nLicensee that produced the Marijuana, together with the retail Licensee's business\ntelephone number, email address, and website information, if any;\n2. The date that the Marijuana Establishment packaged the contents and a statement of\nwhich Licensee performed the packaging;\n3. A batch number, sequential serial number, and bar code when used, to identify the\nbatch associated with manufacturing and Processing;\n4. Net weight or volume in U.S. customary and metric units, listed in that order;\n5. The full Cannabinoid Profile of the Marijuana contained within the package,\nincluding THC and other Cannabinoid levels;\n6. A statement and a seal certifying that the product has been tested for contaminants,\nthat there were no adverse findings, and the date of testing in accordance with {{extref:M.G.L.\nc. 94G, § 15}};\n7. This statement, including capitalization;\n“This product has not been analyzed or approved by the FDA. There is limited\ninformation on the side effects of using this product, and there may be associated health\nrisks. Marijuana use during pregnancy and breast-feeding may pose potential harms. It\nis against the law to drive or operate machinery when under the influence of this product.\n“KEEP THIS PRODUCT AWAY FROM CHILDREN.”;\n8. The following symbol or easily recognizable mark issued by the Commission that\nindicates the package contains Marijuana:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(a)9.",
+                  "type": "paragraph",
+                  "number": "9.",
+                  "heading": null,
+                  "content": "The following symbol or other easily recognizable mark issued by the Commission\nthat indicates that the product is harmful to children:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(a)10.",
+                  "type": "paragraph",
+                  "number": "10.",
+                  "heading": null,
+                  "content": "{{ref:500.105(5)(a)}} shall apply to Marijuana packaged as a Finished Marijuana\nProduct for purposes of Wholesale to a Delivery Operator for delivery to Consumers,\nprovided that the Marijuana Cultivator, Microbusiness or Craft Marijuana Cooperative\nis responsible for compliance with {{ref:500.105(5)}} for all Marijuana intended to\nbe wholesaled for delivery to Consumers by a Delivery Operator. White labeling of\nFinished Marijuana Products wholesaled from a Marijuana Cultivator, Microbusiness or\nCraft Marijuana Cooperative for delivery to Consumers by a Delivery Operator may be\nperformed by either Licensee, provided that white labeling is explicitly authorized by the\nCommission under the specific Delivery Operator License and reflected in any Wholesale\nAgreement.\n11. {{ref:500.105(5)(a)}} shall not apply to Marijuana packaged for transport of\nwholesale cultivated Marijuana in compliance with {{ref:500.105(8)}}; provided\nhowever, that the Marijuana Retailer is responsible for compliance with {{ref:500.105(5)}} for all Marijuana sold or displayed to Consumers.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(5)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Labeling of Edibles. Prior to Edibles being sold or Transferred, the Marijuana Product\nManufacturer shall place a legible, firmly Affixed label on which the wording is no less than\n1\n/16 inch in size on each Edible that it prepares for retail sale or wholesale, containing at a\nminimum the following information:",
+              "children": [
+                {
+                  "id": "500.105(5)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Labeling of Edibles. Prior to Edibles being sold or Transferred, the Marijuana Product\nManufacturer shall place a legible, firmly Affixed label on which the wording is no less than\n1\n/16 inch in size on each Edible that it prepares for retail sale or wholesale, containing at a\nminimum the following information:\n1. The name and registration number of the Marijuana Product Manufacturer that\nproduced the Marijuana Product, together with the Marijuana Product Manufacturer's\nbusiness telephone number, e-mail address, and website information, if any;\n2. The name of the Marijuana Product;\n3. Refrigeration of the product is required, as applicable;\n4. Total net weight or volume in U.S. customary and metric units, listed in that order,\nof the Marijuana Product;\n5. The number of servings within the Marijuana Product based on the limits provided\nin {{ref:500.150(3)}} and the specific weight in milligrams of a serving size;\n6. The type of Marijuana used to produce the product, including what, if any, Processing\ntechnique or solvents were used;\n7. A list of ingredients, including the full Cannabinoid Profile of the Marijuana\ncontained within the Marijuana Product, including the amount of\ndelta-nine-tetrahydrocannabinol (Δ9-THC) and other Cannabinoids in the package and\nin each serving of a Marijuana Product as expressed in absolute terms and as a\npercentage of volume;\n8. The amount, in grams, of sodium, sugar, carbohydrates and total fat per serving;\n9. The date of creation and the recommended \"use by\" or expiration date which may not\nbe altered or changed;\n10. A batch number, sequential serial number and bar codes when used, to identify the\nbatch associated with manufacturing and Processing;\n11. Directions for use of the Marijuana Product;\n12. A statement and a seal that the product has been tested for contaminants, that there\nwere no adverse findings, and the date of testing in accordance with {{extref:M.G.L. c. 94G, § 15}};\n13. A warning if nuts or other Known Allergens are contained in the product; and\n14. This statement, including capitalization: \"The impairment effects of edible products\nmay be delayed by two hours or more. This product has not been analyzed or approved\nby the FDA. There is limited information on the side effects of using this product, and\nthere may be associated health risks. Marijuana use during pregnancy and breast-feeding\nmay pose potential harms. It is against the law to drive or operate machinery when under\nthe influence of this product. KEEP THIS PRODUCT AWAY FROM CHILDREN.\";",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(b)15.",
+                  "type": "paragraph",
+                  "number": "15.",
+                  "heading": null,
+                  "content": "The following symbol or easily recognizable mark issued by the Commission that\nindicates the package contains Marijuana:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(b)16.",
+                  "type": "paragraph",
+                  "number": "16.",
+                  "heading": null,
+                  "content": "The following symbol or other easily recognizable mark issued by the Commission\nthat indicates that the product is harmful to children:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(b)17.",
+                  "type": "paragraph",
+                  "number": "17.",
+                  "heading": null,
+                  "content": "{{ref:500.105(5)(b)}} shall apply to Edibles produced by a Marijuana Product\nManufacturer for transport to a Licensee in compliance with {{ref:500.105(8)}} and\nshall be in addition to any regulation regarding the appearance of Edibles under\n{{ref:500.150}}.\n18. The White Labeling of Edibles to be sold and delivered by a Delivery Operator may\nbe conducted by the licensed Microbusiness or Product Manufacturer of the Edible at the\nMicrobusiness's or Product Manufacturer's Premises or by the Delivery Operator at the\nWarehouse of the Delivery Licensee, provided that White Labeling is explicitly\nauthorized by the Commission under the specific Delivery Operator License and reflected\nin any Wholesale Agreement.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(5)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Labeling of Marijuana Concentrates and Extracts. Prior to Marijuana concentrates or\nextracts being sold or Transferred, the Marijuana Product Manufacturer shall place a legible,\nfirmly Affixed label on which the wording is no less than 1/16 inch in size on each Marijuana\nconcentrate container that it prepares for retail sale or wholesale, containing at a minimum\nthe following information:",
+              "children": [
+                {
+                  "id": "500.105(5)(c)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Labeling of Marijuana Concentrates and Extracts. Prior to Marijuana concentrates or\nextracts being sold or Transferred, the Marijuana Product Manufacturer shall place a legible,\nfirmly Affixed label on which the wording is no less than 1/16 inch in size on each Marijuana\nconcentrate container that it prepares for retail sale or wholesale, containing at a minimum\nthe following information:\n1. The name and registration number of the Marijuana Product Manufacturer that\nproduced the Marijuana Product, together with the Marijuana Product Manufacturer's\nbusiness telephone number, e-mail address, and website information, if any;\n2. The name of the Marijuana Product;\n3. Product identity including the word \"concentrate\" or \"extract\" as applicable;\n4. Total net weight or volume expressed in U.S. customary units and metric units, listed\nin that order, of the Marijuana Product;\n5. If applicable, the number of servings in the Marijuana Product based on the limits\nprovided in {{ref:500.150(4)}} and the specific weight in milligrams of a serving size;\n6. The type of Marijuana used to produce the product including what, if any, Processing\ntechnique or solvents were used;\n7. A list of ingredients including, but not limited to, the full Cannabinoid Profile of the\nMarijuana contained within the Marijuana Product, including the amount of\ndelta-nine-tetrahydrocannabinol (Δ9-THC) and other Cannabinoids in the package and\nin each serving of a Marijuana Product as expressed in absolute terms and as a\npercentage of volume, and the amount of specific additives infused or incorporated\nduring the manufacturing process, whether active or inactive including, but not limited\nto, thickening agents, thinning agents, and specific terpenes, expressed in absolute terms\nand as a percentage of volume.\na. For Marijuana Vaporizer Devices, identification of specific additives shall\ninclude, but not be limited to, any additives identified on the FDA's Inactive\nIngredient Database for \"Respiratory (inhalation)\" or \"Oral\" routes of administration\nand based on dosage form as an aerosol product or inhalant. The FDA Inactive\nIngredient Database is available at https://www.fda.gov/media/72482/download. If\nthe FDA database or its equivalent is no longer available, licensees shall use the\ndatabase identified by the Commission.\n\nb. For Marijuana Vaporizer Devices produced using only cannabis-derived terpenes,\nthe following statement: \"This product was produced using only cannabis-derived\nterpenes.\"\nc.\nFor Marijuana Vaporizer Devices produced using terpenes other than\ncannabis-derived terpenes, the following statement: \"This product was produced\nusing terpenes derived from sources other than cannabis.\"\n8. The date of creation and the recommended \"use by\" or expiration date;\n9. A batch number, sequential serial number, and bar code when used, to identify the\nbatch associated with manufacturing and Processing;\n10. Directions for use of the Marijuana Product;\n11. A statement and a seal that the product has been tested for contaminants, that there\nwere no adverse findings, and the date of testing in accordance with {{extref:M.G.L. c. 94G, § 15}};\n12. A warning if nuts or other Known Allergens are contained in the product;\n13. This statement, including capitalization: \"This product has not been analyzed or\napproved by the FDA. There is limited information on the side effects of using this\nproduct, and there may be associated health risks. Marijuana use during pregnancy and\nbreast-feeding may pose potential harms. It is against the law to drive or operate\nmachinery when under the influence of this product. KEEP THIS PRODUCT AWAY\nFROM CHILDREN.\";\n14. The following symbol or easily recognizable mark issued by the Commission that\nindicates the package contains Marijuana:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(c)15.",
+                  "type": "paragraph",
+                  "number": "15.",
+                  "heading": null,
+                  "content": "The following symbol or other easily recognizable mark issued by the Commission\nthat indicates that the product is harmful to children:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(c)16.",
+                  "type": "paragraph",
+                  "number": "16.",
+                  "heading": null,
+                  "content": "{{ref:500.105(5)(c)}} shall apply to Marijuana concentrates and extracts\nproduced by a Marijuana Product Manufacturer for transport to a Marijuana Retailer in\ncompliance with {{ref:500.105(13)}}.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(5)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Labeling of Marijuana Infused Tinctures and Topicals. Prior to Marijuana infused\nTinctures or topicals being sold or Transferred the Marijuana Product Manufacturer shall\nplace a legible, firmly Affixed label on which the wording is no less than 1/16 inch in size on\neach container of Marijuana infused Tincture or topical that it prepares for retail sale or\nwholesale, containing at a minimum the following information:",
+              "children": [
+                {
+                  "id": "500.105(5)(d)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Labeling of Marijuana Infused Tinctures and Topicals. Prior to Marijuana infused\nTinctures or topicals being sold or Transferred the Marijuana Product Manufacturer shall\nplace a legible, firmly Affixed label on which the wording is no less than 1/16 inch in size on\neach container of Marijuana infused Tincture or topical that it prepares for retail sale or\nwholesale, containing at a minimum the following information:\n1. The name and registration number of the Marijuana Product Manufacturer that\nproduced the Marijuana Product, together with the Marijuana Product Manufacturer's\nbusiness telephone number, e-mail address, and website information, if any;\n2. The Marijuana Product's identity;\n3. The type of Marijuana used to produce the product, including what, if any, Processing\ntechnique or solvents were used;\n4. A list of ingredients, including the full Cannabinoid Profile of the Marijuana\ncontained within the Marijuana Product, including the amount of\ndelta-nine-tetrahydrocannabinol (Δ9-THC) and other Cannabinoids in the package and\nin each serving of a Marijuana Product as expressed in absolute terms and as a\npercentage of volume;\n5. Total net weight or volume as expressed in U.S. customary units and metric units,\nlisted in that order, of the Marijuana Product;",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(d)6.",
+                  "type": "paragraph",
+                  "number": "6.",
+                  "heading": null,
+                  "content": "If applicable, the number of servings in the Marijuana Product based on the limits\nprovided in {{ref:500.150(4)}} and the specific weight in milligrams of a serving size;\n7. The date of product creation;\n8. A batch number, sequential serial number, and bar code when used, to identify the\nbatch associated with manufacturing and Processing;\n9. Directions for use of the Marijuana Product;\n10. A statement and a seal that the product has been tested for contaminants, that there\nwere no adverse findings, and the date of testing in accordance with {{extref:M.G.L. c. 94G, § 15}};\n11. A warning if nuts or other Known Allergens are contained in the product; and\n12. This statement, including capitalization: \"This product has not been analyzed or\napproved by the FDA. There is limited information on the side effects of using this\nproduct, and there may be associated health risks. Marijuana use during pregnancy and\nbreast-feeding may pose potential harms. It is against the law to drive or operate\nmachinery when under the influence of this product. KEEP THIS PRODUCT AWAY\nFROM CHILDREN.\";\n13. The following symbol or easily recognizable mark issued by the Commission that\nindicates the package contains Marijuana:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(d)14.",
+                  "type": "paragraph",
+                  "number": "14.",
+                  "heading": null,
+                  "content": "The following symbol or other easily recognizable mark issued by the Commission\nthat indicates that the product is harmful to children:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(5)(d)15.",
+                  "type": "paragraph",
+                  "number": "15.",
+                  "heading": null,
+                  "content": "{{ref:500.105(5)(d)}} shall apply to Marijuana-infused Tinctures and topicals\nproduced by a Marijuana Product Manufacturer for transport to a Licensee in compliance\nwith {{ref:500.105(8)}}.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(5)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Labeling of Repackaged Marijuana. Prior to Repackaged Marijuana being sold, the\nRetailer shall place a legible, firmly Affixed label on which the wording is no less than 1/16\ninch in size on each container of Marijuana that it prepares for retail sale,\n1. The Affixed label shall contain at a minimum the following information:\na. The name and registration number of the Cultivator that produced the Marijuana;\nb. Business or trade name of licensee that packaged the product, if different from\nthe Cultivator;\nc. Date of Harvest;\nd. Type of Marijuana or name of strain;\ne. The full Cannabinoid Profile of the Marijuana contained within the Repackaged\nProduct, including the amount of delta-nine-tetrahydrocannabinol (Δ9-THC) and\nother Cannabinoids in the package;\nf. The net weight or volume as expressed in U.S. customary units or metric units;\ng. A batch number, sequential serial number, and bar code when used, to identify\nthe batch associated with manufacturing and Processing;\nh. A statement and a seal that the product has been tested for contaminants, that\nthere were no adverse findings, and the date of testing in accordance with {{extref:M.G.L.\nc. 94G, § 15}};\ni. This statement, including capitalization: \"This product has not been analyzed or\napproved by the FDA. There is limited information on the side effects of using this\nproduct, and there may be associated health risks. Marijuana use during pregnancy\nand breast-feeding may pose potential harms. It is against the law to drive or operate\nmachinery when under the influence of this product. KEEP THIS PRODUCT\nAWAY FROM CHILDREN.\";\n\nj. The following symbol or easily recognizable mark issued by the Commission that\nindicates the package contains Marijuana:\n\nk.\nThe following symbol or other easily recognizable mark issued by the\nCommission that indicates that the product is harmful to children:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(5)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "In circumstances where the labeling of the Marijuana Product is unreasonable or\nimpractical, the Marijuana Establishment may include the labeling information on a\npeel-back label or may place the product in a take-away bag with an insert or\nadditional, easily readable label placed within that bag.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(5)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "CMOs shall comply with the labeling requirements in {{ref:500.105(5)}} for\nall adult-use sales and 935 CMR 501.105(5): Labeling of Marijuana and Marijuana\nProducts for all medical-use sales.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "Packaging of Marijuana and Marijuana Products.",
+          "children": [
+            {
+              "id": "500.105(6)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Packaging of Marijuana and Marijuana Products.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(6)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Child-resistant Packaging. Licensees licensed subject to {{ref:500.050(4)}} shall\nensure that all Marijuana Products that are provided for sale to Consumers by a Licensee\nshall be sold in child-resistant packaging. Licensees licensed subject to {{ref:500.050(2)}} shall ensure that all Finished Marijuana Products provided at wholesale for\ndelivery to Consumers by a Marijuana Delivery Operator shall be sold in child-resistant\npackaging. To comply with {{ref:500.105(6)}}, Licensees shall ensure:\n1. That to the extent it is not Unreasonably Impracticable for the specific type of\nproduct, Marijuana Products are packaged in containers that are:\na. Opaque and plain in design;\nb. Do not use bright colors, cartoon characters and other features designed to appeal\nto minors;\nc. Resealable for any marijuana product intended for more than a single use or\ncontaining multiple servings; and\nd. Certified by a qualified child-resistant packaging testing firm that the packaging\ncomplies with the most recent poison prevention packaging regulations of the U.S.\nConsumer Product Safety Commission as included at 16 CFR 1700: Poison\nPrevention Packaging.\n2. That where compliance with the requirements of child-resistant packaging is deemed\nto be Unreasonably Impracticable, Marijuana or Marijuana Products shall be placed in\nan exit package that is:\na. Capable of being resealed and made child-resistant resistant again after it has\nbeen opened;\nb. Includes the following statement, including capitalization, in at least ten-point\nTimes New Roman, Helvetica or Arial font: \"KEEP OUT OF REACH OF\nCHILDREN.\"; and\nc. Is certified by a qualified third-party child-resistant packaging testing firm that\nthe packaging complies the most recent poison prevention packaging regulations of\nthe U.S. Consumer Product Safety Commission as included at 16 CFR 1700: Poison\nPrevention Packaging.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(6)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Limits on Packaging Design. Packaging for Marijuana or Marijuana Products sold or\ndisplayed for Consumers, including any label or imprint affixed to any packaging containing\nMarijuana, Marijuana Products or any exit packages, may not be attractive minors.\nPackaging is explicitly prohibited from:",
+              "children": [
+                {
+                  "id": "500.105(6)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Limits on Packaging Design. Packaging for Marijuana or Marijuana Products sold or\ndisplayed for Consumers, including any label or imprint affixed to any packaging containing\nMarijuana, Marijuana Products or any exit packages, may not be attractive minors.\nPackaging is explicitly prohibited from:",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(6)(b)1.",
+                  "type": "paragraph",
+                  "number": "1.",
+                  "heading": null,
+                  "content": "Using bright colors, defined as colors that are \"neon\" in appearance;\n2. Imitating or having a semblance to any existing branded consumer products, including\nfoods and drinks, that do not contain marijuana;\n3. Featuring cartoons;\n4. Featuring a design, brand or name that resembles a non-cannabis consumer product\nof the type that is typically marketed to minors;\n5. Featuring symbols or celebrities that are commonly used to market products to\nminors;\n6. Featuring images of minors; and\n7. Featuring words that refer to products that are commonly associated with minors or\nmarketed to minors.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(6)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Packaging of Multiple Servings.\n1. Packaging for Marijuana Products sold or displayed for Consumers in multiple\nservings shall include the following statement on the exterior of the package in a printed\nfont that is no smaller than ten-point Times New Roman, Helvetica or Arial, including\ncapitalization: \"INCLUDES MULTIPLE SERVINGS\".\n2. Packaging for Marijuana Products in solid form sold or displayed for Consumers in\nmultiple servings shall allow a Consumer to easily perform the division into single\nservings.\na. Edibles in a solid form shall be easily and permanently scored to identify\nindividual servings.\nb. Notwithstanding {{ref:500.105(6)(c)}}2.a., where a product is unable, because\nof its form, to be easily and permanently scored to identify individual servings, the\nproduct shall be packaged in a single serving size. The determination of whether a\nproduct can be easily and permanently scored shall be decided by the Commission\nconsistent with sub-regulatory guidelines established by the Commission and\nprovided to Licensees.\nc. Packaging for Marijuana Product Beverages shall be packages solely in a single\nserving size. Except as otherwise provided in {{ref:500.141(3)}}, multiple-serving\nBeverages are strictly prohibited for sale to Consumers.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(6)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Each single serving of an Edibles contained in a multiple-serving package shall be\nmarked, stamped or otherwise imprinted with the symbol issued by the Commission under\n{{ref:500.105(5)}} that indicates that the single serving is a Marijuana Product.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(6)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Serving size shall be determined by the processor, but in no instance shall an individual\nserving size of any Marijuana Product contain more than five milligrams of\ndelta-nine-tetrahydrocannabinol (Δ9-THC) subject to the testing variance specified in\n{{ref:500.160(12)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(6)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "CMOs shall comply with the packaging requirements in {{ref:500.105(6)}} for adult\nuse sales or 935 CMR 501.105(6) for medical use sales.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "Packaging and Labeling Preapproval. Prior to Marijuana or Marijuana Product being sold\nat a Marijuana Establishment, a CMO, a Licensee or License Applicant may submit an\napplication for packaging and label approval to the Commission. An application for preapproval\nmay be submitted at any time prior to Marijuana or Marijuana Product being sold or at any time\na substantive change is made to the packaging or labeling of Marijuana or Marijuana Product.\nThe Commission shall charge a fee for packaging and labeling preapproval pursuant to {{ref:500.005}}.",
+          "children": [
+            {
+              "id": "500.105(7)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Packaging and Labeling Preapproval. Prior to Marijuana or Marijuana Product being sold\nat a Marijuana Establishment, a CMO, a Licensee or License Applicant may submit an\napplication for packaging and label approval to the Commission. An application for preapproval\nmay be submitted at any time prior to Marijuana or Marijuana Product being sold or at any time\na substantive change is made to the packaging or labeling of Marijuana or Marijuana Product.\nThe Commission shall charge a fee for packaging and labeling preapproval pursuant to {{ref:500.005}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(7)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Packaging and labeling preapproval review shall be limited to the physical attributes of,\nand statutorily required warnings on, the packaging and label including, but not limited to,\nlegibility, but shall not include a review of specific Independent Testing Laboratory test\nresults required pursuant to {{ref:500.105(5)}} and (6). The packaging and labeling\npreapproval process shall be in addition to the requirements of {{ref:500.105(4)}} through\n(6).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(7)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "In addition to an application for packaging and labeling preapproval in a form and\nmanner determined by the Commission, an applicant for preapproval shall submit electronic\nfiles of the following to the Commission:",
+              "children": [
+                {
+                  "id": "500.105(7)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "In addition to an application for packaging and labeling preapproval in a form and\nmanner determined by the Commission, an applicant for preapproval shall submit electronic\nfiles of the following to the Commission:\n1. For packaging preapproval, two images of the packaging, one depicting the front of\nthe packaging and one depicting the back of the packaging. Photographs shall be\nelectronic files in a JPEG format with a minimum photo resolution of 640 x 480 and\nprint resolution of 300 DPI. Photographs shall be against a white background.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(7)(b)2.",
+                  "type": "paragraph",
+                  "number": "2.",
+                  "heading": null,
+                  "content": "For labeling preapproval, one image of each label requested for review. Photographs\nshall be electronic files in a JPEG format with a minimum photo resolution of 640 x 480\nand print resolution of 300 DPI. Photographs shall be against a white background.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(7)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The Commission shall make every effort to make a preapproval determination based on\ninformation submitted. In the event that a preapproval determination is unable to be made\nconclusively based on submitted photographs, the Commission may request to view the\npackaging or label in person or through a video conference. Any such request by the\nCommission shall be made to the applicant electronically or in writing.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "Inventory and Transfer.",
+          "children": [
+            {
+              "id": "500.105(8)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Inventory and Transfer.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Subject to Marijuana or Marijuana Products being entered into the Seed-to-sale SOR,\na Marijuana Establishment may Transfer product to an MTC; and an MTC may Transfer\nproduct to a Marijuana Establishment as long as there is no violation of the dosing\nlimitations set forth in {{ref:500.150(4)}} or the limitations on total MTC inventory as set\nforth in 935 CMR 501.105(8)(m)1. Such Transfers cannot violate provisions protecting\npatient supply under {{ref:500.140(15)}}. An MTC shall limit its Transfer of inventory\nof seeds, plants, and Usable Marijuana to reflect the projected needs of Registered Qualifying\nPatients.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Real-time inventory shall be maintained as specified by the Commission and in\n{{ref:500.105(8)(c)}} and (d) including, at a minimum, an inventory of Marijuana plants;\nMarijuana plant-seeds and Clones in any phase of development such as Propagation,\nVegetation, and Flowering; Marijuana ready for dispensing; all Marijuana Products; and all\ndamaged, defective, expired, or contaminated Marijuana and Marijuana Products awaiting\ndisposal.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Marijuana Establishment shall:\n1. Establish inventory controls and procedures for the conduct of inventory reviews, and\ncomprehensive inventories of Marijuana Products in the process of cultivation, and\nfinished, stored Marijuana;\n2. Conduct a monthly inventory of Marijuana in the process of cultivation and finished,\nstored Marijuana;\n3. Conduct a comprehensive annual inventory at least once every year after the date of\nthe previous comprehensive inventory; and\n4. Promptly transcribe inventories if taken by use of an oral recording device.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "The record of each inventory shall include, at a minimum, the date of the inventory, a\nsummary of the inventory findings, and the names, signatures, and titles of the individuals\nwho conducted the inventory.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Marijuana Establishment shall attach plant tags to all Marijuana, Clones, and plants\nand attach package tags to all Finished Marijuana and Marijuana Products, and track all\nMarijuana seeds, Clones, plants, and Marijuana Products, using a Seed-to-sale methodology\nin a form and manner to be approved by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "The failure to enter inventory into the Seed-to-sale SOR may result in the suspension or\nrevocation of a Marijuana Establishment License.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Any distribution and acquisition of Marijuana and Marijuana Products shall be tracked\nin the Seed-to-sale SOR in a form and manner determined by the Commission. Any\ndistribution of Marijuana and Marijuana Products that is not tracked in the Seed-to-sale SOR\nmay result in the suspension or revocation of a Marijuana Establishment License or other\nadministrative action.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "No Marijuana Product, including Marijuana, may be sold or otherwise marketed for\nadult use that has not first been tested by Independent Testing Laboratories, except as\nallowed under {{ref:500.000}}: Adult Use of Marijuana.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "A CMO shall implement procedures for electronic separation of medical and adult use\nMarijuana, MIPs, and Marijuana Products in the Seed-to-sale SOR.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(8)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "A CMO shall designate whether Marijuana or MIPs, or Marijuana Products are intended\nfor sale for adult use or medical use through the SOR. Products shall be transferred to the\nappropriate license within the Seed-to-sale SOR prior to sale. After the point of sale, there\nshall be a reconciliation of that inventory in the SOR.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "Recordkeeping. Records of a Marijuana Establishment shall be available for inspection by\nthe Commission, on request. The financial records of a Marijuana Establishment shall be\nmaintained in accordance with generally accepted accounting principles. Written records that\nare required and are subject to inspection include, but are not necessarily limited to, all records\nrequired in any section of {{ref:500.000}}, in addition to the following:",
+          "children": [
+            {
+              "id": "500.105(9)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Recordkeeping. Records of a Marijuana Establishment shall be available for inspection by\nthe Commission, on request. The financial records of a Marijuana Establishment shall be\nmaintained in accordance with generally accepted accounting principles. Written records that\nare required and are subject to inspection include, but are not necessarily limited to, all records\nrequired in any section of {{ref:500.000}}, in addition to the following:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(9)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Written Operating Procedures as required by {{ref:500.105(1)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(9)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Inventory Records as required by {{ref:500.105(8)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(9)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Seed-to-sale SOR Electronic Tracking System records for all Marijuana Products as\nrequired by {{ref:500.105(8)(e)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(9)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "The following personnel records:\n1. Job descriptions for each employee and volunteer position, as well as organizational\ncharts consistent with the job descriptions;\n2. A personnel record for each Marijuana Establishment Agent. Such records shall be\nmaintained for at least 12 months after termination of the individual's affiliation with the\nmarijuana establishment and shall include, at a minimum, the following:\na. All materials submitted to the commission pursuant to {{ref:500.030(2)}};\nb. Documentation of verification of references;\nc. The job description or employment contract that includes duties, authority,\nresponsibilities, qualifications, and supervision;\nd. Documentation of all required training, including training regarding privacy and\nconfidentiality requirements, and the signed statement of the individual indicating the\ndate, time, and place he or she received said training and the topics discussed,\nincluding the name and title of presenters;\ne. Documentation of periodic performance evaluations;\nf. A record of any disciplinary action taken; and\ng. Notice of completed Responsible Vendor Training Program and in-house training\nfor Marijuana Establishment Agents required under {{ref:500.105(2)}}.\n3. A staffing plan that will demonstrate accessible business hours and safe cultivation\nconditions;\n4. Personnel policies and procedures, including, at a minimum, the following:\na. Code of ethics;\nb. Whistle-blower policy; and\nc. A policy which notifies persons with disabilities of their rights under\nhttps://www.mass.gov/service-details/about-employment-rights or a comparable link,\nand includes provisions prohibiting discrimination and providing reasonable\naccommodations; and\n5. All background check reports obtained in accordance with M.G.L c. 6 § 172,\n{{ref:500.029}}, {{ref:500.030}}, and 803 CMR 2.00: Criminal Offender Record\nInformation (CORI).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(9)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Business records, which shall include manual or computerized records of:\n1. Assets and liabilities;\n2. Monetary transactions;\n3. Books of accounts, which shall include journals, ledgers, and supporting documents,\nagreements, checks, invoices, and vouchers;\n4. Sales records, including the quantity, form, and cost of marijuana products; and\n5. Salary and wages paid to each employee, or stipend, executive compensation, bonus,\nbenefit, or item of value paid to any persons having direct or indirect control over the\nmarijuana establishment.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(9)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Waste disposal records as required under {{ref:500.105(12)}}; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(9)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Following closure of a Marijuana Establishment, all records shall be kept for at least two\nyears at the expense of the Marijuana Establishment and in a form and location acceptable\nto the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "Liability Insurance Coverage or Maintenance of Escrow.",
+          "children": [
+            {
+              "id": "500.105(10)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Liability Insurance Coverage or Maintenance of Escrow.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(10)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Establishment shall obtain and maintain general liability insurance\ncoverage for no less than $1,000,000 per occurrence and $2,000,000 in aggregate, annually,\nand product liability insurance coverage for no less than $1,000,000 per occurrence and\n$2,000,000 in aggregate, annually, except as provided in {{ref:500.105(10)(b)}} or\notherwise approved by the Commission. The deductible for each policy shall be no higher\nthan $5,000 per occurrence.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(10)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Marijuana Establishment that documents an inability to obtain minimum liability\ninsurance coverage as required by {{ref:500.105(10)(a)}} may place in escrow a sum of\nno less than $250,000 or such other amount approved by the Commission, to be expended\nfor coverage of liabilities.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(10)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The escrow account required pursuant to {{ref:500.105(10)(b)}} shall be replenished\nwithin ten business days of any expenditure.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(10)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Reports documenting compliance with {{ref:500.105(10)}} shall be made in a\nmanner and form determined by the Commission pursuant to {{ref:500.000}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(10)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A CMO shall maintain the insurance coverage or escrow account required under\n{{ref:500.105(10)}} or 934 CMR 501.105(10): Liability Insurance Coverage or Maintenance of\nEscrow per location.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(11)",
+          "type": "subsection",
+          "number": "(11)",
+          "heading": null,
+          "content": "Storage Requirements.",
+          "children": [
+            {
+              "id": "500.105(11)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Storage Requirements.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(11)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Establishment shall provide adequate lighting, ventilation, temperature,\nhumidity, space, and equipment, in accordance with applicable provisions of {{ref:500.105}} and {{ref:500.110}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(11)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Marijuana Establishment shall have separate areas for storage of Marijuana that is\noutdated, damaged, deteriorated, mislabeled, or contaminated, or whose containers or\npackaging have been opened or breached, until such products are destroyed.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(11)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Marijuana Establishment storage areas shall be maintained in a clean and orderly\ncondition.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(11)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Marijuana Establishment storage areas shall be free from infestation by insects, rodents,\nbirds, and pests of any kind.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(11)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Marijuana Establishment storage areas shall be maintained in accordance with the\nsecurity requirements of {{ref:500.110}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(12)",
+          "type": "subsection",
+          "number": "(12)",
+          "heading": null,
+          "content": "Waste Disposal.",
+          "children": [
+            {
+              "id": "500.105(12)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Waste Disposal.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(12)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "All recyclables and waste, including organic waste composed of or containing Finished\nMarijuana and Marijuana Products, shall be stored, secured, and managed in accordance with\napplicable state and local statutes, ordinances, and regulations. All exterior waste receptacles\nlocated on the Marijuana Establishment's Premises shall be locked and secured to prevent\nunauthorized access, and the potential for Diversion, theft, or loss.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(12)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Liquid waste containing Marijuana or by-products of Marijuana Processing shall be\ndisposed of in compliance with all applicable state and federal requirements, including but\nnot limited to, for discharge of pollutants into surface water or groundwater (Massachusetts\nClean Waters Act, {{extref:M.G.L. c. 21}}, §§ 26 through 53; 314 CMR 3.00: Surface Water Discharge\nPermit Program; 314 CMR 5.00: Groundwater Discharge Permit Program; 314 CMR\n12.00: Operation Maintenance and Pretreatment Standards for Wastewater Treatment\nWorks and Indirect Dischargers; Federal Clean Water Act, 33 U.S.C. 1251 et seq., National\nPollutant Discharge Elimination System Permit Regulations at 40 CFR Part 122: EPA\nAdministered Permit Programs: The National Pollutant Discharge Elimination System;\n314 CMR 7.00: Sewer System Extension and Connection Permit Program), or stored\npending disposal in an industrial wastewater holding tank in accordance with 314 CMR\n18.00: Industrial Wastewater Holding Tanks and Containers, Construction, Operation, and\nRecord Keeping Requirements.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(12)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Organic material, recyclable material and solid waste generated at a Marijuana\nEstablishment shall be redirected or disposed of as follows:\n1. Organic and recyclable material shall be redirected from disposal in accordance with\nthe waste disposal bans described at 310 CMR 19.017: Waste Bans.\n2. To the greatest extent feasible:\na. Licensees shall recycle any material classified as recyclable in 310 CMR 16.02:\nDefinitions; and\nb. Any Marijuana containing organic material as defined in 310 CMR 16.02:\nDefinitions shall be ground up and mixed with other organic material as defined in\n310 CMR 16.02 such that the resulting mixture renders any Marijuana unusable for\nits original purpose. Once such Marijuana has been rendered unusable, the organic\nmaterial may be composted or digested at an aerobic or anaerobic digester at an\noperation that complies with the requirements of 310 CMR 16.00: Site Assignment\nRegulations for Solid Waste Facilities.\n3. Solid waste containing Marijuana generated at a Marijuana Establishment shall be\nrendered unusable for its original purpose. Once such Marijuana has been rendered\nunusable, the resulting solid waste may be brought to a solid waste transfer facility or a\nsolid waste disposal facility that holds a valid permit issued by the Department of\nEnvironmental Protection or by the appropriate agency in the jurisdiction in which the\nfacility is located.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(12)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Marijuana Establishment Agent shall witness and document how the solid waste or\norganic material containing Marijuana is rendered unusable on-site including, but not limited\nto, the grinding up, mixing, storage and removal from the Marijuana Establishment in\naccordance with {{ref:500.105(12)}}. When Marijuana Products or waste is disposed or\nhandled, the Marijuana Establishment shall create and maintain an electronic record of the\ndate, the type and quantity disposed or handled, the manner of disposal or other handling, the\nlocation of disposal or other handling, and the name of the Marijuana Establishment Agent\npresent during the disposal or other handling, with their signature. A Marijuana\nEstablishment shall keep these records for at least three years. This period shall\nautomatically be extended for the duration of any disciplinary action and may be extended\nby an order of the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(13)",
+          "type": "subsection",
+          "number": "(13)",
+          "heading": null,
+          "content": "Transportation between Marijuana Establishments.",
+          "children": [
+            {
+              "id": "500.105(13)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Transportation between Marijuana Establishments.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "General Requirements.",
+              "children": [
+                {
+                  "id": "500.105(13)(a)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "General Requirements.\n1. A licensed Marijuana Establishment shall be licensed to transport its Marijuana and\nMarijuana Products to other licensed establishments, including MTC’s, except as\notherwise provided herein.\n2.\nMarijuana Products may only be transported between licensed Marijuana\nEstablishments by registered Marijuana Establishment Agents.\n3.\nA licensed Marijuana Transporter may contract with a licensed Marijuana\nEstablishment to transport that Licensee's Marijuana Products to other licensed\nMarijuana Establishments.\n4. The originating and receiving licensed Marijuana Establishments shall ensure that all\ntransported Marijuana Products are linked to the Seed-to-sale SOR. For the purposes of\ntracking, seeds and Clones shall be properly tracked and labeled in a form and manner\ndetermined by the Commission.\n5. Any Marijuana Product that is undeliverable or is refused by the destination\nMarijuana Establishment shall be transported back to the originating establishment.\n6. All vehicles transporting Marijuana Products shall be staffed with a minimum of two\nMarijuana Establishment Agents. At least one agent shall always remain with the vehicle\nwhen the vehicle contains Marijuana or Marijuana Products.\na. Notwithstanding {{ref:500.105(13)(a)}}6., an Independent Testing Laboratory\nshall ensure that all vehicles operated by the Independent Testing Laboratory or a\nMarijuana Transporter used solely for transporting Marijuana or Marijuana Products\nfor testing purposes in accordance with {{ref:500.160}} that contain Marijuana\nand Marijuana Products with a total Wholesale value in excess of $5,000 in the\nvehicle are staffed with a minimum of two Marijuana Establishment Agents.\nb. Notwithstanding {{ref:500.105(13)(a)}}6., for all vehicles transporting\nMarijuana or Marijuana Products solely for testing purposes in accordance with\n{{ref:500.160}} that contain Marijuana and Marijuana Products with a total\nWholesale value of $5,000 or less in the vehicle, an Independent Testing Laboratory\nor Marijuana Transporter may use one Marijuana Establishment Agent.\n7. Prior to leaving a Marijuana Establishment for the purpose of transporting Marijuana\nProducts, the originating Marijuana Establishment shall weigh or count, inventory, and\naccount for, on video, all Marijuana Products to be transported.\n8. Within eight hours after arrival at the destination Marijuana Establishment, the\ndestination Marijuana Establishment shall re-weigh or re-count inventory, and account\nfor, on video, all Marijuana Products transported.\n9. When videotaping the weighing, counting, inventorying and accounting of Marijuana\nProducts before transportation or after receipt the video shall show the product being\nweighed or counted, the actual final weight or count, and the manifest.\n10.\nMarijuana Products shall be packaged in sealed, labeled, and tamper or\nchild-resistant packaging prior to and during transportation.\n11. In the case of an emergency stop during the transportation of Marijuana Products,\na log shall be maintained describing the reason for the stop, the duration, the location,\nand any activities of personnel exiting the vehicle. Licensees shall comply with\napplicable requirements of {{ref:500.110(9)}}.\n12. A Marijuana Establishment or a Marijuana Transporter transporting Marijuana\nProducts shall ensure that all transportation times and routes are randomized.\n13. A Marijuana Establishment or a Marijuana Transporter transporting Marijuana\nProducts shall ensure that all transport routes remain within the Commonwealth.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(13)(a)14.",
+                  "type": "paragraph",
+                  "number": "14.",
+                  "heading": null,
+                  "content": "All vehicles and transportation equipment used in the transportation of Marijuana\nProducts or Edibles requiring temperature control for safety shall be designed,\nmaintained, and equipped as necessary to provide adequate temperature control to\nprevent the Marijuana Products or Edibles from becoming unsafe during transportation,\nconsistent with applicable requirements pursuant to 21 CFR 1.908(c).\n15. All vehicles shall be equipped with a video system that includes one or more video\ncameras in the storage area of the vehicle and one or more video cameras in the driver\narea of the vehicle and which shall remain operational at all times during the entire\ntransportation process and which shall have:\na. The ability to produce a clear color still photo whether live or recorded; and\nb. A date and time stamp embedded in all recordings which shall always be\nsynchronized and set correctly and may not significantly obscure the picture.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Reporting Requirements.\n1. Marijuana Establishment Agents shall document and report any unusual discrepancy\nin weight, count, or inventory to the Commission and Law Enforcement Authorities not\nmore than 24 hours of the discovery of such a discrepancy.\n2. Marijuana Establishment Agents shall report to the Commission and Law\nEnforcement Authorities any vehicle accidents, Diversion, Inversion, losses, or other\nreportable incidents that occur during transport, not more than 24 hours of such\naccidents, Diversion, Inversion, losses, or other reportable incidents.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Vehicles.\n1. A vehicle used for transporting Marijuana Products shall be:\na. Owned or leased by the Marijuana Establishment or the Marijuana Transporter;\nb. Properly registered, inspected, and insured in the Commonwealth (documentation\nof such status shall be maintained as records of the Marijuana Establishment or the\nMarijuana Transporter, and shall be made available to the Commission on request);\nc. Equipped with an alarm system approved by the Commission; and\nd. Equipped with functioning heating and air conditioning systems appropriate for\nmaintaining correct temperatures for storage of Marijuana Products.\n2. Marijuana Products may not be visible from outside the vehicle.\n3. Any vehicle used to transport or deliver Marijuana or Marijuana Products shall\ncomply with applicable Massachusetts Registry of Motor Vehicles (RMV) requirements,\nbut may not include any additional external marking that indicate the vehicle is being\nused to transport or deliver Marijuana or Marijuana Products.\n4. When transporting Marijuana Products, no other products may be transported or\nstored in the same vehicle.\n5. No firearms may be located within the vehicle or on a Marijuana Establishment\nAgent.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Storage Requirements.\n1. Marijuana Products shall be transported in a secure, locked storage compartment that\nis a part of the vehicle transporting the Marijuana Products.\n2. The storage compartment shall be sufficiently secure that it cannot be easily removed.\n3. If a Marijuana Establishment, pursuant to a Marijuana Transporter License, or a\nMarijuana Transporter is transporting Marijuana Products for more than one Marijuana\nEstablishment at a time, the Marijuana Products for each Marijuana Establishment shall\nbe kept in a separate locked storage compartment during transportation and separate\nmanifests shall be maintained for each Marijuana Establishment.\n4. If a Marijuana Establishment is transporting Marijuana Products to multiple other\nMarijuana Establishments, it may seek the Commission's permission to adopt reasonable\nalternative safeguards.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Communications.",
+              "children": [
+                {
+                  "id": "500.105(13)(e)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Communications.\n1. Any vehicle used to transport Marijuana Products shall contain a global positioning\nsystem (GPS) monitoring device that is:\na. Not a mobile device that is easily removable;\nb. Attached to the vehicle at all times that the vehicle contains marijuana products;\nc. Monitored by the Marijuana Establishment or Marijuana Transporter during\ntransport of Marijuana Products; and\nd. Inspected by the commission prior to initial transportation of Marijuana Products,\nand after any alteration to the locked storage compartment.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.105(13)(e)2.",
+                  "type": "paragraph",
+                  "number": "2.",
+                  "heading": null,
+                  "content": "Each Marijuana Establishment Agent transporting Marijuana Products shall always\nhave access to a secure form of communication with personnel at the originating location\nwhen the vehicle contains Marijuana and Marijuana Products.\n3. Secure types of communication include, but are not limited to:\na. Two-way digital or analog radio (UHF or VHF);\nb. Cellular phone; or\nc. Satellite phone.\n4. When choosing a type of secure communications, the following shall be taken into\nconsideration:\na. Cellular signal coverage;\nb. Transportation area;\nc. Base capabilities;\nd. Antenna coverage; and\ne. Frequency of transportation.\n5. Prior to, and immediately after leaving the originating location, the Marijuana\nEstablishment Agents shall use the secure form of communication to contact the\noriginating location to test communications and GPS operability.\n6.\nIf communications or the GPS system fail while on route, the Marijuana\nEstablishment Agents transporting Marijuana Products shall return to the originating\nlocation until the communication system or GPS system is operational.\n7. The Marijuana Establishment Agent or Agents transporting Marijuana Products shall\ncontact the originating location when leaving any scheduled location, or making any\nunscheduled stops.\n8. The originating location shall have a Marijuana Establishment Agent assigned to\nmonitoring the GPS unit and secure form of communication, who shall log all official\ncommunications with Marijuana Establishment Agents transporting Marijuana Products.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Manifests.\n1. A Marijuana Establishment shall complete a manifest prior to transporting Marijuana\nor Marijuana Products between Marijuana Establishments or an MTC. A Marijuana\nEstablishment may utilize a physical or electronic manifest during the transportation of\nMarijuana or Marijuana Products.\n2. Prior to transport, the manifest shall be securely transmitted to the destination\nMarijuana Establishment by facsimile or email.\n3. On arrival at the destination Marijuana Establishment, a Marijuana Establishment\nAgent at the destination Marijuana Establishment shall compare the manifest produced\nby the agents who transported the Marijuana Products to the copy transmitted by\nfacsimile or email. This manifest shall, at a minimum, include:\na. The originating Marijuana Establishment name, address, and registration number;\nb. The names and registration numbers of the Marijuana Establishment Agents who\ntransported the Marijuana Products;\nc. The name and registration number of the Marijuana Establishment Agent who\nprepared the manifest;\nd. The destination Marijuana Establishment name, address, and registration number;\ne. A description of the Marijuana Products being transported, including the weight\nand form or type of product;\nf. The mileage of the transporting vehicle at departure from originating Marijuana\nEstablishment and mileage on arrival at destination Marijuana Establishment, as well\nas mileage on return to originating Marijuana Establishment;\ng. The date and time of departure from originating Marijuana Establishment and\narrival at destination Marijuana Establishment for each transportation;\nh. A signature line for the Marijuana Establishment Agent who receives the\nMarijuana Products;\ni. The inventory weight or count before departure and on receipt;\nj. The date and time that the transported products were reweighed and reinventoried;\nk. The name of the Marijuana Establishment Agent at the destination Marijuana\nEstablishment who reweighed and re-inventoried products; and\nl. The vehicle make, model, and license plate number.\n4. The manifest shall be maintained within the vehicle during the entire transportation\nprocess, until the delivery is completed.\n\na. If utilizing a physical copy of the manifest, the licensed Marijuana Establishment\nAgent must be able to access the physical copy at any time during transportation.\nb. If utilizing an electronic manifest, the licensed Marijuana Establishment Agent\nmust be able to access the electronic manifest at any time during transportation.\n5. A Marijuana Establishment shall retain all transportation manifests for no less than\none year and make them available to the Commission on request.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Requirements for Agents.\n1. Each employee or agent transporting or otherwise handling Marijuana Products for\na Marijuana Transporter shall be registered as a Marijuana Establishment Agent and have\na driver's license in good standing issued by the Massachusetts Registry of Motor\nVehicles for all classes of vehicle the Marijuana Establishment Agent will operate for the\nMarijuana Transporter prior to transporting or otherwise handling Marijuana Products.\n2. A Marijuana Establishment Agent shall carry his or her Agent Registration Card at\nall times when transporting Marijuana Products and shall produce his or her Agent\nRegistration Card to the Commission or Law Enforcement Authorities on request.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "Marijuana Transporters shall use best management practices to reduce energy and water\nusage, engage in energy conservation and mitigate other environmental impacts.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(13)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "A CMO can transport adult use and medical use Marijuana and Marijuana Products if\nit is appropriately licensed to do so. Where a CMO is transporting both adult use and\nmedical use Marijuana, MIPs and Marijuana Products, the CMO shall comply with the more\nrestrictive security provisions.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(14)",
+          "type": "subsection",
+          "number": "(14)",
+          "heading": null,
+          "content": "Access to the Commission, Emergency Responders and Law Enforcement.",
+          "children": [
+            {
+              "id": "500.105(14)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Access to the Commission, Emergency Responders and Law Enforcement.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(14)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The following individuals shall have access to a Marijuana Establishment or Marijuana\nEstablishment transportation vehicle:\n1. Representatives of the Commission in the course of responsibilities authorized by\nSt. 2016, c. 334, as amended by St. 2017, c. 55, {{extref:M.G.L. c. 94G}}, and {{ref:500.000}};\n2. Representatives of other state agencies of the Commonwealth; and\n3. Emergency responders in the course of responding to an emergency.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(14)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "{{ref:500.000}} shall not be construed to prohibit access by authorized law\nenforcement personnel or local public health, inspectional services, or other permit-granting\nagents acting within their lawful jurisdiction.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(15)",
+          "type": "subsection",
+          "number": "(15)",
+          "heading": null,
+          "content": "Energy Efficiency and Conservation. A Marijuana Establishment shall demonstrate\nconsideration of the following factors as part of its operating plan and application for licensure:",
+          "children": [
+            {
+              "id": "500.105(15)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Energy Efficiency and Conservation. A Marijuana Establishment shall demonstrate\nconsideration of the following factors as part of its operating plan and application for licensure:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(15)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Identification of potential energy use reduction opportunities (such as natural lighting\nand energy efficiency measures), and a plan for implementation of such opportunities;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(15)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Consideration of opportunities for renewable energy generation including, where\napplicable, submission of building plans showing where energy generators could be placed\non the site, and an explanation of why the identified opportunities were not pursued, if\napplicable;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(15)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Strategies to reduce electric demand (such as lighting schedules, active load\nmanagement, and energy storage); and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(15)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Engagement with energy efficiency programs offered pursuant to {{extref:M.G.L. c. 25, § 21}}, or\nthrough municipal lighting plants.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(16)",
+          "type": "subsection",
+          "number": "(16)",
+          "heading": null,
+          "content": "Bond.",
+          "children": [
+            {
+              "id": "500.105(16)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Bond.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(16)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Prior to commencing operations, a Marijuana Establishment shall provide proof of\nhaving obtained a surety bond in an amount equal to its licensure fee payable to the\nMarijuana Regulation Fund to ensure payment of the cost incurred for:\n1. The destruction of Cannabis goods necessitated by a violation of {{extref:M.G.L. c. 94G}} or\n{{ref:500.000}};\n2. The costs and compensation of a Court Appointee;\n3. The cessation of operation of the Marijuana Establishment; or\n4. Such other uses that the Commission may authorize to ensure public health, safety\nand welfare.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(16)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All bonds required under {{ref:500.000}} shall be issued by a corporate surety\nlicensed to transact surety business in the Commonwealth.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(16)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "If the Marijuana Establishment is unable to secure a surety bond, as required by\n{{ref:500.105(16)(a)}}, it may place in escrow a sum of no less than $5,000 or such other\namount approved by the Commission, to be expended for coverage of liabilities.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(16)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "The escrow account required pursuant to {{ref:500.105(16)(c)}} shall be replenished\nwithin ten business days of any expenditure required under {{ref:500.105}}, unless the\nMarijuana Establishment has ceased operations. Documentation of the replenishment shall\nbe promptly sent to the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.105(17)",
+          "type": "subsection",
+          "number": "(17)",
+          "heading": null,
+          "content": "Social Equity Program.",
+          "children": [
+            {
+              "id": "500.105(17)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Social Equity Program.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(17)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "There shall be a Social Equity Program established by the Commission to provide\ntraining and technical assistance to eligible applicants and Licensees which may include, but\nmay not be limited to:\n1. Management, recruitment and employee trainings;\n2. Accounting and sales forecasting;\n3. Tax prediction and compliance;\n4. Legal compliance;\n5. Business plan creation and operational development;\n6. Marijuana industry best practices; and\n7. Assistance with identifying or raising funds or capital.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(17)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Eligibility for the Social Equity Program shall be met if applicants or Licensees satisfy\none or more of the following criteria:\n1. Income does not exceed 400% of Area Median Income and Residency in an Area of\nDisproportionate Impact, as defined by the Commission, for at least five of the preceding\nten years, as established by:\na. A Massachusetts driver's record or Massachusetts ID card record;\nb. A signed lease agreement that includes the subject's name;\nc. Residential property deed that includes the subject's name;\nd. School records;\ne. Housing authority records;\nf. Banking records;\ng. Utility bills, which identifies energy and water use; or\nh. Dated notices or correspondence from a local or state government entity that\nincludes the subject's name.\n2. Residency in Massachusetts for at least the preceding 12 months and a conviction or\ncontinuance without a finding for an offense under {{extref:M.G.L. c. 94C}} or an equivalent\nconviction in Other Jurisdictions; or\n3. Residency in Massachusetts for at least the preceding 12 months and proof that the\nindividual was either married to or the child of an individual convicted or continuance\nwithout a finding for a {{extref:M.G.L. c. 94C}} offense or an equivalent conviction in Other\nJurisdictions.\n4. Any individual listed as an Owner on the original certification of an Economic\nEmpowerment Priority Applicant who satisfies one or more the following criteria:\na. Lived for five of the preceding ten years in an Area of Disproportionate Impact,\nas determined by the Commission;\nb. Experience in one or more previous positions where the primary population\nserved were disproportionately impacted, or where primary responsibilities included\neconomic education, resource provision or empowerment to disproportionately\nimpacted individuals or communities;\nc. Black, African American, Hispanic or Latino descent; or\nd. Other significant articulable demonstration of past experience in or business\npractices that promote economic empowerment in Areas of Disproportionate Impact.\n5. The Commission may, in consideration of new information and data, broaden the\ncategories of eligibility for the Social Equity Program by a vote of the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.105(17)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The Social Equity Program is not a licensing program. Completion of the Social Equity\nProgram will not result in, or guarantee participants' receipt of a License.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 16
+}

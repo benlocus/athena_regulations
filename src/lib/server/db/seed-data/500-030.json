@@ -1,0 +1,246 @@
+{
+  "sectionNumber": "500.030",
+  "heading": "Registration of Marijuana Establishment Agents",
+  "slug": "500-030",
+  "contentTree": [
+    {
+      "id": "500.030",
+      "type": "section",
+      "number": null,
+      "heading": "Registration of Marijuana Establishment Agents",
+      "content": "",
+      "children": [
+        {
+          "id": "500.030(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "A Marijuana Establishment shall apply for registration for all its employees, Owners,\nExecutives and volunteers who are associated with that Marijuana Establishment. The\nCommission shall issue an Agent Registration Card to each individual determined to be suitable\nfor registration. All such individuals shall:",
+          "children": [
+            {
+              "id": "500.030(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "A Marijuana Establishment shall apply for registration for all its employees, Owners,\nExecutives and volunteers who are associated with that Marijuana Establishment. The\nCommission shall issue an Agent Registration Card to each individual determined to be suitable\nfor registration. All such individuals shall:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Be 21 years of age or older;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Have not been convicted of an offense in the Commonwealth involving the distribution\nof controlled substances to minors, or a like violation of the laws of Other Jurisdictions; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Be determined suitable for registration consistent with the provisions of {{ref:500.800}} and {{ref:500.801}} or {{ref:500.802}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.030(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "An application for registration of a Marijuana Establishment Agent shall include:",
+          "children": [
+            {
+              "id": "500.030(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "An application for registration of a Marijuana Establishment Agent shall include:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The full name, date of birth, and address of the individual;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All aliases used previously or currently in use by the individual, including maiden name,\nif any;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A copy of the applicant's driver's license, government-issued identification card, liquor\npurchase identification card issued pursuant to {{extref:M.G.L. c. 138, § 34}}B, or other verifiable\nidentity document acceptable to the Commission;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "An attestation that the individual will not engage in the Diversion or Inversion of\nMarijuana or Marijuana Products;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(2)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Written acknowledgment by the applicant of any limitations on his or her authorization\nto cultivate, harvest, prepare, package, possess, transport, and dispense Marijuana in the\nCommonwealth;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(2)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Background information, including, as applicable:\n1. A description and the relevant dates of any criminal action under the laws of the\nCommonwealth, or an Other Jurisdiction, whether for a felony or misdemeanor and\nwhich resulted in conviction, or guilty plea, or plea of nolo contendere, or admission of\nsufficient facts;\n2. A description and the relevant dates of any civil or administrative action under the\nlaws of the Commonwealth, or an Other Jurisdiction, relating to any professional or\noccupational or fraudulent practices;\n3. A description and relevant dates of any past or pending denial, suspension, or\nrevocation of a license or registration, or the denial of a renewal of a license or\nregistration, for any type of business or profession, by any federal, state, or local\ngovernment, or any foreign jurisdiction;\n4. A description and relevant dates of any past discipline by, or a pending disciplinary\naction or unresolved complaint by, the Commonwealth, or an Other Jurisdiction, with\nregard to any professional license or registration held by the applicant;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(2)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "A nonrefundable application fee paid by the Marijuana Establishment with which the\nMarijuana Establishment Agent will be associated; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(2)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "Any other information required by the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.030(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "A Marijuana Establishment Executive registered with DCJIS pursuant to 803 CMR 2.04:\niCORI Registration, shall submit to the Commission a CORI report and any other background\ncheck information required by the Commission for each individual for whom the Marijuana\nEstablishment seeks a Marijuana Establishment Agent registration, obtained within 30 calendar\ndays prior to submission; provided however, that a CORI shall not be required when one was\nalready completed within the previous calendar year for an employee transferring to, or working\nwithin and between Licensees who share the same Persons or Entities having Direct and Indirect\nControl in accordance with 803 CMR 2.11(7).",
+          "children": [
+            {
+              "id": "500.030(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "A Marijuana Establishment Executive registered with DCJIS pursuant to 803 CMR 2.04:\niCORI Registration, shall submit to the Commission a CORI report and any other background\ncheck information required by the Commission for each individual for whom the Marijuana\nEstablishment seeks a Marijuana Establishment Agent registration, obtained within 30 calendar\ndays prior to submission; provided however, that a CORI shall not be required when one was\nalready completed within the previous calendar year for an employee transferring to, or working\nwithin and between Licensees who share the same Persons or Entities having Direct and Indirect\nControl in accordance with 803 CMR 2.11(7).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The CORI report obtained by the Marijuana Establishment shall provide information\nauthorized under Required Access Level 2 pursuant to 803 CMR 2.05(3)(b)2.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.030(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Marijuana Establishment's collection, storage, dissemination and usage of any\nCORI report or background check information obtained for Marijuana Establishment Agent\nregistrations shall comply with 803 CMR 2.00: Criminal Offender Record Information\n(CORI) and all other applicable state and local laws and regulations.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.030(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "A Marijuana Establishment shall notify the Commission no more than one business day\nafter a Marijuana Establishment Agent ceases to be associated with the establishment. The\nregistration shall be immediately void when the agent is no longer associated with the\nestablishment.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.030(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "An Agent Registration Card shall be valid for one year from the date of issue and may be\nrenewed thereafter on a triennial basis on a determination by the Commission that the applicant\nfor renewal continues to be suitable for registration.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.030(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "After obtaining a Registration Card for a Marijuana Establishment Agent, a Marijuana\nEstablishment is responsible for notifying the Commission, in a form and manner determined\nby the Commission, as soon as possible, but in any event, within five business days of any\nchanges to the information that the establishment was previously required to submit to the\nCommission or after discovery that a Registration Card has been lost or stolen.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.030(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "A Marijuana Establishment Agent shall always carry a Registration Card associated with\nthe appropriate Marijuana Establishment while in possession of Marijuana or Marijuana\nProducts, including at all times while at the establishment or while transporting Marijuana or\nMarijuana Products.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.030(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "A Marijuana Establishment Agent may be issued a single Agent Registration card covering\nall licenses held by the same Persons or Entities Having Direct or Indirect Control.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.030(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "An Agent working in a CMO may only perform tasks and duties permitted by the license\nunder which they are registered and may only perform both medical- and adult-use tasks and\nduties if registered under both {{ref:500.000}} and 501.000: Medical Use of Marijuana.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 5
+}

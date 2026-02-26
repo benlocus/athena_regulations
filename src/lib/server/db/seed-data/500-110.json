@@ -1,0 +1,816 @@
+{
+  "sectionNumber": "500.110",
+  "heading": "Security Requirements for Marijuana Establishments",
+  "slug": "500-110",
+  "contentTree": [
+    {
+      "id": "500.110",
+      "type": "section",
+      "number": null,
+      "heading": "Security Requirements for Marijuana Establishments",
+      "content": "",
+      "children": [
+        {
+          "id": "500.110(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "General Requirements. A Marijuana Establishment shall implement sufficient security\nmeasures to deter theft of Marijuana and Marijuana Products, prevent unauthorized entrance into\nareas containing Marijuana and Marijuana Products and ensure the safety of Marijuana\nEstablishment employees, Consumers and the general public. Security measures taken by the\nLicensee to protect the Premises, employees, Marijuana Establishment Agents, Consumers and\ngeneral public shall include, but not be limited to, the following:",
+          "children": [
+            {
+              "id": "500.110(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "General Requirements. A Marijuana Establishment shall implement sufficient security\nmeasures to deter theft of Marijuana and Marijuana Products, prevent unauthorized entrance into\nareas containing Marijuana and Marijuana Products and ensure the safety of Marijuana\nEstablishment employees, Consumers and the general public. Security measures taken by the\nLicensee to protect the Premises, employees, Marijuana Establishment Agents, Consumers and\ngeneral public shall include, but not be limited to, the following:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Positively identifying individuals seeking access to the Premises of the Marijuana\nEstablishment or to whom or Marijuana Products are being transported pursuant to {{ref:500.105(13)}} or delivered pursuant to {{ref:500.145}} to limit access solely to individuals\n21 years of age or older;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Adopting procedures to prevent loitering and ensure that only individuals engaging in\nactivity expressly or by necessary implication permitted by {{ref:500.000}} and its\nenabling statute are allowed to remain on the Premises;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Disposing of Marijuana in accordance with {{ref:500.105(12)}} in excess of the\nquantity required for normal, efficient operation as established within {{ref:500.105}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Securing all entrances to the Marijuana Establishment to prevent unauthorized access;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Establishing Limited Access Areas pursuant to {{ref:500.110(4)}}, which, after\nreceipt of a final License, shall be accessible only to specifically authorized personnel,\nlimited to include only the minimum number of employees essential for efficient operation;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Storing all Finished Marijuana Products in a secure, locked safe or vault in such a\nmanner as to prevent Diversion, Inversion, theft and loss;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Keeping all safes, vaults, and any other equipment or areas used for the production,\ncultivation, harvesting, Processing or storage, including prior to disposal, of Marijuana or\nMarijuana Products securely locked and protected from entry, except for the actual time\nrequired to remove or replace Marijuana;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "Keeping all locks and security equipment in good working order;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "Prohibiting keys, if any, from being left in the locks or stored or placed in a location\naccessible to persons other than specifically authorized personnel;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "Prohibiting accessibility of security measures, such as combination numbers, passwords\nor electronic or biometric security systems, to persons other than specifically authorized\npersonnel;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(k)",
+              "type": "paragraph",
+              "number": "(k)",
+              "heading": null,
+              "content": "Ensuring that the outside perimeter of the Marijuana Establishment is sufficiently lit to\nfacilitate surveillance, where applicable;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(l)",
+              "type": "paragraph",
+              "number": "(l)",
+              "heading": null,
+              "content": "Ensuring that all Marijuana and Marijuana Products are kept, sold or stored out of plain\nsight and are not visible from a public place, outside of the Marijuana Establishment, without\nthe use of binoculars, optical aids or aircraft;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(m)",
+              "type": "paragraph",
+              "number": "(m)",
+              "heading": null,
+              "content": "Developing emergency policies and procedures for securing all product following any\ninstance of Diversion, Inversion, theft or loss of Marijuana, and conduct an assessment to\ndetermine whether additional safeguards are necessary;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(n)",
+              "type": "paragraph",
+              "number": "(n)",
+              "heading": null,
+              "content": "Developing sufficient additional safeguards as required by the Commission for\nMarijuana Establishments that present special security concerns;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(o)",
+              "type": "paragraph",
+              "number": "(o)",
+              "heading": null,
+              "content": "At Marijuana Establishments where transactions are conducted in cash, establishing\nprocedures for safe cash handling and cash transportation to financial institutions to prevent\ntheft, loss and associated risks to the safety of employees, customers and the general public;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(p)",
+              "type": "paragraph",
+              "number": "(p)",
+              "heading": null,
+              "content": "Sharing the Marijuana Establishment's floor plan or layout of the facility with Law\nEnforcement Authorities, and in a manner and scope as required by the municipality and\nidentifying when the use of flammable or combustible solvents, chemicals or other materials\nare in use at the Marijuana Establishment; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(1)(q)",
+              "type": "paragraph",
+              "number": "(q)",
+              "heading": null,
+              "content": "Sharing the Marijuana Establishment's security plan and procedures with Law\nEnforcement Authorities, police and fire departments, if the plans or procedures are modified\nin a material way, including the addition of plans to deliver directly to Consumers in the case\nof a Marijuana Retailer or Marijuana Establishment with a Delivery Endorsement.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Alternative Security Provisions.",
+          "children": [
+            {
+              "id": "500.110(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Alternative Security Provisions.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Notwithstanding the requirements specified in {{ref:500.110(1)}}, (5) through (7),\nif a Marijuana Establishment has provided other, specific safeguards that may be regarded\nas an adequate substitute for those requirements, such measures may be taken into account\nby the Commission in evaluating the overall required security measures. For purposes of\ncash handling and cash transportation, only alternative safeguards that comply with the\nrequirements of {{ref:500.110(7)(b)}} shall be considered to be adequate substitutes.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The applicant or Licensee shall submit a request for an alternative security provision to\nthe Commission on a form as determined and made available by the Commission. On receipt\nof the form, the Commission shall submit the request to the chief law enforcement officer\nin the municipality where the Marijuana Establishment is located or will be located. The\nCommission shall request that the chief law enforcement officer review the request and\nalternative security provision requested and, within 30 days;",
+              "children": [
+                {
+                  "id": "500.110(2)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "The applicant or Licensee shall submit a request for an alternative security provision to\nthe Commission on a form as determined and made available by the Commission. On receipt\nof the form, the Commission shall submit the request to the chief law enforcement officer\nin the municipality where the Marijuana Establishment is located or will be located. The\nCommission shall request that the chief law enforcement officer review the request and\nalternative security provision requested and, within 30 days;",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.110(2)(b)1.",
+                  "type": "paragraph",
+                  "number": "1.",
+                  "heading": null,
+                  "content": "certify the sufficiency of the requested alternate security provision; or\n2. provide the Commission with a statement of reasons why the alternative security\nprovision is not sufficient in the opinion of the chief law enforcement officer.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.110(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The Commission shall take the chief law enforcement officer's opinion under\nconsideration in determining whether to grant the alternative security provision, provided that\nit shall not be determinative. If no response is received from the chief law enforcement\nofficer or a delegee within 30 days of submitting the request to the chief law enforcement\nofficer, the Commission shall proceed with a determination.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Buffer Zone. A Marijuana Establishment Entrance may not be closer than 500 feet from\nthe nearest School Entrance, unless a city or town adopts an ordinance or bylaw that reduces the\ndistance requirement.",
+          "children": [
+            {
+              "id": "500.110(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Buffer Zone. A Marijuana Establishment Entrance may not be closer than 500 feet from\nthe nearest School Entrance, unless a city or town adopts an ordinance or bylaw that reduces the\ndistance requirement.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The buffer zone distance of 500 feet shall be measured in a straight line from the\ngeometric center of the Marijuana Establishment Entrance to the geometric center of the\nnearest School Entrance, unless there is an Impassable Barrier within those 500 feet; in these\ncases, the buffer zone distance shall be measured along the center of the shortest\npublicly-accessible pedestrian travel path from the geometric center of the Marijuana\nEstablishment Entrance to the geometric center of the nearest School Entrance.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The buffer zone distance of 500 feet may be reduced if a city or town adopts an\nordinance or bylaw that reduces the distance requirement.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Limited Access Areas.",
+          "children": [
+            {
+              "id": "500.110(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Limited Access Areas.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "All Limited Access Areas shall be identified by the posting of a sign that shall be a\nminimum of 12\" x 12\" and which states: \"Do Not Enter - Limited Access Area - Access\nLimited to Authorized Personnel Only\" in lettering no smaller than one inch in height.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All Limited Access Areas shall be clearly described by the filing of a diagram of the\nlicensed Premises, in the form and manner determined by the Commission, reflecting\nentrances and exits, including loading areas, walls, partitions, counters, Propagation,\nVegetation, Flowering, Processing, production, storage, disposal and retail sales areas.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "At all times following receipt of a final License, access to Limited Access Areas shall\nbe restricted to employees, agents, or volunteers specifically permitted by the Marijuana\nEstablishment, agents of the Commission, Commission Delegees, and state and local Law\nEnforcement Authorities acting within their lawful jurisdictions, police and fire departments,\nand emergency medical services acting in the course of their official capacity.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(4)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Employees of the Marijuana Establishment shall visibly display an employee\nidentification badge issued by the Marijuana Establishment at all times while at the\nMarijuana Establishment or transporting Marijuana.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(4)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Following receipt of a final License, all outside vendors, contractors, and Visitors shall\nobtain a Visitor Identification Badge prior to entering a Limited Access Area and shall be\nescorted at all times by a Marijuana Establishment Agent authorized to enter the Limited\nAccess Area. The Visitor Identification Badge shall be visibly displayed at all times while\nthe Visitor is in any Limited Access Area. All Visitors shall be logged in and out and that\nlog shall be available for inspection by the Commission at all times. All Visitor\nIdentification Badges shall be returned to the Marijuana Establishment on exit.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(4)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A Marijuana Establishment conducting operations under multiple license types on a\nsingle Premise may establish Limited Access Areas for each licensed activity that overlap\nin shared hallways and access points, provided that operations under each license type are\nsegregated and a Marijuana Establishment Agent has access only to the areas where activities\nare conducted pursuant to the license under which the Marijuana Establishment Agent is\nregistered.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Security and Alarm Requirements for Marijuana Establishments Operating Enclosed Areas.",
+          "children": [
+            {
+              "id": "500.110(5)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Security and Alarm Requirements for Marijuana Establishments Operating Enclosed Areas.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(5)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Establishment located, in whole or in part, in a building, Greenhouse,\nWarehouse, or other Enclosed Area shall have an adequate security system to prevent and\ndetect Diversion, Inversion, theft or loss of Marijuana or unauthorized intrusion, utilizing\ncommercial grade equipment which shall, at a minimum, include:",
+              "children": [
+                {
+                  "id": "500.110(5)(a)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "A Marijuana Establishment located, in whole or in part, in a building, Greenhouse,\nWarehouse, or other Enclosed Area shall have an adequate security system to prevent and\ndetect Diversion, Inversion, theft or loss of Marijuana or unauthorized intrusion, utilizing\ncommercial grade equipment which shall, at a minimum, include:\n1. A perimeter alarm on all building entry and exit points and perimeter windows, if\nany;",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.110(5)(a)2.",
+                  "type": "paragraph",
+                  "number": "2.",
+                  "heading": null,
+                  "content": "A failure notification system that provides an audible, text or visual notification of\nany failure in the security system. The failure notification system shall provide an alert\nto designated employees of the Marijuana Establishment within five minutes after the\nfailure, either by telephone, email or text message;\n3. A Duress Alarm, Panic Alarm or Holdup Alarm connected to local public safety or\nLaw Enforcement Authorities;\n4. Video cameras in all areas that may contain Marijuana or vaults or safes for the\npurpose of securing cash, at all points of entry and exit and in any parking lot which shall\nbe appropriate for the normal lighting conditions of the area under surveillance. The\ncameras shall be directed at all safes, vaults, sales areas and areas where Marijuana is\ncultivated, harvested, Processed, prepared, stored, handled or dispensed, or where cash\nis kept and processed. Cameras shall be angled so as to allow for the capture of clear and\ncertain identification of any Person entering or exiting the Marijuana Establishment or\narea;\n5. Recordings from all video cameras which shall be enabled to record 24 hours each\nday and be available for immediate viewing by the Commission on request for at least\nthe preceding 90 calendar days or the duration of a request to preserve the recordings for\na specified period of time made by the Commission, whichever is longer. Video cameras\nmay use motion detection sensors to begin recording, so long as the motion detection\nsensor system provides an alert to designated employees of the Marijuana Establishment\nin a manner established in the Marijuana Establishment's written security procedures and\napproved by the Commission or a Commission Delegee. If a Marijuana Establishment\nreceives notice that the motion detection sensor is not working correctly, it shall take\nprompt action to make corrections and document those actions. Recordings may not be\ndestroyed or altered, and shall be retained as long as necessary if the Marijuana\nEstablishment is aware of a pending criminal, civil or administrative investigation or\nlegal proceeding for which the recording may contain relevant information;\n6. The ability to immediately produce a clear, color still image whether live or recorded;\n7. A date and time stamp embedded in all recordings, which shall be synchronized and\nset correctly at all times and may not significantly obscure the picture;\n8. The ability to remain operational during a power outage for a minimum of four hours\nand, if it appears likely that the outage will last for more than four hours, the Marijuana\nEstablishment takes sufficient steps to ensure security on the Premises in consultation\nwith the Commission; and\n9. A video recording that allows for the exporting of still images in an industry standard\nimage format, including .jpg, .bmp and .gif. Exported video shall have the ability to be\narchived in a proprietary format that ensures authentication of the video and guarantees\nthat no alteration of the recorded image has taken place. Exported video shall also have\nthe ability to be saved in an industry standard file format that may be played on a\nstandard computer operating system. All recordings shall be erased or destroyed prior\nto disposal.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.110(5)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All security system equipment and recordings shall be maintained in a secure location\nso as to prevent theft, loss, destruction and alterations.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(5)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "In addition to the requirements listed in {{ref:500.110(5)(a)}} and (b), the Marijuana\nEstablishment shall have a back-up alarm system, with all the capabilities of the primary\nsystem, provided by a company supplying commercial grade equipment, which may not be\nthe same company supplying the primary security system, or shall demonstrate to the\nCommission's satisfaction alternate safeguards to ensure continuous operation of a security\nsystem.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(5)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Access to surveillance areas shall be limited to Persons that are essential to surveillance\noperations, Law Enforcement Authorities acting within their lawful jurisdictions, security\nsystem service personnel and the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(5)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A current list of authorized employees and service personnel that have access to the\nsurveillance room shall be available to the Commission on request. If the surveillance room\nis on-site of the Marijuana Establishment, it shall remain locked and may not be used for any\nother function.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(5)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "All security equipment shall be in good working order and shall be inspected and tested\nat regular intervals, not to exceed 30 calendar days from the previous inspection and test.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(5)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Trees, bushes and other foliage outside of the Marijuana Establishment shall be\nmaintained so as to prevent a Person or Persons from concealing themselves from sight.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "Security and Alarm Requirements for Marijuana Establishments Operating Outdoors.",
+          "children": [
+            {
+              "id": "500.110(6)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Security and Alarm Requirements for Marijuana Establishments Operating Outdoors.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(6)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Establishment that is outdoors shall implement adequate security measures\nto ensure that outdoor areas are not readily accessible to unauthorized individuals and to\nprevent and detect Diversion, Inversion, theft or loss of Marijuana which shall, at a\nminimum, include:\n1. A perimeter security fence designed to prevent unauthorized entry to the cultivation\nfacility with signs notifying observers that it is a Limited Access Area;\n2. Commercial-grade, nonresidential locks;\n3. A security alarm system that shall:\na. be continuously monitored, whether electronically, by a monitoring company or\nother means determined to be adequate by the Commission; and\nb. provide an alert to designated employees of the Marijuana Establishment within\nfive minutes after a notification of an alarm or a system failure, either by telephone,\nemail or text message.\n4. Video cameras at all points of entry and exit and in any parking lot which shall be\nappropriate for the normal lighting conditions of the area under surveillance. The\ncameras shall be directed at all safes, vaults, sales areas, and areas where Marijuana is\ncultivated, harvested, Processed, prepared, stored, handled, Transferred or dispensed and\nfor the purpose of securing cash. Cameras shall be angled so as to allow for the capture\nof clear and certain identification of any Person entering or exiting the Marijuana\nEstablishment or area;\n5. 24-hour recordings from all video cameras that are available immediate viewing by\nthe Commission on request and that are retained for at least 90 calendar days.\nRecordings may not be destroyed or altered, and shall be retained as long as necessary\nif the Marijuana Establishment is aware of a pending criminal, civil or administrative\ninvestigation or legal proceeding for which the recording may contain relevant\ninformation;\n6. The ability to immediately produce a clear, color still image whether live or recorded;\n7. A date and time stamp embedded in all recordings, which shall be synchronized and\nset correctly at all times and may not significantly obscure the picture;\n8. The ability to remain operational during a power outage; and\n9. A video recording that allows for the exporting of still images in an industry standard\nimage format, including .jpg, .bmp and .gif. Exported video shall have the ability to be\narchived in a proprietary format that ensures authentication of the video and guarantees\nthat no alteration of the recorded image has taken place. Exported video shall also have\nthe ability to be saved in an industry standard file format that may be played on a\nstandard computer operating system. All recordings shall be erased or destroyed prior\nto disposal.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(6)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All security system equipment and recordings shall be maintained in a secure location\nso as to prevent theft, loss, destruction and alterations.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(6)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "In addition to the requirements listed in {{ref:500.110(6)(a)}} and (b), the Marijuana\nEstablishment shall have a back-up alarm system, with all capabilities of the primary system,\nprovided by a company supplying commercial grade equipment, which may not be the same\ncompany supplying the primary security system, or shall demonstrate to the Commission's\nsatisfaction alternate safeguards to ensure continuous operation of a security system.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(6)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Access to surveillance areas shall be limited to Persons that are essential to surveillance\noperations, Law Enforcement Authorities acting within their lawful jurisdiction, police and\nfire departments, security system service personnel and the Commission. A current list of\nauthorized employees and service personnel that have access to the surveillance room shall\nbe available to the Commission on request. If the surveillance room is on-site of the\nMarijuana Establishment, it shall remain locked and may not be used for any other function.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(6)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "All security equipment shall be in good working order and shall be inspected and tested\nat regular intervals, not to exceed 30 calendar days from the previous inspection and test.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(6)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Security plans and procedures shared with Law Enforcement Authorities pursuant to\n{{ref:500.110(1)(o)}} shall include:",
+              "children": [
+                {
+                  "id": "500.110(6)(f)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Security plans and procedures shared with Law Enforcement Authorities pursuant to\n{{ref:500.110(1)(o)}} shall include:\n1. A description of the location and operation of the security system, including the\nlocation of the central control on the Premises;\n2. A schematic of security zones;\n3. the name of the security alarm company and monitoring company, if any;\n4. A floor plan or layout of the facility in a manner and scope as required by the\nmunicipality; and",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.110(6)(f)5.",
+                  "type": "paragraph",
+                  "number": "5.",
+                  "heading": null,
+                  "content": "A safety plan for the Manufacture and production of Marijuana Products as required\npursuant to {{ref:500.101(3)(c)}}3.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "Cash Handling and Transportation Requirements.",
+          "children": [
+            {
+              "id": "500.110(7)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Cash Handling and Transportation Requirements.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(7)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Establishment with a contract to deposit funds with a financial institution\nthat conducts any transaction in cash shall establish and implement adequate security\nmeasures and procedures for safe cash handling and cash transportation to financial\ninstitutions or DOR facilities to prevent theft and loss, and to mitigate associated risks to the\nsafety of employees, customers and the general public. Adequate security measures shall\ninclude:\n1. An on-site secure locked safe or vault maintained in an area separate from retail sales\nareas used exclusively for the purpose of securing cash;\n2. Video cameras directed to provide images of areas where cash is kept, handled and\npackaged for transport to financial institutions or DOR facilities, provided that the\ncameras may be motion-sensor activated cameras and provided, further, that all cameras\nbe able to produce a clear, still image whether live or recorded;\n3. A written process for securing cash and ensuring transfers of deposits to the\nMarijuana Establishment's financial institutions and DOR facilities on an incremental\nbasis consistent with the requirements for deposit by the financial institution or DOR\nfacilities; and\n4. Use of an armored transport provider that is licensed pursuant to {{extref:M.G.L. c. 147, § 25}}\n(watch, guard or patrol agency) and has been approved by the financial institution or\nDOR facility.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(7)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Notwithstanding the requirement of {{ref:500.110(7)(a)}}4., a Marijuana\nEstablishment may request an alternative security provision under {{ref:500.110(2)}} for\npurposes of cash transportation to financial institutions and DOR facilities. Any approved\nalternative security provision shall be included in the security plan shared with law\nenforcement in the municipality in which the Marijuana Establishment is licensed and\nperiodically updated as required under {{ref:500.110(1)(q)}}. To be determined to\nprovide a sufficient alternative, any such alternative safeguard shall include, but may not be\nlimited to:\n1. Requiring the use of a locked bag for the transportation of cash from a Marijuana\nEstablishment to a financial institution or DOR facility;\n2. Requiring any transportation of cash be conducted in an unmarked vehicle;\n3. Requiring two registered Marijuana Establishment Agents employed by the Licensee\nto be present in the vehicle at all times during transportation of deposits;\n4. Requiring real-time GPS tracking of the vehicle at all times when transporting cash;\n5. Requiring access to two-way communications between the transportation vehicle and\nthe Marijuana Establishment;\n6. Prohibiting the transportation of Marijuana or Marijuana Products at the same time\nthat cash is being transported for deposit to a financial institution or DOR facility; and\n7. Approval of the alternative safeguard by the financial institution or DOR facility.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(7)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "All written safety and security measures developed under {{ref:500.110(7)}} shall be\ntreated as security planning documents, the public disclosure of which would jeopardize\npublic safety.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "Security Requirements for Delivery Licensee or a Marijuana Establishment with Delivery\nEndorsement Operations.",
+          "children": [
+            {
+              "id": "500.110(8)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Security Requirements for Delivery Licensee or a Marijuana Establishment with Delivery\nEndorsement Operations.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Establishment licensed as a Delivery Licensee or a Marijuana\nEstablishment with a Delivery Endorsement shall implement adequate security measures to\nensure that each vehicle used for transportation of Marijuana and Marijuana Products is not\nreadily accessible to unauthorized individuals and to prevent and detect Diversion, Inversion,\ntheft or loss of Marijuana. Security measures shall, at a minimum, include for each\noperational delivery vehicle:",
+              "children": [
+                {
+                  "id": "500.110(8)(a)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "A Marijuana Establishment licensed as a Delivery Licensee or a Marijuana\nEstablishment with a Delivery Endorsement shall implement adequate security measures to\nensure that each vehicle used for transportation of Marijuana and Marijuana Products is not\nreadily accessible to unauthorized individuals and to prevent and detect Diversion, Inversion,\ntheft or loss of Marijuana. Security measures shall, at a minimum, include for each\noperational delivery vehicle:\n1. A vehicle security system that includes an exterior alarm;\n2. A secure, locked storage compartment in each vehicle and not easily removable for\nthe purpose of transporting the Marijuana or Marijuana Products;",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.110(8)(a)3.",
+                  "type": "paragraph",
+                  "number": "3.",
+                  "heading": null,
+                  "content": "A secure, locked storage compartment in each vehicle that is not easily removable for\nthe purpose of transporting and securing cash used as payment for deliveries of\nMarijuana or Marijuana Products;\n4. A means of secure communication between each vehicle and the Marijuana\nEstablishment's dispatching location which shall be capable of being monitored at all\ntimes that a vehicle is performing a delivery route. Means of communication shall\ninclude:\na. Two-way digital or analog radio (UHF or VHF);\nb. Cellular phone; or\nc. Satellite phone.\n5. A global positioning system (GPS) monitoring device that is:\na. Not a mobile device and that is attached to the vehicle at all times that the vehicle\ncontains Marijuana or Marijuana Products; and\nb. Monitored by the Delivery Licensee or a Marijuana Establishment with a\nDelivery Endorsement at a fixed location during the transportation of Marijuana or\nMarijuana Products for the purpose of Consumer delivery with location checks\noccurring at least every 30 minutes. The Delivery Licensee or a Marijuana\nEstablishment with a Delivery Endorsement may delegate monitoring of the GPS to\nthe Third-party Technology Platform Provider with which the Delivery Licensee or\na Marijuana Establishment with a Delivery Endorsement has a contract, provided that\nthe Delivery Licensee or a Marijuana Establishment with a Delivery Endorsement\nshall be responsible for ensuring that monitoring occurs as required under {{ref:500.110(8)}}.\n6. A video system that includes one or more video cameras in the storage area of the\nvehicle and one or more video cameras in the driver area of the vehicle and which shall\nremain operational at all times during the entire transportation process and which shall\nhave:\na. The ability to produce a clear color still photo whether live or recorded; and\nb. A date and time stamp embedded in all recordings which shall be synchronized\nand set correctly at all times and may not significantly obscure the picture.\n7. All security equipment in each vehicle shall be in good working order and shall be\ninspected and tested at regular intervals, not to exceed 30 calendar days from the previous\ninspection and test.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Delivery Licensee or a Marijuana Establishment with a Delivery Endorsement Agents\nengaged in the delivery of Marijuana or Marijuana Products to a Consumer shall have on\ntheir person an operational body camera during all times that the Marijuana Establishment\nAgent is outside of the delivery vehicle for the purpose of transacting a delivery.",
+              "children": [
+                {
+                  "id": "500.110(8)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "A Delivery Licensee or a Marijuana Establishment with a Delivery Endorsement Agents\nengaged in the delivery of Marijuana or Marijuana Products to a Consumer shall have on\ntheir person an operational body camera during all times that the Marijuana Establishment\nAgent is outside of the delivery vehicle for the purpose of transacting a delivery.\n1. The body camera shall record all deliveries.\n2. Consumers shall be notified of the use of body cameras to record delivery\ntransactions at the time of order, on the proof of order and by the Marijuana\nEstablishment agent on arrival at the Residence.\n3. In addition to providing notice, body cameras shall be displayed conspicuously on the\nMarijuana Establishment Agent's person.\n4. A Delivery Licensee or a Marijuana Establishment with a Delivery Endorsement shall\nmaintain video from body cameras confidentially and protected from disclosure to the\nfull extent allowed by law. The Licensee shall implement data security, records\nretention, and record destruction policies for body camera video in compliance with\napplicable federal and state privacy laws including, but not limited to, the Driver Privacy\nProtection Act, 18 USC § 2721, the Massachusetts Identify Theft Act, {{extref:M.G.L. c. 93H}},\n201 CMR 17.00: Standards for the Protection of Personal Information of Residents of\nthe Commonwealth, and the Fair Information Practices Act, {{extref:M.G.L. c. 66A}}.\n5. Video of deliveries shall be retained for a minimum of 30 days, or, with notice to the\nDelivery Licensee or Marijuana Establishment with a Delivery Endorsement, for the\nduration of an investigation by the Commission or by law enforcement, whichever is\nlonger. To obtain video from a Licensee as part of an investigation, Commission staff\nshall consult with the Executive Director and to the extent possible, view the video at the\nplace of storage.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.110(8)(b)6.",
+                  "type": "paragraph",
+                  "number": "6.",
+                  "heading": null,
+                  "content": "A Delivery Licensee or a Marijuana Establishment with a Delivery Endorsement may\nnot share or disclose any portion of the information or video footage collected as the\nresult of the use of a body camera pursuant to {{ref:500.110(8)(b)}} to any third- party\nnot explicitly authorized by {{ref:500.000}} to have access to that video footage,\nsubject to the exceptions in {{ref:500.110(8)(b)}}6.a. and b.\na. A Licensee or Marijuana Establishment shall make video footage available to law\nenforcement officers acting in his or her official capacity pursuant to a validly issued\ncourt order or search warrant demonstrating probable cause.\nb.\nNothing in {{ref:500.110(8)}}6. shall prohibit law enforcement from\nperforming a constitutionally valid search or seizure including, but not limited to,\ncircumstances that present an imminent danger to safety, and other exceptional or\nemergency circumstances where time or opportunity to apply for a warrant is lacking.\n7. Unless retained for investigative purposes, the Licensee shall erase or otherwise\ndestroy videos after the 30-day retention period.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Delivery Licensee or a Marijuana Establishment with a Delivery Endorsements\ntransporting Marijuana and Marijuana Products for Consumer delivery shall ensure that all\nvehicles used for deliveries are staffed with a minimum of one Marijuana Establishment\nAgent. The Agent or Agents shall remain inside the vehicle at all times that the vehicle\ncontains Marijuana or Marijuana Products, unless completing a Consumer delivery.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Marijuana Establishment Agent or Agents shall take all necessary steps to secure the\nvehicle at all times when Marijuana or Marijuana Products are in the vehicle.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A Marijuana Establishment Agent shall document and report any unusual discrepancy\nin inventory to the Commission and the local Law Enforcement Authorities in which the\nestablishment is licensed within 24 hours of the discovery of such a discrepancy.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "A Delivery Licensee or a Marijuana Establishment with a Delivery Endorsement shall\nreport to the Commission and local law enforcement any vehicle accidents, Diversion,\nInversion, losses, or other reportable incidents that occur during transport immediately and,\nunder no circumstances, more than 24 hours of becoming aware of any accidents, Diversion,\nInversion, losses, or other reportable incidents and shall otherwise comply with the incident\nreporting requirements set forth under {{ref:500.110(9)}}.\n1. Representatives of the Commission in the course of responsibilities authorized by\n{{extref:M.G.L. c. 94G}} or {{ref:500.000}};\n2. Representatives of other state agencies acting within their jurisdiction; and\n3. Law Enforcement Authorities and emergency medical services in the course of\nresponding to an emergency.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "{{ref:500.000}} shall not be construed to prohibit access to authorized state or local\nLaw Enforcement Authorities or public health, inspectional services, or other permit-granting\nagents acting within their lawful jurisdiction.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "All vehicles used by the Delivery Licensee or a Marijuana Establishment with a Delivery\nEndorsement for Consumer delivery are subject to inspection and approval by the\nCommission prior being put into use. It shall be the Delivery Licensee or a Marijuana\nEstablishment with a Delivery Endorsements responsibility to make the Commission aware\nof its intent to introduce a new vehicle into operation and ensure an inspection of the vehicle\nprior to commencing operation.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(8)(k)",
+              "type": "paragraph",
+              "number": "(k)",
+              "heading": null,
+              "content": "Firearms are strictly prohibited from Delivery Licensee or a Marijuana Establishment\nwith a Delivery Endorsement vehicles and from Marijuana Establishment Agents performing\nhome deliveries.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "Incident Reporting.",
+          "children": [
+            {
+              "id": "500.110(9)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Incident Reporting.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(9)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Establishment shall notify appropriate Law Enforcement Authorities and\nthe Commission of any breach of security or other reportable incident defined in {{ref:500.110(9)}} immediately and, in no instance, more than 24 hours following discovery of the\nbreach or incident. Notification shall occur, but not be limited to, during the following\noccasions:",
+              "children": [
+                {
+                  "id": "500.110(9)(a)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "A Marijuana Establishment shall notify appropriate Law Enforcement Authorities and\nthe Commission of any breach of security or other reportable incident defined in {{ref:500.110(9)}} immediately and, in no instance, more than 24 hours following discovery of the\nbreach or incident. Notification shall occur, but not be limited to, during the following\noccasions:\n1. Discovery of inventory discrepancies;\n2. Diversion, Inversion, theft or loss of any Marijuana Product;\n3. Any criminal action involving or occurring on or in the Marijuana Establishment\nPremises or Licensee or agent;\n4. Any suspicious act involving the sale, cultivation, distribution, Processing or\nproduction of Marijuana by any Person;",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.110(9)(a)5.",
+                  "type": "paragraph",
+                  "number": "5.",
+                  "heading": null,
+                  "content": "Unauthorized destruction of Marijuana;\n6. Any loss or unauthorized alteration of records related to Marijuana;\n7. An alarm activation or other public safety event that requires response by federal,\nstate or local personnel;\n8. The failure of any security alarm system due to a loss of electrical power or\nmechanical malfunction that is expected to last more than eight hours;\n9. A significant motor vehicle crash that occurs while transporting or delivering\nMarijuana or Marijuana Products and would require the filing of a Motor Vehicle Crash\nOperator Report pursuant to {{extref:M.G.L. c. 90}} § 26; provided however that a motor vehicle\ncrash that renders the Licensee's vehicle inoperable shall be reported immediately to state\nand local law enforcement so that Marijuana or Marijuana Products may be adequately\nsecured;\n10. Any medical event or health and safety emergency that requires response by federal,\nstate or local personnel;\n11. Any notice issued to the Licensee from federal, state or local officials indicating to\nthe Licensee a received complaint or cited violation related to the Licensee's operation;\nor\n12. Any other breach of security.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.110(9)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Marijuana Establishment shall, within ten calendar days, provide notice to the\nCommission of any incident described in {{ref:500.110(9)(a)}} by submitting an incident\nreport in the form and manner determined by the Commission which details the\ncircumstances of the event, any corrective action taken, and confirmation that the appropriate\nLaw Enforcement Authorities were notified.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.110(9)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "All documentation related to an incident that is reportable pursuant to {{ref:500.110(9)(a)}} shall be maintained by a Marijuana Establishment for not less than one year\nor the duration of an open investigation, whichever is longer, and made available to the\nCommission and Law Enforcement Authorities within their lawful jurisdiction on request.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.110(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "Security Audits. A Marijuana Establishment shall, on an annual basis, obtain at its own\nexpense, a security system audit by a vendor approved by the Commission. A report of such\naudit shall be submitted, in a form and manner determined by the Commission, no later than 30\ncalendar days after the audit is conducted. If the audit identifies concerns related to the\nestablishment's security system, the Marijuana Establishment shall also submit a plan to mitigate\nthose concerns within ten business days of submitting the audit.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 17
+}

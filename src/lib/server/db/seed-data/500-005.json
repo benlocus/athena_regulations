@@ -1,0 +1,211 @@
+{
+  "sectionNumber": "500.005",
+  "heading": "Fees",
+  "slug": "500-005",
+  "contentTree": [
+    {
+      "id": "500.005",
+      "type": "section",
+      "number": null,
+      "heading": "Fees",
+      "content": "",
+      "children": [
+        {
+          "id": "500.005(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Marijuana Establishment Application and License Fees.",
+          "children": [
+            {
+              "id": "500.005(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Marijuana Establishment Application and License Fees.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Each applicant for licensure as a Marijuana Establishment shall pay to the Commission\na nonrefundable application fee, annual license fee, and to the Seed-to-sale SOR provider,\na monthly Seed-to-sale licensing fee. These fees do not include the costs associated with the\nSeed-to-sale licensing system, which includes a monthly program fee and fees for plant and\npackage tags. These fees do not include the costs associated with criminal background\nchecks as required under {{ref:500.030}} or {{ref:500.101(1)(b)}}",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Waiver of Fees.\n1. Application fees are waived for:\na. Applicants for Microbusinesses;\nb. Businesses controlled by and with majority ownership comprised of Social Equity\nProgram Participants and/or Economic Empowerment Priority Applicants; and\nc.\nMassachusetts Minority Business Enterprises (MBE), Women Business\nEnterprises (WBE), or Veteran Business Enterprises (VBE) with valid certification\nfrom the SDO and which are also considered to be Small Businesses as defined by\nthe Commission.\nThis does not include the costs associated with background checks.\n2. For Annual License Fees, a 50% reduction in the fee associated with an application\nfor:\na. Businesses controlled by and with majority ownership comprised of Social Equity\nProgram Participants and/or Economic Empowerment Priority Applicants; and\n\nb.\nMassachusetts Minority Business Enterprises (MBE), Women Business\nEnterprises (WBE), and Veteran Business Enterprises (VBE) with valid certification\nfrom the SDO and which are also considered to be Small Businesses as defined by\nthe Commission.\n3. For Annual Delivery Licensee Fees, a 100% reduction for businesses controlled by\nand with majority ownership comprised of Social Equity Program Participants and/or\nEconomic Empowerment Priority Applicants for the initial license fee payment. Upon\nrenewal, and each year thereafter, there shall be a 50% reduction in the annual license fee\nfor Delivery Licensees pursuant to {{ref:500.005(1)(b)}}2.\n4. A Marijuana Microbusiness shall be responsible for the following annual license fees:\na. A Marijuana Microbusiness engaged in cultivation activities shall pay an annual\nlicense fee equal to 50% of the annual license fee for a Tier 1 Marijuana Cultivator;\nb. A Marijuana Microbusiness engaged in product manufacturing activities shall pay\nan annual license fee equal to 50% of the annual license fee for a Marijuana Product\nManufacturer; or\nc. A Marijuana Microbusiness engaged in cultivation and product manufacturing\nactivities shall pay an annual license fee equal to 50% of the annual license fee for\na Tier 1 Marijuana Cultivator and Marijuana Product Manufacturer.\n5. Seed-to-sale SOR monthly program fees are waived for:\na. Craft Marijuana Cooperatives;\nb. Microbusiness Licenses;\nc. Businesses controlled by and with majority ownership comprised of Economic\nEmpowerment Priority Applicants and/or Social Equity Program Participants; and\nd.\nMassachusetts Minority Business Enterprises (MBE), Women Business\nEnterprises (WBE), and Veteran Business Enterprises (VBE) with valid certification\nfrom the SDO and which are also considered to be Small Businesses as defined by\nthe Commission.\nThis waiver does not include other costs associated with the Seed-to-sale licensing\nsystem, specifically the fees for plant and package tags.\n6. All other applicants are responsible for the payment of fees in accordance with\n{{ref:500.005(1)(a)}} and may not waive their obligation pursuant to {{ref:500.850}}, Waivers.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Each applicant shall choose the tier at which it will be initially licensed.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(1)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Application and Annual License Fee Schedule.\n\nLicense Types\n\nApplication Fees\n(Indoor/Outdoor)\n\nAnnual License Fee\n(Indoor/Outdoor)\n\nMarijuana Cultivator\n(Indoor or Outdoor)\nTier 1: up to 5,000 square feet\n$200 (I)/$100 (O)\n$1,250 (I)/$625 (O)\nTier 2: 5,001 to 10,000 sq. ft.\n$400 (I)/$200 (O)\n$2,500 (I)/$1,250 (O)\nTier 3: 10,001 to 20,000 sq. ft.\n$600 (I)/$300 (O)\n$5,000 (I)/$2,500 (O)\nTier 4: 20,001 to 30,000 sq. ft.\n$2,000 (I)/$1,500 (O)\n$20,000 (I)/$10,000 (O)\nTier 5: 30,001 to 40,000 sq. ft.\n$2,000 (I)/$1,500 (O)\n$22,500 (I)/$11,250 (O)\nTier 6: 40,001 to 50,000 sq. ft.\n$2,000 (I)/$1,500 (O)\n$25,000 (I)/$12,500 (O)\nTier 7: 50,001 to 60,000 sq. ft.\n$2,000 (I)/$1,500 (O)\n$30,000 (I)/$15,000 (O)\nTier 8: 60,001 to 70,000 sq. ft.\n$2,000 (I)/$1,500 (O)\n$35,000 (I)/$17,500 (O)\nTier 9: 70,001 to 80,000 sq. ft.\n$2,000 (I)/$1,500 (O)\n$40,000 (I)/$20,000 (O)\nTier 10: 80,001 to 90,000 sq. ft.\n$2,000 (I)/$1,500 (O)\n$45,000 (I)/$22,500 (O)\nTier 11: 90,0001 to 100,000 sq. ft.\n$2,000 (I)/$1,500 (O)\n$50,000 (I)/$25,000 (O)\nCraft Marijuana Cooperative\nTotal fees for its Canopy.\nTotal fees for its\nIf more than six locations,\nCanopy.\nadd\nIf more than six\n$200 (I)/$100(O)\nlocations, add\nper additional location.\n$1,250(I)/$625(O)\nper additional location.\nMarijuana Product Manufacturing\n$1,500\n$10,000\nMarijuana Microbusiness\n$0\n50% of\nall applicable license\nfees\nIndependent Testing Laboratory\n$1,500\n$10,000\nMarijuana Retailer (brick-and$1,500\n$10,000\nmortar)\nSocial Consumption\n$1,500\n$5,000\nEstablishment: Supplemental\nOn-site Consumption\nSocial Consumption\n$1,500\n$5,000\nEstablishment: Hospitality On-site\nConsumption\nSocial Consumption\n$1,000\n$5,000\nEstablishment: Marijuana Event\nOrganizer\nMarijuana Transporter: Existing\n$1,000\n$5,000\nLicensee Transporter\nMarijuana Courier\n$1,500\n$5,000\nMarijuana Delivery Operator\n$1,500\n$10,000\nMarijuana Establishment with a\n$500\n$5,000\nDelivery Endorsement\nMarijuana Research Facility\n$300\n$1,000\nMarijuana Research Permit\n$1,000\n$1,000",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(1)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Other Fees (cost per License).\nChange in Name Fee\nChange in Location Fee\nChange in Building Structure Fee\nChange in Ownership or Control Fee (involving at\nleast one entity gaining ownership/control)\nChange in Ownership or Control Fee (involving\nindividuals, e.g., change of Board Member)\nArchitectural Review Request Fee\nArchitectural Review Request Fee\nPackaging and Labeling Preapproval Application Fee\n\n$1,000\n50% of applicable License Fee\n$1,000\n$5,000 per entity, per License\n$500 per person\n$1,500\n$250\n$50 per product",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.005(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Registration Card Holder Fees.",
+          "children": [
+            {
+              "id": "500.005(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Registration Card Holder Fees.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "An applicant for a Registration Card as a Marijuana Establishment Agent, a Laboratory\nAgent, or any other position designated as an agent by the Commission shall pay a\nnonrefundable application fee of $115 with any such application.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "An applicant for a renewal of a Registration Card as a Marijuana Establishment Agent,\na Laboratory Agent, or any other position designated as an agent by the Commission shall\npay a fee of $115.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.005(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Fingerprint-based Criminal Background Checks Fees.",
+          "children": [
+            {
+              "id": "500.005(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Fingerprint-based Criminal Background Checks Fees.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "All persons required to submit fingerprints shall pay a fee to be established by the\nMassachusetts Secretary of Administration and Finance, in consultation with Massachusetts\nSecretary of Public Safety and Security and the Commission, to offset the costs of operating\nand administering a Fingerprint-based criminal background-check system.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Commission may pay the fee on behalf of applicants or reimburse applicants for all\nor part of the fee on the grounds of financial hardship.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Any fees collected from fingerprinting activity under {{ref:500.000}} shall be\ndeposited into the Fingerprint-based Background Check Trust Fund, established in {{extref:M.G.L.\nc. 29, § 2}}HHHH.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.005(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "For CMOs, an applicant or Licensee shall pay the applicable fees for each Marijuana\nEstablishment set forth in {{ref:500.005}} and MTC set forth in 935 CMR 501.005: Fees.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.005(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Preapproved Court Appointees.",
+          "children": [
+            {
+              "id": "500.005(5)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Preapproved Court Appointees.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(5)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Each applicant seeking to be Preapproved Court Appointee shall pay a nonrefundable\napplication fee of $500 for any such application.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.005(5)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Preapproved Court Appointee seeking to renew its designation shall pay a renewal\nfee of at least $400.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 3
+}

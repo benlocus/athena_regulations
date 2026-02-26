@@ -1,0 +1,686 @@
+{
+  "sectionNumber": "500.146",
+  "heading": "Additional Operational Requirements for Marijuana Delivery Operators",
+  "slug": "500-146",
+  "contentTree": [
+    {
+      "id": "500.146",
+      "type": "section",
+      "number": null,
+      "heading": "Additional Operational Requirements for Marijuana Delivery Operators",
+      "content": "",
+      "children": [
+        {
+          "id": "500.146(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Warehousing.",
+          "children": [
+            {
+              "id": "500.146(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Warehousing.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Delivery Operator shall operate a Warehouse for the storage of Finished Marijuana\nProducts and preparation of Individual Orders for Delivery.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Warehouses shall comply with all applicable requirements of {{ref:500.105}}, and\n{{ref:500.110}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Warehouses shall incorporate a sally port or loading area immediately adjacent to the\nWarehouse that enables the transfer of Finished Marijuana Products into a vehicle for\ndelivery.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Limitation on Sales.",
+          "children": [
+            {
+              "id": "500.146(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Limitation on Sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "In accordance with {{extref:M.G.L. c. 94G, § 7}}, a Delivery Operator may not knowingly sell\nmore than one ounce or its combined dry weight equivalent in Finished Marijuana Products\nto Consumers per day.\n1. One ounce of Marijuana flower shall be equivalent to five grams of active\ntetrahydrocannabinol (THC) in Marijuana concentrate including, but not limited to,\nTinctures.\n2. One ounce of Marijuana flower shall be equivalent to five hundred milligrams of\nactive tetrahydrocannabinol (THC) in Edibles.\n3. Topicals and ointments shall not be subject to a limitation on daily sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Delivery Operator may not sell Finished Marijuana Products in excess of the potency\nlevels established by {{ref:500.150(4)}}; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Delivery Operator shall demonstrate that it has a point-of-sale system that does not\nallow for a transaction in excess of the limit established in {{ref:500.140(3)}} or the\npotency levels established in {{ref:500.150(4)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Delivery Operator may sell non-infused food, water, and drink items that are\npre-packaged prior to arrival on the Premises and are Shelf-stable. Such sales of Shelf-Stable\nProducts shall be limited to products sold in a manner that does not cause the Delivery\nOperator to be considered a Food Establishment under 105 CMR 590.001. The Delivery\nOperator shall obtain all licenses and permits, as necessary, prior to the sale of Shelf-stable\nproducts.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Unauthorized Sales and Right to Refuse Sales or Delivery.",
+          "children": [
+            {
+              "id": "500.146(3)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Unauthorized Sales and Right to Refuse Sales or Delivery.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(3)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Delivery Operator shall refuse to sell or deliver Finished Marijuana Products to any\nConsumer who is unable to produce valid proof of government-issued identification.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(3)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Delivery Operator shall refuse to sell or deliver Finished Marijuana Products to a\nConsumer if, in the opinion of the Marijuana Establishment Agent based on the information\navailable to the agent at that time, the Consumer or the public would be placed at risk. This\nincludes, but is not limited to, the Consumer engaging in daily transactions that exceed the\nlegal possession limits or that create a risk of Diversion or other practices that may result in\nInversion.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(3)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Delivery Operator may not sell or deliver to an individual more than one ounce or its\ndry weight equivalent in Finished Marijuana Products per transaction. A Delivery Operator\nmay not knowingly sell or deliver to an individual more than one ounce or its dry weight\nequivalency in Finished Marijuana Products per day.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(3)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Delivery Operator is prohibited from selling or delivering Finished Marijuana\nProducts containing nicotine, if sales of Tobacco or cigarettes would require licensure under\nstate law.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(3)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Delivery Operator is prohibited from selling or delivering Finished Marijuana\nProducts containing alcohol, if sales of such alcohol would require licensure pursuant to\n{{extref:M.G.L. c. 138}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Recording Sales.",
+          "children": [
+            {
+              "id": "500.146(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Recording Sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Delivery Operator shall only utilize a point-of-sale system approved by the\nCommission, in consultation with the DOR.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Delivery Operator may utilize a sales recording module approved by the DOR.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Delivery Operator is prohibited from utilizing software or other methods to\nmanipulate or alter sales data.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(4)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Delivery Operator shall conduct a monthly analysis of its equipment and sales data\nto determine that no software has been installed that could be utilized to manipulate or alter\nsales data and that no other methodology has been employed to manipulate or alter sales data.\n\nA Delivery Operator shall maintain records that it has performed the monthly analysis and\nproduce it on request to the Commission. If a Delivery Operator determines that software\nhas been installed for the purpose of manipulation or alteration of sales data or other methods\nhave been utilized to manipulate or alter sales data:\n1. It shall immediately disclose the information to the Commission and DOR;\n2. It shall cooperate with the Commission in any investigation regarding manipulation\nor alteration of sales data; and\n3. Take such other action directed by the Commission to comply with {{ref:500.105}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(4)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Delivery Operator shall comply with 830 CMR 62C.25.1: Record Retention and DOR\nDirective 16-1 regarding recordkeeping requirements.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(4)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A Delivery Operator shall adopt separate accounting practices at the point of sale for\nMarijuana and Marijuana Product sales, and non-Marijuana sales.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(4)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "The Commission and the DOR may audit and examine the point-of-sale system used by\na Delivery Operator in order to ensure compliance with Massachusetts tax laws and\n{{ref:500.140(5)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Consumer Education. A Delivery Operator shall make available educational materials about\nFinished Marijuana Products to Consumers. A Delivery Operator shall have an adequate supply\nof current educational material available for distribution. Educational materials shall be\navailable in commonly spoken languages designated by the Commission, which will include, but\nnot be limited to, appropriate materials for the visually- and hearing-impaired. Such materials\nshall be made available for inspection by the Commission on request. If there is a failure to\nprovide these materials, a licensee may be subject to disciplinary action under {{ref:500.000}}. The educational material shall include at least the following:",
+          "children": [
+            {
+              "id": "500.146(5)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Consumer Education. A Delivery Operator shall make available educational materials about\nFinished Marijuana Products to Consumers. A Delivery Operator shall have an adequate supply\nof current educational material available for distribution. Educational materials shall be\navailable in commonly spoken languages designated by the Commission, which will include, but\nnot be limited to, appropriate materials for the visually- and hearing-impaired. Such materials\nshall be made available for inspection by the Commission on request. If there is a failure to\nprovide these materials, a licensee may be subject to disciplinary action under {{ref:500.000}}. The educational material shall include at least the following:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A warning that Marijuana has not been analyzed or approved by the FDA, that there is\nlimited information on side effects, that there may be health risks associated with using\nMarijuana, and that it should be kept away from children;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A warning that when under the influence of Marijuana, driving is prohibited by {{extref:M.G.L.\nc. 90, § 24}}, and machinery should not be operated;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Information to assist in the selection of Finished Marijuana Products, describing the\npotential differing effects of various strains of Marijuana, as well as various forms and routes\nof administration;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Materials offered to Consumers to enable them to track the strains used and their\nassociated effects;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Information describing proper dosage and titration for different routes of administration.\nEmphasis shall be on using the smallest amount possible to achieve the desired effect. The\nimpact of potency shall also be explained;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "A discussion of tolerance, dependence, and withdrawal;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Facts regarding substance use disorder signs and symptoms, as well as referral\ninformation for substance use disorder treatment program, and the telephone number for the\nMassachusetts Substance Use Helpline;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "A statement that Consumers may not sell Finished Marijuana Products to any other\nindividual;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "Information regarding penalties for possession or distribution of Marijuana in violation\nof Massachusetts law; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(5)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "Any other information required by the Commission.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "Testing. No Finished Marijuana Product may be sold or otherwise marketed for adult use\nthat has not first been tested by Independent Testing Laboratories, except as allowed under\n{{ref:500.000}}. The product shall be deemed to comply with the standards required under\n{{ref:500.160}}. Potency levels derived from the Cannabinoid Profile, including the amount\nof delta-nine-tetrahydrocannabinol (9-THC) and other Cannabinoids, contained within Finished\nMarijuana or Marijuana Product to be sold or otherwise marketed shall be recorded in the\nSeed-to-sale SOR.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.146(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "White Labeling. The Licensee engaged in the White Labeling of Finished Marijuana\nProducts shall comply with the labeling and packaging requirements under {{ref:500.105(5)}}\nand (6) prior to delivery to Consumers.",
+          "children": [
+            {
+              "id": "500.146(7)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "White Labeling. The Licensee engaged in the White Labeling of Finished Marijuana\nProducts shall comply with the labeling and packaging requirements under {{ref:500.105(5)}}\nand (6) prior to delivery to Consumers.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(7)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Wholesale Agreement between a Delivery Operator and the Marijuana\nEstablishment from which they are wholesaling shall clearly indicate whether the Delivery\nOperator or the Marijuana Establishment licensee from which the Finished Marijuana\nProduct(s) are being wholesaled shall be responsible for White Labeling on behalf of the\nDelivery Operator.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(7)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Delivery Operator shall notify the Commission within 21 days of any Substantial\nModification to a Wholesale Agreement that alters which Licensee has responsibility for\nWhite Labeling on behalf of the Delivery Operator. A Licensee shall obtain the written\nauthorization of the Commission prior to commencing White Labeling.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(7)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The Delivery Operator may submit the label to be used for White Labeling to the\nCommission in accordance with {{ref:500.105(7)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "Product Database. A Delivery Operator that purchases any Wholesale Finished Marijuana\nProducts from a licensed Marijuana Cultivator, Microbusiness or Craft Marijuana Cooperative\nfor the purpose of delivery to Consumers, whether White Labeled or not, shall provide the\nCommission with information to populate the Product Database. A Delivery Operator that\npurchases wholesale Finished Marijuana Products from a licensed Marijuana Product\nManufacturer for the purpose of White Labeling and sale to Consumers shall provide the\nCommission with information to populate the Product Database. Product Database information\nfor Finished Marijuana Products purchased at Wholesale from Product Manufacturers that are\nnot White Labeled shall remain the responsibility of the Product Manufacturer under {{ref:500.130(6)}}.",
+          "children": [
+            {
+              "id": "500.146(8)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Product Database. A Delivery Operator that purchases any Wholesale Finished Marijuana\nProducts from a licensed Marijuana Cultivator, Microbusiness or Craft Marijuana Cooperative\nfor the purpose of delivery to Consumers, whether White Labeled or not, shall provide the\nCommission with information to populate the Product Database. A Delivery Operator that\npurchases wholesale Finished Marijuana Products from a licensed Marijuana Product\nManufacturer for the purpose of White Labeling and sale to Consumers shall provide the\nCommission with information to populate the Product Database. Product Database information\nfor Finished Marijuana Products purchased at Wholesale from Product Manufacturers that are\nnot White Labeled shall remain the responsibility of the Product Manufacturer under {{ref:500.130(6)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(8)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The Delivery Operator shall provide the following:\n1. A photograph of a Finished Marijuana Product outside of but next to the Marijuana\nProduct's packaging; provided however that where single servings of a multi-serving\nproduct are unable to be easily identified because of its form, a description of what\nconstitutes a single serving shall be provided (e.g. a single serving is a 1\" x 1\" square);\n2. A photograph of the Marijuana Product inside packaging; and\n3. The name of the Product Manufacturer that produced the Marijuana Product.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(8)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Photographs submitted shall be electronic files in a JPEG format with a minimum photo\nresolution of 640 x 480 and print resolution of 300 DPI. Photographs shall be against a white\nbackground.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(8)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Delivery Operator shall provide the information required under {{ref:500.146(7)(a)}} for each Finished Marijuana Product it offers for sale and delivery prior to the\nproduct being made available for sale and shall update the information whenever a\nsubstantial change to packaging or label of the Finished Marijuana Product occurs. For\npurposes of {{ref:500.146(8)(c)}}, a substantial change shall be a change to the physical attributes\nor content of the package or label.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "In addition to the written operating policies required under {{ref:500.105(1)}}, a Delivery\nOperator shall maintain written policies and procedures which shall include:",
+          "children": [
+            {
+              "id": "500.146(9)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "In addition to the written operating policies required under {{ref:500.105(1)}}, a Delivery\nOperator shall maintain written policies and procedures which shall include:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(9)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Policies and procedures for adequately tracking, recording, and documenting all Vendor\nSamples that the Delivery Operator receives from a Marijuana Cultivator, a Marijuana\nProduct Manufacturer, a Microbusiness or a Craft Marijuana Cooperative; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(9)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Policies and procedures for adequately tracking, recording, and documenting all Vendor\nSamples that the Delivery Operator provides to employees for the purpose of assessing\nproduct quality and determining whether to make the product available to sell.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "Vendor Samples.",
+          "children": [
+            {
+              "id": "500.146(10)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Vendor Samples.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(10)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Delivery Operator may receive a Vendor Sample of Marijuana flower from a\nMarijuana Cultivator pursuant to {{ref:500.120(13)}}. A Delivery Operator may also\nreceive a Vendor Sample of Marijuana Product from a Marijuana Product Manufacturer\npursuant to {{ref:500.130(8)}}. Receipt of a Vendor Sample under {{ref:500.146(10)}}\nshall not be considered a prohibited practice under {{ref:500.105(4)(b)}}20.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(10)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Vendor Samples may not be sold to another licensee or Consumer.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(10)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "A Delivery Operator may provide the Vendor Samples it receives from a Marijuana\nCultivator or a Marijuana Product Manufacturer to its Employees for the purpose of\nassessing product quality and determining whether to make the product available to sell the\nproduct. Vendor Samples may not be consumed on any licensed Premises.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(10)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Vendor Sample limits. A Marijuana Delivery Operator is limited to providing the\nfollowing aggregate amounts of Vendor Samples to all Employees in a calendar month\nperiod:\n1. Four grams per strain of Marijuana flower and no more than seven strains of\nMarijuana flower;\n2. Five grams of Marijuana concentrate or extract including, but not limited to,\nTinctures;\n3. Five hundred milligrams of Edibles whereby the serving size of each individual\nsample does not exceed five milligrams and otherwise satisfies the potency levels set\nforth in {{ref:500.150(4)}}; and\n4. Five units of sale per Cannabis product line and no more than six individual Cannabis\nproduct lines. For purposes of {{ref:500.146(10)}}, a Cannabis product line shall\nmean items bearing the same Stock Keeping Unit Number.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(10)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Upon providing a Vendor Sample to an employee, the Delivery Operator shall record:\n1. The reduction in quantity of the total weight or item count under the unique\nalphanumeric identifier associated with the Vendor Sample;\n2. The date and time the Vendor Sample was provided to the Employee;\n3. The agent registration number of the employee receiving the Vendor Sample; and\n4. The name of the Employee as it appears on their agent registration card.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(10)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "All Vendor Samples provided by a Delivery Operator to its employees shall also be\nentered into the point-of-sale system and shall count against the individual employee's daily\npurchase limit, if applicable, consistent with {{ref:500.146(2)}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(11)",
+          "type": "subsection",
+          "number": "(11)",
+          "heading": null,
+          "content": "Sale of Marijuana Vaporizer Devices.",
+          "children": [
+            {
+              "id": "500.146(11)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Sale of Marijuana Vaporizer Devices.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(11)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Delivery Operator offering Marijuana Vaporizer Devices for sale to\nConsumers shall include a conspicuous and prominently displayed statement on its website,\nthat is legible and enlarged and contains the following statements:\n1. \"Marijuana Vaporizer Devices have been tested for Vitamin E Acetate and other\ncontaminants, with no adverse findings. WARNING: Vaporizer Devices may contain\ningredients harmful to health when inhaled.\"\n2. \"Consumers shall have access to the test results of Marijuana Vaporizer Devices\nincluding copies of any Certificates of Analysis provided by the device's manufacturer.\"",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(11)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "A Delivery Operator shall provide a physical insert to Consumers that accompanies all\npurchased and delivered Marijuana Vaporizer Devices that states, including capitalization\nand emphasis, the following: \"Marijuana Vaporizer Devices have been tested for Vitamin\nE Acetate and other contaminants, with no adverse findings. WARNING: Vaporizer Devices\nmay contain ingredients harmful to health when inhaled.\"",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(11)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The sale of disposable and reusable vaporizer pens and devices shall be accompanied\nby a product insert identifying the materials used in the vaporizer device's atomizer coil (e.g.,\ntitanium, titanium alloy, quartz, copper, nichrome, kanthal, or other specified material), and\nmanufacturer identification of the device hardware, cartridge, battery and other components;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(11)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "A Delivery Operator shall make available the information contained in {{ref:500.105(5)(c)}}6 in the product description as part of any product list posted on the Delivery\nOperator's website or Third-party Technology Platforms or applications employed for\ndelivery.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(11)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "A Delivery Operator shall retain all records of purchases from any Product Manufacturer\nor supplier of any ingredient, additive, device, component part or other materials provided\nto the Delivery Operator about Marijuana Vaporizer Devices sold by licensees. Such records\nshall be made available to the Commission upon request.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.146(12)",
+          "type": "subsection",
+          "number": "(12)",
+          "heading": null,
+          "content": "Prohibition on Monopolies.",
+          "children": [
+            {
+              "id": "500.146(12)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Prohibition on Monopolies.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(12)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "It shall be a violation of {{ref:500.000}} for any Delivery Operator to monopolize or\nattempt to monopolize, or combine or conspire with any other person or entity including, but\nnot limited to, a Third-party Technology Platform Provider, to monopolize any part of\nlicensed activities authorized under {{ref:500.000}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.146(12)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "It shall be a violation of, {{ref:500.000}}, for any Delivery Operator engaged in\nactivities authorized under {{ref:500.000}} to make a contract for services with a\nThird-party Technology Platform Provider for the listing of a Delivery Operator or a Delivery\nOperator's Finished Marijuana Products on the condition, agreement or understanding that\nthe parties to the contract shall not deal in Marijuana or Marijuana Products, either generally\n\nor specific brands or categories of Finished Marijuana Products, of a competitor or\ncompetitors of the parties where the effect of such contract or such condition, agreement or\nunderstanding may be to lessen substantially competition or tend to create a monopoly in any\nactivity engaged in under 935 CMR. {{ref:500.000}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 23
+}

@@ -1,0 +1,100 @@
+{
+  "sectionNumber": "500.850",
+  "heading": "Waivers",
+  "slug": "500-850",
+  "contentTree": [
+    {
+      "id": "500.850",
+      "type": "section",
+      "number": null,
+      "heading": "Waivers",
+      "content": "",
+      "children": [
+        {
+          "id": "500.850(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "The Commission may delegate its authority to the Executive Director to waive a regulatory\nrequirement promulgated under {{extref:M.G.L. c. 94G, § 4}} and {{extref:M.G.L. c. 94I, § 7}}. The Executive\nDirector may determine the form and manner of the waiver process. There can be no waiver of\nstatutory requirements.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.850(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "The Commission may waive applicability of one or more of the requirements imposed by\n{{ref:500.000}} on the submission of written documentation and a finding that:",
+          "children": [
+            {
+              "id": "500.850(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "The Commission may waive applicability of one or more of the requirements imposed by\n{{ref:500.000}} on the submission of written documentation and a finding that:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.850(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Compliance would cause undue hardship to the requestor;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.850(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "If applicable, the implementation of compensating features acceptable to the\nCommission;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.850(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The noncompliance with the regulatory requirement would not jeopardize the health,\nsafety, or welfare of any Registered Qualifying Patient or the public; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.850(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "The granting of the waiver would not constitute a waiver of any statutory requirements.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.850(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Waiver of Security Requirements. Any waiver of security requirements under {{ref:500.850}}, shall be requested under {{ref:500.110(2)(b)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.850(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "An adverse decision on a waiver request does not entitle an applicant or Licensee to a\nhearing or judicial review.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 55
+}

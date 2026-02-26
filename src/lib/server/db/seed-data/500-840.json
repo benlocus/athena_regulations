@@ -1,0 +1,73 @@
+{
+  "sectionNumber": "500.840",
+  "heading": "Non-conflict with Other Laws",
+  "slug": "500-840",
+  "contentTree": [
+    {
+      "id": "500.840",
+      "type": "section",
+      "number": null,
+      "heading": "Non-conflict with Other Laws",
+      "content": "",
+      "children": [
+        {
+          "id": "500.840(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Nothing in {{ref:500.000}} shall be construed to limit the applicability of any other law\nas it pertains to the rights of landlords, employers, Law Enforcement Authorities, or regulatory\nagencies, except as otherwise provided in {{ref:500.000}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.840(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Nothing in {{ref:500.000}}.",
+          "children": [
+            {
+              "id": "500.840(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Nothing in {{ref:500.000}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.840(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Allows the operation of a motor vehicle, boat, or aircraft while under the influence of\nMarijuana;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.840(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Requires the violation of federal law or purports to give immunity under federal law;\nor",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.840(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Poses an obstacle to federal enforcement of federal law.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 54
+}

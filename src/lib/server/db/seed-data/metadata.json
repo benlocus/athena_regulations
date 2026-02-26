@@ -1,0 +1,306 @@
+{
+  "code": {
+    "codeNumber": "935 CMR",
+    "title": "Cannabis Control Commission Regulations",
+    "jurisdiction": "Massachusetts"
+  },
+  "title": {
+    "titleNumber": "500.000",
+    "title": "Adult Use of Marijuana",
+    "slug": "935-cmr-500"
+  },
+  "sectionCount": 58,
+  "crossRefCount": 1132,
+  "sections": [
+    {
+      "sectionNumber": "500.001",
+      "heading": "Purpose",
+      "slug": "500-001"
+    },
+    {
+      "sectionNumber": "500.002",
+      "heading": "Definitions",
+      "slug": "500-002"
+    },
+    {
+      "sectionNumber": "500.003",
+      "heading": "Colocated Marijuana Operations (CMOs)",
+      "slug": "500-003"
+    },
+    {
+      "sectionNumber": "500.005",
+      "heading": "Fees",
+      "slug": "500-005"
+    },
+    {
+      "sectionNumber": "500.029",
+      "heading": "Registration and Conduct of Laboratory Agents",
+      "slug": "500-029"
+    },
+    {
+      "sectionNumber": "500.030",
+      "heading": "Registration of Marijuana Establishment Agents",
+      "slug": "500-030"
+    },
+    {
+      "sectionNumber": "500.031",
+      "heading": "Denial of a Marijuana Establishment Agent Registration Card",
+      "slug": "500-031"
+    },
+    {
+      "sectionNumber": "500.032",
+      "heading": "Revocation of a Marijuana Establishment Agent Registration Card",
+      "slug": "500-032"
+    },
+    {
+      "sectionNumber": "500.033",
+      "heading": "Void Registration Cards",
+      "slug": "500-033"
+    },
+    {
+      "sectionNumber": "500.040",
+      "heading": "Leadership Rating Program for Marijuana Establishments and Marijuana-related Businesses",
+      "slug": "500-040"
+    },
+    {
+      "sectionNumber": "500.050",
+      "heading": "Marijuana Establishments",
+      "slug": "500-050"
+    },
+    {
+      "sectionNumber": "500.100",
+      "heading": "Application for Licensing of Marijuana Establishments",
+      "slug": "500-100"
+    },
+    {
+      "sectionNumber": "500.101",
+      "heading": "Application Requirements",
+      "slug": "500-101"
+    },
+    {
+      "sectionNumber": "500.102",
+      "heading": "Action on Applications",
+      "slug": "500-102"
+    },
+    {
+      "sectionNumber": "500.103",
+      "heading": "Licensure and Renewal",
+      "slug": "500-103"
+    },
+    {
+      "sectionNumber": "500.104",
+      "heading": "Notification and Approval of Changes",
+      "slug": "500-104"
+    },
+    {
+      "sectionNumber": "500.105",
+      "heading": "General Operational Requirements for Marijuana Establishments",
+      "slug": "500-105"
+    },
+    {
+      "sectionNumber": "500.110",
+      "heading": "Security Requirements for Marijuana Establishments",
+      "slug": "500-110"
+    },
+    {
+      "sectionNumber": "500.120",
+      "heading": "Additional Operational Requirements for Indoor and Outdoor Marijuana Cultivators",
+      "slug": "500-120"
+    },
+    {
+      "sectionNumber": "500.130",
+      "heading": "Additional Operational Requirements for Marijuana Product Manufacturers",
+      "slug": "500-130"
+    },
+    {
+      "sectionNumber": "500.140",
+      "heading": "Additional Operational Requirements for Retail Sale",
+      "slug": "500-140"
+    },
+    {
+      "sectionNumber": "500.141",
+      "heading": "Additional Operational Requirements for Social Consumption Establishments",
+      "slug": "500-141"
+    },
+    {
+      "sectionNumber": "500.145",
+      "heading": "Additional Operational Requirements for Delivery of Marijuana, Marijuana Products, Marijuana Accessories, and Marijuana Establishment Branded Goods to Consumers and as Permitted, to Patients or Caregivers",
+      "slug": "500-145"
+    },
+    {
+      "sectionNumber": "500.146",
+      "heading": "Additional Operational Requirements for Marijuana Delivery Operators",
+      "slug": "500-146"
+    },
+    {
+      "sectionNumber": "500.147",
+      "heading": "Operational Requirements for Marijuana Research Facility Licensees and Research Permits",
+      "slug": "500-147"
+    },
+    {
+      "sectionNumber": "500.150",
+      "heading": "Edibles",
+      "slug": "500-150"
+    },
+    {
+      "sectionNumber": "500.160",
+      "heading": "Testing of Marijuana and Marijuana Products",
+      "slug": "500-160"
+    },
+    {
+      "sectionNumber": "500.170",
+      "heading": "Municipal Requirements",
+      "slug": "500-170"
+    },
+    {
+      "sectionNumber": "500.180",
+      "heading": "Host Community Agreement Requirements for License Applicants, Marijuana Establishments, Host Communities",
+      "slug": "500-180"
+    },
+    {
+      "sectionNumber": "500.181",
+      "heading": "Minimum Acceptable Equity Standards Governing Municipalities and Host Communities",
+      "slug": "500-181"
+    },
+    {
+      "sectionNumber": "500.200",
+      "heading": "Counties of Dukes County and Nantucket",
+      "slug": "500-200"
+    },
+    {
+      "sectionNumber": "500.300",
+      "heading": "Complaints Process",
+      "slug": "500-300"
+    },
+    {
+      "sectionNumber": "500.301",
+      "heading": "Inspections and Compliance",
+      "slug": "500-301"
+    },
+    {
+      "sectionNumber": "500.302",
+      "heading": "Compliance Examination",
+      "slug": "500-302"
+    },
+    {
+      "sectionNumber": "500.303",
+      "heading": "Unannounced Purchase for Purpose of Investigative Testing (Secret Shopper Program)",
+      "slug": "500-303"
+    },
+    {
+      "sectionNumber": "500.310",
+      "heading": "Deficiency Statements",
+      "slug": "500-310"
+    },
+    {
+      "sectionNumber": "500.320",
+      "heading": "Plans of Correction",
+      "slug": "500-320"
+    },
+    {
+      "sectionNumber": "500.321",
+      "heading": "Administrative Hold",
+      "slug": "500-321"
+    },
+    {
+      "sectionNumber": "500.330",
+      "heading": "Limitation of Sales",
+      "slug": "500-330"
+    },
+    {
+      "sectionNumber": "500.335",
+      "heading": "Removal and Prohibition of Marijuana and Marijuana Products",
+      "slug": "500-335"
+    },
+    {
+      "sectionNumber": "500.340",
+      "heading": "Quarantine Order",
+      "slug": "500-340"
+    },
+    {
+      "sectionNumber": "500.350",
+      "heading": "Cease and Desist Order and Summary Suspension Order",
+      "slug": "500-350"
+    },
+    {
+      "sectionNumber": "500.360",
+      "heading": "Fines",
+      "slug": "500-360"
+    },
+    {
+      "sectionNumber": "500.370",
+      "heading": "Order to Show Cause",
+      "slug": "500-370"
+    },
+    {
+      "sectionNumber": "500.400",
+      "heading": "Marijuana Establishments: Grounds for Denial of Application for Licensure",
+      "slug": "500-400"
+    },
+    {
+      "sectionNumber": "500.415",
+      "heading": "Void Marijuana Establishment License",
+      "slug": "500-415"
+    },
+    {
+      "sectionNumber": "500.450",
+      "heading": "Marijuana Establishment License: Grounds for Suspension, Revocation and Denial of Renewal Applications",
+      "slug": "500-450"
+    },
+    {
+      "sectionNumber": "500.500",
+      "heading": "Hearings and Appeals of Actions on Licenses",
+      "slug": "500-500"
+    },
+    {
+      "sectionNumber": "500.800",
+      "heading": "Suitability Standard for Licensure and Registration",
+      "slug": "500-800"
+    },
+    {
+      "sectionNumber": "500.801",
+      "heading": "Suitability Standard for Licensure",
+      "slug": "500-801"
+    },
+    {
+      "sectionNumber": "500.802",
+      "heading": "Suitability Standard for Registration as a Marijuana Establishment Agent",
+      "slug": "500-802"
+    },
+    {
+      "sectionNumber": "500.803",
+      "heading": "Suitability Standard for Registration as a Laboratory Agent",
+      "slug": "500-803"
+    },
+    {
+      "sectionNumber": "500.820",
+      "heading": "Confidentiality",
+      "slug": "500-820"
+    },
+    {
+      "sectionNumber": "500.830",
+      "heading": "Petitions for the Adoption, Amendment or Repeal of Regulations",
+      "slug": "500-830"
+    },
+    {
+      "sectionNumber": "500.840",
+      "heading": "Non-conflict with Other Laws",
+      "slug": "500-840"
+    },
+    {
+      "sectionNumber": "500.850",
+      "heading": "Waivers",
+      "slug": "500-850"
+    },
+    {
+      "sectionNumber": "500.860",
+      "heading": "Notice",
+      "slug": "500-860"
+    },
+    {
+      "sectionNumber": "500.900",
+      "heading": "Severability",
+      "slug": "500-900"
+    }
+  ]
+}

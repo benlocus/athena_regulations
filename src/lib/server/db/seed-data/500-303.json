@@ -1,0 +1,118 @@
+{
+  "sectionNumber": "500.303",
+  "heading": "Unannounced Purchase for Purpose of Investigative Testing (Secret Shopper Program)",
+  "slug": "500-303",
+  "contentTree": [
+    {
+      "id": "500.303",
+      "type": "section",
+      "number": null,
+      "heading": "Unannounced Purchase for Purpose of Investigative Testing (Secret Shopper Program)",
+      "content": "",
+      "children": [
+        {
+          "id": "500.303(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Secret Shopper Program Authorized. The Commission or a Commission Delegee may, at\nany time and without prior notice, authorize an employee or other agent to pose as a customer\nand purchase any Marijuana or Marijuana Products from any licensed Marijuana Establishment.\nThe Commission or a Commission Delegee may authorize such purchase for any investigative\npurposes that are consistent with St. 2016, c. 334, as amended by St. 2017, c. 55, {{extref:M.G.L. c. 94G}},\n{{extref:M.G.L. c. 94I}}, {{ref:500.000}}, or 935 CMR 501.000: Medical Use of Marijuana including,\nbut not limited to, investigative testing for compliance with laboratory testing standards and\nidentification check requirements. The purchasing employee or agent shall document the\npurchase, including the date, time, and place of purchase, type and amount of Marijuana or\nMarijuana Products, and any other information required by the Commission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.303(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Custody and Preservation of Purchases. The Marijuana or Marijuana Products purchased\nas part of the program shall be securely stored during transport in a manner to prevent\ncontamination or spoilage.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.303(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Contamination and Spoilage during Storage or Transport. Any contamination or spoilage\nof purchases under the Secret Shopper Program during storage or transport while under the\ncontrol of the purchaser shall be promptly documented by the purchaser in writing and reported\nto the Commission. The Commission or a Commission Delegee may authorize the disposal of\nthe contaminated or spoiled purchase, pursuant to {{ref:500.105(12)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.303(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "Use of Secret Shopper Investigative Results. Results of investigations conducted under\nSecret Shopper Program shall be promptly submitted to the Commission.",
+          "children": [
+            {
+              "id": "500.303(4)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Use of Secret Shopper Investigative Results. Results of investigations conducted under\nSecret Shopper Program shall be promptly submitted to the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.303(4)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "All investigative results shall be retained as part of the records for the licensed\nMarijuana Establishment from which the purchase originated.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.303(4)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The Marijuana Establishment may be notified of any investigative results determined\nto be noncompliant at a time and manner determined by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.303(4)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "After the Marijuana Establishment is notified of the investigative results, such results\nmay be used by the Commission to take action on the License of the Marijuana\nEstablishment pursuant to {{ref:500.340}}, {{ref:500.450}} and {{ref:500.500}}, or assess fines or other\ncivil penalties pursuant to {{ref:500.360}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.303(4)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Without notice to the Marijuana Establishment, the Commission may share such\ninvestigative results with any other law enforcement or regulatory authorities.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.303(4)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "The Commission may elect to conduct further evaluation of the investigative results at\nany time for verification or for other purposes reasonably related to sanitation, public health\nor public safety.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.303(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "The failure to cooperate with provisions of {{ref:500.303}} may result in administrative\nor disciplinary action against the Licensee.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 34
+}

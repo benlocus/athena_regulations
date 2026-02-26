@@ -1,0 +1,90 @@
+{
+  "sectionNumber": "500.400",
+  "heading": "Marijuana Establishments: Grounds for Denial of Application for Licensure",
+  "slug": "500-400",
+  "contentTree": [
+    {
+      "id": "500.400",
+      "type": "section",
+      "number": null,
+      "heading": "Marijuana Establishments: Grounds for Denial of Application for Licensure",
+      "content": "",
+      "children": [
+        {
+          "id": "500.400_preamble",
+          "type": "text",
+          "number": null,
+          "heading": null,
+          "content": "Each of the following, in and of itself, constitutes full and adequate grounds for denying an\napplicant on an application for a Marijuana Establishment License and the associated individuals\nand entities, but not for the renewal of a License.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.400(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "The applicant failed to complete the application process within the time required by the\nCommission.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.400(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "Information provided by the applicant was deceptive, misleading, false or fraudulent, or that\ntends to deceive or create a misleading impression, whether directly, or by omission or\nambiguity, including lack of disclosure or insufficient disclosure.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.400(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "The application indicates an inability to maintain and operate a Marijuana Establishment\nin compliance with the requirements of St. 2016, c. 334, as amended by St. 2017, c. 55, {{extref:M.G.L.\nc. 94G}}, and 935 CMR 500.00 including, but not limited to, {{ref:500.105}} and {{ref:500.110}}, based on the submission of information required by {{ref:500.101(1)}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.400(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "The applicant has been determined to be unsuitable pursuant to any one or more of the\nfactors listed in {{ref:500.800}} and {{ref:500.801}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.400(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "The applicant failed to comply with the control limitations listed in 935CMR {{ref:500.050(1)(b)}}\nor would likely fail to comply with such limitations if a License were granted.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.400(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "An applicant had its License or registration revoked or application denied in the\nCommonwealth or an Other Jurisdiction.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.400(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "Any other ground that serves the purposes of St. 2016, c. 334, as amended by St. 2017,\nc. 55, {{extref:M.G.L. c. 94G}}, or {{ref:500.000}}.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 44
+}

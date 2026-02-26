@@ -1,0 +1,109 @@
+{
+  "sectionNumber": "500.830",
+  "heading": "Petitions for the Adoption, Amendment or Repeal of Regulations",
+  "slug": "500-830",
+  "contentTree": [
+    {
+      "id": "500.830",
+      "type": "section",
+      "number": null,
+      "heading": "Petitions for the Adoption, Amendment or Repeal of Regulations",
+      "content": "",
+      "children": [
+        {
+          "id": "500.830(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Any interested Person may file a petition with the Commission pursuant to {{extref:M.G.L. c. 30A,\n§ 4}}, for the adoption, amendment or repeal of any regulation. Such petition shall be submitted\nin written and electronic form, be signed by the petitioner or petitioner's representative, and\ninclude the following information:",
+          "children": [
+            {
+              "id": "500.830(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Any interested Person may file a petition with the Commission pursuant to {{extref:M.G.L. c. 30A,\n§ 4}}, for the adoption, amendment or repeal of any regulation. Such petition shall be submitted\nin written and electronic form, be signed by the petitioner or petitioner's representative, and\ninclude the following information:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.830(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The name, address, and relevant contact information for the petitioner or the petitioner's\nrepresentative;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.830(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "The petitioner's specific interest in the regulation;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.830(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The petitioner's request for the adoption, amendment or repeal of a regulation, including\nproposed regulatory language;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.830(1)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "If the request is to amend an existing regulation, a copy of the existing regulation with\nchanges clearly marked on paper and electronic copies; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.830(1)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "The reasons for the request including, but not limited to, citation to any relevant legal\nauthority, arguments and evidence, including data, that supports the request.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.830(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "After receipt of a petition for submitted in accordance with {{ref:500.830}}, the\nCommission may consider the petition at an open meeting pursuant to {{extref:M.G.L. c. 30A, § 20}}, and\ndetermine, in its discretion, whether to take any action on or as a result of the petition. The\nCommission may also delegate the review of petitions to its Executive Director.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.830(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Within a reasonable time, the Commission or a Commission Delegee will notify the\npetitioner as to its determination, if any, concerning the petition.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.830(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "The submission of a petition for the adoption, amendment or repeal of any regulation\npursuant to {{ref:500.830(1)}}, and any action, inaction, determination or notice by the\nCommission pursuant to {{ref:500.830(2)}} with respect thereto, shall not constitute the\nadoption, amendment or repeal of a regulation, unless or until regulations are duly promulgated\nby the Commission in accordance with {{extref:M.G.L. c. 30A}}, State Administrative Procedure Act, and\n950 CMR 20.00: Preparing and Filing Regulations, and the regulatory process requirements\nof the Secretary of the Commonwealth.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 53
+}

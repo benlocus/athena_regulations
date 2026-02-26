@@ -1,0 +1,127 @@
+{
+  "sectionNumber": "500.321",
+  "heading": "Administrative Hold",
+  "slug": "500-321",
+  "contentTree": [
+    {
+      "id": "500.321",
+      "type": "section",
+      "number": null,
+      "heading": "Administrative Hold",
+      "content": "",
+      "children": [
+        {
+          "id": "500.321(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "Pursuant to {{extref:M.G.L. c. 94G, § 4(a)}}(xix), the Commission or a Commission Delegee may\norder an Administrative Hold of Marijuana or Marijuana Products to examine and inspect a\nMarijuana Establishment to ensure compliance with the provisions of {{ref:500.000}},\nprevent the destruction of evidence, prevent the Diversion or Inversion of Marijuana or\nMarijuana Products, or as otherwise necessary to protect the public health, safety or welfare.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.321(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "A Marijuana Establishment subject to an Administrative Hold shall retain its inventory\npending further investigation by the Commission or a Commission Delegee pursuant to the\nfollowing procedure:",
+          "children": [
+            {
+              "id": "500.321(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "A Marijuana Establishment subject to an Administrative Hold shall retain its inventory\npending further investigation by the Commission or a Commission Delegee pursuant to the\nfollowing procedure:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "If during an investigation or inspection of a Marijuana Establishment, the Commission\nhas reasonable cause to believe certain Marijuana or Marijuana Products are noncompliant\nunder {{ref:500.000}}, or otherwise constitutes a threat to the public health, safety or\nwelfare, the Commission may issue a notice to administratively hold any Marijuana or\nMarijuana Product. The notice shall identify the Marijuana or Marijuana Product subject to\nthe Administrative Hold and a concise statement stating the reasons relied on in the issuance\nof the Administrative Hold.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Following the issuance of a notice of Administrative Hold, the Commission will identify\nand mark the Marijuana or Marijuana Product subject to the Administrative Hold in the\nCommission's Seed-to-sale SOR. The Marijuana Establishment shall continue to comply\nwith all inventory requirements including, but not limited to, {{ref:500.105(8)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "The Marijuana Establishment shall completely and physically segregate the Marijuana\nor Marijuana Product subject to the Administrative Hold in a Limited Access Area, where\nit shall be safeguarded by the Marijuana Establishment.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "While the Administrative Hold is in effect, the Marijuana Establishment shall be\nprohibited from selling, transporting or otherwise Transferring or destroying the Marijuana\nor Marijuana Product subject to the Administrative Hold, except as otherwise authorized by\nthe Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "While the Administrative Hold is in effect, the Marijuana Establishment shall safeguard\nthe Marijuana or Marijuana Product subject to the Administrative Hold and shall fully\ncomply with all security requirements including, but not limited to, {{ref:500.110}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "An Administrative Hold may not prevent a Marijuana Establishment from the continued\npossession, cultivation or harvesting of the Marijuana or Marijuana Product subject to the\nAdministrative Hold, unless otherwise provided by an order of the Commission. All\nMarijuana or Marijuana Products subject to an Administrative Hold shall be put into\nseparately tracked Production Batches.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "An Administrative Hold may not prevent a Marijuana Establishment from voluntarily\nsurrendering Marijuana or Marijuana Products subject to an Administrative Hold, except that\nthe Marijuana Establishment shall comply with the waste disposal requirements in {{ref:500.105(12)}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "At any time after the initiation of the Administrative Hold, the Commission or a\nCommission Delegee may modify, amend or rescind the Administrative Hold.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.321(2)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "The failure to cooperate with provisions of {{ref:500.321}} may result in\nadministrative or disciplinary action against the Licensee.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 37
+}

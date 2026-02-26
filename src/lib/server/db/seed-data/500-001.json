@@ -1,0 +1,17 @@
+{
+  "sectionNumber": "500.001",
+  "heading": "Purpose",
+  "slug": "500-001",
+  "contentTree": [
+    {
+      "id": "500.001",
+      "type": "section",
+      "number": null,
+      "heading": "Purpose",
+      "content": "The purpose of {{ref:500.000}} is to implement St. 2017, c. 55, An Act to Ensure Safe\nAccess to Marijuana, and {{extref:M.G.L. c. 94G}}.",
+      "children": [],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 0
+}

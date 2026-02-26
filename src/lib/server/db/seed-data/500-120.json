@@ -1,0 +1,483 @@
+{
+  "sectionNumber": "500.120",
+  "heading": "Additional Operational Requirements for Indoor and Outdoor Marijuana Cultivators",
+  "slug": "500-120",
+  "contentTree": [
+    {
+      "id": "500.120",
+      "type": "section",
+      "number": null,
+      "heading": "Additional Operational Requirements for Indoor and Outdoor Marijuana Cultivators",
+      "content": "",
+      "children": [
+        {
+          "id": "500.120(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "In addition to the general operational requirements for Marijuana Establishments required\nunder {{ref:500.105}} and security requirements provided in {{ref:500.110}}, Marijuana\nCultivators shall comply with additional operational requirements required under {{ref:500.120}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "A Marijuana Cultivator may cultivate its own Marijuana or acquire Marijuana from other\nMarijuana Establishments for the purposes of Propagation. Prior to commencing operations,\nMarijuana Cultivators shall disclose all growing media and plant nutrients intended to be used\nduring the cultivation process. In all instances, Marijuana Cultivators shall disclose all growing\nmedia and plant nutrients used for cultivation upon request.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Only a licensed Marijuana Cultivator or Microbusiness is permitted to cultivate Marijuana\nfor adult use for sale to Marijuana Establishments.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(4)",
+          "type": "subsection",
+          "number": "(4)",
+          "heading": null,
+          "content": "All phases of the cultivation, Processing, and packaging of Marijuana by a Marijuana\nCultivator shall take place in a designated Limited Access Area where Marijuana is not visible\nfrom a public place without the use of binoculars, aircraft or other optical aids. Marijuana is not\nvisible if it cannot be reasonably identified.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(5)",
+          "type": "subsection",
+          "number": "(5)",
+          "heading": null,
+          "content": "Application of Pesticides shall be performed in compliance with {{extref:M.G.L. c. 132B}} and the\nregulations promulgated at 333 CMR 2.00 through 14.00. Any testing results indicating\nnoncompliance shall be immediately reported to the Commission, who may refer any such result\nto the MDAR.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(6)",
+          "type": "subsection",
+          "number": "(6)",
+          "heading": null,
+          "content": "A Marijuana Cultivator selling or otherwise transferring Marijuana to another Marijuana\nEstablishment shall provide documentation of its compliance, or lack thereof, with the testing\nrequirements of {{ref:500.160}}.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(7)",
+          "type": "subsection",
+          "number": "(7)",
+          "heading": null,
+          "content": "A Marijuana Cultivator may label Marijuana and Marijuana Products with the word\n\"organic\" only if all cultivation is consistent with US Department of Agriculture organic\nrequirements at 7 CFR 205: National Organic Program and consistent with MDAR\nrequirements for Pesticide usage;",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(8)",
+          "type": "subsection",
+          "number": "(8)",
+          "heading": null,
+          "content": "Soil for cultivation shall meet federal standards identified by the Commission including, but\nnot limited to, the U.S. Agency for Toxic Substances and Disease Registry's Environmental\nMedia Evaluation Guidelines for residential soil levels.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(9)",
+          "type": "subsection",
+          "number": "(9)",
+          "heading": null,
+          "content": "The cultivation process shall use best practices to limit contamination including, but not\nlimited to, mold, fungus, bacterial diseases, rot, pests, Pesticides not in compliance with\n{{ref:500.120(5)}} for use on Marijuana, mildew, and any other contaminant identified as\nposing potential harm. Best practices shall be consistent with state and local law including, but\nnot limited to, the Commission's Guidance on Integrated Pest Management.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(10)",
+          "type": "subsection",
+          "number": "(10)",
+          "heading": null,
+          "content": "Any application of plant nutrient to land used for the cultivation of Marijuana shall comply\nwith St. 2012, c. 262, as amended by St. 2013, c. 118, § 26, and 330 CMR 31.00: Plant Nutrient\nApplication Requirements for Agricultural Land and Non-agricultural Turf and Lawns.",
+          "children": [],
+          "depth": 1
+        },
+        {
+          "id": "500.120(11)",
+          "type": "subsection",
+          "number": "(11)",
+          "heading": null,
+          "content": "A Marijuana Cultivator shall satisfy minimum energy efficiency and equipment standards\nestablished by the Commission and meet all applicable environmental laws, regulations, permits\nand other applicable approvals including, but not limited to, those related to water quality and\nquantity, wastewater, solid and hazardous waste management, and air pollution control,\nincluding prevention of odor and noise pursuant to 310 CMR 7.00: Air Pollution Control as a\ncondition of obtaining a final license under {{ref:500.103(2)}} and as a condition of renewal\nunder {{ref:500.103(4)}}. A Marijuana Cultivator shall adopt and use additional best\nmanagement practices as determined by the Commission, in consultation with the working group\nestablished under St. 2017, c. 55, § 78",
+          "children": [
+            {
+              "id": "500.120(11)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "A Marijuana Cultivator shall satisfy minimum energy efficiency and equipment standards\nestablished by the Commission and meet all applicable environmental laws, regulations, permits\nand other applicable approvals including, but not limited to, those related to water quality and\nquantity, wastewater, solid and hazardous waste management, and air pollution control,\nincluding prevention of odor and noise pursuant to 310 CMR 7.00: Air Pollution Control as a\ncondition of obtaining a final license under {{ref:500.103(2)}} and as a condition of renewal\nunder {{ref:500.103(4)}}. A Marijuana Cultivator shall adopt and use additional best\nmanagement practices as determined by the Commission, in consultation with the working group\nestablished under St. 2017, c. 55, § 78(b) or applicable departments or divisions of the EOEEA,\nto reduce energy and water usage, engage in energy conservation and mitigate other\nenvironmental impacts, and shall provide energy and water usage reporting to the Commission\nin a form determined by the Commission. Each license renewal application under {{ref:500.103(4)}} shall include a report of the Marijuana Cultivator's energy and water usage over the\n12-month period preceding the date of application. Marijuana Cultivators shall be subject to the\nfollowing minimum energy efficiency and equipment standards:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(11)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "The building envelope for all facilities, except Greenhouses, shall meet minimum\nMassachusetts Building Code requirements and all Massachusetts amendments (780 CMR:\nMassachusetts Amendments to the International Building Code 2009), International Energy\nConservation Code (IECC) Section C402 or The American Society of Heating, Refrigerating\nand Air-conditioning Engineers (ASHRAE) Standard 90.1 Sections 5.4 and 5.5 as applied\nor incorporated by reference in 780 CMR: Massachusetts Amendments to the International\nBuilding Code 2009, except that facilities using existing buildings may demonstrate\ncompliance by showing that the envelope insulation complies with code minimum standards\nfor Type Factory Industrial F-1, as further defined in guidelines issued by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(11)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Lighting used for Cannabis cultivation shall meet one of the following compliance\nrequirements:",
+              "children": [
+                {
+                  "id": "500.120(11)(b)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "Lighting used for Cannabis cultivation shall meet one of the following compliance\nrequirements:\n1. Horticulture Lighting Power Density may not exceed 36 watts per square foot, except\nfor Tier 1 and Tier 2 which may not exceed 50 watts per square foot; or\n2. All horticultural lighting used in a facility is listed on the current Design Lights\nConsortium Solid-state Horticultural Lighting Qualified Products List (\"Horticultural\nQPL\") or other similar list approved by the Commission as of the date of license\napplication, and lighting Photosynthetic Photon Efficacy (PPE) is at least 15% above the\nminimum Horticultural QPL threshold rounded up to the nearest 0.1 µmol/J (micromoles\nper joule).",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.120(11)(b)3.",
+                  "type": "paragraph",
+                  "number": "3.",
+                  "heading": null,
+                  "content": "A facility seeking to use horticultural lighting not included on the Horticultural QPL\nor other similar list approved by the Commission shall seek a waiver pursuant to\n{{ref:500.850}} and provide documentation of third-party certification of the energy\nefficiency features of the proposed lighting. All facilities, regardless of compliance\npath, shall provide third-party safety certification by an OSHA NRTL or SCC-recognized\nbody, which shall certify that products meet a set of safety requirements and standards\ndeemed applicable to horticultural lighting products by that safety organization.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            },
+            {
+              "id": "500.120(11)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Heating Ventilation and Air Condition (HVAC) and dehumidification systems shall\nmeet Massachusetts Building Code requirements and all Massachusetts amendments\n(780 CMR: Massachusetts Amendments to the International Building Code 2009), IECC\nSection C403 or ASHRAE Chapter 6 as applied or incorporated by reference in (780 CMR:\nMassachusetts Amendments to the International Building Code 2009). As part of the\ndocumentation required under {{ref:500.120(11)(b)}}, a Marijuana Cultivator shall\nprovide a certification from a Massachusetts Licensed Mechanical Engineer that the HVAC\nand dehumidification systems meet Massachusetts building code as specified in {{ref:500.120(11)(c)}} and that such systems have been evaluated and sized for the anticipated loads\nof the facility.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(11)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Safety protocols shall be established and documented to protect workers, Consumers,\nor Visitors (e.g., eye protection near operating Horticultural Lighting Equipment).",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(11)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Requirements in {{ref:500.120(11)(b)}} and (c) shall not be required if an indoor\nMarijuana Cultivator is generating 80% or more of the total annual on-site energy use for all\nfuels (expressed on a MWh basis) from an on-site clean or renewable generating source, or\nrenewable thermal generation, as provided in {{extref:M.G.L. c. 25A}} § 11F and 11F½. Additionally,\nthe Marijuana Establishment shall document that renewable energy credits or alternative\nenergy credits representing the portion of the Licensee's energy usage not generated onsite\nhave been purchased and retired on an annual basis.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(11)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Prior to final licensure, a Marijuana Cultivator Licensee shall demonstrate compliance\nwith {{ref:500.120(11)}}, by submitting an energy compliance letter prepared by a\nMassachusetts Licensed Professional Engineer or Massachusetts Licensed Registered\nArchitect with supporting documentation, together with submission of building plans under\n{{ref:500.103}}. For a Microbusiness or Craft Marijuana Cooperative with a cultivation\nlocation sized as Tier 1 or Tier 2, or such other Marijuana Cultivators that have been granted\na waiver under {{ref:500.850}}, compliance with any of the requirements of {{ref:500.120(11)}} may be demonstrated through an energy compliance letter or updated energy\ncompliance letter prepared by one or more of the following energy professionals:\n1. A Certified Energy Auditor certified by the Association of Energy Engineers;\n2. A Certified Energy Manager certified by the Association of Energy Engineers;\n3. A Massachusetts Licensed Professional Engineer; or\n4. A Massachusetts Licensed Registered Architect.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(11)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "A CMO with a final Certificate of Licensure issued before November 1, 2019 shall have\nuntil July 1, 2020 to comply with {{ref:500.120(11)}}, except that any additions to or\nrenovations to a facility shall comply with {{ref:500.120(11)}}. A CMO subject to\n{{ref:500.120(11)(g)}} may apply for an additional six-month extension if it agrees to\ninstall meters to monitor energy usage, water usage and other data determined by the\nCommission as necessary in order to provide reports on energy usage, water usage, waste\nproduction and other data in a form and manner determined by the Commission.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(11)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "For purposes of {{ref:500.120(11)}}, the following terms shall have the following\nmeanings:",
+              "children": [
+                {
+                  "id": "500.120(11)(h)_preamble",
+                  "type": "text",
+                  "number": null,
+                  "heading": null,
+                  "content": "For purposes of {{ref:500.120(11)}}, the following terms shall have the following\nmeanings:\n1. Horticultural Lighting Equipment (HLE) means any lighting equipment (e.g.,\nfixtures, bulbs, ballasts, controls, etc.) that uses energy for the cultivation of plants, at any\nstage of growth (e.g., germination, cloning/Mother Plants, Propagation, Vegetation,\nFlowering, and harvest).\n2. Horticulture Lighting Square Footage (HLSF) means an area to be calculated in\nsquare feet and measured using clearly identifiable boundaries of all areas(s) that will\ncontain plants at any point in time, at any stage of growth, including all of the space(s)\nwithin the boundaries, HLSF may be noncontiguous, but each unique area included in\nthe total HLSF calculations shall be separated by an identifiable boundary which\nincludes, but is not limited to: interior walls, shelves, Greenhouse walls, hoop house\nwalls, garden benches, hedge rows, fencing, garden beds, or garden plots. If plants are\nbeing cultivated using a shelving system, the surface area of each level shall be included\nin the total HLSF calculation.",
+                  "children": [],
+                  "depth": 3
+                },
+                {
+                  "id": "500.120(11)(h)3.",
+                  "type": "paragraph",
+                  "number": "3.",
+                  "heading": null,
+                  "content": "Lighting Power Density (HLPD) means a measure of total watts of Horticultural\nLighting Equipment per total Horticulture Lighting Square Footage, (HLE / HLSF =\nHLPD) expressed as number of watts per square foot.",
+                  "children": [],
+                  "depth": 3
+                }
+              ],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.120(12)",
+          "type": "subsection",
+          "number": "(12)",
+          "heading": null,
+          "content": "In addition to the written operating policies required under {{ref:500.105(1)}}, a\nMarijuana Cultivator, including CMO Marijuana Cultivators and MTCs, shall maintain written\npolicies and procedures for the cultivation, production, Transfer or distribution of Marijuana, as\napplicable, which shall include, but not be limited to:",
+          "children": [
+            {
+              "id": "500.120(12)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "In addition to the written operating policies required under {{ref:500.105(1)}}, a\nMarijuana Cultivator, including CMO Marijuana Cultivators and MTCs, shall maintain written\npolicies and procedures for the cultivation, production, Transfer or distribution of Marijuana, as\napplicable, which shall include, but not be limited to:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "Methods for identifying, recording, and reporting Diversion, Inversion, theft, or loss, for\ncorrecting all errors and inaccuracies in inventories, and for maintaining accurate inventory.\nThe policies and procedures, at a minimum, shall comply with {{ref:500.105(8)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Policies and procedures for handling voluntary and mandatory recalls of Marijuana.\nSuch procedures shall be adequate to deal with recalls due to any action initiated at the\nrequest or order of the Commission, and any voluntary action by a Marijuana Establishment\nto remove defective or potentially defective Marijuana from the market, as well as any action\nundertaken to promote public health and safety;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Policies and procedures for ensuring that any outdated, damaged, deteriorated,\nmislabeled, or contaminated Marijuana is segregated from other Marijuana and destroyed.\nSuch procedures shall provide for written documentation of the disposition of the Marijuana.\nThe policies and procedures, at a minimum, shall comply with {{ref:500.105(12)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "Policies and Procedures for Transportation. The policies and procedures, at a minimum,\nshall comply with {{ref:500.105(13)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Policies and procedures to reduce energy and water usage, engage in energy\nconservation and mitigate other environmental impacts. The policies and procedures, at a\nminimum, shall comply with {{ref:500.105(15)}} and {{ref:500.120(11)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Policies and procedures for ensuring fire safety in cultivation activities including, but not\nlimited to, the storage and processing of chemicals or fertilizers, in compliance with the\nstandards set forth in 527 CMR 1.00: The Massachusetts Comprehensive Fire Safety Code;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "Policies and procedures for the Transfer, acquisition, or sale of Marijuana between\nMarijuana Establishments;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "Policies and procedures for developing and providing Vendor Samples to a Marijuana\nProduct Manufacturer, a Marijuana Retailer or a Delivery Operator. Policies and procedures\nshall include methods by which the Marijuana Cultivator will adequately track, record, and\ndocument all Vendor Samples developed on, or provided from, the licensed Premises in\nsatisfaction of {{ref:500.120(13)}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "Policies and procedures for developing and providing Quality Control Samples to\nemployees for the purpose of ensuring product quality and determining whether to make the\nproduct available to sell. Policies and procedures shall include methods by which the\nMarijuana Cultivator will adequately track, record, and document all Quality Control\nSamples developed on, or provided from, the licensed Premises in satisfaction of {{ref:500.120(14)}}. Policies and procedures shall further prohibit consumption of Quality Control\nSamples on the licensed Premises; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(12)(j)",
+              "type": "paragraph",
+              "number": "(j)",
+              "heading": null,
+              "content": "Policies and procedures for packaging Marijuana and White Labeling Marijuana\nCultivators shall retain all Wholesale Agreements entered into with Delivery Operators and\nshall make them available to the Commission upon request.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.120(13)",
+          "type": "subsection",
+          "number": "(13)",
+          "heading": null,
+          "content": "Vendor Samples.",
+          "children": [
+            {
+              "id": "500.120(13)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Vendor Samples.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(13)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Cultivator may provide a Vendor Sample of Marijuana flower to a\nMarijuana Product Manufacturer or to a Marijuana Retailer. Provision of a Vendor Sample\nunder {{ref:500.120(13)}} shall not be considered a prohibited practice under {{ref:500.105(4)(b)}}20.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(13)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Vendor Samples provided under {{ref:500.120(13)}}:\n1. May not be consumed on any licensed Premises;\n2. May not be sold to another licensee or Consumer;\n3. Shall be tested in accordance with {{ref:500.160}}; and\n4. Shall be transported in accordance with {{ref:500.105(13)}}. A Marijuana\nCultivator may include Vendor Samples with other Marijuana flower intended for\ntransportation to an individual Marijuana Product Manufacturer or an individual\nMarijuana Retailer;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(13)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Vendor Sample limits. A Marijuana Cultivator is limited to providing the following\naggregate amount of Vendor Samples to an individual Marijuana Product Manufacturer or\nan individual Marijuana Retailer in a calendar month period: Four grams per strain of\nMarijuana flower and no more than seven strains of Marijuana flower.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(13)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "All Vendor Samples provided by a Marijuana Cultivator under {{ref:500.120(13)}}\nshall be assigned a unique, sequential alphanumeric identifier and entered into the\nSeed-to-sale SOR in a form and manner to be determined by the Commission, and further,\nshall be designated as \"Vendor Sample\";",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(13)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Vendor Samples provided under {{ref:500.120(13)}} shall have a legible, firmly\nAffixed label on which the wording is no less than 1/16 inch in size containing at minimum\nthe following information:\n1. A statement that reads: \"VENDOR SAMPLE NOT FOR RESALE\";\n2. The name and registration number of the Marijuana Cultivator;\n3. The quantity, net weight, and type of Marijuana flower contained within the package;\nand\n4. A unique sequential, alphanumeric identifier assigned to the Cultivation Batch\nassociated with the Vendor Sample that is traceable in the Seed-to-sale SOR.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.120(14)",
+          "type": "subsection",
+          "number": "(14)",
+          "heading": null,
+          "content": "Quality Control Samples.",
+          "children": [
+            {
+              "id": "500.120(14)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "Quality Control Samples.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(14)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "A Marijuana Cultivator may provide a Quality Control Sample of Marijuana flower to\nits employees for the purpose of ensuring product quality and determining whether to make\nthe product available to sell. Provision of a Quality Control Sample under {{ref:500.120(14)}} shall not be considered a prohibited practice under {{ref:500.105(4)(b)}}20.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(14)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "Quality Control Samples provided to employees under {{ref:500.120(14)}}:\n1. May not be consumed on the licensed Premises;\n2. May not be sold to another licensee or Consumer; and\n3. Shall be tested in accordance with {{ref:500.160}}.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(14)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "Quality Control Sample Limits. A Marijuana Cultivator is limited to providing the\nfollowing aggregate amount of Quality Control Samples to all employees in a calendar month\nperiod: Four grams per strain of Marijuana flower and no more than seven strains of\nMarijuana flower.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(14)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "All Quality Control Samples provided by a Marijuana Cultivator under {{ref:500.120(14)}} shall be assigned a unique, sequential alphanumeric identifier and entered into\nthe Seed-to-sale SOR in a form and manner to be determined by the Commission, and\nfurther, shall be designated as \"Quality Control Sample.\"",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(14)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "Quality Control Samples provided under {{ref:500.120(14)}} shall have a legible,\nfirmly Affixed label on which the wording is no less than 1/16 inch in size containing, at\nminimum, the following information:\n1. A statement that reads: \"QUALITY CONTROL SAMPLE NOT FOR RESALE\";\n2. The name and registration number of the Marijuana Cultivator;\n3. The quantity, net weight, and type of Marijuana flower contained within the package;\nand\n4. A unique sequential, alphanumeric identifier assigned to the Cultivation Batch\nassociated with the Quality Control Sample that is traceable in the Seed-to-sale SOR.",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.120(14)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "Upon providing a Quality Control Sample to an employee, the Marijuana Cultivator shall\nrecord:\n1. The reduction in quantity of the total weight or item count under the unique\nalphanumeric identifier associated with the Quality Control Sample;\n2. The date and time the Quality Control Sample was provided to the employee;\n3. The agent registration number of the employee receiving the Quality Control Sample;\nand\n4. The name of the employee as it appears on their agent registration card.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 18
+}

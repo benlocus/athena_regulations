@@ -1,0 +1,200 @@
+{
+  "sectionNumber": "500.820",
+  "heading": "Confidentiality",
+  "slug": "500-820",
+  "contentTree": [
+    {
+      "id": "500.820",
+      "type": "section",
+      "number": null,
+      "heading": "Confidentiality",
+      "content": "",
+      "children": [
+        {
+          "id": "500.820(1)",
+          "type": "subsection",
+          "number": "(1)",
+          "heading": null,
+          "content": "All records made or received by the Commission shall be public records and shall be\navailable for disclosure on request pursuant to this section and 950 CMR 32.00: Public Records\nAccess, except the following, which shall be exempt from disclosure to the extent permitted by\nlaw:",
+          "children": [
+            {
+              "id": "500.820(1)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "All records made or received by the Commission shall be public records and shall be\navailable for disclosure on request pursuant to this section and 950 CMR 32.00: Public Records\nAccess, except the following, which shall be exempt from disclosure to the extent permitted by\nlaw:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(1)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "All records exempt from disclosure pursuant to {{extref:M.G.L. c. 4, § 7}}, cl. 26;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(1)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "All records to the extent that they contain \"personal data\" pursuant to {{extref:M.G.L. c. 66,\n§ 10}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(1)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "All records to the extent that they contain \"personal information\" pursuant to {{extref:M.G.L.\nc. 93H, § 1}};",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(1)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "All records which contain CORI as defined by 803 CMR 2.02: Definitions;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(1)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "All records which contain CHRI as defined by 803 CMR 7.02: Definitions; and",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(1)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "All Confidential Records as defined in {{ref:500.002}}.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.820(2)",
+          "type": "subsection",
+          "number": "(2)",
+          "heading": null,
+          "content": "All records protected from disclosure under {{ref:500.820(1)}} or pursuant to the laws\nof any Other Jurisdiction may be disclosed by the Commission:",
+          "children": [
+            {
+              "id": "500.820(2)_preamble",
+              "type": "text",
+              "number": null,
+              "heading": null,
+              "content": "All records protected from disclosure under {{ref:500.820(1)}} or pursuant to the laws\nof any Other Jurisdiction may be disclosed by the Commission:",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(a)",
+              "type": "paragraph",
+              "number": "(a)",
+              "heading": null,
+              "content": "If disclosure is required pursuant to a state or federal law;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(b)",
+              "type": "paragraph",
+              "number": "(b)",
+              "heading": null,
+              "content": "To the individual or the individual's authorized representative, if the individual executes\na written release in a form and manner determined by the Commission;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(c)",
+              "type": "paragraph",
+              "number": "(c)",
+              "heading": null,
+              "content": "To the Commission staff for the purpose of carrying out their official duties;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(d)",
+              "type": "paragraph",
+              "number": "(d)",
+              "heading": null,
+              "content": "To the Commission Delegee(s) as authorized by the Commission;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(e)",
+              "type": "paragraph",
+              "number": "(e)",
+              "heading": null,
+              "content": "To other government officials and agencies acting within their lawful jurisdiction which\nincludes, but is not limited to, law enforcement personnel;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(f)",
+              "type": "paragraph",
+              "number": "(f)",
+              "heading": null,
+              "content": "To a healthcare professional who has a Bona Fide Healthcare Professional-Patient\nRelationship with the Qualifying Patient to facilitate dispensing of Medical-use Marijuana;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(g)",
+              "type": "paragraph",
+              "number": "(g)",
+              "heading": null,
+              "content": "To an MTC or any state agency to facilitate the dispensing of Medical-use Marijuana;",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(h)",
+              "type": "paragraph",
+              "number": "(h)",
+              "heading": null,
+              "content": "To the Commission staff if required in the course of an administrative or a judicial\nproceeding; or",
+              "children": [],
+              "depth": 2
+            },
+            {
+              "id": "500.820(2)(i)",
+              "type": "paragraph",
+              "number": "(i)",
+              "heading": null,
+              "content": "If an individual or entity obtains an order from a court of competent jurisdiction.",
+              "children": [],
+              "depth": 2
+            }
+          ],
+          "depth": 1
+        },
+        {
+          "id": "500.820(3)",
+          "type": "subsection",
+          "number": "(3)",
+          "heading": null,
+          "content": "Nothing in {{ref:500.820}} shall prevent the Commission from acting in accordance with\nits authority.",
+          "children": [],
+          "depth": 1
+        }
+      ],
+      "depth": 0
+    }
+  ],
+  "sortOrder": 52
+}
