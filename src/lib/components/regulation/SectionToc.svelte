@@ -18,12 +18,12 @@
 	</div>
 	<ul class="divide-y divide-border-gray">
 		{#each sections as section}
-			<li>
+			<li class="even:bg-light-gray/30">
 				<a
 					href="/regulations/{titleSlug}/{section.slug}"
 					class="group flex items-baseline gap-3 px-5 py-3 transition-colors hover:bg-light-gray {section.isRepealed ? 'opacity-60' : ''}"
 				>
-					<span class="shrink-0 font-precision text-sm text-red/50 group-hover:text-red transition-colors">{section.sectionNumber}</span>
+					<span class="shrink-0 font-precision text-sm text-medium-gray group-hover:text-red transition-colors">{section.sectionNumber}</span>
 					<span class="text-sm font-medium text-dark-gray group-hover:text-ink transition-colors {section.isRepealed ? 'line-through' : ''}">
 						{section.heading}
 					</span>

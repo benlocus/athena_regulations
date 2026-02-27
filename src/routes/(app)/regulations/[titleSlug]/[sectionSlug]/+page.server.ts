@@ -43,7 +43,7 @@ export const load: PageServerLoad = async ({ params, parent, locals }) => {
 	if (locals.session) {
 		const [bookmarkResult, annotationsResult] = await Promise.all([
 			isBookmarked(locals.session.user.id, section.id),
-			listAnnotationsForSection(locals.session.user.id, section.id)
+			listAnnotationsForSection(locals.session.user.id, section.id, locals.session.user.email)
 		]);
 		userBookmarked = !!bookmarkResult;
 		sectionAnnotations = annotationsResult;

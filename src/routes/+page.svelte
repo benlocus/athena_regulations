@@ -19,13 +19,13 @@
 
 	<!-- Jurisdiction groups -->
 	{#each data.jurisdictions as jurisdiction}
-		<div class="mb-10">
+		<div class="mb-14">
 			<h2 class="mb-4 font-authority text-2xl font-semibold text-ink">{jurisdiction.name}</h2>
 			<div class="space-y-4">
 				{#each jurisdiction.titles as title}
 					<a
 						href="/regulations/{title.slug}"
-						class="group block border border-border-gray bg-white p-6 transition-all hover:border-red/30"
+						class="group block border border-border-gray border-l-4 border-l-red bg-white p-6 transition-all hover:border-red/30"
 					>
 						<div class="flex items-start justify-between gap-4">
 							<div class="min-w-0">

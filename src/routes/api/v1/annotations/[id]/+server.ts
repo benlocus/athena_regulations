@@ -9,6 +9,8 @@ import { z } from 'zod';
 const updateAnnotationSchema = z.object({
 	content: z.string().min(1, 'Content is required').optional(),
 	highlightText: z.string().nullable().optional(),
+	startOffset: z.number().int().nonnegative().nullable().optional(),
+	endOffset: z.number().int().nonnegative().nullable().optional(),
 	color: z.string().optional()
 });
 
@@ -30,6 +32,8 @@ export const GET: RequestHandler = async (event) => {
 			nodeId: annotations.nodeId,
 			content: annotations.content,
 			highlightText: annotations.highlightText,
+			startOffset: annotations.startOffset,
+			endOffset: annotations.endOffset,
 			color: annotations.color,
 			createdAt: annotations.createdAt,
 			updatedAt: annotations.updatedAt,

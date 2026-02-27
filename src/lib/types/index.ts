@@ -76,9 +76,12 @@ export type Annotation = {
 	nodeId: string | null;
 	content: string;
 	highlightText: string | null;
+	startOffset: number | null;
+	endOffset: number | null;
 	color: string;
 	createdAt: Date;
 	updatedAt: Date;
+	authorName?: string | null;
 };
 
 export type SearchResult = {

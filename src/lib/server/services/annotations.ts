@@ -1,12 +1,18 @@
 import { db } from '$lib/server/db';
-import { annotations, sections, regulationTitles } from '$lib/server/db/schema';
-import { eq, and, desc } from 'drizzle-orm';
+import { annotations, sections, regulationTitles, user } from '$lib/server/db/schema';
+import { eq, and, desc, like, inArray, sql } from 'drizzle-orm';
 
 export async function createAnnotation(
 	userId: string,
 	sectionId: string,
 	content: string,
-	opts: { nodeId?: string | null; highlightText?: string | null; color?: string } = {}
+	opts: {
+		nodeId?: string | null;
+		highlightText?: string | null;
+		startOffset?: number | null;
+		endOffset?: number | null;
+		color?: string;
+	} = {}
 ) {
 	const [annotation] = await db
 		.insert(annotations)
@@ -16,6 +22,8 @@ export async function createAnnotation(
 			content,
 			nodeId: opts.nodeId ?? null,
 			highlightText: opts.highlightText ?? null,
+			startOffset: opts.startOffset ?? null,
+			endOffset: opts.endOffset ?? null,
 			color: opts.color ?? 'yellow'
 		})
 		.returning();
@@ -76,9 +84,65 @@ export async function listAnnotations(userId: string) {
 		.orderBy(desc(annotations.updatedAt));
 }
 
-export async function listAnnotationsForSection(userId: string, sectionId: string) {
+const ORG_SHARED_DOMAIN = 'tenaxstrategies.com';
+
+export async function listAnnotationsForSection(
+	userId: string,
+	sectionId: string,
+	userEmail?: string
+) {
+	// If user is in the shared org domain, also show annotations from other org users
+	const isOrgUser = userEmail?.endsWith(`@${ORG_SHARED_DOMAIN}`);
+
+	if (isOrgUser) {
+		// Get all org user IDs
+		const orgUsers = await db
+			.select({ id: user.id })
+			.from(user)
+			.where(like(user.email, `%@${ORG_SHARED_DOMAIN}`));
+		const orgUserIds = orgUsers.map((u) => u.id);
+
+		return db
+			.select({
+				id: annotations.id,
+				userId: annotations.userId,
+				sectionId: annotations.sectionId,
+				nodeId: annotations.nodeId,
+				content: annotations.content,
+				highlightText: annotations.highlightText,
+				startOffset: annotations.startOffset,
+				endOffset: annotations.endOffset,
+				color: annotations.color,
+				createdAt: annotations.createdAt,
+				updatedAt: annotations.updatedAt,
+				authorName: user.name
+			})
+			.from(annotations)
+			.innerJoin(user, eq(annotations.userId, user.id))
+			.where(
+				and(
+					eq(annotations.sectionId, sectionId),
+					inArray(annotations.userId, orgUserIds)
+				)
+			)
+			.orderBy(desc(annotations.createdAt));
+	}
+
 	return db
-		.select()
+		.select({
+			id: annotations.id,
+			userId: annotations.userId,
+			sectionId: annotations.sectionId,
+			nodeId: annotations.nodeId,
+			content: annotations.content,
+			highlightText: annotations.highlightText,
+			startOffset: annotations.startOffset,
+			endOffset: annotations.endOffset,
+			color: annotations.color,
+			createdAt: annotations.createdAt,
+			updatedAt: annotations.updatedAt,
+			authorName: sql<string>`null`.as('author_name')
+		})
 		.from(annotations)
 		.where(and(eq(annotations.userId, userId), eq(annotations.sectionId, sectionId)))
 		.orderBy(desc(annotations.createdAt));

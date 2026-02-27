@@ -1,4 +1,4 @@
-import type { ContentNode } from '$lib/types';
+import type { ContentNode, Annotation } from '$lib/types';
 
 type ResolvedRef = {
 	citation: string;
@@ -7,14 +7,19 @@ type ResolvedRef = {
 	isExternal: boolean;
 };
 
+export type HighlightInfo = {
+	annotationId: string;
+	color: string;
+};
+
 /**
  * Parse content text and resolve cross-reference tokens.
  * Returns an array of text segments and resolved references.
  */
 export type ContentSegment =
-	| { type: 'text'; text: string }
-	| { type: 'ref'; citation: string; href: string; displayText: string }
-	| { type: 'extref'; citation: string; displayText: string };
+	| { type: 'text'; text: string; highlights?: HighlightInfo[] }
+	| { type: 'ref'; citation: string; href: string; displayText: string; highlights?: HighlightInfo[] }
+	| { type: 'extref'; citation: string; displayText: string; highlights?: HighlightInfo[] };
 
 export function parseContent(
 	content: string,
@@ -60,6 +65,105 @@ export function parseContent(
 	}
 
 	return segments;
+}
+
+/**
+ * Get the display-text length of a segment.
+ */
+function segmentDisplayLength(seg: ContentSegment): number {
+	if (seg.type === 'text') return seg.text.length;
+	return seg.displayText.length;
+}
+
+/**
+ * Apply highlight annotations to parsed content segments.
+ * Splits text segments at highlight boundaries so each sub-segment
+ * can be wrapped in a <mark> element.
+ */
+export function applyHighlights(
+	segments: ContentSegment[],
+	nodeAnnotations: Annotation[]
+): ContentSegment[] {
+	// Filter to only annotations with valid offsets
+	const highlights = nodeAnnotations.filter(
+		(a) => a.startOffset != null && a.endOffset != null && a.startOffset < a.endOffset
+	);
+
+	if (highlights.length === 0) return segments;
+
+	const result: ContentSegment[] = [];
+	let offset = 0;
+
+	for (const seg of segments) {
+		const segLen = segmentDisplayLength(seg);
+		const segStart = offset;
+		const segEnd = offset + segLen;
+
+		// Find highlights that overlap this segment
+		const overlapping = highlights.filter(
+			(h) => h.startOffset! < segEnd && h.endOffset! > segStart
+		);
+
+		if (overlapping.length === 0) {
+			result.push(seg);
+			offset = segEnd;
+			continue;
+		}
+
+		if (seg.type !== 'text') {
+			// Ref/extref segments are atomic — mark the whole segment
+			result.push({
+				...seg,
+				highlights: overlapping.map((h) => ({
+					annotationId: h.id,
+					color: h.color
+				}))
+			});
+			offset = segEnd;
+			continue;
+		}
+
+		// Text segment: split at highlight boundaries
+		// Collect all boundary points within this segment
+		const points = new Set<number>();
+		points.add(0);
+		points.add(segLen);
+
+		for (const h of overlapping) {
+			const relStart = Math.max(0, h.startOffset! - segStart);
+			const relEnd = Math.min(segLen, h.endOffset! - segStart);
+			points.add(relStart);
+			points.add(relEnd);
+		}
+
+		const sorted = Array.from(points).sort((a, b) => a - b);
+
+		for (let i = 0; i < sorted.length - 1; i++) {
+			const sliceStart = sorted[i];
+			const sliceEnd = sorted[i + 1];
+			if (sliceStart === sliceEnd) continue;
+
+			const absStart = segStart + sliceStart;
+			const absEnd = segStart + sliceEnd;
+
+			const activeHighlights = overlapping.filter(
+				(h) => h.startOffset! < absEnd && h.endOffset! > absStart
+			);
+
+			const subText = seg.text.slice(sliceStart, sliceEnd);
+			result.push({
+				type: 'text',
+				text: subText,
+				highlights: activeHighlights.length > 0
+					? activeHighlights.map((h) => ({ annotationId: h.id, color: h.color }))
+					: undefined
+			});
+		}
+
+		offset = segEnd;
+	}
+
+	return result;
 }
 
 /**

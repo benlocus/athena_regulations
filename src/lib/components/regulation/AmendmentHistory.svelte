@@ -16,16 +16,16 @@
 		<h2 class="mb-4 font-precision text-[0.625rem] font-semibold uppercase tracking-[0.2em] text-medium-gray">
 			Amendment History
 		</h2>
-		<div class="relative space-y-4 border-l-2 border-red/20 pl-6">
+		<div class="relative space-y-4 border-l-2 border-rule-gray pl-6">
 			{#each amendments as amendment}
 				<div class="relative">
 					<div
-						class="absolute -left-[7px] top-1.5 h-3 w-3 border-2 border-red/40 bg-white"
+						class="absolute -left-[7px] top-1.5 h-3 w-3 border-2 border-rule-gray bg-white"
 					></div>
 					<div>
 						<div class="flex items-center gap-2">
 							<span
-								class="font-precision text-[0.625rem] font-semibold uppercase tracking-[0.15em] text-red/70"
+								class="font-precision text-[0.625rem] font-semibold uppercase tracking-[0.15em] text-medium-gray"
 							>
 								{amendment.amendmentType}
 							</span>

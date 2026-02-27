@@ -195,6 +195,8 @@ export const annotations = pgTable(
 		nodeId: text('node_id'),
 		content: text('content').notNull(),
 		highlightText: text('highlight_text'),
+		startOffset: integer('start_offset'),
+		endOffset: integer('end_offset'),
 		color: text('color').notNull().default('yellow'),
 		createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
 		updatedAt: timestamp('updated_at', { withTimezone: true }).defaultNow().notNull()

@@ -38,7 +38,7 @@
 	class="fixed top-16 left-0 z-40 h-[calc(100vh-4rem)] w-72 shrink-0 overflow-y-auto border-r border-border-gray bg-white transition-transform lg:sticky lg:translate-x-0 {open ? 'translate-x-0' : '-translate-x-full'}"
 >
 	<nav class="p-4">
-		<h2 class="mb-3 font-precision text-[0.625rem] uppercase tracking-[0.2em] text-red/60">Sections</h2>
+		<h2 class="mb-3 font-precision text-[0.625rem] uppercase tracking-[0.2em] text-medium-gray">Sections</h2>
 		<ul class="space-y-0.5">
 			{#each sections as section}
 				{@const href = `/regulations/${titleSlug}/${section.slug}`}

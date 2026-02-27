@@ -18,7 +18,7 @@
 		]}
 	/>
 
-	<div class="mb-8">
+	<div class="mb-12">
 		<p class="font-precision text-sm text-medium-gray">
 			{data.title.codeNumber} {data.title.titleNumber}
 		</p>

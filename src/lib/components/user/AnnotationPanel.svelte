@@ -7,6 +7,7 @@
 		open: boolean;
 		sectionId: string;
 		annotations: Annotation[];
+		currentUserId?: string;
 		editingId?: string | null;
 		onClose: () => void;
 		onSave: (data: { content: string; color: string; id?: string }) => void;
@@ -17,6 +18,7 @@
 		open,
 		sectionId,
 		annotations,
+		currentUserId,
 		editingId = null,
 		onClose,
 		onSave,
@@ -110,6 +112,7 @@
 
 			<div class="space-y-3">
 				{#each annotations as annotation (annotation.id)}
+					{@const isOwn = currentUserId === annotation.userId}
 					{#if editing?.id === annotation.id}
 						<AnnotationForm
 							initialContent={annotation.content}
@@ -124,6 +127,9 @@
 								colorMap[annotation.color] ?? 'bg-highlight-yellow'
 							)}
 						>
+							{#if annotation.authorName && !isOwn}
+								<p class="mb-1 text-xs font-medium text-medium-gray">{annotation.authorName}</p>
+							{/if}
 							{#if annotation.highlightText}
 								<p class="mb-2 text-xs italic text-medium-gray">
 									"{annotation.highlightText}"
@@ -134,22 +140,24 @@
 								<span class="text-xs text-medium-gray">
 									{formatDate(annotation.createdAt)}
 								</span>
-								<div class="flex gap-1">
-									<button
-										type="button"
-										onclick={() => startEdit(annotation)}
-										class="px-2 py-0.5 text-xs text-medium-gray transition-colors hover:text-ink"
-									>
-										Edit
-									</button>
-									<button
-										type="button"
-										onclick={() => onDelete(annotation.id)}
-										class="px-2 py-0.5 text-xs text-medium-gray transition-colors hover:text-red-600"
-									>
-										Delete
-									</button>
-								</div>
+								{#if isOwn}
+									<div class="flex gap-1">
+										<button
+											type="button"
+											onclick={() => startEdit(annotation)}
+											class="px-2 py-0.5 text-xs text-medium-gray transition-colors hover:text-ink"
+										>
+											Edit
+										</button>
+										<button
+											type="button"
+											onclick={() => onDelete(annotation.id)}
+											class="px-2 py-0.5 text-xs text-medium-gray transition-colors hover:text-red-600"
+										>
+											Delete
+										</button>
+									</div>
+								{/if}
 							</div>
 						</div>
 					{/if}

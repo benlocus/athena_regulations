@@ -11,6 +11,8 @@ const createAnnotationSchema = z.object({
 	nodeId: z.string().nullable().optional(),
 	content: z.string().min(1, 'Content is required'),
 	highlightText: z.string().nullable().optional(),
+	startOffset: z.number().int().nonnegative().nullable().optional(),
+	endOffset: z.number().int().nonnegative().nullable().optional(),
 	color: z.string().optional().default('yellow')
 });
 
@@ -31,6 +33,8 @@ export const GET: RequestHandler = async (event) => {
 		nodeId: annotations.nodeId,
 		content: annotations.content,
 		highlightText: annotations.highlightText,
+		startOffset: annotations.startOffset,
+		endOffset: annotations.endOffset,
 		color: annotations.color,
 		createdAt: annotations.createdAt,
 		updatedAt: annotations.updatedAt,
@@ -82,7 +86,7 @@ export const POST: RequestHandler = async (event) => {
 		);
 	}
 
-	const { sectionId, nodeId, content, highlightText, color } = parsed.data;
+	const { sectionId, nodeId, content, highlightText, startOffset, endOffset, color } = parsed.data;
 
 	// Verify section exists
 	const sectionRows = await db
@@ -106,6 +110,8 @@ export const POST: RequestHandler = async (event) => {
 			nodeId: nodeId ?? null,
 			content,
 			highlightText: highlightText ?? null,
+			startOffset: startOffset ?? null,
+			endOffset: endOffset ?? null,
 			color
 		})
 		.returning();
