@@ -39,6 +39,16 @@
 	let depthClass = $derived(
 		node.depth <= 1 ? '' : node.depth === 2 ? 'ml-6' : node.depth === 3 ? 'ml-10' : 'ml-14'
 	);
+
+	// When a paragraph has children, one is usually a _preamble text node that
+	// duplicates the paragraph's own content + includes inline sub-items.
+	// Skip rendering the paragraph's content to avoid duplication.
+	let hasPreambleChild = $derived(
+		node.children.some((c) => c.id.endsWith('_preamble'))
+	);
+	let skipOwnContent = $derived(
+		segments.length > 0 && node.children.length > 0 && hasPreambleChild
+	);
 </script>
 
 {#snippet renderSegments(segs: ContentSegment[])}
@@ -76,7 +86,7 @@
 				<Self node={child} {titleSlug} {refMap} />
 			{/each}
 		{:else if segments.length > 0}
-			<p class="font-clarity text-base leading-[1.85] text-ink pl-4">
+			<p class="font-clarity text-base leading-[1.85] text-ink pl-4 whitespace-pre-line">
 				{@render renderSegments(segments)}
 			</p>
 		{:else}
@@ -91,8 +101,8 @@
 				<span class="mt-0.5 shrink-0 font-precision text-[0.75rem] font-medium text-subtle-gray leading-[1.85]">{node.number}</span>
 			{/if}
 			<div class="min-w-0 flex-1">
-				{#if segments.length > 0}
-					<p class="font-clarity text-base leading-[1.85] text-ink">
+				{#if segments.length > 0 && !skipOwnContent}
+					<p class="font-clarity text-base leading-[1.85] text-ink whitespace-pre-line">
 						{@render renderSegments(segments)}
 					</p>
 				{/if}
@@ -107,8 +117,8 @@
 			{#if node.heading}
 				<dt class="font-authority text-base font-bold text-ink">{node.heading}</dt>
 			{/if}
-			{#if segments.length > 0}
-				<dd class="mt-1.5 font-clarity text-base leading-[1.85] text-ink">
+			{#if segments.length > 0 && !skipOwnContent}
+				<dd class="mt-1.5 font-clarity text-base leading-[1.85] text-ink whitespace-pre-line">
 					{@render renderSegments(segments)}
 				</dd>
 			{/if}
@@ -120,7 +130,7 @@
 	{:else}
 		<!-- text node -->
 		{#if segments.length > 0}
-			<p class="mt-2 font-clarity text-base leading-[1.85] text-ink">
+			<p class="mt-2 font-clarity text-base leading-[1.85] text-ink whitespace-pre-line">
 				{@render renderSegments(segments)}
 			</p>
 		{/if}

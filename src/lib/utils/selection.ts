@@ -47,6 +47,28 @@ function findContentNodeEl(node: Node): HTMLElement | null {
 }
 
 /**
+ * Find the actual text-content element (p, dd) inside a ContentNode div
+ * that contains the given DOM node. This is the element whose text content
+ * maps to the node's parsed segments.
+ */
+function findTextContainer(nodeEl: HTMLElement, textNode: Node): HTMLElement | null {
+	// Walk up from the text node to find the nearest p/dd/dt that is a
+	// direct (non-nested-ContentNode) text container inside nodeEl.
+	let el: HTMLElement | null = textNode instanceof HTMLElement ? textNode : textNode.parentElement;
+	while (el && el !== nodeEl) {
+		// If we hit a nested ContentNode div (a child node's wrapper), bail
+		if (el !== nodeEl && el.id && el.classList.contains('group') && el.classList.contains('scroll-mt-20')) {
+			return null;
+		}
+		if (el.tagName === 'P' || el.tagName === 'DD') {
+			return el;
+		}
+		el = el.parentElement;
+	}
+	return null;
+}
+
+/**
  * Given a container element (the regulation-content wrapper), extract
  * selection info including the ContentNode id and display-text offsets.
  */
@@ -75,11 +97,18 @@ export function getSelectionInfo(containerEl: HTMLElement): SelectionInfo | null
 
 	const nodeId = startNodeEl.id;
 
-	// Compute offsets relative to the ContentNode's text content
-	// We need to find the text-containing element (p, dd, dt elements inside the node)
-	// Use the ContentNode element itself as the root for offset calculation
-	const startOffset = computeTextOffset(startNodeEl, range.startContainer, range.startOffset);
-	const endOffset = computeTextOffset(startNodeEl, range.endContainer, range.endOffset);
+	// Find the text container (p/dd) to compute offsets relative to
+	// the rendered content segments, not the entire node wrapper.
+	const startTextContainer = findTextContainer(startNodeEl, range.startContainer);
+	const endTextContainer = findTextContainer(startNodeEl, range.endContainer);
+
+	if (!startTextContainer || !endTextContainer) return null;
+
+	// Both must be the same text container
+	if (startTextContainer !== endTextContainer) return null;
+
+	const startOffset = computeTextOffset(startTextContainer, range.startContainer, range.startOffset);
+	const endOffset = computeTextOffset(startTextContainer, range.endContainer, range.endOffset);
 
 	if (startOffset === endOffset) return null;
 
