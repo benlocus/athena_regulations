@@ -10,13 +10,13 @@
 
 <div class="mx-auto max-w-3xl px-4 py-8">
 	<div class="mb-6">
-		<h1 class="font-serif text-2xl font-bold text-primary">Your Bookmarks</h1>
-		<p class="mt-1 text-sm text-text-muted">
+		<h1 class="inline-block border-b-2 border-red pb-1.5 font-authority text-2xl font-bold text-ink">Your Bookmarks</h1>
+		<p class="mt-1 text-sm text-medium-gray">
 			Saved regulation sections for quick reference
 		</p>
 	</div>
 
-	<div class="overflow-hidden rounded-lg border border-border bg-surface">
+	<div class="overflow-hidden border border-border-gray bg-white">
 		<BookmarkList bookmarks={data.bookmarks} />
 	</div>
 </div>

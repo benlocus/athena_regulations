@@ -55,10 +55,10 @@
 	disabled={loading}
 	title={bookmarked ? 'Remove bookmark' : 'Add bookmark'}
 	class={cn(
-		'inline-flex items-center justify-center rounded-md p-1.5 transition-colors',
+		'inline-flex items-center justify-center p-1.5 transition-colors',
 		bookmarked
-			? 'text-accent hover:text-accent-dark'
-			: 'text-text-muted hover:text-accent',
+			? 'text-red hover:text-red'
+			: 'text-medium-gray hover:text-red',
 		loading && 'opacity-50',
 		className
 	)}

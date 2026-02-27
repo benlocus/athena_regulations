@@ -29,12 +29,12 @@
 	}
 </script>
 
-<form onsubmit={handleSubmit} class="rounded-md border border-border bg-surface p-3">
+<form onsubmit={handleSubmit} class="border border-border-gray bg-white p-3">
 	<textarea
 		bind:value={content}
 		rows={3}
 		placeholder="Add a note..."
-		class="w-full resize-none rounded-md border border-border bg-background px-3 py-2 text-sm text-text placeholder:text-text-muted focus:border-primary focus:ring-1 focus:ring-primary focus:outline-none"
+		class="w-full resize-none border border-border-gray bg-light-gray px-3 py-2 text-sm text-dark-gray placeholder:text-medium-gray focus:border-dark-gray focus:ring-0 focus:outline-none"
 	></textarea>
 
 	<div class="mt-2 flex items-center justify-between">
@@ -49,7 +49,7 @@
 					class={cn(
 						'h-5 w-5 rounded-full border-2 transition-transform',
 						c.class,
-						color === c.value ? 'scale-110 border-primary' : 'border-transparent'
+						color === c.value ? 'scale-110 border-ink' : 'border-transparent'
 					)}
 				></button>
 			{/each}
@@ -59,14 +59,14 @@
 			<button
 				type="button"
 				onclick={onCancel}
-				class="rounded-md px-3 py-1.5 text-xs font-medium text-text-muted transition-colors hover:text-text"
+				class="px-3 py-1.5 text-xs font-medium text-medium-gray transition-colors hover:text-dark-gray"
 			>
 				Cancel
 			</button>
 			<button
 				type="submit"
 				disabled={!content.trim()}
-				class="rounded-md bg-primary px-3 py-1.5 text-xs font-medium text-white transition-colors hover:bg-primary-light disabled:opacity-50"
+				class="bg-red px-3 py-1.5 text-xs font-medium text-white transition-colors hover:bg-ink disabled:opacity-50"
 			>
 				{initialContent ? 'Update' : 'Save'}
 			</button>

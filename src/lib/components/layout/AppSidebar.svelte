@@ -26,7 +26,7 @@
 <!-- Mobile overlay -->
 {#if open}
 	<div
-		class="fixed inset-0 z-40 bg-black/40 lg:hidden"
+		class="fixed inset-0 z-40 bg-ink/40 lg:hidden"
 		role="button"
 		tabindex="-1"
 		onclick={closeSidebar}
@@ -35,10 +35,10 @@
 {/if}
 
 <aside
-	class="fixed top-16 left-0 z-40 h-[calc(100vh-4rem)] w-72 shrink-0 overflow-y-auto border-r border-border bg-surface transition-transform lg:sticky lg:translate-x-0 {open ? 'translate-x-0' : '-translate-x-full'}"
+	class="fixed top-16 left-0 z-40 h-[calc(100vh-4rem)] w-72 shrink-0 overflow-y-auto border-r border-border-gray bg-white transition-transform lg:sticky lg:translate-x-0 {open ? 'translate-x-0' : '-translate-x-full'}"
 >
 	<nav class="p-4">
-		<h2 class="mb-3 text-xs font-semibold tracking-wider text-text-muted uppercase">Sections</h2>
+		<h2 class="mb-3 font-precision text-[0.625rem] uppercase tracking-[0.2em] text-red/60">Sections</h2>
 		<ul class="space-y-0.5">
 			{#each sections as section}
 				{@const href = `/regulations/${titleSlug}/${section.slug}`}
@@ -47,11 +47,11 @@
 					<a
 						{href}
 						onclick={closeSidebar}
-						class="block rounded-md px-3 py-2 text-sm transition-colors {isActive
-							? 'bg-primary/10 font-medium text-primary'
-							: 'text-text-muted hover:bg-background hover:text-text'} {section.isRepealed ? 'line-through opacity-60' : ''}"
+						class="block px-3 py-2 text-sm transition-colors {isActive
+							? 'border-l-2 border-red pl-3 font-medium text-ink bg-red/[0.03]'
+							: 'pl-3 text-medium-gray hover:bg-light-gray hover:text-dark-gray hover:border-l-2 hover:border-red/20'} {section.isRepealed ? 'line-through opacity-60' : ''}"
 					>
-						<span class="font-mono text-xs text-text-muted">{section.sectionNumber}</span>
+						<span class="font-precision text-xs {isActive ? 'text-red/60' : 'text-medium-gray'}">{section.sectionNumber}</span>
 						<span class="ml-1.5">{section.heading}</span>
 					</a>
 				</li>

@@ -16,28 +16,28 @@
 		]}
 	/>
 
-	<h1 class="mb-6 font-serif text-3xl font-bold text-primary">All Regulations</h1>
+	<h1 class="mb-8 inline-block border-b-2 border-red pb-1.5 font-authority text-3xl font-bold text-ink">All Regulations</h1>
 
 	<div class="space-y-4">
 		{#each data.titles as title}
 			<a
 				href="/regulations/{title.slug}"
-				class="group block rounded-lg border border-border bg-surface p-6 transition-all hover:border-primary/30 hover:shadow-md"
+				class="group block border border-border-gray bg-white p-6 transition-all hover:border-red/30"
 			>
 				<div class="flex items-start justify-between gap-4">
 					<div class="min-w-0">
-						<p class="font-mono text-sm font-medium text-accent-dark">
+						<p class="font-precision text-sm text-red/50 group-hover:text-red/70 transition-colors">
 							{title.codeNumber} {title.titleNumber}
 						</p>
-						<h2 class="mt-1 font-serif text-xl font-semibold text-primary group-hover:underline">
+						<h2 class="mt-1 font-authority text-xl font-semibold text-ink group-hover:text-red transition-colors">
 							{title.title}
 						</h2>
 						{#if title.description}
-							<p class="mt-2 text-sm text-text-muted">{title.description}</p>
+							<p class="mt-2 text-sm leading-relaxed text-medium-gray">{title.description}</p>
 						{/if}
 					</div>
 					<svg
-						class="mt-1 h-5 w-5 shrink-0 text-text-muted transition-transform group-hover:translate-x-0.5 group-hover:text-primary"
+						class="mt-1 h-5 w-5 shrink-0 text-border-gray transition-all group-hover:translate-x-0.5 group-hover:text-red"
 						viewBox="0 0 16 16"
 						fill="none"
 					>

@@ -19,14 +19,14 @@
 	/>
 
 	<div class="mb-8">
-		<p class="font-mono text-sm font-medium text-accent-dark">
+		<p class="font-precision text-sm text-medium-gray">
 			{data.title.codeNumber} {data.title.titleNumber}
 		</p>
-		<h1 class="mt-1 font-serif text-3xl font-bold text-primary">
+		<h1 class="mt-1 inline-block border-b-2 border-red pb-1.5 font-authority text-3xl font-bold text-ink">
 			{data.title.title}
 		</h1>
 		{#if data.title.description}
-			<p class="mt-3 text-text-muted">{data.title.description}</p>
+			<p class="mt-3 text-medium-gray">{data.title.description}</p>
 		{/if}
 	</div>
 

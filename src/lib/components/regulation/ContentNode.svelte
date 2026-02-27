@@ -25,33 +25,36 @@
 	);
 
 	let depthClass = $derived(
-		node.depth <= 1 ? '' : node.depth === 2 ? 'ml-6' : node.depth === 3 ? 'ml-12' : 'ml-16'
+		node.depth <= 1 ? '' : node.depth === 2 ? 'ml-6' : node.depth === 3 ? 'ml-10' : 'ml-14'
 	);
 </script>
 
 <div id={node.id} class="group scroll-mt-20 {depthClass}">
 	{#if node.type === 'section'}
 		<!-- Top-level section: heading is rendered by SectionDetail, only render children -->
-		{#each node.children as child}
-			<Self node={child} {titleSlug} {refMap} />
-		{/each}
+		<div class="divide-y divide-border-gray/60">
+			{#each node.children as child}
+				<Self node={child} {titleSlug} {refMap} />
+			{/each}
+		</div>
 
 	{:else if node.type === 'subsection'}
-		<div class="mt-5 mb-2">
-			{#if node.number}
-				<span class="mr-1.5 font-serif font-semibold text-primary">{node.number}</span>
-			{/if}
-			{#if node.heading}
-				<span class="font-serif font-semibold">{node.heading}</span>
-			{/if}
+		<div class="mt-6 mb-3 border-l-2 border-red/40 pl-4">
+			<div class="flex items-baseline gap-2">
+				{#if node.number}
+					<span class="font-authority text-lg font-bold text-red/70">{node.number}</span>
+				{/if}
+				{#if node.heading}
+					<span class="font-authority text-[1.1rem] font-semibold text-ink">{node.heading}</span>
+				{/if}
+			</div>
 		</div>
 		{#if segments.length > 0 && node.children.length > 0}
-			<!-- If subsection has both content and children, the content might be duplicated as a text child. Only render children. -->
 			{#each node.children as child}
 				<Self node={child} {titleSlug} {refMap} />
 			{/each}
 		{:else if segments.length > 0}
-			<p class="font-serif text-base leading-relaxed text-text">
+			<p class="font-clarity text-[0.95rem] leading-[1.7] text-dark-gray pl-4">
 				{#each segments as seg}
 					{#if seg.type === 'text'}{seg.text}{:else if seg.type === 'ref'}<CrossRefLink citation={seg.displayText} href={seg.href} />{:else}<ExternalRefBadge citation={seg.displayText} />{/if}
 				{/each}
@@ -63,13 +66,13 @@
 		{/if}
 
 	{:else if node.type === 'paragraph'}
-		<div class="mt-1.5 flex gap-1.5">
+		<div class="mt-2.5 flex gap-3 py-1">
 			{#if node.number}
-				<span class="shrink-0 font-serif text-sm font-medium text-text-muted">{node.number}</span>
+				<span class="mt-0.5 shrink-0 font-precision text-[0.75rem] font-medium text-red/50 leading-[1.7]">{node.number}</span>
 			{/if}
-			<div>
+			<div class="min-w-0 flex-1">
 				{#if segments.length > 0}
-					<p class="font-serif text-base leading-relaxed text-text">
+					<p class="font-clarity text-[0.95rem] leading-[1.7] text-dark-gray">
 						{#each segments as seg}
 							{#if seg.type === 'text'}{seg.text}{:else if seg.type === 'ref'}<CrossRefLink citation={seg.displayText} href={seg.href} />{:else}<ExternalRefBadge citation={seg.displayText} />{/if}
 						{/each}
@@ -82,12 +85,12 @@
 		</div>
 
 	{:else if node.type === 'definition'}
-		<div class="mt-3 rounded-md border-l-4 border-accent bg-accent/5 py-2 pr-3 pl-4">
+		<div class="mt-4 border-l-2 border-red/30 bg-light-gray py-3 pr-4 pl-5">
 			{#if node.heading}
-				<dt class="font-serif font-semibold text-primary">{node.heading}</dt>
+				<dt class="font-authority text-base font-bold text-ink">{node.heading}</dt>
 			{/if}
 			{#if segments.length > 0}
-				<dd class="mt-1 font-serif text-base leading-relaxed text-text">
+				<dd class="mt-1.5 font-clarity text-[0.95rem] leading-[1.7] text-dark-gray">
 					{#each segments as seg}
 						{#if seg.type === 'text'}{seg.text}{:else if seg.type === 'ref'}<CrossRefLink citation={seg.displayText} href={seg.href} />{:else}<ExternalRefBadge citation={seg.displayText} />{/if}
 					{/each}
@@ -101,7 +104,7 @@
 	{:else}
 		<!-- text node -->
 		{#if segments.length > 0}
-			<p class="mt-1.5 font-serif text-base leading-relaxed text-text">
+			<p class="mt-2 font-clarity text-[0.95rem] leading-[1.7] text-dark-gray">
 				{#each segments as seg}
 					{#if seg.type === 'text'}{seg.text}{:else if seg.type === 'ref'}<CrossRefLink citation={seg.displayText} href={seg.href} />{:else}<ExternalRefBadge citation={seg.displayText} />{/if}
 				{/each}

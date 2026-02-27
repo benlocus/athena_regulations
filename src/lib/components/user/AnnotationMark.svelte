@@ -22,7 +22,7 @@
 	role="button"
 	tabindex="0"
 	class={cn(
-		'cursor-pointer rounded-sm px-0.5 transition-colors',
+		'cursor-pointer px-0.5 transition-colors',
 		colorMap[color] ?? colorMap.yellow
 	)}
 	onclick={() => onClick?.(annotationId)}

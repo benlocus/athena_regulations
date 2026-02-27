@@ -14,10 +14,10 @@
 
 	<div class="min-w-0 flex-1">
 		<!-- Mobile sidebar toggle -->
-		<div class="sticky top-16 z-30 border-b border-border bg-background px-4 py-2 lg:hidden">
+		<div class="sticky top-16 z-30 border-b border-border-gray bg-light-gray px-4 py-2 lg:hidden">
 			<button
 				onclick={() => (sidebarOpen = true)}
-				class="flex items-center gap-2 rounded-md border border-border bg-surface px-3 py-1.5 text-sm font-medium text-text-muted transition-colors hover:text-text"
+				class="flex items-center gap-2 border border-border-gray bg-white px-3 py-1.5 text-sm font-medium text-medium-gray transition-colors hover:text-dark-gray"
 			>
 				<svg class="h-4 w-4" viewBox="0 0 16 16" fill="none">
 					<path d="M2 4h12M2 8h12M2 12h12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />

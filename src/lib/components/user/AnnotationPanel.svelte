@@ -64,7 +64,7 @@
 	<!-- Backdrop -->
 	<button
 		type="button"
-		class="fixed inset-0 z-40 bg-black/30"
+		class="fixed inset-0 z-40 bg-ink/30"
 		onclick={onClose}
 		aria-label="Close annotations panel"
 	></button>
@@ -72,15 +72,15 @@
 	<!-- Panel -->
 	<aside
 		class={cn(
-			'fixed top-0 right-0 z-50 flex h-full w-full max-w-md flex-col border-l border-border bg-surface shadow-lg'
+			'fixed top-0 right-0 z-50 flex h-full w-full max-w-md flex-col border-l border-border-gray bg-white'
 		)}
 	>
-		<div class="flex items-center justify-between border-b border-border px-4 py-3">
-			<h2 class="font-serif text-lg font-semibold text-primary">Annotations</h2>
+		<div class="flex items-center justify-between border-b border-border-gray px-4 py-3">
+			<h2 class="font-authority text-lg font-semibold text-ink">Annotations</h2>
 			<button
 				type="button"
 				onclick={onClose}
-				class="rounded-md p-1.5 text-text-muted transition-colors hover:text-text"
+				class="p-1.5 text-medium-gray transition-colors hover:text-dark-gray"
 			>
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
@@ -103,7 +103,7 @@
 			{/if}
 
 			{#if annotations.length === 0 && !editing}
-				<p class="py-8 text-center text-sm text-text-muted">
+				<p class="py-8 text-center text-sm text-medium-gray">
 					No annotations for this section yet
 				</p>
 			{/if}
@@ -120,32 +120,32 @@
 					{:else}
 						<div
 							class={cn(
-								'rounded-md border border-border p-3',
+								'border border-border-gray p-3',
 								colorMap[annotation.color] ?? 'bg-highlight-yellow'
 							)}
 						>
 							{#if annotation.highlightText}
-								<p class="mb-2 text-xs italic text-text-muted">
+								<p class="mb-2 text-xs italic text-medium-gray">
 									"{annotation.highlightText}"
 								</p>
 							{/if}
-							<p class="whitespace-pre-wrap text-sm text-text">{annotation.content}</p>
+							<p class="whitespace-pre-wrap text-sm text-dark-gray">{annotation.content}</p>
 							<div class="mt-2 flex items-center justify-between">
-								<span class="text-xs text-text-muted">
+								<span class="text-xs text-medium-gray">
 									{formatDate(annotation.createdAt)}
 								</span>
 								<div class="flex gap-1">
 									<button
 										type="button"
 										onclick={() => startEdit(annotation)}
-										class="rounded px-2 py-0.5 text-xs text-text-muted transition-colors hover:text-primary"
+										class="px-2 py-0.5 text-xs text-medium-gray transition-colors hover:text-ink"
 									>
 										Edit
 									</button>
 									<button
 										type="button"
 										onclick={() => onDelete(annotation.id)}
-										class="rounded px-2 py-0.5 text-xs text-text-muted transition-colors hover:text-red-600"
+										class="px-2 py-0.5 text-xs text-medium-gray transition-colors hover:text-red-600"
 									>
 										Delete
 									</button>

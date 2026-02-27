@@ -9,13 +9,13 @@
 
 <a
 	href="/regulations/{result.titleSlug}/{result.slug}"
-	class="block rounded-lg border border-border bg-surface p-5 transition-colors hover:border-primary/30 hover:bg-background"
+	class="group block border-b border-border-gray py-5 transition-colors hover:bg-light-gray"
 >
 	<div class="flex items-baseline gap-2">
-		<span class="font-mono text-sm font-medium text-accent-dark">{result.sectionNumber}</span>
-		<h3 class="font-serif text-lg font-semibold text-primary">{result.heading}</h3>
+		<span class="font-precision text-sm text-red/50 group-hover:text-red transition-colors">{result.sectionNumber}</span>
+		<h3 class="font-authority text-lg font-semibold text-ink group-hover:text-red transition-colors">{result.heading}</h3>
 	</div>
-	<p class="mt-2 font-serif text-sm leading-relaxed text-text-muted">
+	<p class="mt-2 font-clarity text-sm leading-relaxed text-medium-gray">
 		{@html formattedSnippet}
 	</p>
 </a>
