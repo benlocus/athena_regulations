@@ -42,10 +42,9 @@
 			const info = getSelectionInfo(contentEl!);
 			if (info) {
 				selectionInfo = info;
-				// Position popover below the selection
-				const scrollY = window.scrollY;
+				// Position popover below the selection (fixed positioning = viewport coords)
 				popoverPosition = {
-					top: info.rect.bottom + scrollY + 8,
+					top: info.rect.bottom + 8,
 					left: Math.max(16, Math.min(info.rect.left, window.innerWidth - 304))
 				};
 			}
