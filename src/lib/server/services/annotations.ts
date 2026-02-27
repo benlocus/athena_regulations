@@ -95,13 +95,6 @@ export async function listAnnotationsForSection(
 	const isOrgUser = userEmail?.endsWith(`@${ORG_SHARED_DOMAIN}`);
 
 	if (isOrgUser) {
-		// Get all org user IDs
-		const orgUsers = await db
-			.select({ id: user.id })
-			.from(user)
-			.where(like(user.email, `%@${ORG_SHARED_DOMAIN}`));
-		const orgUserIds = orgUsers.map((u) => u.id);
-
 		return db
 			.select({
 				id: annotations.id,
@@ -122,7 +115,7 @@ export async function listAnnotationsForSection(
 			.where(
 				and(
 					eq(annotations.sectionId, sectionId),
-					inArray(annotations.userId, orgUserIds)
+					like(user.email, `%@${ORG_SHARED_DOMAIN}`)
 				)
 			)
 			.orderBy(desc(annotations.createdAt));
@@ -141,7 +134,7 @@ export async function listAnnotationsForSection(
 			color: annotations.color,
 			createdAt: annotations.createdAt,
 			updatedAt: annotations.updatedAt,
-			authorName: sql<string>`null`.as('author_name')
+			authorName: sql<string | null>`null`.as('author_name')
 		})
 		.from(annotations)
 		.where(and(eq(annotations.userId, userId), eq(annotations.sectionId, sectionId)))
