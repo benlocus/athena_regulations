@@ -124,37 +124,41 @@ type SectionBoundary = {
 
 /**
  * Find section boundaries in the cleaned text.
- * NY sections look like: "118.1 Definitions." or "120.2 Licensing."
+ * NY sections use "§ NNN.N Heading." format (section symbol prefix).
+ * Many PDFs have a TOC listing all sections first, then the full body.
+ * We keep the LAST occurrence of each section (the body, not the TOC).
  */
 function findSectionBoundaries(lines: string[], partNumber: string): SectionBoundary[] {
-	const boundaries: SectionBoundary[] = [];
-	// Match lines like "118.1 Definitions." or "120.10 Some heading"
+	// Match "§ 118.1 Definitions." or "§128.2 Heading" (optional space after §)
+	// Also handles "§ 128.10          Effective Date." (TOC with extra whitespace)
 	const sectionPattern = new RegExp(
-		`^\\s*(${partNumber}\\.\\d+)\\s+(.+?)\\s*$`
+		`^§\\s*(${partNumber}\\.\\d+)\\s+(.+?)\\s*$`
 	);
+
+	// First pass: collect ALL occurrences, keeping the last one for each section number
+	const lastSeen = new Map<string, SectionBoundary>();
+	const order: string[] = [];
 
 	for (let i = 0; i < lines.length; i++) {
 		const trimmed = lines[i].trim();
 		const match = trimmed.match(sectionPattern);
-		if (match) {
-			const sectionNumber = match[1];
-			let heading = match[2];
-			// Remove trailing period from heading if present
-			heading = heading.replace(/\.\s*$/, '');
+		if (!match) continue;
 
-			// Avoid matching section numbers embedded in body text:
-			// A real heading line should be relatively short and not start with lowercase
-			if (heading.length > 200) continue;
+		const sectionNumber = match[1];
+		let heading = match[2];
+		heading = heading.replace(/\.\s*$/, '');
 
-			// Check this isn't a duplicate (same section found twice)
-			const existing = boundaries.find((b) => b.sectionNumber === sectionNumber);
-			if (existing) continue;
+		// Skip lines too long to be headings (body text that happens to start with §)
+		if (heading.length > 200) continue;
 
-			boundaries.push({ sectionNumber, heading, startLine: i });
+		if (!lastSeen.has(sectionNumber)) {
+			order.push(sectionNumber);
 		}
+		lastSeen.set(sectionNumber, { sectionNumber, heading, startLine: i });
 	}
 
-	return boundaries;
+	// Return in document order
+	return order.map((num) => lastSeen.get(num)!);
 }
 
 /**

@@ -23,14 +23,14 @@ export const NY_PARTS: NYPartConfig[] = [
 	},
 	{
 		partNumber: '115',
-		title: 'Home Cultivation of Cannabis',
+		title: 'Personal Home Cultivation of Cannabis',
 		slug: '9-nycrr-115',
 		sourceFile: '/tmp/ny-ocm/part-115.txt',
 		sortOrder: 2
 	},
 	{
 		partNumber: '116',
-		title: 'Conditional Adult-Use Retail Dispensary (CAURD)',
+		title: 'Conditional Adult-Use Retail Dispensary',
 		slug: '9-nycrr-116',
 		sourceFile: '/tmp/ny-ocm/part-116.txt',
 		sortOrder: 3
@@ -44,79 +44,86 @@ export const NY_PARTS: NYPartConfig[] = [
 	},
 	{
 		partNumber: '119',
-		title: 'Municipal Opt-Out and Time, Place, and Manner',
+		title: 'Municipality Rulemaking',
 		slug: '9-nycrr-119',
 		sourceFile: '/tmp/ny-ocm/part-119.txt',
 		sortOrder: 5
 	},
 	{
 		partNumber: '120',
-		title: 'Licensing of Adult-Use Cannabis',
+		title: 'Application and Licensure',
 		slug: '9-nycrr-120',
 		sourceFile: '/tmp/ny-ocm/part-120.txt',
 		sortOrder: 6
 	},
 	{
 		partNumber: '121',
-		title: 'Adult-Use Cultivator Processors and Microbusinesses',
+		title: 'Social and Economic Equity',
 		slug: '9-nycrr-121',
 		sourceFile: '/tmp/ny-ocm/part-121.txt',
 		sortOrder: 7
 	},
 	{
 		partNumber: '123',
-		title: 'Adult-Use Cannabis Distributors',
+		title: 'License Specific Authorizations, Requirements and Prohibitions',
 		slug: '9-nycrr-123',
 		sourceFile: '/tmp/ny-ocm/part-123.txt',
 		sortOrder: 8
 	},
 	{
 		partNumber: '124',
-		title: 'Adult-Use On-Site Consumption',
+		title: 'General Business Requirements and Prohibitions',
 		slug: '9-nycrr-124',
 		sourceFile: '/tmp/ny-ocm/part-124.txt',
 		sortOrder: 9
 	},
 	{
 		partNumber: '125',
-		title: 'Adult-Use Cannabis Delivery',
+		title: 'General Operating Requirements and Prohibitions',
 		slug: '9-nycrr-125',
 		sourceFile: '/tmp/ny-ocm/part-125.txt',
 		sortOrder: 10
 	},
 	{
 		partNumber: '128',
-		title: 'Cannabis Packaging and Labeling',
+		title: 'Adult-Use Packaging and Labeling',
 		slug: '9-nycrr-128',
 		sourceFile: '/tmp/ny-ocm/part-128.txt',
 		sortOrder: 11
 	},
 	{
 		partNumber: '129',
-		title: 'Cannabis Marketing, Advertising and Branding',
+		title: 'Adult-Use Marketing and Advertising',
 		slug: '9-nycrr-129',
 		sourceFile: '/tmp/ny-ocm/part-129.txt',
 		sortOrder: 12
 	},
 	{
 		partNumber: '130',
-		title: 'Cannabis Laboratory Testing',
+		title: 'Cannabis Laboratories',
 		slug: '9-nycrr-130',
 		sourceFile: '/tmp/ny-ocm/part-130.txt',
 		sortOrder: 13
 	},
 	{
 		partNumber: '131',
-		title: 'Cannabis Waste Management',
+		title: 'Severability and Reference Materials',
 		slug: '9-nycrr-131',
 		sourceFile: '/tmp/ny-ocm/part-131.txt',
 		sortOrder: 14
 	},
 	{
+		partNumber: '132',
+		title: 'Cannabis Research',
+		slug: '9-nycrr-132',
+		sourceFile: '/tmp/ny-ocm/part-132.txt',
+		sortOrder: 15
+	},
+	{
 		partNumber: '133',
-		title: 'Violations, Penalties, Enforcement and Hearing Procedures',
+		title: 'Violations, Hearings, and Enforcement',
 		slug: '9-nycrr-133',
 		sourceFile: '/tmp/ny-ocm/part-133.txt',
-		sortOrder: 15
+		sortOrder: 16
 	}
 ];
