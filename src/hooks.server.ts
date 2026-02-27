@@ -3,12 +3,9 @@ import { svelteKitHandler } from 'better-auth/svelte-kit';
 import type { Handle } from '@sveltejs/kit';
 
 export const handle: Handle = async ({ event, resolve }) => {
-	// Better Auth handles /api/auth/* routes
-	const authResponse = await svelteKitHandler({ event, resolve, auth });
-	if (authResponse) return authResponse;
-
+	// Set session on locals before resolving (svelteKitHandler calls resolve internally)
 	const session = await auth.api.getSession({ headers: event.request.headers });
 	event.locals.session = session;
 
-	return resolve(event);
+	return svelteKitHandler({ event, resolve, auth });
 };

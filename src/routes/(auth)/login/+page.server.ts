@@ -1,6 +1,7 @@
 import { auth } from '$lib/server/auth';
 import { fail, redirect } from '@sveltejs/kit';
 import type { Actions, PageServerLoad } from './$types';
+import { parseCookieHeader } from '$lib/server/auth/cookies';
 
 export const load: PageServerLoad = async ({ request }) => {
 	const session = await auth.api.getSession({ headers: request.headers });
@@ -22,7 +23,8 @@ export const actions = {
 		try {
 			const response = await auth.api.signInEmail({
 				body: { email, password },
-				asResponse: true
+				asResponse: true,
+				headers: request.headers
 			});
 
 			if (!response.ok) {
@@ -30,24 +32,9 @@ export const actions = {
 			}
 
 			// Forward session cookies from Better Auth response
-			for (const cookie of response.headers.getSetCookie()) {
-				const [nameValue, ...parts] = cookie.split(';');
-				const [name, ...valueParts] = nameValue.split('=');
-				const value = valueParts.join('=');
-				let path = '/';
-				let maxAge: number | undefined;
-				let httpOnly = false;
-				let secure = false;
-				let sameSite: 'lax' | 'strict' | 'none' = 'lax';
-				for (const part of parts) {
-					const trimmed = part.trim().toLowerCase();
-					if (trimmed.startsWith('max-age=')) maxAge = parseInt(trimmed.split('=')[1]);
-					if (trimmed === 'httponly') httpOnly = true;
-					if (trimmed === 'secure') secure = true;
-					if (trimmed.startsWith('samesite=')) sameSite = trimmed.split('=')[1] as typeof sameSite;
-					if (trimmed.startsWith('path=')) path = part.trim().split('=')[1];
-				}
-				cookies.set(name.trim(), value, { path, maxAge, httpOnly, secure, sameSite });
+			for (const c of response.headers.getSetCookie()) {
+				const { name, value, opts } = parseCookieHeader(c);
+				cookies.set(name, decodeURIComponent(value), opts);
 			}
 		} catch {
 			return fail(401, { error: 'Invalid email or password', email });
