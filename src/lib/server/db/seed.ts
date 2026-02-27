@@ -3,6 +3,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import postgres from 'postgres';
 import { drizzle } from 'drizzle-orm/postgres-js';
+import { eq, inArray } from 'drizzle-orm';
 import * as schema from './schema.js';
 import { parseRegulationText } from './parse-regulation.js';
 import { extractSectionNumber } from '../../utils/citation-parser.js';
@@ -47,15 +48,47 @@ async function seed() {
 	}
 	console.log(`💾 Saved seed data to ${seedDataDir}`);
 
-	// 4. Clear existing data (reverse order for FK constraints)
-	console.log('🗑️  Clearing existing data...');
-	await db.delete(schema.annotations);
-	await db.delete(schema.bookmarks);
-	await db.delete(schema.amendments);
-	await db.delete(schema.crossReferences);
-	await db.delete(schema.sections);
-	await db.delete(schema.regulationTitles);
-	await db.delete(schema.regulatoryCodes);
+	// 4. Clear existing MA data (jurisdiction-scoped delete)
+	console.log('🗑️  Clearing existing MA data...');
+	const [existingCode] = await db
+		.select()
+		.from(schema.regulatoryCodes)
+		.where(eq(schema.regulatoryCodes.codeNumber, '935 CMR'))
+		.limit(1);
+
+	if (existingCode) {
+		const maTitles = await db
+			.select({ id: schema.regulationTitles.id })
+			.from(schema.regulationTitles)
+			.where(eq(schema.regulationTitles.codeId, existingCode.id));
+
+		const titleIds = maTitles.map((t) => t.id);
+
+		if (titleIds.length > 0) {
+			const maSections = await db
+				.select({ id: schema.sections.id })
+				.from(schema.sections)
+				.where(inArray(schema.sections.titleId, titleIds));
+
+			const sectionIds = maSections.map((s) => s.id);
+
+			if (sectionIds.length > 0) {
+				await db.delete(schema.annotations).where(inArray(schema.annotations.sectionId, sectionIds));
+				await db.delete(schema.bookmarks).where(inArray(schema.bookmarks.sectionId, sectionIds));
+				await db.delete(schema.amendments).where(inArray(schema.amendments.sectionId, sectionIds));
+				await db
+					.delete(schema.crossReferences)
+					.where(inArray(schema.crossReferences.sourceSectionId, sectionIds));
+				await db.delete(schema.sections).where(inArray(schema.sections.titleId, titleIds));
+			}
+
+			await db
+				.delete(schema.regulationTitles)
+				.where(eq(schema.regulationTitles.codeId, existingCode.id));
+		}
+
+		await db.delete(schema.regulatoryCodes).where(eq(schema.regulatoryCodes.codeNumber, '935 CMR'));
+	}
 
 	// 5. Insert regulatory code
 	console.log('📝 Inserting regulatory code...');

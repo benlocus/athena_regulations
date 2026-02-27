@@ -2,7 +2,7 @@
 	<div class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
 		<div class="flex flex-col items-center justify-between gap-4 text-center sm:flex-row sm:text-left">
 			<p class="font-clarity text-[0.6875rem] font-medium uppercase tracking-wider text-medium-gray">
-				Massachusetts Code of Regulations Browser
+				Cannabis Regulations Browser
 			</p>
 			<p class="font-precision text-[0.625rem] text-medium-gray">
 				For informational purposes only. Consult official sources for authoritative text.

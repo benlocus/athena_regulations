@@ -7,5 +7,8 @@ export const handle: Handle = async ({ event, resolve }) => {
 	const authResponse = await svelteKitHandler({ event, resolve, auth });
 	if (authResponse) return authResponse;
 
+	const session = await auth.api.getSession({ headers: event.request.headers });
+	event.locals.session = session;
+
 	return resolve(event);
 };

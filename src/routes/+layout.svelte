@@ -3,16 +3,16 @@
 	import AppHeader from '$lib/components/layout/AppHeader.svelte';
 	import AppFooter from '$lib/components/layout/AppFooter.svelte';
 
-	let { children } = $props();
+	let { children, data } = $props();
 </script>
 
 <svelte:head>
-	<title>MA Regulations Browser</title>
-	<meta name="description" content="Browse Massachusetts Code of Regulations" />
+	<title>Regulations Browser</title>
+	<meta name="description" content="Browse cannabis regulations" />
 </svelte:head>
 
 <div class="flex min-h-screen flex-col">
-	<AppHeader />
+	<AppHeader session={data.session} />
 	<main class="flex-1">
 		{@render children()}
 	</main>
