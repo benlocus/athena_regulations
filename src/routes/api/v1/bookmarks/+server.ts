@@ -2,7 +2,7 @@ import { json } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
 import { db } from '$lib/server/db';
 import { bookmarks, sections, regulationTitles } from '$lib/server/db/schema';
-import { eq } from 'drizzle-orm';
+import { eq, and } from 'drizzle-orm';
 import { auth } from '$lib/server/auth';
 import { z } from 'zod';
 
@@ -96,4 +96,51 @@ export const POST: RequestHandler = async (event) => {
 		.returning();
 
 	return json({ data: inserted[0] }, { status: 201 });
+};
+
+const deleteBookmarkSchema = z.object({
+	sectionId: z.string().uuid(),
+	nodeId: z.string().nullable().optional()
+});
+
+export const DELETE: RequestHandler = async (event) => {
+	const session = await auth.api.getSession({ headers: event.request.headers });
+	if (!session) {
+		return json(
+			{ error: { code: 'UNAUTHORIZED', message: 'Authentication required' } },
+			{ status: 401 }
+		);
+	}
+
+	let body: unknown;
+	try {
+		body = await event.request.json();
+	} catch {
+		return json(
+			{ error: { code: 'BAD_REQUEST', message: 'Invalid JSON body' } },
+			{ status: 400 }
+		);
+	}
+
+	const parsed = deleteBookmarkSchema.safeParse(body);
+	if (!parsed.success) {
+		return json(
+			{ error: { code: 'VALIDATION_ERROR', message: parsed.error.issues[0].message } },
+			{ status: 400 }
+		);
+	}
+
+	const deleted = await db
+		.delete(bookmarks)
+		.where(and(eq(bookmarks.userId, session.user.id), eq(bookmarks.sectionId, parsed.data.sectionId)))
+		.returning();
+
+	if (deleted.length === 0) {
+		return json(
+			{ error: { code: 'NOT_FOUND', message: 'Bookmark not found' } },
+			{ status: 404 }
+		);
+	}
+
+	return json({ data: { deleted: true } });
 };
