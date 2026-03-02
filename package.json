@@ -15,7 +15,9 @@
 		"db:push": "drizzle-kit push",
 		"db:studio": "drizzle-kit studio",
 		"db:seed": "tsx --tsconfig tsconfig.seed.json src/lib/server/db/seed.ts",
-		"db:seed:ny": "tsx --tsconfig tsconfig.seed.json src/lib/server/db/ny-ocm/seed-ny.ts"
+		"db:seed:ny": "tsx --tsconfig tsconfig.seed.json src/lib/server/db/ny-ocm/seed-ny.ts",
+		"db:seed:nj": "tsx --tsconfig tsconfig.seed.json src/lib/server/db/nj-crc/seed-nj.ts",
+		"db:seed:nj:priority": "tsx --tsconfig tsconfig.seed.json src/lib/server/db/nj-crc/seed-nj.ts --priority-only"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-vercel": "^6.3.3",
