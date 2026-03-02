@@ -78,15 +78,25 @@ function cleanText(text: string, subchapterNumber: string): string {
 	const headerPattern2 = new RegExp(
 		`^\\s*(?:SUBCHAPTER|Subchapter)\\s+${subchapterNumber}\\s*$`
 	);
-	// Common NJ admin code header patterns
-	const headerPattern3 = /^\s*PERSONAL USE CANNABIS RULES?\s*$/i;
+	// Common NJ admin code header patterns (with optional trailing text from PDF columns)
+	const headerPattern3 = /^\s*PERSONAL USE CANNABIS RULES?\s+17:30-\d+\.\d+\s*$/i;
+	const headerPattern3b = /^\s*PERSONAL USE CANNABIS RULES?\s*$/i;
 	const headerPattern4 = /^\s*(?:TREASURY|Treasury)\s*[-—]\s*(?:GENERAL|General)\s*$/i;
-	// Page number patterns
+	// Page number patterns: "30-57 Supp. 3-6-23" or just "30-57" or "Page X of Y"
 	const pageNumPattern = /^\s*(?:Page\s+\d+\s+of\s+\d+|\d{1,3})\s*$/i;
+	const njPageNumPattern = /^\s*30-\d+\s*(?:Supp\.\s+\d{1,2}-\d{1,2}-\d{2,4})?\s*$/i;
 	// Supplement date pattern (e.g., "Supp. 3-6-23")
 	const suppPattern = /^\s*Supp\.\s+\d{1,2}-\d{1,2}-\d{2,4}\s*$/i;
 	// Chapter heading that repeats on each page
 	const chapterPattern = /^\s*CHAPTER\s+30\s*$/i;
+	// Floating section numbers from page headers (just "17:30-X.Y" with no text)
+	const floatingSectionPattern = /^\s*17:30-\d+\.\d+\s*$/;
+	// Section number + page header artifact (e.g., "17:30-10.3 TREASURY—GENERAL")
+	const sectionWithHeaderPattern = /^\s*17:30-\d+\.\d+\s+TREASURY\s*[-\u2014]\s*GENERAL\s*$/i;
+	// TREASURY—GENERAL header with optional section number
+	const treasuryPattern = /^\s*TREASURY\s*[-\u2014]\s*GENERAL\s*(?:17:30-\d+\.\d+)?\s*$/i;
+	// "Supp. X-X-XX 30-XX" combined page/supplement lines
+	const suppPagePattern = /^\s*Supp\.\s+\d{1,2}-\d{1,2}-\d{2,4}\s+30-\d+\s*$/i;
 	// Form feed
 	const formFeedPattern = /\f/g;
 
@@ -97,10 +107,16 @@ function cleanText(text: string, subchapterNumber: string): string {
 		if (headerPattern1.test(trimmed)) continue;
 		if (headerPattern2.test(trimmed)) continue;
 		if (headerPattern3.test(trimmed)) continue;
+		if (headerPattern3b.test(trimmed)) continue;
 		if (headerPattern4.test(trimmed)) continue;
+		if (sectionWithHeaderPattern.test(trimmed)) continue;
+		if (treasuryPattern.test(trimmed)) continue;
 		if (pageNumPattern.test(trimmed)) continue;
+		if (njPageNumPattern.test(trimmed)) continue;
 		if (suppPattern.test(trimmed)) continue;
+		if (suppPagePattern.test(trimmed)) continue;
 		if (chapterPattern.test(trimmed)) continue;
+		if (floatingSectionPattern.test(trimmed)) continue;
 		// Skip lines that are just dashes or underscores (separators)
 		if (/^[-_=]{3,}$/.test(trimmed)) continue;
 
