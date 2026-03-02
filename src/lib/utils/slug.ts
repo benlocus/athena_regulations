@@ -1,6 +1,6 @@
-/** Convert a section number like "500.105" to a URL slug like "500-105" */
+/** Convert a section number like "500.105" or "17:30-10.1" to a URL slug */
 export function sectionToSlug(sectionNumber: string): string {
-	return sectionNumber.replace(/\./g, '-').replace(/\s+/g, '-').toLowerCase();
+	return sectionNumber.replace(/:/g, '-').replace(/\./g, '-').replace(/\s+/g, '-').toLowerCase();
 }
 
 /** Convert a URL slug like "500-105" back to a section number like "500.105" */
