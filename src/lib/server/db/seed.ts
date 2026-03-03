@@ -97,7 +97,8 @@ async function seed() {
 		.values({
 			codeNumber: '935 CMR',
 			title: 'Cannabis Control Commission Regulations',
-			jurisdiction: 'Massachusetts'
+			jurisdiction: 'Massachusetts',
+			slug: '935-cmr'
 		})
 		.returning();
 

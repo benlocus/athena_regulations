@@ -19,6 +19,7 @@ export const regulatoryCodes = pgTable('regulatory_codes', {
 	codeNumber: text('code_number').notNull().unique(),
 	title: text('title').notNull(),
 	jurisdiction: text('jurisdiction').notNull(),
+	slug: text('slug').notNull().unique(),
 	createdAt: timestamp('created_at', { withTimezone: true }).defaultNow().notNull(),
 	updatedAt: timestamp('updated_at', { withTimezone: true }).defaultNow().notNull()
 });

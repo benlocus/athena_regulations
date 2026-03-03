@@ -21,20 +21,32 @@ export type ContentSegment =
 	| { type: 'ref'; citation: string; href: string; displayText: string; highlights?: HighlightInfo[] }
 	| { type: 'extref'; citation: string; displayText: string; highlights?: HighlightInfo[] };
 
+/**
+ * Replace \n with a space unless followed by a list marker pattern.
+ * Fixes mid-sentence line breaks from PDF-extracted text.
+ */
+function normalizeNewlines(text: string): string {
+	return text.replace(
+		/\n(?!\s*(?:\(\d+\)|\([a-z]\)|\d+\.\s|[a-z]\.\s|[ivx]+\.\s))/g,
+		' '
+	);
+}
+
 export function parseContent(
 	content: string,
 	resolveRef: (citation: string) => string | null
 ): ContentSegment[] {
+	const normalized = normalizeNewlines(content);
 	const segments: ContentSegment[] = [];
 	const pattern = /\{\{(ref|extref):([^}]+)\}\}/g;
 
 	let lastIndex = 0;
 	let match;
 
-	while ((match = pattern.exec(content)) !== null) {
+	while ((match = pattern.exec(normalized)) !== null) {
 		// Add text before the match
 		if (match.index > lastIndex) {
-			segments.push({ type: 'text', text: content.slice(lastIndex, match.index) });
+			segments.push({ type: 'text', text: normalized.slice(lastIndex, match.index) });
 		}
 
 		const refType = match[1];
@@ -60,8 +72,8 @@ export function parseContent(
 	}
 
 	// Add remaining text
-	if (lastIndex < content.length) {
-		segments.push({ type: 'text', text: content.slice(lastIndex) });
+	if (lastIndex < normalized.length) {
+		segments.push({ type: 'text', text: normalized.slice(lastIndex) });
 	}
 
 	return segments;

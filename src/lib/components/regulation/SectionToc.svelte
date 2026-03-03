@@ -9,26 +9,26 @@
 	let { sections, titleSlug }: { sections: TocSection[]; titleSlug: string } = $props();
 </script>
 
-<div class="overflow-hidden border border-border-gray bg-white">
-	<div class="border-b border-border-gray bg-light-gray px-5 py-3">
-		<h2 class="font-precision text-[0.625rem] font-semibold uppercase tracking-[0.2em] text-medium-gray">
+<div class="overflow-hidden border border-border bg-background">
+	<div class="border-b border-border bg-muted/60 px-5 py-3">
+		<h2 class="font-mono text-[0.625rem] font-semibold uppercase tracking-[0.2em] text-muted-foreground">
 			Table of Contents
 		</h2>
-		<p class="mt-0.5 font-precision text-xs text-medium-gray">{sections.length} sections</p>
+		<p class="mt-0.5 font-mono text-[0.6875rem] text-muted-foreground/60">{sections.length} section{sections.length !== 1 ? 's' : ''}</p>
 	</div>
-	<ul class="divide-y divide-border-gray">
+	<ul>
 		{#each sections as section}
-			<li class="even:bg-light-gray/30">
+			<li class="border-b border-border last:border-0">
 				<a
 					href="/regulations/{titleSlug}/{section.slug}"
-					class="group flex items-baseline gap-3 px-5 py-3 transition-colors hover:bg-light-gray {section.isRepealed ? 'opacity-60' : ''}"
+					class="group flex items-baseline gap-3 px-5 py-2.5 transition-colors duration-100 hover:bg-muted/50 {section.isRepealed ? 'opacity-50' : ''}"
 				>
-					<span class="shrink-0 font-precision text-sm text-medium-gray group-hover:text-red transition-colors">{section.sectionNumber}</span>
-					<span class="text-sm font-medium text-dark-gray group-hover:text-ink transition-colors {section.isRepealed ? 'line-through' : ''}">
+					<span class="shrink-0 font-mono text-[0.6875rem] tabular-nums text-muted-foreground/60 group-hover:text-destructive transition-colors">{section.sectionNumber}</span>
+					<span class="text-sm leading-snug text-foreground {section.isRepealed ? 'line-through' : ''}">
 						{section.heading}
 					</span>
 					{#if section.isRepealed}
-						<span class="ml-auto shrink-0 bg-light-gray px-1.5 py-0.5 font-precision text-[0.625rem] uppercase tracking-wider text-medium-gray">Repealed</span>
+						<span class="ml-auto shrink-0 font-mono text-[0.5625rem] uppercase tracking-wider text-muted-foreground/50">Repealed</span>
 					{/if}
 				</a>
 			</li>

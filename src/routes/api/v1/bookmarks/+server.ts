@@ -93,7 +93,23 @@ export const POST: RequestHandler = async (event) => {
 			nodeId: nodeId ?? null,
 			label: label ?? null
 		})
+		.onConflictDoNothing()
 		.returning();
+
+	// If bookmark already existed, fetch it
+	if (inserted.length === 0) {
+		const existing = await db
+			.select()
+			.from(bookmarks)
+			.where(
+				and(
+					eq(bookmarks.userId, session.user.id),
+					eq(bookmarks.sectionId, sectionId)
+				)
+			)
+			.limit(1);
+		return json({ data: existing[0] }, { status: 200 });
+	}
 
 	return json({ data: inserted[0] }, { status: 201 });
 };

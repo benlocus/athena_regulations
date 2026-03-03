@@ -1,6 +1,6 @@
 import { db } from '$lib/server/db';
 import { regulatoryCodes, regulationTitles, sections, crossReferences, amendments } from '$lib/server/db/schema';
-import { eq, asc, and } from 'drizzle-orm';
+import { eq, asc, and, count, sql } from 'drizzle-orm';
 
 export async function getTitles() {
 	return db
@@ -93,6 +93,95 @@ export async function getSectionAmendments(sectionId: string) {
 		.from(amendments)
 		.where(eq(amendments.sectionId, sectionId))
 		.orderBy(asc(amendments.sortOrder));
+}
+
+export async function getCodes() {
+	const rows = await db
+		.select({
+			id: regulatoryCodes.id,
+			codeNumber: regulatoryCodes.codeNumber,
+			title: regulatoryCodes.title,
+			jurisdiction: regulatoryCodes.jurisdiction,
+			slug: regulatoryCodes.slug,
+			titleCount: count(regulationTitles.id)
+		})
+		.from(regulatoryCodes)
+		.leftJoin(regulationTitles, eq(regulationTitles.codeId, regulatoryCodes.id))
+		.groupBy(regulatoryCodes.id)
+		.orderBy(asc(regulatoryCodes.jurisdiction));
+
+	return rows;
+}
+
+export async function getCode(slug: string) {
+	const rows = await db
+		.select({
+			id: regulatoryCodes.id,
+			codeNumber: regulatoryCodes.codeNumber,
+			title: regulatoryCodes.title,
+			jurisdiction: regulatoryCodes.jurisdiction,
+			slug: regulatoryCodes.slug
+		})
+		.from(regulatoryCodes)
+		.where(eq(regulatoryCodes.slug, slug))
+		.limit(1);
+
+	return rows[0] ?? null;
+}
+
+export async function getTitlesByCode(codeId: string) {
+	const titleRows = await db
+		.select({
+			id: regulationTitles.id,
+			titleNumber: regulationTitles.titleNumber,
+			title: regulationTitles.title,
+			description: regulationTitles.description,
+			slug: regulationTitles.slug,
+			sortOrder: regulationTitles.sortOrder,
+			sectionCount: count(sections.id)
+		})
+		.from(regulationTitles)
+		.leftJoin(sections, eq(sections.titleId, regulationTitles.id))
+		.where(eq(regulationTitles.codeId, codeId))
+		.groupBy(regulationTitles.id)
+		.orderBy(asc(regulationTitles.sortOrder));
+
+	return titleRows;
+}
+
+export async function getNavigationTree() {
+	const codes = await db
+		.select({
+			id: regulatoryCodes.id,
+			codeNumber: regulatoryCodes.codeNumber,
+			title: regulatoryCodes.title,
+			jurisdiction: regulatoryCodes.jurisdiction,
+			slug: regulatoryCodes.slug
+		})
+		.from(regulatoryCodes)
+		.orderBy(asc(regulatoryCodes.jurisdiction));
+
+	const titles = await db
+		.select({
+			id: regulationTitles.id,
+			codeId: regulationTitles.codeId,
+			titleNumber: regulationTitles.titleNumber,
+			title: regulationTitles.title,
+			slug: regulationTitles.slug,
+			sortOrder: regulationTitles.sortOrder,
+			sectionCount: count(sections.id)
+		})
+		.from(regulationTitles)
+		.leftJoin(sections, eq(sections.titleId, regulationTitles.id))
+		.groupBy(regulationTitles.id)
+		.orderBy(asc(regulationTitles.sortOrder));
+
+	return codes.map((code) => ({
+		...code,
+		titles: titles
+			.filter((t) => t.codeId === code.id)
+			.map(({ codeId, ...rest }) => rest)
+	}));
 }
 
 export async function getAdjacentSections(titleId: string, sortOrder: number) {

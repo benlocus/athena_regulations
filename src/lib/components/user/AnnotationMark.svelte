@@ -11,14 +11,15 @@
 	let { color = 'yellow', annotationId, onClick, children }: Props = $props();
 
 	const colorMap: Record<string, string> = {
-		yellow: 'bg-highlight-yellow/60 hover:bg-highlight-yellow',
-		blue: 'bg-highlight-blue/60 hover:bg-highlight-blue',
-		green: 'bg-highlight-green/60 hover:bg-highlight-green',
-		pink: 'bg-highlight-pink/60 hover:bg-highlight-pink'
+		yellow: 'bg-highlight-yellow/50 hover:bg-highlight-yellow/80',
+		blue: 'bg-highlight-blue/50 hover:bg-highlight-blue/80',
+		green: 'bg-highlight-green/50 hover:bg-highlight-green/80',
+		pink: 'bg-highlight-pink/50 hover:bg-highlight-pink/80'
 	};
 </script>
 
 <mark
+	data-annotation-id={annotationId}
 	role="button"
 	tabindex="0"
 	class={cn(

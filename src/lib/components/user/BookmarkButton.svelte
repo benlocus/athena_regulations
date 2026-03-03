@@ -57,8 +57,8 @@
 	class={cn(
 		'inline-flex items-center justify-center p-1.5 transition-colors',
 		bookmarked
-			? 'text-red hover:text-red'
-			: 'text-medium-gray hover:text-red',
+			? 'text-destructive hover:text-destructive'
+			: 'text-muted-foreground hover:text-destructive',
 		loading && 'opacity-50',
 		className
 	)}

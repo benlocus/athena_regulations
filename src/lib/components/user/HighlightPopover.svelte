@@ -25,10 +25,10 @@
 	let color = $state('yellow');
 
 	const colors = [
-		{ value: 'yellow', label: 'Yellow', class: 'bg-highlight-yellow' },
-		{ value: 'blue', label: 'Blue', class: 'bg-highlight-blue' },
-		{ value: 'green', label: 'Green', class: 'bg-highlight-green' },
-		{ value: 'pink', label: 'Pink', class: 'bg-highlight-pink' }
+		{ value: 'yellow', label: 'Yellow', bg: '#fef9c3', active: '#f5d75e' },
+		{ value: 'blue', label: 'Blue', bg: '#dbeafe', active: '#93c5fd' },
+		{ value: 'green', label: 'Green', bg: '#dcfce7', active: '#86efac' },
+		{ value: 'pink', label: 'Pink', bg: '#fce7f3', active: '#f9a8d4' }
 	];
 
 	function handleSubmit(e: Event) {
@@ -62,23 +62,24 @@
 
 <!-- Popover -->
 <div
-	class="fixed z-50 w-72 border border-border-gray bg-white shadow-lg"
+	class="fixed z-50 w-[17rem] border border-border bg-background shadow-[0_4px_16px_rgba(0,0,0,0.08)]"
 	style="top: {position.top}px; left: {position.left}px;"
 >
-	<div class="border-b border-border-gray px-3 py-2">
-		<p class="text-xs italic text-medium-gray line-clamp-2">"{selectedText}"</p>
+	<!-- Selected text preview -->
+	<div class="border-b border-border bg-muted/60 px-3 py-2">
+		<p class="text-[0.7rem] italic leading-relaxed text-muted-foreground line-clamp-2">"{selectedText}"</p>
 	</div>
 
-	<form onsubmit={handleSubmit} class="p-3">
+	<form onsubmit={handleSubmit} class="p-2.5">
 		<textarea
 			bind:value={content}
 			rows={2}
-			placeholder="Add a comment (optional)..."
-			class="w-full resize-none border border-border-gray bg-light-gray px-3 py-2 text-sm text-dark-gray placeholder:text-medium-gray focus:border-dark-gray focus:ring-0 focus:outline-none"
+			placeholder="Add a note (optional)..."
+			class="w-full resize-none border border-border bg-muted/40 px-2.5 py-1.5 text-xs text-foreground placeholder:text-muted-foreground focus:border-foreground/30 focus:bg-background focus:ring-0 focus:outline-none transition-colors"
 		></textarea>
 
 		<div class="mt-2 flex items-center justify-between">
-			<div class="flex gap-1.5" role="radiogroup" aria-label="Highlight color">
+			<div class="flex gap-1" role="radiogroup" aria-label="Highlight color">
 				{#each colors as c (c.value)}
 					<button
 						type="button"
@@ -87,25 +88,25 @@
 						aria-label={c.label}
 						onclick={() => (color = c.value)}
 						class={cn(
-							'h-5 w-5 rounded-full border-2 transition-transform',
-							c.class,
-							color === c.value ? 'scale-110 border-ink' : 'border-transparent'
+							'h-4 w-4 rounded-full border transition-all duration-100',
+							color === c.value ? 'scale-125 border-foreground/40' : 'border-transparent opacity-70 hover:opacity-100'
 						)}
+						style="background-color: {color === c.value ? c.active : c.bg};"
 					></button>
 				{/each}
 			</div>
 
-			<div class="flex gap-2">
+			<div class="flex items-center gap-1.5">
 				<button
 					type="button"
 					onclick={onCancel}
-					class="px-2.5 py-1 text-xs font-medium text-medium-gray transition-colors hover:text-dark-gray"
+					class="px-2 py-1 text-[0.6875rem] font-medium text-muted-foreground transition-colors hover:text-foreground"
 				>
 					Cancel
 				</button>
 				<button
 					type="submit"
-					class="bg-red px-2.5 py-1 text-xs font-medium text-white transition-colors hover:bg-ink"
+					class="bg-destructive px-2.5 py-1 text-[0.6875rem] font-medium text-destructive-foreground transition-colors hover:bg-destructive/90"
 				>
 					Highlight
 				</button>

@@ -36,21 +36,22 @@
 		return map;
 	});
 
-	// Use a reactive wrapper so children can read updated values
-	let mapRef = $derived({ current: annotationsMap });
-	setContext('annotations-map', mapRef);
+	// Use a getter so children reactively track annotation changes
+	setContext('annotations-map', {
+		get current() { return annotationsMap; }
+	});
 	setContext('on-highlight-click', onHighlightClick);
 </script>
 
 <article class="mx-auto max-w-none">
-	<header class="mb-12 pb-5">
-		<p class="font-precision text-[0.625rem] text-medium-gray uppercase tracking-[0.25em]">{sectionNumber}</p>
-		<h1 class="mt-1.5 font-authority text-[1.75rem] font-bold leading-tight text-ink lg:text-[2.25rem] pb-2 border-b-2 border-red">
+	<header class="mb-10 pb-6 border-b border-border">
+		<p class="font-mono text-[0.625rem] uppercase tracking-[0.2em] text-destructive/70 mb-1.5">{sectionNumber}</p>
+		<h1 class="font-serif text-[1.625rem] font-bold leading-[1.25] text-foreground lg:text-[1.875rem]">
 			{heading}
 		</h1>
 		{#if isRepealed}
-			<div class="mt-3 inline-flex items-center gap-1.5 border-l-2 border-red/30 bg-light-gray px-4 py-2 text-sm font-medium text-medium-gray">
-				<svg class="h-4 w-4" viewBox="0 0 16 16" fill="none">
+			<div class="mt-4 inline-flex items-center gap-2 bg-muted border border-border px-3 py-1.5 text-xs font-medium text-muted-foreground">
+				<svg class="h-3.5 w-3.5 shrink-0" viewBox="0 0 16 16" fill="none">
 					<circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.5" />
 					<path d="M4 12L12 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
 				</svg>
@@ -59,7 +60,7 @@
 		{/if}
 	</header>
 
-	<div class="regulation-content max-w-[65ch]">
+	<div class="regulation-content">
 		{#each contentTree as node}
 			<ContentNode {node} {titleSlug} {refMap} />
 		{/each}

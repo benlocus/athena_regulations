@@ -26,7 +26,7 @@
 <!-- Mobile overlay -->
 {#if open}
 	<div
-		class="fixed inset-0 z-40 bg-ink/40 lg:hidden"
+		class="fixed inset-0 z-40 bg-foreground/30 lg:hidden"
 		role="button"
 		tabindex="-1"
 		onclick={closeSidebar}
@@ -35,11 +35,13 @@
 {/if}
 
 <aside
-	class="fixed top-16 left-0 z-40 h-[calc(100vh-4rem)] w-72 shrink-0 overflow-y-auto border-r border-border-gray bg-white transition-transform lg:sticky lg:translate-x-0 {open ? 'translate-x-0' : '-translate-x-full'}"
+	class="fixed top-12 left-0 z-40 h-[calc(100vh-3rem)] w-60 shrink-0 overflow-y-auto border-r border-border bg-sidebar transition-transform lg:sticky lg:translate-x-0 {open ? 'translate-x-0' : '-translate-x-full'}"
 >
-	<nav class="p-4">
-		<h2 class="mb-3 font-precision text-[0.625rem] uppercase tracking-[0.2em] text-medium-gray">Sections</h2>
-		<ul class="space-y-0.5">
+	<nav class="py-3">
+		<div class="px-4 pb-2">
+			<h2 class="font-mono text-[0.5625rem] uppercase tracking-[0.18em] text-muted-foreground">Sections</h2>
+		</div>
+		<ul>
 			{#each sections as section}
 				{@const href = `/regulations/${titleSlug}/${section.slug}`}
 				{@const isActive = $page.url.pathname === href}
@@ -47,12 +49,12 @@
 					<a
 						{href}
 						onclick={closeSidebar}
-						class="block px-3 py-2 text-sm transition-colors {isActive
-							? 'border-l-2 border-red pl-3 font-medium text-ink bg-red/[0.03]'
-							: 'pl-3 text-medium-gray hover:bg-light-gray hover:text-dark-gray hover:border-l-2 hover:border-red/20'} {section.isRepealed ? 'line-through opacity-60' : ''}"
+						class="group flex items-baseline gap-2 px-4 py-1.5 text-xs transition-colors duration-100 {isActive
+							? 'bg-destructive/[0.05] border-l-2 border-destructive pl-[14px] text-foreground'
+							: 'border-l-2 border-transparent pl-[14px] text-muted-foreground hover:text-foreground hover:bg-muted/60'} {section.isRepealed ? 'opacity-50' : ''}"
 					>
-						<span class="font-precision text-xs {isActive ? 'text-red/60' : 'text-medium-gray'}">{section.sectionNumber}</span>
-						<span class="ml-1.5">{section.heading}</span>
+						<span class="shrink-0 font-mono text-[0.6rem] tabular-nums {isActive ? 'text-destructive' : 'text-muted-foreground/60 group-hover:text-muted-foreground'} transition-colors">{section.sectionNumber}</span>
+						<span class="leading-snug {section.isRepealed ? 'line-through' : ''} {isActive ? 'font-medium' : ''}">{section.heading}</span>
 					</a>
 				</li>
 			{/each}

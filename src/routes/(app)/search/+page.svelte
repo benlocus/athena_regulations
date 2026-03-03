@@ -27,18 +27,18 @@
 				{#if data.page > 1}
 					<a
 						href="/search?q={encodeURIComponent(data.query)}&page={data.page - 1}"
-						class="border border-border-gray bg-white px-4 py-2 text-sm font-medium text-dark-gray transition-colors hover:bg-light-gray"
+						class="border border-border bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-muted"
 					>
 						Previous
 					</a>
 				{/if}
-				<span class="px-3 text-sm text-medium-gray">
+				<span class="px-3 text-sm text-muted-foreground">
 					Page {data.page} of {totalPages}
 				</span>
 				{#if data.page < totalPages}
 					<a
 						href="/search?q={encodeURIComponent(data.query)}&page={data.page + 1}"
-						class="border border-border-gray bg-white px-4 py-2 text-sm font-medium text-dark-gray transition-colors hover:bg-light-gray"
+						class="border border-border bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-muted"
 					>
 						Next
 					</a>
@@ -47,12 +47,12 @@
 		{/if}
 	{:else}
 		<div class="py-16 text-center">
-			<svg class="mx-auto h-16 w-16 text-medium-gray/30" viewBox="0 0 24 24" fill="none">
+			<svg class="mx-auto h-16 w-16 text-muted-foreground/30" viewBox="0 0 24 24" fill="none">
 				<circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="1.5" />
 				<path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
 			</svg>
-			<h1 class="mt-4 font-authority text-2xl font-bold text-ink">Search Regulations</h1>
-			<p class="mt-2 text-medium-gray">Enter a search term to find relevant regulation sections.</p>
+			<h1 class="mt-4 font-serif text-2xl font-bold text-foreground">Search Regulations</h1>
+			<p class="mt-2 text-muted-foreground">Enter a search term to find relevant regulation sections.</p>
 		</div>
 	{/if}
 </div>

@@ -5,9 +5,8 @@
 	import SectionNav from '$lib/components/regulation/SectionNav.svelte';
 	import BookmarkButton from '$lib/components/user/BookmarkButton.svelte';
 	import AnnotationPanel from '$lib/components/user/AnnotationPanel.svelte';
-	import HighlightPopover from '$lib/components/user/HighlightPopover.svelte';
 	import MarginComments from '$lib/components/user/MarginComments.svelte';
-	import { getSelectionInfo, type SelectionInfo } from '$lib/utils/selection';
+	import SelectionContextMenu from '$lib/components/user/SelectionContextMenu.svelte';
 	import type { Annotation } from '$lib/types';
 
 	let { data } = $props();
@@ -17,45 +16,38 @@
 	let localEdits = $state<typeof serverAnnotations | null>(null);
 	let localAnnotations = $derived(localEdits ?? serverAnnotations);
 
-	// Selection / popover state
-	let selectionInfo = $state<SelectionInfo | null>(null);
-	let popoverPosition = $state<{ top: number; left: number } | null>(null);
 	let contentEl = $state<HTMLElement | null>(null);
 
 	// Active annotation (clicked highlight or margin comment)
 	let activeAnnotationId = $state<string | null>(null);
 
+	// Highlight position measurement for margin comments
+	let highlightPositions = $state<Map<string, number>>(new Map());
+	let gridEl = $state<HTMLElement | null>(null);
+
+	$effect(() => {
+		localAnnotations; // dependency
+		requestAnimationFrame(() => {
+			if (!contentEl || !gridEl) return;
+			const gridRect = gridEl.getBoundingClientRect();
+			const positions = new Map<string, number>();
+			const marks = contentEl.querySelectorAll('mark[data-annotation-id]');
+			for (const mark of marks) {
+				const id = mark.getAttribute('data-annotation-id');
+				if (id && !positions.has(id)) {
+					positions.set(id, mark.getBoundingClientRect().top - gridRect.top);
+				}
+			}
+			highlightPositions = positions;
+		});
+	});
+
 	// Reset local edits when server data changes (navigation)
 	$effect(() => {
 		serverAnnotations;
 		localEdits = null;
-		selectionInfo = null;
-		popoverPosition = null;
 		activeAnnotationId = null;
 	});
-
-	function handlePointerUp() {
-		if (!contentEl || !data.session) return;
-
-		// Small delay to let the selection finalize
-		requestAnimationFrame(() => {
-			const info = getSelectionInfo(contentEl!);
-			if (info) {
-				selectionInfo = info;
-				// Position popover below the selection (fixed positioning = viewport coords)
-				popoverPosition = {
-					top: info.rect.bottom + 8,
-					left: Math.max(16, Math.min(info.rect.left, window.innerWidth - 304))
-				};
-			}
-		});
-	}
-
-	function cancelPopover() {
-		selectionInfo = null;
-		popoverPosition = null;
-		window.getSelection()?.removeAllRanges();
-	}
 
 	async function handleHighlightSave(saveData: {
 		nodeId: string;
@@ -82,7 +74,7 @@
 			const { data: created } = await res.json();
 			localEdits = [...localAnnotations, created];
 		}
-		cancelPopover();
+		window.getSelection()?.removeAllRanges();
 	}
 
 	async function handleAnnotationSave(saveData: { content: string; color: string; id?: string }) {
@@ -171,23 +163,32 @@
 		]}
 	/>
 
-	{#if data.session}
-		<div class="mb-4 flex items-center gap-2">
+	<div class="mb-5 flex items-center gap-3 border-b border-border pb-4">
+		{#if data.session}
 			<BookmarkButton sectionId={data.section.id} isBookmarked={data.isBookmarked} />
 			<button
 				onclick={() => (annotationPanelOpen = true)}
-				class="text-sm text-medium-gray transition-colors hover:text-ink"
+				class="flex items-center gap-1.5 font-mono text-[0.6875rem] text-muted-foreground transition-colors hover:text-foreground"
 			>
-				Notes ({localAnnotations.length})
+				<svg class="h-3.5 w-3.5" viewBox="0 0 16 16" fill="none">
+					<path d="M3 4h10M3 7h7M3 10h5" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" />
+				</svg>
+				Notes{#if localAnnotations.length > 0}&nbsp;({localAnnotations.length}){/if}
 			</button>
-		</div>
-	{/if}
+		{:else}
+			<a href="/login" class="flex items-center gap-1.5 font-mono text-[0.6875rem] text-muted-foreground transition-colors hover:text-destructive">
+				<svg class="h-3.5 w-3.5" viewBox="0 0 16 16" fill="none">
+					<path d="M8 2a4 4 0 100 8 4 4 0 000-8zM2 14c0-2.2 2.7-4 6-4s6 1.8 6 4" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" />
+				</svg>
+				Sign in to bookmark &amp; annotate
+			</a>
+		{/if}
+	</div>
 
 	<!-- Grid: content + margin comments on large screens -->
-	<div class="lg:grid lg:grid-cols-[minmax(0,65ch)_240px] lg:gap-6">
+	<div bind:this={gridEl} class="lg:grid lg:grid-cols-[minmax(0,65ch)_220px] lg:gap-8">
 		<!-- Content column -->
-		<!-- svelte-ignore a11y_no_static_element_interactions -->
-		<div bind:this={contentEl} onpointerup={handlePointerUp}>
+		<div bind:this={contentEl}>
 			<SectionDetail
 				sectionNumber={data.section.sectionNumber}
 				heading={data.section.heading}
@@ -210,41 +211,38 @@
 
 		<!-- Margin comments column (desktop only) -->
 		{#if data.session}
-			<aside class="hidden lg:block">
-				<div class="sticky top-24">
-					<MarginComments
-						annotations={localAnnotations}
-						currentUserId={data.session?.user?.id}
-						{activeAnnotationId}
-						onClickHighlight={handleMarginClickHighlight}
-						onEdit={handleMarginEdit}
-						onDelete={handleAnnotationDelete}
-					/>
-				</div>
+			<aside class="hidden lg:block relative">
+				<MarginComments
+					annotations={localAnnotations}
+					currentUserId={data.session?.id}
+					{activeAnnotationId}
+					{highlightPositions}
+					onClickHighlight={handleMarginClickHighlight}
+					onEdit={handleMarginEdit}
+					onDelete={handleAnnotationDelete}
+				/>
 			</aside>
 		{/if}
 	</div>
 </div>
 
-<!-- Highlight popover -->
-{#if selectionInfo && popoverPosition && data.session}
-	<HighlightPopover
-		position={popoverPosition}
-		selectedText={selectionInfo.selectedText}
-		nodeId={selectionInfo.nodeId}
-		startOffset={selectionInfo.startOffset}
-		endOffset={selectionInfo.endOffset}
-		onSave={handleHighlightSave}
-		onCancel={cancelPopover}
-	/>
-{/if}
+<!-- Context menu (right-click on selection) — always available, auth-required actions redirect to login -->
+<SelectionContextMenu
+	{contentEl}
+	codeNumber={data.title.codeNumber}
+	sectionNumber={data.section.sectionNumber}
+	isAuthenticated={!!data.session}
+	onHighlightSave={handleHighlightSave}
+	onOpenNotes={() => { annotationPanelOpen = true; }}
+	onDismissPopover={() => { window.getSelection()?.removeAllRanges(); }}
+/>
 
 {#if data.session}
 	<AnnotationPanel
 		open={annotationPanelOpen}
 		sectionId={data.section.id}
 		annotations={localAnnotations}
-		currentUserId={data.session?.user?.id}
+		currentUserId={data.session?.id}
 		editingId={activeAnnotationId}
 		onClose={() => { annotationPanelOpen = false; activeAnnotationId = null; }}
 		onSave={handleAnnotationSave}

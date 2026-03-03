@@ -4,7 +4,7 @@
 
 <a
 	{href}
-	class="font-precision text-[0.8rem] text-red underline decoration-red/30 underline-offset-2 hover:decoration-red hover:text-ink transition-colors"
+	class="font-mono text-[0.8em] text-destructive underline decoration-destructive/25 underline-offset-[3px] hover:decoration-destructive transition-colors duration-100 whitespace-nowrap"
 >
 	{citation}
 </a>

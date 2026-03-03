@@ -15,7 +15,7 @@
 
 <form onsubmit={handleSubmit} class="relative">
 	<svg
-		class="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-medium-gray"
+		class="pointer-events-none absolute left-3 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-muted-foreground"
 		viewBox="0 0 16 16"
 		fill="none"
 	>
@@ -26,6 +26,6 @@
 		type="search"
 		bind:value={query}
 		placeholder="Search regulations..."
-		class="w-full border border-border-gray bg-light-gray py-2 pr-3 pl-9 text-sm text-dark-gray placeholder-medium-gray transition-colors focus:border-red/40 focus:bg-white focus:outline-none"
+		class="h-7 w-full border border-border bg-muted py-1 pr-3 pl-9 text-xs text-foreground placeholder-muted-foreground transition-colors focus:border-destructive/40 focus:bg-background focus:outline-none"
 	/>
 </form>

@@ -10,8 +10,14 @@ import { listAnnotationsForSection } from '$lib/server/services/annotations';
 import { error } from '@sveltejs/kit';
 
 export const load: PageServerLoad = async ({ params, parent, locals }) => {
-	const { title } = await parent();
+	const parentData = await parent();
 
+	// Section pages only work under title routes
+	if (parentData.kind !== 'title') {
+		error(404, 'Section not found');
+	}
+
+	const { title } = parentData;
 	const section = await getSection(title.id, params.sectionSlug);
 
 	if (!section) {

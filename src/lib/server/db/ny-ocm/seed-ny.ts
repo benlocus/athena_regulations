@@ -30,7 +30,8 @@ async function seedNY() {
 			.values({
 				codeNumber: CODE_NUMBER,
 				title: 'Office of Cannabis Management Regulations',
-				jurisdiction: 'New York'
+				jurisdiction: 'New York',
+				slug: '9-nycrr'
 			})
 			.returning();
 		console.log('📝 Created regulatory code: 9 NYCRR');

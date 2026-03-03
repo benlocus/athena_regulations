@@ -37,6 +37,22 @@ export type RegulatoryCode = {
 	codeNumber: string;
 	title: string;
 	jurisdiction: string;
+	slug: string;
+};
+
+export type NavigationCode = {
+	id: string;
+	codeNumber: string;
+	title: string;
+	jurisdiction: string;
+	slug: string;
+	titles: {
+		id: string;
+		titleNumber: string;
+		title: string;
+		slug: string;
+		sectionCount: number;
+	}[];
 };
 
 export type CrossReference = {
